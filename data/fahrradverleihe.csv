@@ -1,0 +1,25 @@
+name,street,zip,latitude,longitude,hasEbikes,hasDelivery
+2-Rad Hansen,Gildenstraße 24 a,48157,51.9781063,7.7096476,True,False
+ADFC-Radstation Münster Arkaden,Königsstr. 7,48143,51.9599112,7.62632,False,False
+Café Gut Kinderhaus,Am Max-Klemens-Kanal 19,48159,52.0052829,7.6104784,True,False
+Drahtesel,Servatiiplatz 7,48143,51.96015773493979,7.634446620941162,True,False
+e-motion,Weseler Straße 61,48151,51.952670055041544,7.619422981508572,True,False
+Fahrradfachgeschäft Kainz,Toppheideweg 15,48161,51.9749183,7.5698351,False,False
+Fahrrad Look,Dingbängerweg 249,48161,51.9416349,7.5699574,True,False
+Fahrrad XXL HÜRTER,Hammer Str. 420,48153,51.9241489,7.6294346,True,False
+GT Bike,Geiststrasse 68,48151,51.94795,7.621786,False,False
+Hölscher Zweirad-Fahrzeuge,Marktallee 8-10,48165,51.9027106,7.6391608,True,False
+Landhaus Eggert,Zur Haskenau 81,48157,52.0160058,7.6904168,False,False
+Lasse - Dein Lastenrad für Münster,,48155,51.954578885067235,7.641898006837029,False,False
+Leezen Heroes,,48159,51.957362512794894,7.634093993651874,False,True
+Lucky Bike Münster Nord,Königsberger Str. 264,48157,51.99327921527769,7.66470193862915,True,False
+Lucky Bike Münster Süd,Robert-Bosch-Straße 2,48153,51.934024796451844,7.63163434135754,True,False
+Mc Radl,Ostmarkstraße 79,48145,51.9680964,7.6535097,False,False
+MünsterlandRad Fahrradverleih,Homannstraße 64,48167,51.9234054,7.6955812,True,True
+Radlager Münster,Stubengasse 1,48143,51.960185832567,7.629060745239258,False,False
+Radstation Münster Hauptbahnhof,Berliner Platz 27 a,48143,51.95629001114404,7.634103298187256,True,False
+Radzone,Steinfurter Str. 116,48149,51.9750313,7.6042445,False,False
+TRAIX CYCLES,Dortmunder Str. 1,48155,51.9562755,7.6424043,True,False
+Velotec Store Münster,Osttor 55,48165,51.9059215,7.6644139,True,False
+Zweirad Weigang,Grevener Straße 434,48159,51.9963881,7.6134417,True,False
+Zweirad Wiesmann Münster,Hohe Geest 8,48165,51.904857,7.641602,True,False
