@@ -32,12 +32,14 @@ with open(outfile, mode='w') as csv_file:
     writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
     writer.writeheader()
     for verleih in data['data']:
-        if verleih['cityName'] == "Münster":
+        if (verleih['cityName'] == "Münster") and verleih["isPrivate"] == False:
             del verleih["email"]
             del verleih["cityName"]
             del verleih["additionalInfo"]
             del verleih["phone"]
             del verleih["website"]
+            del verleih["isPrivate"]
+            del verleih["thumbnailUrl"]
             del verleih["id"]
             print('Name: ' + verleih['name'])
             writer.writerow(verleih)
