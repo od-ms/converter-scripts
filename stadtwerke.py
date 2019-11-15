@@ -21,12 +21,13 @@ def writeEntries(csv_file, category, headlines):
     #    print(type(data['poiCategory1']['items']))
     for key, item in data[category]['items'].items():
         # pprint(item)
-        writer.writerow([
-            item['id'],
-            item['name'],
-            item['center'][0] if 'center' in item else '',
-            item['center'][1] if 'center' in item else ''
-        ])
+        if 'center' in item:
+            writer.writerow([
+                item['id'],
+                item['name'],
+                item['center'][1] if 'center' in item else '',
+                item['center'][0] if 'center' in item else ''
+            ])
 
 
 outfile = path + 'haltestellen_barrierefrei.csv'
