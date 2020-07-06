@@ -20,19 +20,27 @@ path = 'data/'
 
 # --- Debug command ---
 # print(htmlPage)
-
-pattern = '<li><strong>([SK][^:]+)[^<]*<\/strong>[^<]*[aA]ktuell Infizierte\s*-?([\d.]+)[^<]*Infizierte\s*([\d.]+)[^,]+,\s*Verstorbene\s*([\d.]+)[^,]+,\s*Genesene\s*([\d.]+)';
+numPat = '[^(]*\((-?[\d.]+)\)'
+pattern = '<li><strong>([SK][^:]+)[^<]*<\/strong>[^<]*[aA]ktuell Infizierte\s*-?([\d.]+)'+numPat+'[^<]*Infizierte\s*([\d.]+)'+numPat+'[^,]*,\s*Verstorbene\s*([\d.]+)'+numPat+'[^,]*,\s*Genesene\s*([\d.]+)'+numPat;
 result = re.findall(pattern, htmlPage.replace('&uuml;', 'ü')) 
 print(result)
 
 today = datetime.date.today()
 mydate = today.strftime('%d.%m.%Y')
 
-outfile = path + 'covid19.csv'
+outfile = path + 'covid191.csv'
 with open(outfile, mode='w') as csv_file:
     writer = csv.writer(csv_file, dialect='excel')
     for item in result:
-        writer.writerow([item[0], mydate, item[2].replace('.',''), item[4].replace('.',''), item[3].replace('.','')])
+        writer.writerow([item[0], mydate, item[3].replace('.',''), item[7].replace('.',''), item[5].replace('.','')])
+
+today = datetime.date.today() - datetime.timedelta(days=1)
+mydate = today.strftime('%d.%m.%Y')
+outfile = path + 'covid192.csv'
+with open(outfile, mode='w') as csv_file:
+    writer = csv.writer(csv_file, dialect='excel')
+    for item in result:
+        writer.writerow([item[0], mydate, item[4].replace('.',''), item[8].replace('.',''), item[6].replace('.','')])
 
 print()
 print("Wrote file:", outfile)
