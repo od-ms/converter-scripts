@@ -21,7 +21,7 @@ path = 'data/'
 # --- Debug command ---
 # print(htmlPage)
 
-pattern = '<li><strong>([SK][^:]+)[^<]*<\/strong>[^<]*Aktuell Infizierte\s*([\d.]+)[^<]*Infizierte\s*([\d.]+)[^,]+,\s*Verstorbene\s*([\d.]+)[^,]+,\s*Genesene\s*([\d.]+)'
+pattern = '<li><strong>([SK][^:]+)[^<]*<\/strong>[^<]*[aA]ktuell Infizierte\s*-?([\d.]+)[^<]*Infizierte\s*([\d.]+)[^,]+,\s*Verstorbene\s*([\d.]+)[^,]+,\s*Genesene\s*([\d.]+)';
 result = re.findall(pattern, htmlPage.replace('&uuml;', 'ü')) 
 print(result)
 
