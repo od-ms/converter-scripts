@@ -13,6 +13,7 @@ import datetime
 from urllib.request import urlopen
 import pprint
 import re
+import sys
 
 # CONFIG
 PATH_TO_OTHER_REPO = '../resources/'
@@ -26,6 +27,7 @@ TEMPFILE = 'temp-covid.csv'
 # Read website
 print()
 print(' -- COVID PARSER ' + str(datetime.datetime.now()) + '--')
+print("Command line arguments:", len(sys.argv), str(sys.argv))
 print("Data website url:", URL)
 f = urlopen(URL)
 htmlPage = f.read().decode('utf-8')
@@ -76,18 +78,21 @@ if newest_entry < today:
         for item in result:
             writer.writerow([item[0], mydate, item[3].replace('.', ''), item[7].replace('.', ''), item[5].replace('.', '')])
 
-yesterday = today - datetime.timedelta(days=1)
-if newest_entry < yesterday:
-    # Write yesterdays covid numbers
-    print("Adding data:", yesterday)
-    with open(TEMPFILE, mode='a') as csv_file:
-        mydate = yesterday.strftime('%d.%m.%Y')
-        writer = csv.writer(csv_file, dialect='excel')
-        for item in result:
-            writer.writerow([item[0], mydate, item[4].replace('.', ''), item[8].replace('.', ''), item[6].replace('.', '')])
+if len(sys.argv) > 1:
+    print("Command line argument found. Also checking yesterdays data.")
+    yesterday = today - datetime.timedelta(days=1)
+    if newest_entry < yesterday:
+        # Write yesterdays covid numbers
+        print("Adding data:", yesterday)
+        with open(TEMPFILE, mode='a') as csv_file:
+            mydate = yesterday.strftime('%d.%m.%Y')
+            writer = csv.writer(csv_file, dialect='excel')
+            for item in result:
+                writer.writerow([item[0], mydate, item[4].replace('.', ''), item[8].replace('.', ''), item[6].replace('.', '')])
+else: 
+    print("No command line argument found. Only reading data of today.")
 
-os.system('tail +2 ' + DATAFILE + ' >> ' + TEMPFILE)
-
+os.system('tail -n +2 ' + DATAFILE + ' >> ' + TEMPFILE)
 
 print("Wrote tempfile:", TEMPFILE)
 print("Replacing datafile:", DATAFILE)
