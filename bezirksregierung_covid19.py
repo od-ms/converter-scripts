@@ -31,7 +31,7 @@ f = urlopen(URL)
 htmlPage = f.read().decode('utf-8')
 
 # Read data file
-datepattern = r'([0-9]{1,2})\.([0-9]{1,2})\.([0-9]{4})'
+datepattern = r'([0-9]{1,2})\.+([0-9]{1,2})\.+([0-9]{4})'
 firstline = ''
 with open(DATAFILE) as datafile:
     firstline = datafile.readline()
@@ -76,7 +76,7 @@ if newest_entry < today:
         for item in result:
             writer.writerow([item[0], mydate, item[3].replace('.', ''), item[7].replace('.', ''), item[5].replace('.', '')])
 
-yesterday = datetime.datetime.now() - datetime.timedelta(days=1)
+yesterday = today - datetime.timedelta(days=1)
 if newest_entry < yesterday:
     # Write yesterdays covid numbers
     print("Adding data:", yesterday)
