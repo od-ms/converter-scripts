@@ -33,7 +33,7 @@ f = urlopen(URL)
 htmlPage = f.read().decode('utf-8')
 
 # Read data file
-datepattern = r'([0-9]{1,2})\.+([0-9]{1,2})\.+([0-9]{4})'
+datepattern = r'([0-9]{1,2})[^0-9]*([0-9]{1,2})\.+([0-9]{4})'
 firstline = ''
 with open(DATAFILE) as datafile:
     firstline = datafile.readline()
@@ -43,7 +43,7 @@ with open(DATAFILE) as datafile:
 print("Latest entry in datafile:", newest_entry)
 
 
-# --- This is the HTML that we want to parse -- 
+# --- This is the HTML that we want to parse --
 # <li><strong>Stadt Bottrop: </strong>Aktuell Infizierte 0 (1),&nbsp;Infizierte 211 (211), Verstorbene 7 (7), Genesene 204 (203)</li>
 # <li><strong>Kreis Borken:</strong>&nbsp;Aktuell Infizierte 5 (7), Infizierte 1.111 (1.111), Verstorbene 38 (38), Genesene 1.068 (1.066)</li>
 # <li><strong>Kreis Coesfeld:</strong>&nbsp;Aktuell Infizierte 4 (5), Infizierte 871 (871), Verstorbene 24 (24), Genesene 843 (842)</li>
@@ -57,7 +57,7 @@ print("Latest entry on website:", today)
 
 # Parse COVID-19 numbers
 numPat = r'[^(]*\((-?[\d.]+)\)'
-pattern = r'<li><strong>([SK][^:]+)[^<]*<\/strong>[^<]*[aA]ktuell Infizierte\s*-?([\d.]+)' + numPat+ r'[^<]*Infizierte\s*([\d.]+)'+numPat+r'[^,]*,\s*Verstorbene\s*([\d.]+)'+numPat+r'[^,]*,\s*Genesene\s*([\d.]+)'+numPat
+pattern = r'<li><strong>[^SK]*([SK][a-zA-ZäöüÄÖÜ\s]+)[^<]*<\/strong>[^aA]*[aA]ktuell Infizierte\s*-?([\d.]+)' + numPat+ r'[^<]*Infizierte\s*([\d.]+)'+numPat+r'[^,]*,\s*Verstorbene\s*([\d.]+)'+numPat+r'[^,]*,\s*Genesene\s*([\d.]+)'+numPat
 result = re.findall(pattern, htmlPage.replace('&uuml;', 'ü'))
 print("Parsed data from website:")
 pp = pprint.PrettyPrinter(width=160)
@@ -89,7 +89,7 @@ if len(sys.argv) > 1:
             writer = csv.writer(csv_file, dialect='excel')
             for item in result:
                 writer.writerow([item[0], mydate, item[4].replace('.', ''), item[8].replace('.', ''), item[6].replace('.', '')])
-else: 
+else:
     print("No command line argument found. Only reading data of today.")
 
 os.system('tail -n +2 ' + DATAFILE + ' >> ' + TEMPFILE)
