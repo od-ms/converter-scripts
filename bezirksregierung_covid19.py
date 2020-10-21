@@ -57,7 +57,10 @@ print("Latest entry on website:", today)
 
 # Parse COVID-19 numbers
 numPat = r'[^(]*\((-?[\d.]+)\)'
-pattern = r'<li><strong>[^SK]*([SK][a-zA-ZäöüÄÖÜ\s]+)[^<]*<\/strong>[^aA]*[aA]ktuell Infizierte\s*-?([\d.]+)' + numPat+ r'[^<]*Infizierte\s*([\d.]+)'+numPat+r'[^,]*,\s*Verstorbene\s*([\d.]+)'+numPat+r'[^,]*,\s*Genesene\s*([\d.]+)'+numPat
+pattern = r'<li><strong>[^SK]*([SK][a-zA-ZäöüÄÖÜ\s]+)[^<]*<\/strong>[^aA]*[aA]ktuell Infizierte\s*-?([\d.]+)' \
+    + numPat+ r'[^<]*Infizierte\s*([\d.]+)' + numPat \
+    + r'[^,]*,\s*Verstorbene\s*([\d.]+)' + numPat \
+    + r'[^,]*,\s*Genesene\s*([\d.]+)' + numPat
 result = re.findall(pattern, htmlPage.replace('&uuml;', 'ü'))
 print("Parsed data from website:")
 pp = pprint.PrettyPrinter(width=160)
