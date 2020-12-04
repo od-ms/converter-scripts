@@ -33,7 +33,7 @@ f = urlopen(URL)
 htmlPage = f.read().decode('utf-8')
 
 # Read data file
-datepattern = r'([0-9]{1,2})[^0-9]*([0-9]{1,2})\.+([0-9]{4})'
+datepattern = r'([0-9]{1,2})[^0-9]+([0-9]{1,2})[^0-9]+([0-9]{4})'
 firstline = ''
 with open(DATAFILE) as datafile:
     firstline = datafile.readline()
@@ -48,10 +48,12 @@ print("Latest entry in datafile:", newest_entry)
 # <li><strong>Kreis Borken:</strong>&nbsp;Aktuell Infizierte 5 (7), Infizierte 1.111 (1.111), Verstorbene 38 (38), Genesene 1.068 (1.066)</li>
 # <li><strong>Kreis Coesfeld:</strong>&nbsp;Aktuell Infizierte 4 (5), Infizierte 871 (871), Verstorbene 24 (24), Genesene 843 (842)</li>
 
+pp = pprint.PrettyPrinter(width=160)
 
 ### Parse website
 # Find COVID-19 report date
 dateresult = re.findall(r'<strong>Stand:[^0-9]*' + datepattern, htmlPage)
+pp.pprint(dateresult)
 today = datetime.datetime(int(dateresult[0][2]), int(dateresult[0][1]), int(dateresult[0][0]))
 print("Latest entry on website:", today)
 
@@ -63,7 +65,6 @@ pattern = r'<li><strong>[^SK]*([SK][a-zA-ZäöüÄÖÜ\s]+)[^<]*<\/strong>[^aA]*
     + r'[^,]*,\s*Genesene\s*([\d.]+)' + numPat
 result = re.findall(pattern, htmlPage.replace('&uuml;', 'ü'))
 print("Parsed data from website:")
-pp = pprint.PrettyPrinter(width=160)
 pp.pprint(result)
 
 
