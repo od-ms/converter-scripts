@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding=utf-8
 """
-This script automatically parses COVID19-Data from Bezirksregierung Münster Website
+This script automatically parses COVID19-Data from NRW Website
 
 It needs:
     - a locally checked out repository "resources" with covid19 datafile
@@ -10,7 +10,7 @@ It needs:
 import os
 import csv
 import datetime
-from urllib.request import urlopen
+import urllib.request
 import pprint
 import re
 import sys
@@ -20,17 +20,15 @@ PATH_TO_OTHER_REPO = '../resources/'
 FILENAME_IN_OTHER_REPO = 'coronavirus-fallzahlen-regierungsbezirk-muenster.csv'
 
 # Internal config - Dont change below this line
-URL = 'https://www.bezreg-muenster.de/de/im_fokus/uebergreifende_themen/coronavirus/coronavirus_allgemein/index.html'
+URL = 'https://www.lzg.nrw.de/covid19/daten/covid19_karte.csv'
 DATAFILE = PATH_TO_OTHER_REPO + FILENAME_IN_OTHER_REPO
 TEMPFILE = 'temp-covid.csv'
 
-# Read website
 print()
 print(' -- COVID PARSER ' + str(datetime.datetime.now()) + '--')
 print("Command line arguments:", len(sys.argv), str(sys.argv))
 print("Data website url:", URL)
-f = urlopen(URL)
-htmlPage = f.read().decode('utf-8')
+
 
 # Read data file
 datepattern = r'([0-9]{1,2})[^0-9]+([0-9]{1,2})[^0-9]+([0-9]{4})'
@@ -42,30 +40,43 @@ with open(DATAFILE) as datafile:
 
 print("Latest entry in datafile:", newest_entry)
 
+# Kommune 	Datum 	Bestätigte Faelle 	Gesundete 	Todesfaelle
+#Stadt Bottrop 	18.12.2020 	2373 	1900 	18
+# Kreis Borken 	18.12.2020 	5902 	4900 	100
+# Kreis Coesfeld 	18.12.2020 	2556 	2200 	27
+# Stadt Gelsenkirchen 	18.12.2020 	6456 	4900 	57
+# Stadt Münster 	18.12.2020 	3597 	3100 	38
+# Kreis Recklinghausen 	18.12.2020 	13623 	10700 	196
+# Kreis Steinfurt 	18.12.2020 	6278 	5300 	133
+# Kreis Warendorf
 
-# --- This is the HTML that we want to parse --
-# <li><strong>Stadt Bottrop: </strong>Aktuell Infizierte 0 (1),&nbsp;Infizierte 211 (211), Verstorbene 7 (7), Genesene 204 (203)</li>
-# <li><strong>Kreis Borken:</strong>&nbsp;Aktuell Infizierte 5 (7), Infizierte 1.111 (1.111), Verstorbene 38 (38), Genesene 1.068 (1.066)</li>
-# <li><strong>Kreis Coesfeld:</strong>&nbsp;Aktuell Infizierte 4 (5), Infizierte 871 (871), Verstorbene 24 (24), Genesene 843 (842)</li>
+KREISE = {
+    "5515": "Stadt Münster",
+    "5558": "Kreis Coesfeld",
+    "5554": "Kreis Borken",
+    "5512": "Stadt Bottrop",
+    "5513": "Stadt Gelsenkirchen",
+    "5562": "Kreis Recklinghausen",
+    "5566": "Kreis Steinfurt",
+    "5570": "Kreis Warendorf",
+}
 
-pp = pprint.PrettyPrinter(width=160)
+# Read website
+response = urllib.request.urlopen(URL)
+lines = [re.sub(r'[^\x00-\x7F]+','',l.decode('utf-8')) for l in response.readlines()]
+csvreader = csv.DictReader(lines)
 
-### Parse website
-# Find COVID-19 report date
-dateresult = re.findall(r'<strong>Stand:[^0-9]*' + datepattern, htmlPage)
-pp.pprint(dateresult)
-today = datetime.datetime(int(dateresult[0][2]), int(dateresult[0][1]), int(dateresult[0][0]))
-print("Latest entry on website:", today)
-
-# Parse COVID-19 numbers
-numPat = r'[^(]*\((-?[\d.]+)\)'
-pattern = r'<li><strong>[^SK]*([SK][a-zA-ZäöüÄÖÜ\s]+)[^<]*<\/strong>[^aA]*[aA]ktuell Infizierte\s*-?([\d.]+)' \
-    + numPat+ r'[^<]*Infizierte\s*([\d.]+)' + numPat \
-    + r'[^,]*,\s*Verstorbene\s*([\d.]+)' + numPat \
-    + r'[^,]*,\s*Genesene\s*([\d.]+)' + numPat
-result = re.findall(pattern, htmlPage.replace('&uuml;', 'ü'))
-print("Parsed data from website:")
-pp.pprint(result)
+today = None
+result = []
+for row in csvreader:
+    if not today:
+        dateresult = re.findall(datepattern, row['datum'])
+        today = datetime.datetime(int(dateresult[0][2]), int(dateresult[0][1]), int(dateresult[0][0]))
+        print("Latest entry on website:", today)
+    ags = row['kreis']
+    if ags in KREISE:
+        row['kommune'] = KREISE[ags]
+        result.append(row)
 
 
 ### Write result file
@@ -80,21 +91,15 @@ if newest_entry < today:
         mydate = today.strftime('%d.%m.%Y')
         writer = csv.writer(csv_file, dialect='excel')
         for item in result:
-            writer.writerow([item[0], mydate, item[3].replace('.', ''), item[7].replace('.', ''), item[5].replace('.', '')])
+            # Kommune 	Datum 	Bestätigte Faelle 	Gesundete 	Todesfaelle
+            writer.writerow([
+                item['kommune'],
+                item['datum'],
+                item['anzahlMKumuliert'],
+                item['genesenKumuliert'],
+                item['verstorbenKumuliert']
+                ])
 
-if len(sys.argv) > 1:
-    print("Command line argument found. Also checking yesterdays data.")
-    yesterday = today - datetime.timedelta(days=1)
-    if newest_entry < yesterday:
-        # Write yesterdays covid numbers
-        print("Adding data:", yesterday)
-        with open(TEMPFILE, mode='a') as csv_file:
-            mydate = yesterday.strftime('%d.%m.%Y')
-            writer = csv.writer(csv_file, dialect='excel')
-            for item in result:
-                writer.writerow([item[0], mydate, item[4].replace('.', ''), item[8].replace('.', ''), item[6].replace('.', '')])
-else:
-    print("No command line argument found. Only reading data of today.")
 
 os.system('tail -n +2 ' + DATAFILE + ' >> ' + TEMPFILE)
 
