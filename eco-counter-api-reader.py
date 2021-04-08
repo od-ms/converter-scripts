@@ -11,11 +11,13 @@ import time
 
 
 token = cfg.eco_counter_token
-outdir = '../fahrradzaehlstellen/'
+outdir = '../radverkehr-zaehlstellen/'
 sitefile = outdir + 'site.json'
 infofile = outdir + 'SITE_INDEX.md'
+startYear = 2020
 
 api_url = cfg.eco_counter_api_url
+wanted_ids = cfg.eco_counter_ids
 
 content = ""
 
@@ -57,25 +59,37 @@ sites = []
 sites_json = json.loads(content)
 
 
+# Write Info-Markdown-File
 with open(infofile, 'w') as ifile:
+    print("======== Writing info- & site-files ========")
+    print(" ==> Writing infofile: {}".format(infofile))
     ifile.write("# Daten der Fahrradzählstellen in Münster\n\n")
-    ifile.write("Weitere Informationen zu den Daten in diesem Repository finden Sie auf dem Open-Data-Portal der Stadt Münster (https://opendata.stadt-muenster.de).\n\n")
+    ifile.write("Dieses Repository enthält die tagesaktuellen Daten der Radverkehr-Zählstellen in Münster. Die Daten werden jede Nacht aktualisiert.\n\n")
+    ifile.write("Weitere Informationen zu den Daten in diesem Repository finden Sie auf dem Open-Data-Portal der Stadt Münster (https://opendata.stadt-muenster.de) sowie auf der Homepage des Amt für Mobilität und Tiefbau (https://www.stadt-muenster.de/verkehrsplanung/verkehr-in-zahlen/radverkehrszaehlungen).\n\n")
+    ifile.write("Bitte beachten Sie bei der Nutzung dieser Daten, dass es sich um Rohdaten handelt. Diese Daten sind nicht bereinigt und es kann über längere Zeiträume Abweichungen geben (z.B. durch technische Störungen oder Baustellen vor den Zählstellen).\n\n")
     ifile.write("Die Daten stehen stehen unter der Lizenz 'Datenlizenz Deutschland Namensnennung 2.0' (https://www.govdata.de/dl-de/by-2-0).\n\n")
-    ifile.write("**Sie finden in den Unterverzeichnissen dieses Repositorys die Ergebnisse der folgenden Fahrradzählstellen in 15-Minuten-Abständen:**\n\n")
+    ifile.write("**Sie finden die Ergebnisse der folgenden Radverkehr-Zählstellen in den entsprechenden Unterverzeichnissen:**\n\n")
+
+    def getName(elem):
+        return elem['name']
+    sites_json.sort(key=getName)
 
     for site_json in sites_json:
         channels = []
-        channels.append([site_json['id'], site_json['name']])
-        if 'channels' in site_json:
-            for channel_json in site_json['channels']:
-                channels.append([channel_json['id'], channel_json['name']])
-        sites.append({
-            "name": site_json['name'],
-            "directory": generate_filename(site_json),
-            "start": site_json['firstData'],
-            "channels": channels
-        })
-        ifile.write(" * [{0}]({0}) - {1}\n".format(site_json['id'], site_json['name']))
+        site_id = site_json['id']
+        if site_id in wanted_ids:
+            channels.append([site_id, site_json['name']])
+            ifile.write(" * [{0}]({0}) - {1}\n".format(site_json['id'], site_json['name']))
+            if 'channels' in site_json:
+                for channel_json in site_json['channels']:
+                    channels.append([channel_json['id'], channel_json['name']])
+                    ifile.write("   * {0} - {1}\n".format(channel_json['id'], channel_json['name']))
+            sites.append({
+                "name": site_json['name'],
+                "directory": generate_filename(site_json),
+                "start": site_json['firstData'],
+                "channels": channels
+            })
 
 
 # write sites reduced json file
@@ -95,6 +109,11 @@ for site in sites:
     month = int(month)
     month -= 1
     processingMonth = '{0}-{1:02d}'.format(year,month)
+    if processingMonth < "{}-01".format(startYear):
+        year = startYear
+        month = 1
+        processingMonth = '{0}-{1:02d}'.format(year,month)
+
     while processingMonth < currentDate:
 
         processingMonth = '{0}-{1:02d}'.format(year,month)
@@ -108,7 +127,7 @@ for site in sites:
         enddate = '{0}-{1:02d}-01T00:00:00'.format(year,month)
 
         if (processingMonth == currentDate) or (not os.path.exists(datafile)):
-            print("======== Reading {}-{} // {} ========".format(year, month, site['name']))
+            print("======== Reading {} // {} ========".format(processingMonth, site['name']))
             site_data = {}
             site_channels = []
 
@@ -149,7 +168,7 @@ for site in sites:
 
                     # Now write all channels into one csv file
                     for ctime, cdata in site_data.items():
-                        row_data = [ctime[0:16]]
+                        row_data = [ctime[0:16].replace('T',' ')]
                         row_status = []
                         for chan in site_channels:
                             row_channel_id = chan['id']
