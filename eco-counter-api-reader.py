@@ -14,7 +14,7 @@ token = cfg.eco_counter_token
 outdir = '../radverkehr-zaehlstellen/'
 sitefile = outdir + 'site.json'
 infofile = outdir + 'SITE_INDEX.md'
-startYear = 2020
+startYear = 2019
 
 api_url = cfg.eco_counter_api_url
 wanted_ids = cfg.eco_counter_ids
@@ -26,7 +26,7 @@ def read_api_url(endpoint):
     req = Request(api_url + endpoint)
     req.add_header("Authorization", "Bearer {}".format(token))
     req.add_header("Accept", "application/json")
-    return urlopen(req).read()
+    return urlopen(req).read().decode('utf-8')
 
 def generate_filename(obj):
     return str(obj['id'])
@@ -50,7 +50,7 @@ else:
     # read api sites and write cache file
     content = read_api_url('/site')
     with open(sitefile, 'w') as file:
-        file.write(content.decode('utf-8'))
+        file.write(content)
 
 
 sites = []
@@ -87,7 +87,7 @@ with open(infofile, 'w') as ifile:
             sites.append({
                 "name": site_json['name'],
                 "directory": generate_filename(site_json),
-                "start": site_json['firstData'],
+                "start": startYear if site_id != 100031300 else 2020, # date correction hack
                 "channels": channels
             })
 
@@ -103,16 +103,9 @@ for site in sites:
     if not os.path.isdir(sitedir):
         os.mkdir(sitedir)
 
-    site_start_date = site['start']
-    year, month = site_start_date[0:7].split('-')
-    year = int(year)
-    month = int(month)
-    month -= 1
+    year = int(site['start'])
+    month = 1
     processingMonth = '{0}-{1:02d}'.format(year,month)
-    if processingMonth < "{}-01".format(startYear):
-        year = startYear
-        month = 1
-        processingMonth = '{0}-{1:02d}'.format(year,month)
 
     while processingMonth < currentDate:
 
