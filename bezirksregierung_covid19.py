@@ -86,12 +86,13 @@ today = None
 result = []
 for row in csvreader:
     #    pprint.pprint(row)
+    dateresult = re.findall(datepattern, row['datum'])
+    row_date = datetime.datetime(int(dateresult[0][2]), int(dateresult[0][1]), int(dateresult[0][0]))
     if not today:
-        dateresult = re.findall(datepattern, row['datum'])
-        today = datetime.datetime(int(dateresult[0][2]), int(dateresult[0][1]), int(dateresult[0][0]))
+        today = row_date
         print("Latest entry on website:", today)
     ags = row['kreis']
-    if ags in KREISE:
+    if (ags in KREISE) and (row_date > newest_entry):
         row['kommune'] = KREISE[ags]
         result.append(row)
 
