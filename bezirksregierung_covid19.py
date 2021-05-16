@@ -20,7 +20,7 @@ PATH_TO_OTHER_REPO = '../resources/'
 FILENAME_IN_OTHER_REPO = 'coronavirus-fallzahlen-regierungsbezirk-muenster.csv'
 
 # Internal config - Dont change below this line
-URL = 'https://www.lzg.nrw.de/covid19/daten/covid19_karte.csv'
+URL = 'https://www.lzg.nrw.de/covid19/daten/covid19_{}.csv'
 DATAFILE = PATH_TO_OTHER_REPO + FILENAME_IN_OTHER_REPO
 TEMPFILE = 'temp-covid.csv'
 
@@ -61,14 +61,31 @@ KREISE = {
     "5570": "Kreis Warendorf",
 }
 
-# Read website
-response = urllib.request.urlopen(URL)
-lines = [re.sub(r'[^\x00-\x7F]+','',l.decode('utf-8')) for l in response.readlines()]
-csvreader = csv.DictReader(lines)
+# concatenate the separate files (they used to be all in 1 single file..)
+complete_file = []
+for key in KREISE:
+    # Read csv content from website
+    current_city = URL.format(key)
+    print("Fetching " + current_city)
+    response = urllib.request.urlopen(current_city)
 
+    lines = [re.sub(r'[^\x00-\x7F]+','',l.decode('utf-8')) for l in response.readlines()]
+
+    # reverse the whole file but keep the first line (=header row)
+    # we need the newest entry first, but they have reversed the date order of the csv file at some point ...
+    column_names = lines.pop(0)
+    if not complete_file:
+        complete_file.append(column_names)
+    complete_file += reversed(lines)
+
+pprint.pprint(complete_file)
+
+# create csvreader
+csvreader = csv.DictReader(complete_file)
 today = None
 result = []
 for row in csvreader:
+    #    pprint.pprint(row)
     if not today:
         dateresult = re.findall(datepattern, row['datum'])
         today = datetime.datetime(int(dateresult[0][2]), int(dateresult[0][1]), int(dateresult[0][0]))
