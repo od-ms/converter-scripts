@@ -66,10 +66,10 @@ def main():
         p_date = None
         for item in datahub['data']['packets']:
 
-            # check if data entry is older than 15 minutes (= that is our cronjob time)
+            # check if data entry is older than 10 minutes (= that is our cronjob time)
             date_time_obj = get_time(item['source_time'])
             data_age = data_time_now - date_time_obj
-            if data_age.total_seconds() > 900:
+            if data_age.total_seconds() > 600:
                 LOGGER.debug("Data age: %ss", data_age.total_seconds())
                 LOGGER.error("Data older than 15 minutes, skipping")
                 continue
