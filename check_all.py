@@ -76,6 +76,19 @@ def check_parkplaetze():
     return firstLine[0:10] == currentDate
 
 
+def check_aasee():
+    # Load current month's CSV data and check if it has the newest date in last line
+
+    currentDate = '{0}-{1:02d}'.format(YESTERDAY.year, YESTERDAY.month)
+    url = 'https://raw.githubusercontent.com/od-ms/aasee-monitoring/main/data/{}.csv'.format(currentDate)
+    data = read_url(url)
+    lines = data.splitlines()
+    lastLine = lines[-1]
+    checkDate = '{0}-{1:02d}-{2:02d}'.format(YESTERDAY.year, YESTERDAY.month, YESTERDAY.day)
+    LOGGER.debug("Last line: %s", lastLine)
+    return lastLine[0:10] == checkDate
+
+
 def main():
     # Master control program
 
@@ -83,6 +96,7 @@ def main():
         print_result('Coronazahlen', check_coronazahlen())
         print_result('Parkplaetze', check_parkplaetze())
         print_result('Radverkehr',  check_radverkehr())
+        print_result('Aasee', check_aasee())
     except:
         e = sys.exc_info()
         print( ERROR_WORD )
