@@ -1,7 +1,9 @@
 from urllib.request import Request, urlopen
+from urllib.error import HTTPError
 from datetime import datetime, timedelta
 import logging
 import sys
+import traceback
 
 LOGFILE_NAME = 'check_all.log'
 
@@ -23,7 +25,16 @@ def read_url(endpoint: str) -> list:
     LOGGER.debug("Requesting %s", endpoint)
     req = Request(endpoint)
     req.add_header("User-Agent", "MS OpenData Uptimebot v0.9")
-    return urlopen(req).read().decode('utf-8')
+    response = ""
+    try:
+        response = urlopen(req).read().decode('utf-8')
+
+    except HTTPError as exception:
+        response = str(exception) + "\n\n\n\n"
+        print( "<p>Error: %s</p>" % str(exception) )
+        LOGGER.error(exception)
+
+    return response
 
 
 def print_result(name, value):
@@ -98,8 +109,8 @@ def main():
         print_result('Radverkehr',  check_radverkehr())
         print_result('Aasee', check_aasee())
     except:
-        e = sys.exc_info()
         print( ERROR_WORD )
+        e = traceback.format_exc()
         print( "<p>Error: %s</p>" % e )
         LOGGER.error("ERROR: %s", e)
 
