@@ -11,8 +11,8 @@ import pytz
 LOGFILE_NAME = 'datahub-api-reader.log'
 ALWAYS_USE_CACHE_FILE = 0
 
-# Basic logger configurationfilename=LOGFILE_NAME,
-logging.basicConfig(level=logging.DEBUG,  format='<%(asctime)s %(levelname)s> %(message)s')
+# Basic logger configuration
+logging.basicConfig(level=logging.DEBUG, filename=LOGFILE_NAME, format='<%(asctime)s %(levelname)s> %(message)s')
 
 LOGGER = logging.getLogger(__name__)
 TZ = pytz.timezone('Europe/Berlin')
