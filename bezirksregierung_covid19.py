@@ -10,8 +10,9 @@ It needs:
 import os
 import csv
 import datetime
-import urllib.request
+import requests
 import pprint
+import time
 import re
 import sys
 
@@ -27,7 +28,7 @@ TEMPFILE = 'temp-covid.csv'
 print()
 print(' -- COVID PARSER ' + str(datetime.datetime.now()) + '--')
 print("Command line arguments:", len(sys.argv), str(sys.argv))
-print("Data website url:", URL)
+print("Data website url template:", URL)
 
 
 # Read data file
@@ -61,15 +62,33 @@ KREISE = {
     "5570": "Kreis Warendorf",
 }
 
+# request homepage to get cookie, otherwise they will send "403 forbidden" for later requests
+headers = {
+    "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0"
+    }
+session = requests.Session()
+print("Fetching " + "https://www.lzg.nrw.de/inf_schutz/corona_meldelage/index.html")
+response = session.get("https://www.lzg.nrw.de/inf_schutz/corona_meldelage/index.html", headers = headers)
+print("Status: {}".format(response.status_code) )
+headers["Referer"] = "https://www.lzg.nrw.de/inf_schutz/corona_meldelage/index.html"
+
 # concatenate the separate files (they used to be all in 1 single file..)
 complete_file = []
 for key in KREISE:
+    # slow down our calls ..
+    time.sleep(1)
+
     # Read csv content from website
     current_city = URL.format(key)
     print("Fetching " + current_city)
-    response = urllib.request.urlopen(current_city)
+    response = session.get(current_city, headers = headers)
+    print("Status: {}, {}".format(response.status_code, response.encoding) )
+    # print(session.cookies.get_dict())
 
-    lines = [re.sub(r'[^\x00-\x7F]+','',l.decode('utf-8')) for l in response.readlines()]
+    # decode utf8
+    content = response.content
+    content = re.sub(r'[^\x00-\x7F]+','',content.decode('utf-8'))
+    lines = content.splitlines()
 
     # reverse the whole file but keep the first line (=header row)
     # we need the newest entry first, but they have reversed the date order of the csv file at some point ...
