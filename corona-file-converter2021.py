@@ -17,9 +17,9 @@ def get_encoding_type(file):
     return detect(rawdata)['encoding']
 
 
-def convert_file(srcfile):
-    trgfile = srcfile.replace('_csv_','_')
-    srcfile = srcfile +'.csv'
+def convert_file(srcfilename):
+    trgfile = srcfilename.replace('_csv_','_')
+    srcfile = srcfilename +'.csv'
     trgfile = trgfile +'.csv'
     LOGGER.info("Files: %s => %s", srcfile, trgfile)
 
@@ -30,12 +30,21 @@ def convert_file(srcfile):
 
             firstline = True
             for line in f:
+                # Match data from first column and remove it
                 matches = re.search('Kalenderwoche (\d+)/(\d+).KW', line, flags=re.IGNORECASE)
                 line = re.sub(r"^[^;]+;", "", line)
                 if firstline:
                     firstline = False
                     line = '"JAHR";"WOCHE";' + line
                 else:
+                    # For some reason one file is broken / add the missing Gänsefüßchen here
+                    if srcfilename == '05515000_csv_CORONA_GEIMPFT':
+                        line = line.replace(
+                            'Münster gesamt;Corona-Neuinfizierungen von geimpften Personen - mit oder ohne Krankheitsanzeichen',
+                            '"Münster gesamt";"Corona-Neuinfizierungen von geimpften Personen - mit oder ohne Krankheitsanzeichen"'
+                            )
+                        LOGGER.debug("replaced line %s", line)
+                    # Re- insert data from first column into two new columns
                     line = "{};{};".format(matches.group(1), matches.group(2)) + line
                 e.write(line.replace(';', ','))
 
