@@ -6,6 +6,7 @@ import logging
 import requests
 import os.path
 import time
+import csv
 import os
 
 from datetime import datetime, timezone
@@ -32,40 +33,50 @@ logging.info("=====> START %s <=====", datetime.now())
 
 def writeIcal(calendarItems):
     """
-    Write ical file
-
+    Write ICAL and CSV files
     """
+
     cal = Calendar()
-    # cal.add('attendee', 'MAILTO:opendata@citeq.de')
     cal.add('prodid', '-//Gremien Kalender//opendata.stadt-muenster.de//')
     cal.add('version', '2.0')
 
-    for key, session in sorted(calendarItems.items()):
+    with open(OUTPUT_FILE_CSV, 'w', newline='') as csvfile:
+        csvWriter = csv.writer(csvfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+        csvWriter.writerow(['MeetingID', 'Start', 'Ende', 'Gremium', 'Veranstaltung', 'Ort', 'Weitere Information'])
 
-        # Prepare event title (and convert datestrings to datetime objects with timezone)
-        meetingId = session[5]
-        title = '{} - {}'.format(session[3], session[2])
-        start = datetime.strptime(session[0], "%Y-%m-%dT%H:%M:%S%z")
-        end = datetime.strptime(session[1], "%Y-%m-%dT%H:%M:%S%z")
-        logging.info("Adding ical: %s %s %s", start, end, title)
+        for key, session in sorted(calendarItems.items()):
 
-        # Create ical event (and convert datetimes to UTC)
-        event = Event()
-        event.add('summary', title)
-        event.add('dtstart', start.astimezone(pytz.utc))
-        event.add('dtend', end.astimezone(pytz.utc))
-        event.add('dtstamp', datetime.now())
-        event.add('description', OPARL_MEETING_URL.format(meetingId))
-        event.add('uid', '20220215T101010/{}@ms'.format(meetingId))
+            # Prepare event title (and convert datestrings to datetime objects with timezone)
+            meetingId = session[5]
+            sessionName = session[2]
+            committee = session[3]
+            location = session[4]
+            start = datetime.strptime(session[0], "%Y-%m-%dT%H:%M:%S%z")
+            end = datetime.strptime(session[1], "%Y-%m-%dT%H:%M:%S%z")
+            meetingUrl = OPARL_MEETING_URL.format(meetingId)
+            logging.info("Adding ical: %s %s %s", start, committee, sessionName)
 
-        organizer = vCalAddress('MAILTO:opendata@citeq.de')
-        organizer.params['cn'] = vText('Stadt Münster')
-        organizer.params['role'] = vText('Ratsinformationssytem')
-        event['organizer'] = organizer
-        event['location'] = vText(session[4])
+            # Create ical event (and convert datetimes to UTC)
+            event = Event()
+            event.add('summary', '{} - {}'.format(committee, sessionName))
+            event.add('dtstart', start.astimezone(pytz.utc))
+            event.add('dtend', end.astimezone(pytz.utc))
+            event.add('dtstamp', datetime.now())
+            event.add('description', meetingUrl)
+            event.add('uid', '20220215T101010/{}@ms'.format(meetingId))
 
-        # Add event to calendar
-        cal.add_component(event)
+            organizer = vCalAddress('MAILTO:opendata@citeq.de')
+            organizer.params['cn'] = vText('Stadt Münster')
+            organizer.params['role'] = vText('Ratsinformationssytem')
+            event['organizer'] = organizer
+            event['location'] = vText(location)
+
+            # Add event to calendar
+            cal.add_component(event)
+
+            # Add event to CSV
+            csvWriter.writerow([meetingId, str(start), str(end), committee, sessionName, location, meetingUrl])
+
 
     # Write ical file
     f = open(OUTPUT_FILE_ICS, 'wb')
