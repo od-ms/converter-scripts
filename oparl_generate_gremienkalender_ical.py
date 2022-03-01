@@ -8,7 +8,7 @@ import os.path
 import time
 import os
 
-from datetime import datetime
+from datetime import datetime, timezone
 
 from icalendar import Calendar, Event, vCalAddress, vText
 import pytz
@@ -39,23 +39,18 @@ def writeIcal(calendarItems):
 
     for key, session in sorted(calendarItems.items()):
 
-
-        p = re.match("^(\d+)-(\d+)-(\d+)T(\d+):(\d+):(\d+)", session[0])
-
-        # Prepare event data
+        # Prepare event title (and convert datestrings to datetime objects with timezone)
         meetingId = session[5]
         title = '{} - {}'.format(session[3], session[2])
-        p = re.match("^(\d+)-(\d+)-(\d+)T(\d+):(\d+):(\d+)", session[0])
-        start = datetime(int(p.group(1)), int(p.group(2)), int(p.group(3)), int(p.group(4)), int(p.group(5)), int(p.group(6)), tzinfo=pytz.utc)
-        p = re.match("^(\d+)-(\d+)-(\d+)T(\d+):(\d+):(\d+)", session[1])
-        end = datetime(int(p.group(1)), int(p.group(2)), int(p.group(3)), int(p.group(4)), int(p.group(5)), int(p.group(6)), tzinfo=pytz.utc)
+        start = datetime.strptime(session[0], "%Y-%m-%dT%H:%M:%S%z")
+        end = datetime.strptime(session[1], "%Y-%m-%dT%H:%M:%S%z")
         logging.info("Adding ical: %s %s %s", start, end, title)
 
-        # Create ical event
+        # Create ical event (and convert datetimes to UTC)
         event = Event()
         event.add('summary', title)
-        event.add('dtstart', start)
-        event.add('dtend', end)
+        event.add('dtstart', start.astimezone(pytz.utc))
+        event.add('dtend', end.astimezone(pytz.utc))
         event.add('dtstamp', datetime.now())
         event.add('description', OPARL_MEETING_URL.format(meetingId))
         event.add('uid', '20220215T101010/{}@ms'.format(meetingId))
