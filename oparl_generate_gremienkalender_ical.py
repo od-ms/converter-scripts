@@ -19,6 +19,9 @@ OPARL_MEETING_URL = 'https://www.stadt-muenster.de/sessionnet/sessionnetbi/si005
 OUTPUT_FILE_ICS = 'ratsinformation_termine.ics'
 OUTPUT_FILE_CSV = 'ratsinformation_termine.csv'
 
+SKIP_EMPTY_ORGANIZATION_NAMES = True
+CONFIG_EXPORT_YEAR = "2022"
+
 
 # Basic logger configuration
 logging.basicConfig(level=logging.INFO, format='<%(asctime)s %(levelname)s> %(message)s')
@@ -118,9 +121,6 @@ def readUrlWithCache(url):
     return jsn
 
 
-
-orgList = {}
-
 def getOrganizations():
 
     orgUrlTemplate = OPARL_BASE_URL + 'bodies/0001/organizations?page={}'
@@ -144,12 +144,20 @@ def getOrganizations():
 
             orgList[id] = [name, shortName]
 
+    return orgList
+
 
 def getGremienList():
 
     # Read meeting list
     meetingUrlTemplate = OPARL_BASE_URL + 'bodies/0001/meetings?page={}'
     logging.debug("Meeting URL: %s", meetingUrlTemplate)
+
+    # Because opar from SOMACOS Session is so broken,
+    # we try to use the list of the "organziations" endpoint as a fallback.
+    # .. maybe the missing organization is in there..?
+    # Update: Nope, this doesn't help .. Some organizatinos are not returned via oparl api at all
+    orgList = getOrganizations()
 
     calendar = {}
 
@@ -169,11 +177,13 @@ def getGremienList():
             end = meeting['end']
             room = getDictValueFailsafe(meeting, ['location', 'room'])
             orgUrl = getDictValueFailsafe(meeting, ['organization', 0])
+            # Parse numeric meeting ID from meeting url (url is in field "id")
             meetingId = re.search("/(\d+)$", meeting['id']).group(1)
             orgName = ""
 
-            if not start.startswith("2022"):
+            if not start.startswith(CONFIG_EXPORT_YEAR):
                 logging.debug("wrong year %s", start)
+                continue
 
             elif not orgUrl:
                 logging.warning("empty 'organisation' field")
@@ -184,10 +194,12 @@ def getGremienList():
             else:
                 org = readUrlWithCache(orgUrl)
                 if not org:
+                    # This should not happen at all and is validation of oparl specification
+                    # But sadly, this happens a lot with
                     logging.warning("organisation url failed - %s", start)
                     if orgUrl in orgList:
                         orgName = orgList[orgUrl][0]
-                    else:
+                    elif not SKIP_EMPTY_ORGANIZATION_NAMES:
                         logging.warning("organization not in org list")
                         orgName = 'Gremium "{}"'.format(orgUrl.replace(OPARL_BASE_URL, ''))
 
@@ -198,21 +210,24 @@ def getGremienList():
                     #startDate = org.get('startDate')
                     orgName = organisation if organisation else orgShortName
 
+            if orgName:
                 logging.info('%s - %s | %s - %s',start, orgName, name, room)
-
-                calendar[start] = [start, end, name, orgName, room, meetingId]
+                calendar[start + str(meetingId)] = [start, end, name, orgName, room, meetingId]
+            else:
+                logging.warning("%s - skipping event, empty organziation name", start)
 
     for key, value in sorted(calendar.items()):
         logging.info("%s %s", key, value)
 
-    writeIcal(calendar)
+    return calendar
 
-    raise SystemExit
 
-    with open('index.html', 'w') as outfile:
-        outfile.write(html)
+def main():
 
-    print(html)
+    calendarItems = getGremienList()
 
-getOrganizations()
-getGremienList()
+    writeIcal(calendarItems)
+
+
+
+main()
