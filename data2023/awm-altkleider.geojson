@@ -1,0 +1,1325 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.597586,
+          51.937202
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48151 M\u00fcnster - Aaseestadt",
+        "Standort": "Lange Ossenbeck, vor Nr. 9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.523392,
+          51.925529
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48163 M\u00fcnster - Albachten",
+        "Standort": "D\u00fclmener Stra\u00dfe 22 a (Parkplatz Netto)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.529846,
+          51.923733
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48163 M\u00fcnster - Albachten",
+        "Standort": "Hohe Geist  / Concordenstra\u00dfe (Parkplatz Sportplatz Concordia)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.526531,
+          51.914623
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48163 M\u00fcnster - Albachten",
+        "Standort": "Langenkamp 162 (Bahnhof Albachten)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.526378,
+          51.920204
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48163 M\u00fcnster - Albachten",
+        "Standort": "\u00f6stl. Am K\u00e4mpken 32, vor Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.604587,
+          51.885433
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48163 M\u00fcnster - Amelsb\u00fcren",
+        "Standort": "Davertstra\u00dfe 17, Parkplatz hinter LVM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.608555,
+          51.881283
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48163 M\u00fcnster - Amelsb\u00fcren",
+        "Standort": "Davertstra\u00dfe 73 (Parkplatz Feuerwehr / Friedhof)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.699245,
+          51.922409
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48167 M\u00fcnster - Angelmodde",
+        "Standort": "Alt Angelmodde 11d (AWO-Kindergarten)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.715098,
+          51.915863
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48167 M\u00fcnster - Angelmodde",
+        "Standort": "Brandhoveweg 101 (Parkplatz Hallenbad)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.677269,
+          51.922024
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48167 M\u00fcnster - Angelmodde",
+        "Standort": "Buschstra\u00dfe / Zum Erlenbusch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.611991,
+          51.924698
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48153 M\u00fcnster - Berg Fidel",
+        "Standort": "Kriegerweg / Gerstkamp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.621698,
+          51.92136
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48165 M\u00fcnster - Berg Fidel",
+        "Standort": "Vennheideweg / Elsa-Br\u00e4ndstr\u00f6m-Weg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.642322,
+          51.961483
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48145 M\u00fcnster - Centrum",
+        "Standort": "Friedensstra\u00dfe /Warendorfer Stra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.612333,
+          51.971848
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48149 M\u00fcnster - Centrum",
+        "Standort": "Grevener Stra\u00dfe, H\u00f6he Nr. 61c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6443,
+          51.954071
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48155 M\u00fcnster - Centrum",
+        "Standort": "Hansaring 63 (vor REWE) - vor\u00fcbergehend versetzt zur Schillerstr. (Hansa-Berufskolleg &amp; Anfang Schillerbr\u00fccke)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.632942,
+          51.972458
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48147 M\u00fcnster - Centrum",
+        "Standort": "Parkplatz gegen\u00fcber Kanalstra\u00dfe 57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.617731,
+          51.963097
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48143 M\u00fcnster - Centrum",
+        "Standort": "Schlossplatz 44 (gegen\u00fcber B\u00e4ckergasse)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64164,
+          51.960003
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48145 M\u00fcnster - Centrum",
+        "Standort": "Zumsandestr. 25 -27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.662631,
+          51.995857
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48157 M\u00fcnster - Coerde",
+        "Standort": "An der Kleimannbr\u00fccke / August-Horch-Stra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.646932,
+          51.993015
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48157 M\u00fcnster - Coerde",
+        "Standort": "Hamannplatz / Coerde-Markt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.649977,
+          51.993713
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48157 M\u00fcnster - Coerde",
+        "Standort": "Schneidem\u00fchler Stra\u00dfe (gegen\u00fcber Haus Nr. 7)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.652406,
+          52.010937
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48157 M\u00fcnster - Coerde",
+        "Standort": "Zum Heidehof 80 (Recyclinghof Entsorgungszentrum)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.630926,
+          51.948067
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48153 M\u00fcnster - Geist",
+        "Standort": "Augustastra\u00dfe/Friedrich-Ebert-Stra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.601066,
+          51.926701
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48163 M\u00fcnster - Geist",
+        "Standort": "Buldernweg/Drensteinfurtweg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.627457,
+          51.938721
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48153 M\u00fcnster - Geist",
+        "Standort": "Scheibenstra\u00dfe 114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.674505,
+          52.025883
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48157 M\u00fcnster - Gelmer",
+        "Standort": "Hakenesheide (Sportplatz)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.57483,
+          51.965122
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48161 M\u00fcnster - Gievenbeck",
+        "Standort": "Arnheimweg (Parkplatz Sportgel\u00e4nde)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.570898,
+          51.960648
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48161 M\u00fcnster - Gievenbeck",
+        "Standort": "Bernings Kotten 9 (Recyclinghof Gievenbeck)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.574446,
+          51.975559
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48161 M\u00fcnster - Gievenbeck",
+        "Standort": "Gescherweg 70-84"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.57024,
+          51.974014
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48161 M\u00fcnster - Gievenbeck",
+        "Standort": "Hensenstra\u00dfe / Toppheideweg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.571205,
+          51.970837
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48161 M\u00fcnster - Gievenbeck",
+        "Standort": "R\u00fcschhausweg (gegen\u00fcber Haus Nr. 79)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.562668,
+          51.973309
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48161 M\u00fcnster - Gievenbeck",
+        "Standort": "Stadtlohnweg 17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.56211,
+          51.967995
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48161 M\u00fcnster - Gievenbeck",
+        "Standort": "Wickenkamp / Dieckmannstr."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.655068,
+          51.930599
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48167 M\u00fcnster - Gremmendorf",
+        "Standort": "Biederlackweg 71"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.650235,
+          51.940514
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48155 M\u00fcnster - Gremmendorf",
+        "Standort": "Egbert-Snoek-Stra\u00dfe 1 (Parkplatz Ratio)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.641665,
+          51.938881
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48155 M\u00fcnster - Gremmendorf",
+        "Standort": "Eulerstra\u00dfe 8 (Recyclinghof Eulerstra\u00dfe)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.668963,
+          51.920643
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48167 M\u00fcnster - Gremmendorf",
+        "Standort": "Frankenweg 17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.681219,
+          51.932159
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48167 M\u00fcnster - Gremmendorf",
+        "Standort": "gg\u00fc. Gremmendorfer Weg 114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.705504,
+          51.989536
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48157 M\u00fcnster - Handorf",
+        "Standort": "Heriburgstra\u00dfe (Parkplatz Hallenbad)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.709063,
+          51.987377
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48157 M\u00fcnster - Handorf",
+        "Standort": "Kirschgarten 68 (gegen\u00fcber Sportplatz)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.713474,
+          51.989231
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48157 M\u00fcnster - Handorf",
+        "Standort": "L\u00fctzowstra\u00dfe 120 (Recyclinghof Handorf)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.681169,
+          51.997059
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48157 M\u00fcnster - Handorf",
+        "Standort": "Sudm\u00fchlenstra\u00dfe/Havichhorster M\u00fchle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.668835,
+          51.902493
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48165 M\u00fcnster - Hiltrup",
+        "Standort": "Adolf-Wentrup-Weg/Asternweg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.673038,
+          51.903988
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48165 M\u00fcnster - Hiltrup",
+        "Standort": "Am Roggenkamp 173 (Parkstreifen, s\u00fcdwestl. EKZ)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.654585,
+          51.903053
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48165 M\u00fcnster - Hiltrup",
+        "Standort": "Bergiusstra\u00dfe 20 (Bahnhof Hiltrup)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.644486,
+          51.895851
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48165 M\u00fcnster - Hiltrup",
+        "Standort": "Glasuritstra\u00dfe 1a (Recyclinghof Hiltrup)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.634897,
+          51.913879
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48165 M\u00fcnster - Hiltrup",
+        "Standort": "Merkureck / Hohe Geest (EKZ)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.668807,
+          51.906548
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48165 M\u00fcnster - Hiltrup",
+        "Standort": "Osttor 101 (Parkplatz Sportplatz)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.637366,
+          51.904694
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48165 M\u00fcnster - Hiltrup",
+        "Standort": "Patronatsstra\u00dfe 22 (Bezirksverwaltungsstelle)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.631587,
+          51.901527
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48165 M\u00fcnster - Hiltrup",
+        "Standort": "Theodor-Storm-Stra\u00dfe / Im Stemmen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.634457,
+          51.900391
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48165 M\u00fcnster - Hiltrup",
+        "Standort": "gg\u00fc. Amelsb\u00fcrener Stra\u00dfe 32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.605948,
+          51.982834
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48159 M\u00fcnster - Kinderhaus",
+        "Standort": "Gasselstiege / Von-Einem-Stra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.598677,
+          51.997353
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48159 M\u00fcnster - Kinderhaus",
+        "Standort": "Josef Beckmann Str. / Br\u00fcningheide"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.609777,
+          51.988277
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48159 M\u00fcnster - Kinderhaus",
+        "Standort": "Kerstingskamp 24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.595064,
+          51.999649
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48159 M\u00fcnster - Kinderhaus",
+        "Standort": "Killingstra\u00dfe (gegen\u00fcber Haus Nr. 7)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.607987,
+          51.987198
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48159 M\u00fcnster - Kinderhaus",
+        "Standort": "Rektoratsweg / Im Moorhock"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.604404,
+          52.00005
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48159 M\u00fcnster - Kinderhaus",
+        "Standort": "Von-Humboldt-Stra\u00dfe 50 (Recyclinghof Kinderhaus)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59905,
+          51.992908
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48159 M\u00fcnster - Kinderhaus",
+        "Standort": "Westhoffstra\u00dfe 110 (vor REWE-Markt)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.679058,
+          51.962887
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48155 M\u00fcnster - Mauritz",
+        "Standort": "An der Konradkirche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.65292,
+          51.957535
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48145 M\u00fcnster - Mauritz",
+        "Standort": "Andreas-Hofer-Stra\u00dfe 50 (Parkstreifen vor OFD)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.649173,
+          51.970879
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48145 M\u00fcnster - Mauritz",
+        "Standort": "Dieckstra\u00dfe / K\u00e4rntner Stra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.675037,
+          51.949024
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48155 M\u00fcnster - Mauritz",
+        "Standort": "Eltropweg / Schmittingheide"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.658805,
+          51.959103
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48145 M\u00fcnster - Mauritz",
+        "Standort": "Mauritz-Lindenweg 101 (Parkplatz Hallenbad Ost)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.666471,
+          51.955742
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48155 M\u00fcnster - Mauritz",
+        "Standort": "Merschkamp / Manfred-von-Richthofen-Stra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.684499,
+          51.961987
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48155 M\u00fcnster - Mauritz",
+        "Standort": "Pleisterm\u00fchlenweg 118 (Recyclinghof St. Mauritz)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.648351,
+          51.952419
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48155 M\u00fcnster - Mauritz",
+        "Standort": "Schillerstra\u00dfe /Ewaldistra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.669187,
+          51.951347
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48155 M\u00fcnster - Mauritz",
+        "Standort": "Wolbecker Stra\u00dfe 286"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.554775,
+          51.930332
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48163 M\u00fcnster - Mecklenbeck",
+        "Standort": "An der Hansalinie 21 (Recyclinghof Mecklenbeck)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.595258,
+          51.927464
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48163 M\u00fcnster - Mecklenbeck",
+        "Standort": "Daimlerweg 33 (Malteser)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.573655,
+          51.922329
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48163 M\u00fcnster - Mecklenbeck",
+        "Standort": "Heroldstra\u00dfe 29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.576516,
+          51.925842
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48163 M\u00fcnster - Mecklenbeck",
+        "Standort": "Meyerbeerstra\u00dfe 46 (Parkstreifen)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.579154,
+          51.9305
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48163 M\u00fcnster - Mecklenbeck",
+        "Standort": "gg\u00fc. Brockmannstra\u00dfe 66"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.548541,
+          52.000118
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48161 M\u00fcnster - Nienberge",
+        "Standort": "Feldstiege 45 (Parkplatz Sportzentrum)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.54334,
+          51.992844
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48161 M\u00fcnster - Nienberge",
+        "Standort": "Waltruper Weg 3a (Recyclinghof Nienberge)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.53522,
+          51.947178
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48161 M\u00fcnster - Roxel",
+        "Standort": "Nottulner Landweg 66 (Recyclinghof Roxel)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.533639,
+          51.953262
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48161 M\u00fcnster - Roxel",
+        "Standort": "Schulte-Hermann-Stra\u00dfe 9 (EKZ)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.601194,
+          51.955097
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48149 M\u00fcnster - Sentrup",
+        "Standort": "Sentruper Stra\u00dfe 151 (Parkstreifen Sportplatz)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.615342,
+          52.041744
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48159 M\u00fcnster - Sprakel",
+        "Standort": "Nienberger Stra\u00dfe 16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.618392,
+          52.032822
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48157 M\u00fcnster - Sprakel",
+        "Standort": "Schlusenweg / Kapustaweg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.619273,
+          52.042107
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48159 M\u00fcnster - Sprakel",
+        "Standort": "Sprakeler Stra\u00dfe (n\u00f6rdl. Bahnhof)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6255,
+          51.974636
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48147 M\u00fcnster - Wienburg",
+        "Standort": "Cheruskerring 21 (Einfahrt St. Bonifatius-Kindergarten)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61115,
+          51.983685
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48159 M\u00fcnster - Wienburg",
+        "Standort": "Dreizehnerstra\u00dfe / Grevener Stra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.636077,
+          51.975826
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48147 M\u00fcnster - Wienburg",
+        "Standort": "Gartenstra\u00dfe 164 (Kleingartenanlage)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.616317,
+          51.975925
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48147 M\u00fcnster - Wienburg",
+        "Standort": "Jahnstra\u00dfe 26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.613649,
+          51.980354
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48147 M\u00fcnster - Wienburg",
+        "Standort": "Me\u00dfkamp / Kinderhauser Stra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.621382,
+          51.977444
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48147 M\u00fcnster - Wienburg",
+        "Standort": "Wienburgstra\u00dfe/Salzmannstra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.720934,
+          51.918201
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48167 M\u00fcnster - Wolbeck",
+        "Standort": "Eschstra\u00dfe 79 (Recyclinghof Wolbeck)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.734364,
+          51.916843
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48167 M\u00fcnster - Wolbeck",
+        "Standort": "Hofstra\u00dfe 45 (Feuerwehr Wolbeck)"
+      }
+    }
+  ]
+}

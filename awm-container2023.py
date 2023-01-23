@@ -34,6 +34,9 @@ files = [
     ['awm-altkleider', 'Altkleidercontainer'],
     ['awm-elektrokleingeraete', 'Elektrokleingeräte-Container']
 ]
+
+
+
 for config in files:
     file = config[0]
     containertype = config[1]
@@ -42,6 +45,11 @@ for config in files:
     f = open(path + file + '.json', "r")
     myfile = f.read()
     data = json.loads(myfile)
+
+    geojson = {
+        "type": "FeatureCollection",
+        "features": []
+    }
 
     outfile = path + file + '.csv'
     with open(outfile, mode='w') as csv_file:
@@ -55,17 +63,35 @@ for config in files:
         for item in data:
             counter = counter + 1
             if "inf" in item:
-              LOGGER.info(" %s / %s", counter, item)
-              writer.writerow([
-                  counter,
-                  containertype,
-                  item['inf'][0],
-                  item['inf'][1],
-                  item['inf'][2],
-                  item['lat'],
-                  item['lng'],
-                  ("{}".format(TODAY))[0:10]
-              ])
+                LOGGER.info(" %s / %s", counter, item)
+                writer.writerow([
+                    counter,
+                    containertype,
+                    item['inf'][0],
+                    item['inf'][1],
+                    item['inf'][2],
+                    item['lat'],
+                    item['lng'],
+                    ("{}".format(TODAY))[0:10]
+                ])
+
+                feature = {
+                    "type": "Feature",
+                    "geometry": {"type": "Point", "coordinates": [float(item['lng']), float(item['lat'])]},
+                    "properties": {
+                        "Typ": containertype,
+                        "Stadtteil": item['inf'][0],
+                        "Standort": item['inf'][1]
+                    }
+                }
+                geojson["features"].append(feature)
+
+    outfile = path + file + '.geojson'
+    LOGGER.info("Writing Geojson file '%s' ", outfile)
+    with open(outfile, mode='w') as json_file:
+        json.dump(geojson, json_file, indent=2)
+
+
 
 
 
