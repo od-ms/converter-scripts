@@ -21,11 +21,11 @@ OUTPUT_FILE_ICS = 'ratsinformation_termine.ics'
 OUTPUT_FILE_CSV = 'ratsinformation_termine.csv'
 
 SKIP_EMPTY_ORGANIZATION_NAMES = True
-CONFIG_EXPORT_YEAR = "2022"
+CONFIG_EXPORT_YEAR = "2023"
 
 
 # Basic logger configuration
-logging.basicConfig(level=logging.INFO, format='<%(asctime)s %(levelname)s> %(message)s')
+logging.basicConfig(level=logging.DEBUG, format='<%(asctime)s %(levelname)s> %(message)s')
 logging.addLevelName( logging.WARNING, "\033[1;31m%s\033[1;0m" % logging.getLevelName(logging.WARNING))
 logging.addLevelName( logging.ERROR, "\033[1;41m%s\033[1;0m" % logging.getLevelName(logging.ERROR))
 logging.info("=====> START %s <=====", datetime.now())
@@ -109,12 +109,22 @@ def readUrlWithCache(url):
 
     filename = 'cache/{}'.format(re.sub("[^0-9a-zA-Z]+", "_", url.replace(OPARL_BASE_URL, "")))
 
+    currentTS = time.time()
+    cacheMaxAge = 60*60*24*30
+    generateCacheFile = True
+    filecontent = "{}"
     if os.path.isfile(filename):
-        logging.debug("%s - using cache", filename)
-        with open(filename) as myfile:
-            filecontent ="".join(line.rstrip() for line in myfile)
+        fileModTime = os.path.getmtime(filename)
+        timeDiff = currentTS - fileModTime
+        if (timeDiff > cacheMaxAge):
+            logging.debug("cache file age %s too old: %s", timeDiff, filename)
+        else:
+            generateCacheFile = False
+            logging.debug("%s - using cache", filename)
+            with open(filename) as myfile:
+                filecontent ="".join(line.rstrip() for line in myfile)
 
-    else:
+    if generateCacheFile:
         logging.debug("%s - HTTP GET", filename)
         req = requests.get(url)
         if req.status_code > 399:
