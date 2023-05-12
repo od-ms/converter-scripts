@@ -14,8 +14,8 @@ FILE = '05515000_csv_klimarelevante_daten.csv'
 
 # Basic logger configuration
 logging.basicConfig(level=logging.DEBUG, format='<%(asctime)s %(levelname)s> %(message)s')
-logging.addLevelName( logging.WARNING, "\033[1;31m%s\033[1;0m" % logging.getLevelName(logging.WARNING))
-logging.addLevelName( logging.ERROR, "\033[1;41m%s\033[1;0m" % logging.getLevelName(logging.ERROR))
+logging.addLevelName(logging.WARNING, "\033[1;31m%s\033[1;0m" % logging.getLevelName(logging.WARNING))
+logging.addLevelName(logging.ERROR, "\033[1;41m%s\033[1;0m" % logging.getLevelName(logging.ERROR))
 logging.info("=====> START %s <=====", datetime.now())
 
 
@@ -44,7 +44,7 @@ OUTFILES = {
 
 def split_data_into_files():
     FIRST_ROW = []
-    with open(FILE, 'r', encoding = 'latin-1') as csvinput:
+    with open(FILE, 'r', encoding='latin-1') as csvinput:
         line = 0
         unknowns = 0
         OUTFILES_DATA = {}
@@ -83,7 +83,7 @@ def split_data_into_files():
                 else:
                     logging.debug("Row %s = UNKNOWN: %s", line, KLIMAROW)
                     unknowns = unknowns + 1
-            if unknowns>0:
+            if unknowns > 0:
                 logging.error("TOO MANY UNKNOWNS")
                 raise ValueError("BYE")
 
@@ -100,7 +100,7 @@ def write_json_file(data, outfile_name):
 
 
 def write_csv_file(data, HEAD_ROW, outfile_name):
-    with open(outfile_name, 'w', newline='',  encoding = 'utf-8') as outfile:
+    with open(outfile_name, 'w', newline='', encoding='utf-8') as outfile:
         outwriter = csv.writer(outfile, delimiter=';', quotechar='"', quoting=csv.QUOTE_MINIMAL)
 
         outwriter.writerow(["DATEINAME"] + HEAD_ROW)
