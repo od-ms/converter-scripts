@@ -13,16 +13,13 @@ from datetime import datetime, timezone
 FILE = '05515000_csv_klimarelevante_daten.csv'
 
 # Basic logger configuration
-logging.basicConfig(level=logging.DEBUG, format='<%(asctime)s %(levelname)s> %(message)s')
+logging.basicConfig(level=logging.INFO, format='<%(asctime)s %(levelname)s> %(message)s')
 logging.addLevelName(logging.WARNING, "\033[1;31m%s\033[1;0m" % logging.getLevelName(logging.WARNING))
 logging.addLevelName(logging.ERROR, "\033[1;41m%s\033[1;0m" % logging.getLevelName(logging.ERROR))
 logging.info("=====> START %s <=====", datetime.now())
 
 
-
-logging.info("Reading %s", FILE)
-
-OUTFILES = {
+DATASET_DESCRIPTIONS = {
     "awm-abfallaufkommen-pro-kopf": [r"^Abfallaufkommen\s"],
     "awm-e-mobilitaet": [r"^AWM\sFahrzeuge\s-"],
     "awm-fahrzeuge-antriebsart": [r"^Fahrzeuge\sawm\s-"],
@@ -40,9 +37,18 @@ OUTFILES = {
     "verbrauch-erzeugung-strom": [r"^Stromerzeugung/-bereitstellung"],
     "stadtwerke-bus-fahrzeuge": [r"^Fahrzeuge"]
 }
+FIRST_ROW_SETUP = 'ZEIT;RAUM;MERKMAL;WERT;QUELLANGABE'
 
 
-def split_data_into_files():
+
+
+logging.info("Reading %s", FILE)
+
+
+# Read data from input CSV file from 62
+# then group the data by dataset
+# and add a name of the dataset in the first column
+def group_rows_by_dataset():
     FIRST_ROW = []
     with open(FILE, 'r', encoding='latin-1') as csvinput:
         line = 0
@@ -54,21 +60,23 @@ def split_data_into_files():
             if line < 1:
                 NR_COLS = len(KLIMAROW)
                 FIRST_ROW = KLIMAROW
-                logging.debug("%s Spalten: %s", NR_COLS, KLIMAROW)
+                logging.info("%s Spalten: %s", NR_COLS, KLIMAROW)
+                if ';'.join(FIRST_ROW) != FIRST_ROW_SETUP:
+                    raise ValueError("Unexpected first row in CSV")
             else:
                 # fix broken rows ... append next row, if its too short ..
 
                 if len(KLIMAROW) < NR_COLS:
                     nextrow = klimareader.__next__()
-                    logging.warning("TOO FEW COLUMNS %s ..... %s", KLIMAROW, nextrow)
+                    logging.debug("TOO FEW COLUMNS %s ..... %s", KLIMAROW, nextrow)
                     rest = nextrow.pop(0)
                     correct_string = KLIMAROW[-1] + rest
                     KLIMAROW = KLIMAROW[:-1] + [correct_string] + nextrow
-                    logging.warning("FIXED ROW: %s", KLIMAROW)
+                    logging.info("Fixed broken row: %s", KLIMAROW)
 
                 merkmal = KLIMAROW[2]
                 hit = ""
-                for file_name, regexes in OUTFILES.items():
+                for file_name, regexes in DATASET_DESCRIPTIONS.items():
                     for regex in regexes:
                         if re.match(regex, merkmal):
                             hit = file_name
@@ -89,7 +97,6 @@ def split_data_into_files():
 
             line = line + 1
 
-
     return OUTFILES_DATA, FIRST_ROW
 
 
@@ -99,16 +106,45 @@ def write_json_file(data, outfile_name):
 
 
 
-def write_csv_file(data, HEAD_ROW, outfile_name):
+def write_csv_file_with_datsetname_in_first_column(data, HEAD_ROW, outfile_name):
     with open(outfile_name, 'w', newline='', encoding='utf-8') as outfile:
         outwriter = csv.writer(outfile, delimiter=';', quotechar='"', quoting=csv.QUOTE_MINIMAL)
 
         outwriter.writerow(["DATEINAME"] + HEAD_ROW)
-        for file_name, rows in data.items():
+        for dataset_name, rows in data.items():
             for row in rows:
-                outwriter.writerow([file_name] + row)
+                outwriter.writerow([dataset_name] + row)
 
 
-DATA_SPLIT, FIRST_ROW = split_data_into_files()
+def get_external_data(filename, quelle, einheit):
+    new_data = []
+    with open(filename) as user_file:
+        parsed_json = json.load(user_file)
+        for name, value in parsed_json["Summen"].items():
+            new_data.append([
+                str(datetime.now())[0:10],
+                "Münster, Gesamtstadt",
+                name,
+                value,
+                quelle,
+                einheit
+            ])
+    return new_data
+
+
+
+DATA_SPLIT, FIRST_ROW = group_rows_by_dataset()
+
+DATA_SPLIT['bestand-pv-anlagen'] = get_external_data(
+    '../marktstammdatenregister/anlagen_solare_strahlungsenergie.json',
+    "Marktstammdatenregister",
+    "kW"
+)
+DATA_SPLIT['bestand-windanlagen'] = get_external_data(
+    '../marktstammdatenregister/anlagen_wind.json',
+    "Marktstammdatenregister",
+    "kW"
+)
+
 write_json_file(DATA_SPLIT, "klimadata.json")
-write_csv_file(DATA_SPLIT, FIRST_ROW, "klimadata.csv")
+write_csv_file_with_datsetname_in_first_column(DATA_SPLIT, FIRST_ROW + ["EINHEIT"], "klimadata.csv")
