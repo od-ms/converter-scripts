@@ -39,10 +39,12 @@ BASE_URL = 'https://www.marktstammdatenregister.de/MaStR/Einheit/EinheitJson/Get
 #
 # !!Sollten das mehr als 10.000 werden, dann gibts aber Problem, dann stimmen die Zahlen nicht mehr
 # und das muss umprogrammiert werden!!
+# Idee für Workaround: Anlagen > 10 kW, Anlagen < 10 kW und Anlagen == 10 kW
+#
 #
 SOURCE_URLS = [
-    BASE_URL + 'sort=EinheitMeldeDatum-asc&page=1&pageSize=10000&group=&filter=Energietr%C3%A4ger~eq~%272495%2C2497%27~and~Betriebs-Status~eq~%2735%2C37%27~and~Gemeindeschl%C3%BCssel~eq~%2705515000%27',
-    BASE_URL + 'sort=EinheitMeldeDatum-desc&page=1&pageSize=10000&group=&filter=Energietr%C3%A4ger~eq~%272495%2C2497%27~and~Betriebs-Status~eq~%2735%2C37%27~and~Gemeindeschl%C3%BCssel~eq~%2705515000%27'
+    BASE_URL + 'sort=EinheitMeldeDatum-asc&page=1&pageSize=10000&group=&filter=Energietr%C3%A4ger~eq~%272495%2C2497%27~and~Betriebs-Status~eq~%2735%2C37%27~and~Gemeindeschl%C3%BCssel~eq~%2705515000%27~and~Ort~eq~%27M%C3%BCnster%27',
+    BASE_URL + 'sort=EinheitMeldeDatum-desc&page=1&pageSize=10000&group=&filter=Energietr%C3%A4ger~eq~%272495%2C2497%27~and~Betriebs-Status~eq~%2735%2C37%27~and~Gemeindeschl%C3%BCssel~eq~%2705515000%27~and~Ort~eq~%27M%C3%BCnster%27'
 ]
 
 # SOURCE_URL = 'https://www.marktstammdatenregister.de/MaStR/Einheit/EinheitJson/GetVerkleinerteOeffentlicheEinheitStromerzeugung?sort=&page=1&pageSize=5896&group=&filter=Energietr%C3%A4ger~eq~%272495%27~and~Betriebs-Status~eq~%2735%2C37%27~and~Gemeindeschl%C3%BCssel~eq~%2705515000%27'
@@ -128,7 +130,6 @@ def collect_data_from_url(mstr_url, id_list, start_values, EnergietraegerName):
         "IsAnonymisiert": {}
     }
     wanted_sums = {
-        "Nettonennleistung": 0,
         "Bruttoleistung": 0,
         "AnzahlSolarModule": 0
     }
