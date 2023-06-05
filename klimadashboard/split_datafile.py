@@ -45,7 +45,7 @@ FIRST_ROW_SETUP = 'ZEIT;RAUM;MERKMAL;WERT;QUELLANGABE'
 logging.info("Reading %s", FILE)
 
 
-# Read data from input CSV file from 62
+# Read data from input CSV file
 # then group the data by dataset
 # and add a name of the dataset in the first column
 def group_rows_by_dataset():
@@ -135,6 +135,7 @@ def get_external_data(filename, quelle, einheit):
 
 DATA_SPLIT, FIRST_ROW = group_rows_by_dataset()
 
+# Add PV- and Solar-Data from Marktstammdatenregister
 DATA_SPLIT['bestand-pv-anlagen'] = get_external_data(
     '../marktstammdatenregister/anlagen_solare_strahlungsenergie.json',
     "Marktstammdatenregister",
