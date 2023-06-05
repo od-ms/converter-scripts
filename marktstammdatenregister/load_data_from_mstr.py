@@ -41,8 +41,8 @@ BASE_URL = 'https://www.marktstammdatenregister.de/MaStR/Einheit/EinheitJson/Get
 # und das muss umprogrammiert werden!!
 #
 SOURCE_URLS = [
-    BASE_URL + 'sort=EinheitMeldeDatum-asc&page=1&pageSize=10000&group=&filter=Energietr%C3%A4ger~eq~%272495%2C2497%27~and~Betriebs-Status~eq~%2735%2C37%27~and~Gemeindeschl%C3%BCssel~eq~%2705515000%27',
-    BASE_URL + 'sort=EinheitMeldeDatum-desc&page=1&pageSize=10000&group=&filter=Energietr%C3%A4ger~eq~%272495%2C2497%27~and~Betriebs-Status~eq~%2735%2C37%27~and~Gemeindeschl%C3%BCssel~eq~%2705515000%27'
+    BASE_URL + 'sort=EinheitMeldeDatum-asc&page=1&pageSize=10000&group=&filter=Energietr%C3%A4ger~eq~%272495%2C2497%27~and~Betriebs-Status~eq~%2735%2C37%27~and~Gemeindeschl%C3%BCssel~eq~%2705515000%27~and~Ort~eq~%27M%C3%BCnster%27',
+    BASE_URL + 'sort=EinheitMeldeDatum-desc&page=1&pageSize=10000&group=&filter=Energietr%C3%A4ger~eq~%272495%2C2497%27~and~Betriebs-Status~eq~%2735%2C37%27~and~Gemeindeschl%C3%BCssel~eq~%2705515000%27~and~Ort~eq~%27M%C3%BCnster%27'
 ]
 
 # SOURCE_URL = 'https://www.marktstammdatenregister.de/MaStR/Einheit/EinheitJson/GetVerkleinerteOeffentlicheEinheitStromerzeugung?sort=&page=1&pageSize=5896&group=&filter=Energietr%C3%A4ger~eq~%272495%27~and~Betriebs-Status~eq~%2735%2C37%27~and~Gemeindeschl%C3%BCssel~eq~%2705515000%27'
@@ -99,7 +99,7 @@ def addToDict(my_dict, name, value):
 
 
 def addSum(my_dict, name, value):
-    value = value if value else 0
+    value = int(value) if value else 0
     if name in my_dict:
         my_dict[name] = my_dict[name] + value
     else:
