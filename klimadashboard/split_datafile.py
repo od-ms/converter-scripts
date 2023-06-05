@@ -13,32 +13,37 @@ from datetime import datetime, timezone
 FILE = '05515000_csv_klimarelevante_daten.csv'
 
 # Basic logger configuration
-logging.basicConfig(level=logging.INFO, format='<%(asctime)s %(levelname)s> %(message)s')
+logging.basicConfig(level=logging.DEBUG, format='<%(asctime)s %(levelname)s> %(message)s')
 logging.addLevelName(logging.WARNING, "\033[1;31m%s\033[1;0m" % logging.getLevelName(logging.WARNING))
 logging.addLevelName(logging.ERROR, "\033[1;41m%s\033[1;0m" % logging.getLevelName(logging.ERROR))
 logging.info("=====> START %s <=====", datetime.now())
 
 
 DATASET_DESCRIPTIONS = {
-    "awm-abfallaufkommen-pro-kopf": [r"^Abfallaufkommen\s"],
-    "awm-e-mobilitaet": [r"^AWM\sFahrzeuge\s-"],
-    "awm-fahrzeuge-antriebsart": [r"^Fahrzeuge\sawm\s-"],
-    "oekoprofit": [r"^Projektträger\sMünster\s-"],
-    "pv-anlagen": [r"^PV-Anlage\(n\):"],
-    "modal-split-v-leistung": [r"^(Absolut\sin\skm|Modal\sSplit\sV\.leistung)"],
-    "verkehrsmittelwahl-zeitreihe": [r"^Verkehrsmittelwahl", r"^Wege/Tag$"],
-    "stadtradeln": [r"^Stadtradeln"],
-    "co2-emissionen-anwendungen": [r"^CO2-Emissionen\sAnwendung"],
-    "co2-emissionen-sektoren": [r"^CO2-Emissionen\s-\s"],
-    "co2-emissionen-tonnen": [r"^CO2-Emissionen\s(in\s)?\(t\)\s+-"],
-    "emissionen-strom": [r"^Strom-Emissionen\snach\sEnergieträgern"],
-    "endenergie": [r"^Endenergieverbrauch"],
-    "teilnehmer-startberatung": [r"^Teilnehmer"],
-    "verbrauch-erzeugung-strom": [r"^Stromerzeugung/-bereitstellung"],
-    "stadtwerke-bus-fahrzeuge": [r"^Fahrzeuge"]
+    "awm-abfallaufkommen-pro-kopf": ["Abfallaufkommen pro Kopf in kg", r"^Abfallaufkommen\s"],
+    "awm-e-mobilitaet":             ["E-Mobilität awm", r"^AWM\sFahrzeuge\s-"],
+    "oekoprofit":                   ["Ökoprofit", r"^Projektträger\sMünster\s-"],
+    "pv-anlagen":                   ["PV-Anlagen", r"^PV-Anlage\(n\):"],
+    "modal-split-v-leistung":       ["Modal Split V.leistung", r"^(Absolut|Absolut\sin\skm|Modal\sSplit\sV\.leistung.*)$"],
+    "verkehrsmittelwahl-zeitreihe": ["Zeitreihe Verkehrsmittelwahl", r"^Verkehrsmittelwahl", r"^Wege/Tag$"],
+    "stadtradeln":                  ["Stadtradeln", r"^Stadtradeln"],
+    "co2-emissionen-anwendungen":   ["CO2 Emissionen (Anwendungen)", r"^CO2-Emissionen\sAnwendung"],
+    "co2-emissionen-sektoren":      ["CO2 Emissionen (Sekt. + ET)", r"^CO2-Emissionen\s-\s"],
+    "co2-emissionen-tonnen":        ["CO2 Emissionen (Sektoren)", r"^CO2-Emissionen\s(in\s)?\(t\)\s+-"],
+    "emissionen-strom":             ["Emissionen Strom", r"^Strom-Emissionen\snach\sEnergieträgern"],
+    "endenergie":                   ["Endenergie (Sekt)", r"^Endenergieverbrauch"],
+    "teilnehmer-startberatung":     ["Teilnehmer (Unternehmen) Startberatung", r"^Teilnehmer"],
+    "verbrauch-erzeugung-strom":    ["Verbrauch-Erzeugung Strom", r"^Stromerzeugung/-bereitstellung"],
+    "stadtwerke-bus-fahrzeuge":     ["BUS-Fahrzeuge der Stadtwerke", r"^Fahrzeuge"]
 }
-FIRST_ROW_SETUP = 'ZEIT;RAUM;MERKMAL;WERT;QUELLANGABE'
 
+# old 2023-04:
+# FIRST_ROW_SETUP = 'ZEIT;RAUM;MERKMAL;WERT;QUELLANGABE'
+# ENCODING = 'latin-1'
+
+# new 2023-06-05:
+FIRST_ROW_SETUP = '"ZEIT";"RAUM";"MERKMAL";"WERT";"WERTEEINHEIT";"QUELLANGABE";"QUELLNAME"'
+ENCODING = 'utf-8'
 
 
 
@@ -50,7 +55,7 @@ logging.info("Reading %s", FILE)
 # and add a name of the dataset in the first column
 def group_rows_by_dataset():
     FIRST_ROW = []
-    with open(FILE, 'r', encoding='latin-1') as csvinput:
+    with open(FILE, 'r', encoding=ENCODING) as csvinput:
         line = 0
         unknowns = 0
         OUTFILES_DATA = {}
@@ -61,7 +66,7 @@ def group_rows_by_dataset():
                 NR_COLS = len(KLIMAROW)
                 FIRST_ROW = KLIMAROW
                 logging.info("%s Spalten: %s", NR_COLS, KLIMAROW)
-                if ';'.join(FIRST_ROW) != FIRST_ROW_SETUP:
+                if ('"' + ('";"'.join(FIRST_ROW)) + '"') != FIRST_ROW_SETUP:
                     raise ValueError("Unexpected first row in CSV")
             else:
                 # fix broken rows ... append next row, if its too short ..
@@ -74,13 +79,18 @@ def group_rows_by_dataset():
                     KLIMAROW = KLIMAROW[:-1] + [correct_string] + nextrow
                     logging.info("Fixed broken row: %s", KLIMAROW)
 
-                merkmal = KLIMAROW[2]
+                quell_merkmal = KLIMAROW[2]
+                quell_dateiname = KLIMAROW[6]
                 hit = ""
                 for file_name, regexes in DATASET_DESCRIPTIONS.items():
-                    for regex in regexes:
-                        if re.match(regex, merkmal):
-                            hit = file_name
-                            break
+                    direct_match = regexes[0]
+                    regex = regexes[1]
+                    if (direct_match == quell_dateiname):
+                        hit = file_name
+                        break
+#                    elif re.match(regex, quell_merkmal):
+#                        hit = file_name
+#                        break
 
                 if hit:
                     if hit in OUTFILES_DATA:
@@ -89,7 +99,7 @@ def group_rows_by_dataset():
                         OUTFILES_DATA[hit] = [KLIMAROW]
                     logging.debug("Row %s belongs to %s", line, hit)
                 else:
-                    logging.debug("Row %s = UNKNOWN: %s", line, KLIMAROW)
+                    logging.warning("Row %s = UNKNOWN: %s", line, KLIMAROW)
                     unknowns = unknowns + 1
             if unknowns > 0:
                 logging.error("TOO MANY UNKNOWNS")
@@ -126,8 +136,8 @@ def get_external_data(filename, quelle, einheit):
                 "Münster, Gesamtstadt",
                 name,
                 value,
-                quelle,
-                einheit
+                einheit,
+                quelle
             ])
     return new_data
 
@@ -148,4 +158,4 @@ DATA_SPLIT['bestand-windanlagen'] = get_external_data(
 )
 
 write_json_file(DATA_SPLIT, "klimadata.json")
-write_csv_file_with_datsetname_in_first_column(DATA_SPLIT, FIRST_ROW + ["EINHEIT"], "klimadata.csv")
+write_csv_file_with_datsetname_in_first_column(DATA_SPLIT, FIRST_ROW, "klimadata.csv")

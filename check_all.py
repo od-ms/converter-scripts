@@ -8,7 +8,7 @@ import traceback
 LOGFILE_NAME = 'check_all.log'
 
 # Basic logger configuration
-logging.basicConfig(level=logging.DEBUG, filename=LOGFILE_NAME, format='<%(asctime)s %(levelname)s> %(message)s')
+logging.basicConfig(level=logging.INFO, filename=LOGFILE_NAME, format='<%(asctime)s %(levelname)s> %(message)s')
 
 LOGGER = logging.getLogger(__name__)
 TODAY = datetime.now()

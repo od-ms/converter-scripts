@@ -2,13 +2,14 @@
 import json
 import csv
 from urllib.request import Request,urlopen
+from urllib.error import URLError
 import config as cfg
 import logging
 import os
 import re
 from datetime import datetime
 import time
-
+import sys
 
 token = cfg.eco_counter_token
 outdir = '../radverkehr-zaehlstellen/'
@@ -26,7 +27,16 @@ def read_api_url(endpoint):
     req = Request(api_url + endpoint)
     req.add_header("Authorization", "Bearer {}".format(token))
     req.add_header("Accept", "application/json")
-    return urlopen(req).read().decode('utf-8')
+    try:
+        response = urlopen(req).read().decode('utf-8')
+    except URLError as e:
+        print(e.reason)
+        print(e.code)
+        print(e.read())
+        print(e)
+        exit()
+    return response
+
 
 def generate_filename(obj):
     return str(obj['id'])
@@ -39,7 +49,7 @@ def generate_filename(obj):
     name = re.sub(r"\s+", '-', name)
     return "{}-{}".format(obj['id'], name)
 
-if os.path.exists(sitefile):
+if 0 and os.path.exists(sitefile):
 
     # load cached site file
     f = open(sitefile, "r")
