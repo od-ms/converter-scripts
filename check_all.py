@@ -2,13 +2,12 @@ from urllib.request import Request, urlopen
 from urllib.error import HTTPError
 from datetime import datetime, timedelta
 import logging
-import sys
 import traceback
 
 LOGFILE_NAME = 'check_all.log'
 
 # Basic logger configuration
-logging.basicConfig(level=logging.INFO, filename=LOGFILE_NAME, format='<%(asctime)s %(levelname)s> %(message)s')
+logging.basicConfig(level=logging.DEBUG, filename=LOGFILE_NAME, format='<%(asctime)s %(levelname)s> %(message)s')
 
 LOGGER = logging.getLogger(__name__)
 TODAY = datetime.now()
@@ -18,7 +17,7 @@ ERROR_WORD = '-FAIL-'
 LOGGER.info("=====> CHECK START %s <=====", TODAY)
 
 
-def read_url(endpoint: str) -> list:
+def read_url(endpoint: str) -> str:
     # Read data from URL
     # and send our user agent string because [insert reason here]
 
@@ -31,7 +30,7 @@ def read_url(endpoint: str) -> list:
 
     except HTTPError as exception:
         response = str(exception) + "\n\n\n\n"
-        print( "<p>Error: %s</p>" % str(exception) )
+        print("<p>Error: %s</p>" % str(exception))
         LOGGER.error(exception)
 
     return response
@@ -104,14 +103,14 @@ def main():
     # Master control program
 
     try:
-        print_result('Coronazahlen', check_coronazahlen())
+        # print_result('Coronazahlen', check_coronazahlen())
         print_result('Parkplaetze', check_parkplaetze())
-        print_result('Radverkehr',  check_radverkehr())
+        print_result('Radverkehr', check_radverkehr())
         print_result('Aasee', check_aasee())
     except:
-        print( ERROR_WORD )
+        print(ERROR_WORD)
         e = traceback.format_exc()
-        print( "<p>Error: %s</p>" % e )
+        print("<p>Error: %s</p>" % e)
         LOGGER.error("ERROR: %s", e)
 
 
