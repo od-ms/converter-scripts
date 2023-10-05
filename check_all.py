@@ -105,7 +105,7 @@ def check_dcat_ap_harvesting():
 
     response = False
     try:
-        url = 'https://opendata.stadt-muenster.de/dcdatapde.xml'
+        url = 'https://opendata.stadt-muenster.de/dcatapde.xml'
         data = read_url(url)
         x = ET.fromstring(data)
         response = True
