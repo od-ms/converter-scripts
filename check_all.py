@@ -1,6 +1,7 @@
 from urllib.request import Request, urlopen
 from urllib.error import HTTPError
 from datetime import datetime, timedelta
+from xml.etree import ElementTree as ET
 import logging
 import traceback
 
@@ -99,6 +100,23 @@ def check_aasee():
     return lastLine[0:10] == checkDate
 
 
+def check_dcat_ap_harvesting():
+    # Check if the harvesting endpoint of our Open Data Portal returns valid XML
+
+    response = False
+    try:
+        url = 'https://opendata.stadt-muenster.de/dcdatapde.xml'
+        data = read_url(url)
+        x = ET.fromstring(data)
+        response = True
+    except ET.ParseError as e:
+        response = False
+        e = traceback.format_exc()
+        LOGGER.debug("Error while reading harvesting file: %s", e)
+
+    return response
+
+
 def main():
     # Master control program
 
@@ -107,6 +125,7 @@ def main():
         print_result('Parkplaetze', check_parkplaetze())
         print_result('Radverkehr', check_radverkehr())
         print_result('Aasee', check_aasee())
+        print_result('OpenDataHarvesting', check_dcat_ap_harvesting())
     except:
         print(ERROR_WORD)
         e = traceback.format_exc()
