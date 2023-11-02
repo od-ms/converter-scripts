@@ -42,7 +42,7 @@ with open(DATAFILE) as datafile:
 print("Latest entry in datafile:", newest_entry)
 
 # Kommune 	Datum 	Bestätigte Faelle 	Gesundete 	Todesfaelle
-#Stadt Bottrop 	18.12.2020 	2373 	1900 	18
+# Stadt Bottrop 	18.12.2020 	2373 	1900 	18
 # Kreis Borken 	18.12.2020 	5902 	4900 	100
 # Kreis Coesfeld 	18.12.2020 	2556 	2200 	27
 # Stadt Gelsenkirchen 	18.12.2020 	6456 	4900 	57
@@ -65,11 +65,11 @@ KREISE = {
 # request homepage to get cookie, otherwise they will send "403 forbidden" for later requests
 headers = {
     "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0"
-    }
+}
 session = requests.Session()
 print("Fetching " + "https://www.lzg.nrw.de/inf_schutz/corona_meldelage/index.html")
-response = session.get("https://www.lzg.nrw.de/inf_schutz/corona_meldelage/index.html", headers = headers)
-print("Status: {}".format(response.status_code) )
+response = session.get("https://www.lzg.nrw.de/inf_schutz/corona_meldelage/index.html", headers=headers)
+print("Status: {}".format(response.status_code))
 headers["Referer"] = "https://www.lzg.nrw.de/inf_schutz/corona_meldelage/index.html"
 
 # concatenate the separate files (they used to be all in 1 single file..)
@@ -81,13 +81,13 @@ for key in KREISE:
     # Read csv content from website
     current_city = URL.format(key)
     print("Fetching " + current_city)
-    response = session.get(current_city, headers = headers)
-    print("Status: {}, {}".format(response.status_code, response.encoding) )
+    response = session.get(current_city, headers=headers)
+    print("Status: {}, {}".format(response.status_code, response.encoding))
     # print(session.cookies.get_dict())
 
     # decode utf8
     content = response.content
-    content = re.sub(r'[^\x00-\x7F]+','',content.decode('utf-8'))
+    content = re.sub(r'[^\x00-\x7F]+', '', content.decode('utf-8'))
     lines = content.splitlines()
 
     # reverse the whole file but keep the first line (=header row)
