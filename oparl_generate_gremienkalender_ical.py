@@ -21,7 +21,7 @@ OUTPUT_FILE_ICS = 'ratsinformation_termine.ics'
 OUTPUT_FILE_CSV = 'ratsinformation_termine.csv'
 
 SKIP_EMPTY_ORGANIZATION_NAMES = True
-CONFIG_EXPORT_YEAR = "2023"
+CONFIG_EXPORT_YEAR = "2024"
 
 
 # Basic logger configuration
