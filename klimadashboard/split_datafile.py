@@ -10,7 +10,7 @@ import os
 
 from datetime import datetime, timezone
 
-FILE = '05515000_csv_klimarelevante_daten.csv'
+FILE = 'klimadata_2024-02-20_1.csv'
 
 # Basic logger configuration
 logging.basicConfig(level=logging.DEBUG, format='<%(asctime)s %(levelname)s> %(message)s')
@@ -20,30 +20,38 @@ logging.info("=====> START %s <=====", datetime.now())
 
 
 DATASET_DESCRIPTIONS = {
-    "awm-abfallaufkommen-pro-kopf": ["Abfallaufkommen pro Kopf in kg", r"^Abfallaufkommen\s"],
-    "awm-e-mobilitaet":             ["E-Mobilität awm", r"^AWM\sFahrzeuge\s-"],
-    "oekoprofit":                   ["Ökoprofit", r"^Projektträger\sMünster\s-"],
-    "pv-anlagen":                   ["PV-Anlagen", r"^PV-Anlage\(n\):"],
-    "modal-split-v-leistung":       ["Modal Split V.leistung", r"^(Absolut|Absolut\sin\skm|Modal\sSplit\sV\.leistung.*)$"],
-    "verkehrsmittelwahl-zeitreihe": ["Zeitreihe Verkehrsmittelwahl", r"^Verkehrsmittelwahl", r"^Wege/Tag$"],
-    "stadtradeln":                  ["Stadtradeln", r"^Stadtradeln"],
-    "co2-emissionen-anwendungen":   ["CO2 Emissionen (Anwendungen)", r"^CO2-Emissionen\sAnwendung"],
-    "co2-emissionen-sektoren":      ["CO2 Emissionen (Sekt. + ET)", r"^CO2-Emissionen\s-\s"],
-    "co2-emissionen-tonnen":        ["CO2 Emissionen (Sektoren)", r"^CO2-Emissionen\s(in\s)?\(t\)\s+-"],
-    "emissionen-strom":             ["Emissionen Strom", r"^Strom-Emissionen\snach\sEnergieträgern"],
-    "endenergie":                   ["Endenergie (Sekt)", r"^Endenergieverbrauch"],
-    "teilnehmer-startberatung":     ["Teilnehmer (Unternehmen) Startberatung", r"^Teilnehmer"],
-    "verbrauch-erzeugung-strom":    ["Verbrauch-Erzeugung Strom", r"^Stromerzeugung/-bereitstellung"],
-    "stadtwerke-bus-fahrzeuge":     ["BUS-Fahrzeuge der Stadtwerke", r"^Fahrzeuge"]
+    "awm-abfallaufkommen-pro-kopf": [1, "Abfallaufkommen pro Kopf in kg", r"^Abfallaufkommen\s"],
+    "awm-e-mobilitaet":             [17, "E-Mobilität awm", r"^AWM\sFahrzeuge\s-"],
+    "oekoprofit":                   [7, "Ökoprofit", r"^Projektträger\sMünster\s-"],
+    "pv-anlagen":                   [15, "PV-Anlagen", r"^PV-Anlage\(n\):"],
+    "verkehrsmittelwahl-zeitreihe": [4, "Zeitreihe Verkehrsmittelwahl", r"^Verkehrsmittelwahl", r"^Wege/Tag$"],
+    "stadtradeln":                  [8, "Stadtradeln", r"^Stadtradeln"],
+    "co2-emissionen-anwendungen":   [10, "CO2 Emissionen (Anwendungen)", r"^CO2-Emissionen\sAnwendung"],
+    "co2-emissionen-sektoren":      [11, "CO2 Emissionen (Sekt. + ET)", r"^CO2-Emissionen\s-\s"],
+    "co2-emissionen-tonnen":        [9, "CO2 Emissionen (Sektoren)", r"^CO2-Emissionen\s(in\s)?\(t\)\s+-"],
+    "emissionen-strom":             [14, "Emissionen Strom", r"^Strom-Emissionen\snach\sEnergieträgern"],
+    "endenergie":                   [12, "Endenergie (Sekt)", r"^Endenergieverbrauch"],
+    "teilnehmer-startberatung":     [16, "Teilnehmer (Unternehmen) Startberatung", r"^Teilnehmer"],
+    "verbrauch-erzeugung-strom":    [13, "Verbrauch-Erzeugung Strom", r"^Stromerzeugung/-bereitstellung"],
+    "stadtwerke-bus-fahrzeuge":     [3, "BUS-Fahrzeuge der Stadtwerke", r"^Fahrzeuge"]
+
+    # Änderung 2024-03: Das ist jetzt zusammen mit "4" Zeitreihe Verkehrsmittelwahl:
+    # "modal-split-v-leistung":       ["Modal Split V.leistung", r"^(Absolut|Absolut\sin\skm|Modal\sSplit\sV\.leistung.*)$"],
 }
 
 # old 2023-04:
 # FIRST_ROW_SETUP = 'ZEIT;RAUM;MERKMAL;WERT;QUELLANGABE'
 # ENCODING = 'latin-1'
 
-# new 2023-06-05:
-FIRST_ROW_SETUP = '"ZEIT";"RAUM";"MERKMAL";"WERT";"WERTEEINHEIT";"QUELLANGABE";"QUELLNAME"'
-ENCODING = 'utf-8'
+# old 2023-06-05:
+# FIRST_ROW_SETUP = '"ZEIT";"RAUM";"MERKMAL";"WERT";"WERTEEINHEIT";"QUELLANGABE";"QUELLNAME"'
+#                       X      X       X       X            X          X            => rausgeflogen
+
+# new 2024-03-05:     X         alt:QUELLANGABE       NEU        X         X       X       X
+FIRST_ROW_SETUP = '"RAUM";"QUELLE_INSTITUTION";"THEMENBEREICH";"MERKMAL";"ZEIT";"WERT";"WERTEEINHEIT"'
+
+
+ENCODING = 'utf-8-sig' # utf8 mit bom
 
 
 
@@ -79,13 +87,14 @@ def group_rows_by_dataset():
                     KLIMAROW = KLIMAROW[:-1] + [correct_string] + nextrow
                     logging.info("Fixed broken row: %s", KLIMAROW)
 
-                quell_merkmal = KLIMAROW[2]
-                quell_dateiname = KLIMAROW[6]
+                quell_merkmal = KLIMAROW[3]
+                quell_themenbereich_id = KLIMAROW[2]
                 hit = ""
                 for file_name, regexes in DATASET_DESCRIPTIONS.items():
                     direct_match = regexes[0]
-                    regex = regexes[1]
-                    if (direct_match == quell_dateiname):
+                    themenbereich_name = regexes[1]
+                    regex = regexes[2]
+                    if (str(direct_match) == str(quell_themenbereich_id)):
                         hit = file_name
                         break
 #                    elif re.match(regex, quell_merkmal):
@@ -132,12 +141,13 @@ def get_external_data(filename, quelle, einheit):
         parsed_json = json.load(user_file)
         for name, value in parsed_json["Summen"].items():
             new_data.append([
-                str(datetime.now())[0:10],
                 "Münster, Gesamtstadt",
+                quelle,
+                23,
                 name,
+                str(datetime.now())[0:10],
                 value,
-                einheit,
-                quelle
+                einheit
             ])
     return new_data
 
