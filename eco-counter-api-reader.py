@@ -1,21 +1,20 @@
 # coding=utf-8
-import json
-import csv
-from urllib.request import Request,urlopen
-from urllib.error import URLError
-import config as cfg
-import logging
 import os
 import re
-from datetime import datetime
-import time
+import csv
 import sys
+import json
+from datetime import datetime
+from urllib.error import URLError
+from urllib.request import Request,urlopen
+import config as cfg
 
 token = cfg.eco_counter_token
 outdir = '../radverkehr-zaehlstellen/'
 sitefile = outdir + 'site.json'
 infofile = outdir + 'SITE_INDEX.md'
-startYear = 2019
+startYear = 2023 # angepasst auf die neuen Zählstellen, für die alten nehme man "2019"
+
 
 api_url = cfg.eco_counter_api_url
 wanted_ids = cfg.eco_counter_ids
@@ -23,7 +22,7 @@ wanted_ids = cfg.eco_counter_ids
 content = ""
 
 def read_api_url(endpoint):
-    # read site data from api
+    """ read site data from eco counter api """
     req = Request(api_url + endpoint)
     req.add_header("Authorization", "Bearer {}".format(token))
     req.add_header("Accept", "application/json")
@@ -39,9 +38,11 @@ def read_api_url(endpoint):
 
 
 def generate_filename(obj):
+    """ we could create fancy file & directory names,
+        but as they keep changing (from the api) we don't do it"""
     return str(obj['id'])
 
-    # no fancy names, just IDs
+    # code to generate fancy directorynames
     name = obj['name'].lower()
     name = name.replace('ä', 'ae')
     name = name.replace('ß', 'ss')
@@ -72,7 +73,7 @@ sites_json = json.loads(content)
 # Write Info-Markdown-File
 with open(infofile, 'w') as ifile:
     print("======== Writing info- & site-files ========")
-    print(" ==> Writing infofile: {}".format(infofile))
+    print(f" ==> Writing infofile: {infofile}")
     ifile.write("# Daten der Fahrradzählstellen in Münster\n\n")
     ifile.write("Dieses Repository enthält die tagesaktuellen Daten der Radverkehr-Zählstellen in Münster. Die Daten werden jede Nacht aktualisiert.\n\n")
     ifile.write("Weitere Informationen zu den Daten in diesem Repository finden Sie auf dem Open-Data-Portal der Stadt Münster (https://opendata.stadt-muenster.de) sowie auf der Homepage des Amt für Mobilität und Tiefbau (https://www.stadt-muenster.de/verkehrsplanung/verkehr-in-zahlen/radverkehrszaehlungen).\n\n")
@@ -80,20 +81,25 @@ with open(infofile, 'w') as ifile:
     ifile.write("Die Daten stehen stehen unter der Lizenz 'Datenlizenz Deutschland Namensnennung 2.0' (https://www.govdata.de/dl-de/by-2-0).\n\n")
     ifile.write("**Sie finden die Ergebnisse der folgenden Radverkehr-Zählstellen in den entsprechenden Unterverzeichnissen:**\n\n")
 
-    def getName(elem):
+    def get_clean_channel_name(cname):
+        """ remove unwanted strings from channels names """
+        return cname.replace(' (real)', '').replace(' (virtual)', '')
+
+    def getSortKey(elem):
         return elem['name']
-    sites_json.sort(key=getName)
+    sites_json.sort(key=getSortKey)
 
     for site_json in sites_json:
         channels = []
         site_id = site_json['id']
         if site_id in wanted_ids:
-            channels.append([site_id, site_json['name']])
-            ifile.write(" * [{0}]({0}) - {1}\n".format(site_json['id'], site_json['name']))
+            clean_channel_name = get_clean_channel_name(site_json['name']);
+            channels.append([site_id, clean_channel_name])
+            ifile.write(" * [{0}]({0}) - {1}\n".format(site_json['id'], clean_channel_name))
             if 'channels' in site_json:
                 for channel_json in site_json['channels']:
-                    channels.append([channel_json['id'], channel_json['name']])
-                    ifile.write("   * {0} - {1}\n".format(channel_json['id'], channel_json['name']))
+                    channels.append([channel_json['id'], get_clean_channel_name(channel_json['name'])])
+                    ifile.write("   * {0} - {1}\n".format(channel_json['id'], get_clean_channel_name(channel_json['name'])))
             sites.append({
                 "name": site_json['name'],
                 "directory": generate_filename(site_json),
@@ -116,6 +122,13 @@ for site in sites:
     year = int(site['start'])
     month = 1
     processingMonth = '{0}-{1:02d}'.format(year,month)
+
+    dont_process_counter_if_latest_file_is_there = 0
+    if (dont_process_counter_if_latest_file_is_there):
+        latest_file_filename = "{0}/{1}-{2:02d}.csv".format(sitedir, datetime.now().year, datetime.now().month)
+        if os.path.exists(latest_file_filename):
+            print(f"   <***> SKIPPING site {site['name']}")
+            continue
 
     while processingMonth < currentDate:
 
