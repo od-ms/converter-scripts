@@ -1,2256 +1,2247 @@
 [
-  {
-    "art_txt": "Glascontainer"
-  },
-  {
-    "inf": [
-      "48151 M\u00fcnster - Aaseestadt",
-      "Bonhoefferstra\u00dfe (Polizeischule gg\u00fc.)",
-      ""
-    ],
-    "lat": "51.941853",
-    "lng": "7.606371",
-    "iwo": 1
-  },
-  {
-    "inf": [
-      "48151 M\u00fcnster - Aaseestadt",
-      "Delpstra\u00dfe\/Goerdeler Stra\u00dfe (gegen\u00fcber Hochh\u00e4user)",
-      ""
-    ],
-    "lat": "51.947723",
-    "lng": "7.607582"
-  },
-  {
-    "inf": [
-      "48151 M\u00fcnster - Aaseestadt",
-      "Lange Ossenbeck (Buskehre)",
-      ""
-    ],
-    "lat": "51.937237",
-    "lng": "7.597556"
-  },
-  {
-    "inf": [
-      "48151 M\u00fcnster - Aaseestadt",
-      "Lange Ossenbeck\/Kleihorststra\u00dfe",
-      ""
-    ],
-    "lat": "51.938889",
-    "lng": "7.599728"
-  },
-  {
-    "inf": [
-      "48151 M\u00fcnster - Aaseestadt",
-      "Von-Ossietzky-Str. gegen\u00fc. Tennisplatz",
-      ""
-    ],
-    "lat": "51.942280",
-    "lng": "7.601887"
-  },
-  {
-    "inf": [
-      "48151 M\u00fcnster - Aaseestadt",
-      "Von-Stauffenbergstr. gegen\u00fc. Haus Nr. 36",
-      ""
-    ],
-    "lat": "51.945587",
-    "lng": "7.612130"
-  },
-  {
-    "inf": [
-      "48163 M\u00fcnster - Albachten",
-      "Am K\u00e4mpken",
-      ""
-    ],
-    "lat": "51.920242",
-    "lng": "7.526349"
-  },
-  {
-    "inf": [
-      "48163 M\u00fcnster - Albachten",
-      "Concordenstr. (Parkplatz vor dem Sportplatz)",
-      ""
-    ],
-    "lat": "51.923843",
-    "lng": "7.529778"
-  },
-  {
-    "inf": [
-      "48163 M\u00fcnster - Albachten",
-      "D\u00fclmener Stra\u00dfe (gegen\u00fcber Feuerwehr)",
-      ""
-    ],
-    "lat": "51.925007",
-    "lng": "7.521031"
-  },
-  {
-    "inf": [
-      "48163 M\u00fcnster - Albachten",
-      "Langenkamp (Buswende)",
-      ""
-    ],
-    "lat": "51.914619",
-    "lng": "7.526518"
-  },
-  {
-    "inf": [
-      "48163 M\u00fcnster - Albachten",
-      "Osthofstra\u00dfe (Parkplatz Friedhof)",
-      ""
-    ],
-    "lat": "51.923420",
-    "lng": "7.526430"
-  },
-  {
-    "inf": [
-      "48163 M\u00fcnster - Amelsb\u00fcren",
-      "Am Emmerbach (Parkplatz)",
-      ""
-    ],
-    "lat": "51.885490",
-    "lng": "7.604564"
-  },
-  {
-    "inf": [
-      "48163 M\u00fcnster - Amelsb\u00fcren",
-      "Auf der Woort (vor Getr\u00e4nkemarkt Dursty, Parkstreifen)",
-      ""
-    ],
-    "lat": "51.883064",
-    "lng": "7.605256"
-  },
-  {
-    "inf": [
-      "48163 M\u00fcnster - Amelsb\u00fcren",
-      "Davertstra\u00dfe (Feuerwehr\/Friedhof)",
-      ""
-    ],
-    "lat": "51.881355",
-    "lng": "7.608515"
-  },
-  {
-    "inf": [
-      "48163 M\u00fcnster - Amelsb\u00fcren",
-      "Kappenberger Damm (Wiedau-Schule)",
-      ""
-    ],
-    "lat": "51.894478",
-    "lng": "7.578858"
-  },
-  {
-    "inf": [
-      "48163 M\u00fcnster - Amelsb\u00fcren",
-      "Pater-Kolbe-Stra\u00dfe\/Am Dornbusch",
-      ""
-    ],
-    "lat": "51.883289",
-    "lng": "7.615717"
-  },
-  {
-    "inf": [
-      "48167 M\u00fcnster - Angelmodde",
-      "Albersloher Weg\/Zum Kaiserbusch gegen\u00fcber Haus Nr. 1",
-      ""
-    ],
-    "lat": "51.912727",
-    "lng": "7.684429"
-  },
-  {
-    "inf": [
-      "48167 M\u00fcnster - Angelmodde",
-      "Alter Postweg",
-      ""
-    ],
-    "lat": "51.923958",
-    "lng": "7.699961"
-  },
-  {
-    "inf": [
-      "48167 M\u00fcnster - Angelmodde",
-      "Am Sch\u00fctthook (Junker-J\u00f6rg-Platz)",
-      ""
-    ],
-    "lat": "51.915607",
-    "lng": "7.690217"
-  },
-  {
-    "inf": [
-      "48167 M\u00fcnster - Angelmodde",
-      "Am Sch\u00fctthook (Parkplatz Boelestra\u00dfe)",
-      ""
-    ],
-    "lat": "51.915855",
-    "lng": "7.694539"
-  },
-  {
-    "inf": [
-      "48167 M\u00fcnster - Angelmodde",
-      "Bonnenkamp\/ Middelkamp (Wendehammer)",
-      ""
-    ],
-    "lat": "51.912060",
-    "lng": "7.689929"
-  },
-  {
-    "inf": [
-      "48167 M\u00fcnster - Angelmodde",
-      "Brandhoveweg\/Pepinghegeweg",
-      ""
-    ],
-    "lat": "51.917656",
-    "lng": "7.707878"
-  },
-  {
-    "inf": [
-      "48167 M\u00fcnster - Angelmodde",
-      "Buschstra\u00dfe 6\/Zum Erlenbusch",
-      ""
-    ],
-    "lat": "51.922100",
-    "lng": "7.677308"
-  },
-  {
-    "inf": [
-      "48167 M\u00fcnster - Angelmodde",
-      "Eichendorffstra\u00dfe vor Haus Nr. 3",
-      ""
-    ],
-    "lat": "51.914375",
-    "lng": "7.691037"
-  },
-  {
-    "inf": [
-      "48167 M\u00fcnster - Angelmodde",
-      "Homannstra\u00dfe\/Zum Erlenbusch 100",
-      ""
-    ],
-    "lat": "51.919628",
-    "lng": "7.681194"
-  },
-  {
-    "inf": [
-      "48167 M\u00fcnster - Angelmodde",
-      "Schlesienstra\u00dfe",
-      ""
-    ],
-    "lat": "51.918465",
-    "lng": "7.677483"
-  },
-  {
-    "inf": [
-      "48167 M\u00fcnster - Angelmodde",
-      "Schlesienstra\u00dfe\/Ostpreu\u00dfenstra\u00dfe",
-      ""
-    ],
-    "lat": "51.918427",
-    "lng": "7.677505"
-  },
-  {
-    "inf": [
-      "48167 M\u00fcnster - Angelmodde",
-      "Theodor-Heuss-Stra\u00dfe 10",
-      ""
-    ],
-    "lat": "51.914455",
-    "lng": "7.692838"
-  },
-  {
-    "inf": [
-      "48167 M\u00fcnster - Angelmodde",
-      "Vogelrohrsheide (vor Haus Nr. 138)",
-      ""
-    ],
-    "lat": "51.914555",
-    "lng": "7.684626"
-  },
-  {
-    "inf": [
-      "48153 M\u00fcnster - Berg Fidel",
-      "Am Berg Fidel (Parkpl. Preu\u00dfen-Stadion)",
-      ""
-    ],
-    "lat": "51.931835",
-    "lng": "7.625546"
-  },
-  {
-    "inf": [
-      "48153 M\u00fcnster - Berg Fidel",
-      "Am Berg Fidel (gg\u00fc. Haus Nr. 62)",
-      ""
-    ],
-    "lat": "51.926998",
-    "lng": "7.624035"
-  },
-  {
-    "inf": [
-      "48165 M\u00fcnster - Berg Fidel",
-      "Elsa-Br\u00e4ndstr\u00f6m-Weg\/Vennheideweg",
-      ""
-    ],
-    "lat": "51.921417",
-    "lng": "7.621697"
-  },
-  {
-    "inf": [
-      "48153 M\u00fcnster - Berg Fidel",
-      "Hogenbergstr. vor Haus Nr. 21-27 Einkaufszentrum",
-      ""
-    ],
-    "lat": "51.927155",
-    "lng": "7.619977"
-  },
-  {
-    "inf": [
-      "48153 M\u00fcnster - Berg Fidel",
-      "Lechterstra\u00dfe 6 (B\u00fcrgersteig)",
-      ""
-    ],
-    "lat": "51.926044",
-    "lng": "7.617250"
-  },
-  {
-    "inf": [
-      "48153 M\u00fcnster - Berg Fidel",
-      "Pankokstra\u00dfe (Haus Simeon)",
-      ""
-    ],
-    "lat": "51.926411",
-    "lng": "7.622861"
-  },
-  {
-    "inf": [
-      "48153 M\u00fcnster - Berg Fidel",
-      "Ter-Borch-Stra\u00dfe (Parkplatz)",
-      ""
-    ],
-    "lat": "51.925774",
-    "lng": "7.620609"
-  },
-  {
-    "inf": [
-      "48147 M\u00fcnster - Centrum",
-      "Am Kreuztor (REWE-Markt)",
-      ""
-    ],
-    "lat": "51.968212",
-    "lng": "7.622635"
-  },
-  {
-    "inf": [
-      "48149 M\u00fcnster - Centrum",
-      "Einsteinstra\u00dfe\/Hittorfstra\u00dfe",
-      ""
-    ],
-    "lat": "51.965752",
-    "lng": "7.604761"
-  },
-  {
-    "inf": [
-      "48153 M\u00fcnster - Centrum",
-      "Friedrich-Ebert-Stra\u00dfe\/Annenstra\u00dfe",
-      ""
-    ],
-    "lat": "51.950481",
-    "lng": "7.631752"
-  },
-  {
-    "inf": [
-      "48151 M\u00fcnster - Centrum",
-      "Geiststra\u00dfe 10",
-      ""
-    ],
-    "lat": "51.951641",
-    "lng": "7.620634"
-  },
-  {
-    "inf": [
-      "48147 M\u00fcnster - Centrum",
-      "Goldstra\u00dfe\/Piusallee",
-      ""
-    ],
-    "lat": "51.971039",
-    "lng": "7.640486"
-  },
-  {
-    "inf": [
-      "48149 M\u00fcnster - Centrum",
-      "Grevener Stra\u00dfe, H\u00f6he Nr. 61c",
-      ""
-    ],
-    "lat": "51.971848",
-    "lng": "7.612333"
-  },
-  {
-    "inf": [
-      "48155 M\u00fcnster - Centrum",
-      "Hansaring (REWE-Markt)",
-      ""
-    ],
-    "lat": "51.953514",
-    "lng": "7.643968"
-  },
-  {
-    "inf": [
-      "48151 M\u00fcnster - Centrum",
-      "Hermannstra\u00dfe\/Norbertstra\u00dfe",
-      ""
-    ],
-    "lat": "51.953445",
-    "lng": "7.622813"
-  },
-  {
-    "inf": [
-      "48149 M\u00fcnster - Centrum",
-      "H\u00fcfferstr. (auf Parkstr. vor Haus Nr. 54, M\u00f6serweg)",
-      ""
-    ],
-    "lat": "51.960754",
-    "lng": "7.605673"
-  },
-  {
-    "inf": [
-      "48143 M\u00fcnster - Centrum",
-      "Katthagen\/Rosenplatz (Unterflur)",
-      ""
-    ],
-    "lat": "51.965084",
-    "lng": "7.622202"
-  },
-  {
-    "inf": [
-      "48151 M\u00fcnster - Centrum",
-      "Kolde-Ring",
-      ""
-    ],
-    "lat": "51.949726",
-    "lng": "7.613043"
-  },
-  {
-    "inf": [
-      "48143 M\u00fcnster - Centrum",
-      "Korduanenstra\u00dfe (H\u00f6rster Parkplatz)",
-      ""
-    ],
-    "lat": "51.964432",
-    "lng": "7.631551"
-  },
-  {
-    "inf": [
-      "48143 M\u00fcnster - Centrum",
-      "K\u00f6nigsstr. (Parkplatz vor Haus Nr. 46, AOK)",
-      ""
-    ],
-    "lat": "51.958977",
-    "lng": "7.625776"
-  },
-  {
-    "inf": [
-      "48153 M\u00fcnster - Centrum",
-      "Leostra\u00dfe\/Hafenstra\u00dfe (Busbahnhof)",
-      ""
-    ],
-    "lat": "51.953434",
-    "lng": "7.632208"
-  },
-  {
-    "inf": [
-      "48147 M\u00fcnster - Centrum",
-      "Maximilianstra\u00dfe\/Zuhornstra\u00dfe",
-      ""
-    ],
-    "lat": "51.970196",
-    "lng": "7.626627"
-  },
-  {
-    "inf": [
-      "48143 M\u00fcnster - Centrum",
-      "M\u00fchlenstra\u00dfe\/Am Stadtgraben",
-      ""
-    ],
-    "lat": "51.958794",
-    "lng": "7.619821"
-  },
-  {
-    "inf": [
-      "48143 M\u00fcnster - Centrum",
-      "M\u00fcnzstra\u00dfe\/Kalkmarkt (gegen\u00fcber)",
-      ""
-    ],
-    "lat": "51.966702",
-    "lng": "7.617672"
-  },
-  {
-    "inf": [
-      "48149 M\u00fcnster - Centrum",
-      "Nordplatz",
-      ""
-    ],
-    "lat": "51.971889",
-    "lng": "7.623393"
-  },
-  {
-    "inf": [
-      "48145 M\u00fcnster - Centrum",
-      "Oststr. (gg\u00fc. Fernmeldeamt, Durchgang)",
-      ""
-    ],
-    "lat": "51.962105",
-    "lng": "7.645330"
-  },
-  {
-    "inf": [
-      "48151 M\u00fcnster - Centrum",
-      "Scharnhorststra\u00dfe (Hoppendamm) Unterflur",
-      ""
-    ],
-    "lat": "51.953228",
-    "lng": "7.614333"
-  },
-  {
-    "inf": [
-      "48151 M\u00fcnster - Centrum",
-      "Scharnhorststra\u00dfe vor Haus Nr. 100",
-      ""
-    ],
-    "lat": "51.950066",
-    "lng": "7.607161"
-  },
-  {
-    "inf": [
-      "48149 M\u00fcnster - Centrum",
-      "Schlossplatz (gg\u00fc. Frauenstra\u00dfe)",
-      ""
-    ],
-    "lat": "51.963127",
-    "lng": "7.617717"
-  },
-  {
-    "inf": [
-      "48143 M\u00fcnster - Centrum",
-      "Servatiiplatz\/Wolbecker Stra\u00dfe",
-      ""
-    ],
-    "lat": "51.959908",
-    "lng": "7.635615"
-  },
-  {
-    "inf": [
-      "48149 M\u00fcnster - Centrum",
-      "Steinfurter Str. 67-81 (Studentenw.)",
-      ""
-    ],
-    "lat": "51.972324",
-    "lng": "7.606580"
-  },
-  {
-    "inf": [
-      "48149 M\u00fcnster - Centrum",
-      "Steinfurter Stra\u00dfe 23-25 (REWE-Markt)",
-      ""
-    ],
-    "lat": "51.969162",
-    "lng": "7.612375"
-  },
-  {
-    "inf": [
-      "48149 M\u00fcnster - Centrum",
-      "Studtplatz\/Grimmstra\u00dfe  Unterflur",
-      ""
-    ],
-    "lat": "51.969345",
-    "lng": "7.618198"
-  },
-  {
-    "inf": [
-      "48153 M\u00fcnster - Centrum",
-      "S\u00fcdstra\u00dfe\/Hafenstra\u00dfe",
-      ""
-    ],
-    "lat": "51.954987",
-    "lng": "7.627707"
-  },
-  {
-    "inf": [
-      "48143 M\u00fcnster - Centrum",
-      "Universit\u00e4tsstra\u00dfe\/Bispinghof",
-      ""
-    ],
-    "lat": "51.960754",
-    "lng": "7.620446"
-  },
-  {
-    "inf": [
-      "48147 M\u00fcnster - Centrum",
-      "Wasserstra\u00dfe\/Kanalstra\u00dfe",
-      ""
-    ],
-    "lat": "51.966888",
-    "lng": "7.630901"
-  },
-  {
-    "inf": [
-      "48149 M\u00fcnster - Centrum",
-      "Wilhelmstra\u00dfe\/Orl\u00e8ans-Ring",
-      ""
-    ],
-    "lat": "51.968712",
-    "lng": "7.603550"
-  },
-  {
-    "inf": [
-      "48159 M\u00fcnster - Centrum",
-      "York-Ring (Hauptfeuerwache)",
-      ""
-    ],
-    "lat": "51.974380",
-    "lng": "7.610001"
-  },
-  {
-    "inf": [
-      "48157 M\u00fcnster - Coerde",
-      "An der Kleimannbr\u00fccke 25 (Kanal)",
-      ""
-    ],
-    "lat": "51.990982",
-    "lng": "7.660605"
-  },
-  {
-    "inf": [
-      "48157 M\u00fcnster - Coerde",
-      "An der Kleinannbr\u00fccke\/August-Horch-Stra\u00dfe",
-      ""
-    ],
-    "lat": "51.995888",
-    "lng": "7.662595"
-  },
-  {
-    "inf": [
-      "48157 M\u00fcnster - Coerde",
-      "An der Meerwiese",
-      ""
-    ],
-    "lat": "51.987568",
-    "lng": "7.649341"
-  },
-  {
-    "inf": [
-      "48157 M\u00fcnster - Coerde",
-      "Dachsleite\/Marienburgstra\u00dfe",
-      ""
-    ],
-    "lat": "51.997517",
-    "lng": "7.648975"
-  },
-  {
-    "inf": [
-      "48157 M\u00fcnster - Coerde",
-      "G\u00f6rlitzer Stra\u00dfe (zw. Haus Nr. 34-58)",
-      ""
-    ],
-    "lat": "51.991726",
-    "lng": "7.642728"
-  },
-  {
-    "inf": [
-      "48157 M\u00fcnster - Coerde",
-      "Hamannplatz",
-      ""
-    ],
-    "lat": "51.993423",
-    "lng": "7.646639"
-  },
-  {
-    "inf": [
-      "48157 M\u00fcnster - Coerde",
-      "Hessenbusch gg\u00fc. 184 (Wagenburg)",
-      ""
-    ],
-    "lat": "52.010876",
-    "lng": "7.665422"
-  },
-  {
-    "inf": [
-      "48157 M\u00fcnster - Coerde",
-      "Josef-K\u00f6nig-Str.\/Nevinghoff \/ Arbeitsamt",
-      ""
-    ],
-    "lat": "51.984341",
-    "lng": "7.633314"
-  },
-  {
-    "inf": [
-      "48157 M\u00fcnster - Coerde",
-      "Nerzweg gegen\u00fcber Haus Nr. 32",
-      ""
-    ],
-    "lat": "51.999153",
-    "lng": "7.640459"
-  },
-  {
-    "inf": [
-      "48157 M\u00fcnster - Coerde",
-      "Schneidem\u00fchler Str. \/K\u00f6nigsberger Str.",
-      ""
-    ],
-    "lat": "51.993668",
-    "lng": "7.650028"
-  },
-  {
-    "inf": [
-      "48157 M\u00fcnster - Coerde",
-      "ZDM Coerder Liekweg 76 Recyclinghof",
-      ""
-    ],
-    "lat": "52.010872",
-    "lng": "7.652774"
-  },
-  {
-    "inf": [
-      "48153 M\u00fcnster - Geist",
-      "Augustastra\u00dfe\/Friedrich-Ebert-Stra\u00dfe",
-      ""
-    ],
-    "lat": "51.948067",
-    "lng": "7.630926"
-  },
-  {
-    "inf": [
-      "48163 M\u00fcnster - Geist",
-      "Buldernweg\/Drensteinfurtweg",
-      ""
-    ],
-    "lat": "51.926701",
-    "lng": "7.601066"
-  },
-  {
-    "inf": [
-      "48153 M\u00fcnster - Geist",
-      "D\u00fcesbergweg (Maria-H\u00f6tte-Stift)",
-      ""
-    ],
-    "lat": "51.931030",
-    "lng": "7.613087"
-  },
-  {
-    "inf": [
-      "48151 M\u00fcnster - Geist",
-      "Els\u00e4sser Stra\u00dfe\/Metzer Stra\u00dfe",
-      ""
-    ],
-    "lat": "51.939926",
-    "lng": "7.620346"
-  },
-  {
-    "inf": [
-      "48153 M\u00fcnster - Geist",
-      "Friedrich-Ebert-Stra\u00dfe (E-Center, ehem. Toom-Markt)",
-      ""
-    ],
-    "lat": "51.943275",
-    "lng": "7.630899"
-  },
-  {
-    "inf": [
-      "48163 M\u00fcnster - Geist",
-      "Geringhoffstra\u00dfe (HIT-Markt)",
-      ""
-    ],
-    "lat": "51.929947",
-    "lng": "7.600092"
-  },
-  {
-    "inf": [
-      "48153 M\u00fcnster - Geist",
-      "Herdingstra\u00dfe\/Travelmannstra\u00dfe",
-      ""
-    ],
-    "lat": "51.946091",
-    "lng": "7.628080"
-  },
-  {
-    "inf": [
-      "48151 M\u00fcnster - Geist",
-      "Kappenberger Damm gegen\u00fcber Haus Nr. 88",
-      ""
-    ],
-    "lat": "51.935253",
-    "lng": "7.608469"
-  },
-  {
-    "inf": [
-      "48153 M\u00fcnster - Geist",
-      "Kriegerweg 41 (Bahnunterf\u00fchrung)",
-      ""
-    ],
-    "lat": "51.924641",
-    "lng": "7.611925"
-  },
-  {
-    "inf": [
-      "48153 M\u00fcnster - Geist",
-      "Scheibenstra\u00dfe (vor Haus Nr. 115)",
-      ""
-    ],
-    "lat": "51.938881",
-    "lng": "7.627559"
-  },
-  {
-    "inf": [
-      "48153 M\u00fcnster - Geist",
-      "Scheibenstra\u00dfe \/ Friedrich-Ebert-Stra\u00dfe",
-      ""
-    ],
-    "lat": "51.942413",
-    "lng": "7.625407"
-  },
-  {
-    "inf": [
-      "48151 M\u00fcnster - Geist",
-      "Sentmaringer Weg\/Geiststr.\/Marktplatz",
-      ""
-    ],
-    "lat": "51.945499",
-    "lng": "7.621973"
-  },
-  {
-    "inf": [
-      "48153 M\u00fcnster - Geist",
-      "St.-Josef-Kirchplatz (Hammer Stra\u00dfe\/ Dahlweg)",
-      ""
-    ],
-    "lat": "51.949680",
-    "lng": "7.625407"
-  },
-  {
-    "inf": [
-      "48163 M\u00fcnster - Geist",
-      "Werneweg\/Kappenberger Damm",
-      ""
-    ],
-    "lat": "51.924240",
-    "lng": "7.603225"
-  },
-  {
-    "inf": [
-      "48151 M\u00fcnster - Geist",
-      "W\u00f6rthstra\u00dfe 4",
-      ""
-    ],
-    "lat": "51.944141",
-    "lng": "7.622934"
-  },
-  {
-    "inf": [
-      "48157 M\u00fcnster - Gelmer",
-      "Westerheide (Schule)",
-      ""
-    ],
-    "lat": "52.028553",
-    "lng": "7.675924"
-  },
-  {
-    "inf": [
-      "48157 M\u00fcnster - Gelmer",
-      "Zur Eckernheide (Sportplatz)",
-      ""
-    ],
-    "lat": "52.025928",
-    "lng": "7.674493"
-  },
-  {
-    "inf": [
-      "48161 M\u00fcnster - Gievenbeck",
-      "Arnheimweg (Parkplatz Sportgel\u00e4nde)",
-      ""
-    ],
-    "lat": "51.965122",
-    "lng": "7.574830"
-  },
-  {
-    "inf": [
-      "48161 M\u00fcnster - Gievenbeck",
-      "Borghorstweg\/Enschedeweg\/Ahausweg",
-      ""
-    ],
-    "lat": "51.968826",
-    "lng": "7.572401"
-  },
-  {
-    "inf": [
-      "48161 M\u00fcnster - Gievenbeck",
-      "Gescherweg (Haus Nr. 70-84)",
-      ""
-    ],
-    "lat": "51.975597",
-    "lng": "7.574424"
-  },
-  {
-    "inf": [
-      "48161 M\u00fcnster - Gievenbeck",
-      "Gievenbecker Reihe (am Sportplatz)",
-      ""
-    ],
-    "lat": "51.965359",
-    "lng": "7.568089"
-  },
-  {
-    "inf": [
-      "48161 M\u00fcnster - Gievenbeck",
-      "Heekweg 15 (Sparkasse)",
-      ""
-    ],
-    "lat": "51.972759",
-    "lng": "7.564210"
-  },
-  {
-    "inf": [
-      "48161 M\u00fcnster - Gievenbeck",
-      "Hensenstra\u00dfe (vor Haus Nr. 190)",
-      ""
-    ],
-    "lat": "51.974056",
-    "lng": "7.570235"
-  },
-  {
-    "inf": [
-      "48161 M\u00fcnster - Gievenbeck",
-      "Horstmarer Landweg (Haus Nr. 250-258)",
-      ""
-    ],
-    "lat": "51.976212",
-    "lng": "7.585530"
-  },
-  {
-    "inf": [
-      "48161 M\u00fcnster - Gievenbeck",
-      "Horstmarer Landweg (Wendehammer) vor Uni Sportplatz",
-      ""
-    ],
-    "lat": "51.970104",
-    "lng": "7.602499"
-  },
-  {
-    "inf": [
-      "48161 M\u00fcnster - Gievenbeck",
-      "Horstmarer Landweg bei Haus Nr. 92",
-      ""
-    ],
-    "lat": "51.971432",
-    "lng": "7.596370"
-  },
-  {
-    "inf": [
-      "48161 M\u00fcnster - Gievenbeck",
-      "RATIO Verbrauchermarkt \/ Roxeler Str. 416-420",
-      ""
-    ],
-    "lat": "51.957581",
-    "lng": "7.571720"
-  },
-  {
-    "inf": [
-      "48161 M\u00fcnster - Gievenbeck",
-      "Recyclinghof Gievenbeck",
-      ""
-    ],
-    "lat": "51.960854",
-    "lng": "7.570661"
-  },
-  {
-    "inf": [
-      "48161 M\u00fcnster - Gievenbeck",
-      "R\u00fcschhausweg\/Asbeckweg\/Bentheimweg",
-      ""
-    ],
-    "lat": "51.970848",
-    "lng": "7.571204"
-  },
-  {
-    "inf": [
-      "48161 M\u00fcnster - Gievenbeck",
-      "R\u00fcschhausweg\/Toppheideweg (Coop)",
-      ""
-    ],
-    "lat": "51.973320",
-    "lng": "7.565579"
-  },
-  {
-    "inf": [
-      "48161 M\u00fcnster - Gievenbeck",
-      "Stadtlohnweg gegen\u00fc. Haus Nr. 1-17",
-      ""
-    ],
-    "lat": "51.973133",
-    "lng": "7.560686"
-  },
-  {
-    "inf": [
-      "48161 M\u00fcnster - Gievenbeck",
-      "Twenteweg (Haus Nr. 1)",
-      ""
-    ],
-    "lat": "51.972908",
-    "lng": "7.572505"
-  },
-  {
-    "inf": [
-      "48161 M\u00fcnster - Gievenbeck",
-      "Von-Esmarch-Str. (vor Haus Nr. 168)",
-      ""
-    ],
-    "lat": "51.966751",
-    "lng": "7.581358"
-  },
-  {
-    "inf": [
-      "48161 M\u00fcnster - Gievenbeck",
-      "Von-Esmarch-Str.\/Schreiberstra\u00dfe",
-      ""
-    ],
-    "lat": "51.965172",
-    "lng": "7.593898"
-  },
-  {
-    "inf": [
-      "48161 M\u00fcnster - Gievenbeck",
-      "Wickenkamp\/Dieckmannstra\u00dfe",
-      ""
-    ],
-    "lat": "51.968044",
-    "lng": "7.562038"
-  },
-  {
-    "inf": [
-      "48167 M\u00fcnster - Gremmendorf",
-      "Albersloher Weg (Parkplatz Kaufpark) bei Haus Nr. 539",
-      ""
-    ],
-    "lat": "51.925003",
-    "lng": "7.671709"
-  },
-  {
-    "inf": [
-      "48167 M\u00fcnster - Gremmendorf",
-      "Albersloher Weg 450 (Einfahrt York-Karserne)",
-      ""
-    ],
-    "lat": "51.926556",
-    "lng": "7.669054"
-  },
-  {
-    "inf": [
-      "48167 M\u00fcnster - Gremmendorf",
-      "Angelmodder Weg (gg\u00fc. Haus Nr. 80) \/ Agathastr.",
-      ""
-    ],
-    "lat": "51.928375",
-    "lng": "7.687179"
-  },
-  {
-    "inf": [
-      "48167 M\u00fcnster - Gremmendorf",
-      "Biederlackweg gegen\u00fc. Haus Nr. 71",
-      ""
-    ],
-    "lat": "51.930607",
-    "lng": "7.654998"
-  },
-  {
-    "inf": [
-      "48155 M\u00fcnster - Gremmendorf",
-      "Boelckeweg (am Bahndamm)",
-      ""
-    ],
-    "lat": "51.941086",
-    "lng": "7.651419"
-  },
-  {
-    "inf": [
-      "48167 M\u00fcnster - Gremmendorf",
-      "Erbdrostenweg\/Anton-Knubel-Weg",
-      ""
-    ],
-    "lat": "51.931797",
-    "lng": "7.666986"
-  },
-  {
-    "inf": [
-      "48167 M\u00fcnster - Gremmendorf",
-      "Frankenweg",
-      ""
-    ],
-    "lat": "51.920677",
-    "lng": "7.668984"
-  },
-  {
-    "inf": [
-      "48155 M\u00fcnster - Gremmendorf",
-      "Fridtjof-Nansen-Weg 10",
-      ""
-    ],
-    "lat": "51.933544",
-    "lng": "7.655370"
-  },
-  {
-    "inf": [
-      "48167 M\u00fcnster - Gremmendorf",
-      "Gremmendorfer Weg 34 (n\u00e4he Bahn\u00fcbergang)",
-      ""
-    ],
-    "lat": "51.929703",
-    "lng": "7.672285"
-  },
-  {
-    "inf": [
-      "48167 M\u00fcnster - Gremmendorf",
-      "Gremmendorfer Weg\/ B\u00f6ddingheideweg (ehem. Zwi-Schulmann-Weg)",
-      ""
-    ],
-    "lat": "51.932178",
-    "lng": "7.681217"
-  },
-  {
-    "inf": [
-      "48155 M\u00fcnster - Gremmendorf",
-      "Loddenheide 2 \/ Egbert-Snoek-Str. Marktkauf (Parkplatz)",
-      ""
-    ],
-    "lat": "51.938759",
-    "lng": "7.645896"
-  },
-  {
-    "inf": [
-      "48155 M\u00fcnster - Gremmendorf",
-      "Recyclinghof Eulerstra\u00dfe",
-      ""
-    ],
-    "lat": "51.938850",
-    "lng": "7.641551"
-  },
-  {
-    "inf": [
-      "48155 M\u00fcnster - Hafen",
-      "Am Hawerkamp 39",
-      ""
-    ],
-    "lat": "51.944805",
-    "lng": "7.638512"
-  },
-  {
-    "inf": [
-      "48157 M\u00fcnster - Handorf",
-      "An den Eichen (Parkstreifen)",
-      ""
-    ],
-    "lat": "52.002293",
-    "lng": "7.715920"
-  },
-  {
-    "inf": [
-      "48157 M\u00fcnster - Handorf",
-      "Heriburgstra\u00dfe (Parkplatz Hallenbad)",
-      ""
-    ],
-    "lat": "51.989536",
-    "lng": "7.705504"
-  },
-  {
-    "inf": [
-      "48157 M\u00fcnster - Handorf",
-      "Hobbeltstra\u00dfe\/Handorfer Stra\u00dfe",
-      ""
-    ],
-    "lat": "51.981728",
-    "lng": "7.704549"
-  },
-  {
-    "inf": [
-      "48157 M\u00fcnster - Handorf",
-      "Hugo-Pottebaum-Platz",
-      ""
-    ],
-    "lat": "51.987602",
-    "lng": "7.697667"
-  },
-  {
-    "inf": [
-      "48157 M\u00fcnster - Handorf",
-      "Kirschgarten\/Hobbeltstr. (Sportplatz)",
-      ""
-    ],
-    "lat": "51.987438",
-    "lng": "7.708974"
-  },
-  {
-    "inf": [
-      "48157 M\u00fcnster - Handorf",
-      "Kr\u00fcsbreede, Friedhof",
-      ""
-    ],
-    "lat": "51.986298",
-    "lng": "7.701195"
-  },
-  {
-    "inf": [
-      "48157 M\u00fcnster - Handorf",
-      "L\u00fctzowstra\u00dfe (Soldatenheim gegen\u00fc. Bushaltestelle)",
-      ""
-    ],
-    "lat": "51.999031",
-    "lng": "7.716472"
-  },
-  {
-    "inf": [
-      "48157 M\u00fcnster - Handorf",
-      "Mariendorfer Str. (Haus Nr. 35)",
-      ""
-    ],
-    "lat": "51.987469",
-    "lng": "7.668847"
-  },
-  {
-    "inf": [
-      "48157 M\u00fcnster - Handorf",
-      "Mariendorfer Str. \/ Im Sundern (Stra\u00dfenrand)",
-      ""
-    ],
-    "lat": "51.988544",
-    "lng": "7.673992"
-  },
-  {
-    "inf": [
-      "48157 M\u00fcnster - Handorf",
-      "Recyclinghof Handorf Panzerstra\u00dfe",
-      ""
-    ],
-    "lat": "51.989388",
-    "lng": "7.713545"
-  },
-  {
-    "inf": [
-      "48157 M\u00fcnster - Handorf",
-      "Sudm\u00fchlenstr.\/Havichhorststr.",
-      ""
-    ],
-    "lat": "51.997078",
-    "lng": "7.681153"
-  },
-  {
-    "inf": [
-      "48165 M\u00fcnster - Hiltrup",
-      "Adolf-Wentrup-Weg\/Asternweg",
-      ""
-    ],
-    "lat": "51.902493",
-    "lng": "7.668835"
-  },
-  {
-    "inf": [
-      "48165 M\u00fcnster - Hiltrup",
-      "Am Roggenkamp",
-      ""
-    ],
-    "lat": "51.903996",
-    "lng": "7.673036"
-  },
-  {
-    "inf": [
-      "48165 M\u00fcnster - Hiltrup",
-      "Amelsb\u00fcrener Str.\/Langestra\u00dfe",
-      ""
-    ],
-    "lat": "51.900467",
-    "lng": "7.634603"
-  },
-  {
-    "inf": [
-      "48165 M\u00fcnster - Hiltrup",
-      "Amelsb\u00fcrener Str.\/Meesenstiege",
-      ""
-    ],
-    "lat": "51.898232",
-    "lng": "7.624178"
-  },
-  {
-    "inf": [
-      "48165 M\u00fcnster - Hiltrup",
-      "Beethovenstra\u00dfe gegen\u00fcber Haus Nr. 4",
-      ""
-    ],
-    "lat": "51.910000",
-    "lng": "7.648747"
-  },
-  {
-    "inf": [
-      "48165 M\u00fcnster - Hiltrup",
-      "Burgwall\/Linckensstra\u00dfe",
-      ""
-    ],
-    "lat": "51.906822",
-    "lng": "7.619626"
-  },
-  {
-    "inf": [
-      "48165 M\u00fcnster - Hiltrup",
-      "Franz-Marc-Weg (Buswendeplatz)",
-      ""
-    ],
-    "lat": "51.901039",
-    "lng": "7.666804"
-  },
-  {
-    "inf": [
-      "48165 M\u00fcnster - Hiltrup",
-      "Glasuritstra\u00dfe, Zufahrt zum Bahnhof",
-      ""
-    ],
-    "lat": "51.903767",
-    "lng": "7.654262"
-  },
-  {
-    "inf": [
-      "48165 M\u00fcnster - Hiltrup",
-      "Helene-Weigel-Weg (Parkplatz hinter E-Center)",
-      ""
-    ],
-    "lat": "51.901825",
-    "lng": "7.623629"
-  },
-  {
-    "inf": [
-      "48165 M\u00fcnster - Hiltrup",
-      "Hoffmann-von-Fallersleben-Weg\/Kortumweg",
-      ""
-    ],
-    "lat": "51.902592",
-    "lng": "7.634952"
-  },
-  {
-    "inf": [
-      "48165 M\u00fcnster - Hiltrup",
-      "H\u00fcnenburg\/Linckensstr., (Tenniscenter)",
-      ""
-    ],
-    "lat": "51.910946",
-    "lng": "7.623936"
-  },
-  {
-    "inf": [
-      "48165 M\u00fcnster - Hiltrup",
-      "Im Hain (gg\u00fc. Haus Nr. 35)",
-      ""
-    ],
-    "lat": "51.912704",
-    "lng": "7.655836"
-  },
-  {
-    "inf": [
-      "48165 M\u00fcnster - Hiltrup",
-      "Kanalpromenade unter Br\u00fccke Osttor\/ F\u00f6hrenweg",
-      ""
-    ],
-    "lat": "51.906296",
-    "lng": "7.656748"
-  },
-  {
-    "inf": [
-      "48165 M\u00fcnster - Hiltrup",
-      "Max-Winkelmann-Str. \/ Bergiusstra\u00dfe (alter Bahnhof)",
-      ""
-    ],
-    "lat": "51.903778",
-    "lng": "7.654245"
-  },
-  {
-    "inf": [
-      "48165 M\u00fcnster - Hiltrup",
-      "Merkureck\/Hohe Geest",
-      ""
-    ],
-    "lat": "51.913910",
-    "lng": "7.634893"
-  },
-  {
-    "inf": [
-      "48165 M\u00fcnster - Hiltrup",
-      "Mor\u00e4nenstra\u00dfe\/Kardinalstr. (Markt)",
-      ""
-    ],
-    "lat": "51.905052",
-    "lng": "7.642563"
-  },
-  {
-    "inf": [
-      "48165 M\u00fcnster - Hiltrup",
-      "Osttor (Parkplatz Stadion)",
-      ""
-    ],
-    "lat": "51.906590",
-    "lng": "7.668780"
-  },
-  {
-    "inf": [
-      "48165 M\u00fcnster - Hiltrup",
-      "Recyclinghof Hansestra\u00dfe\/Glasuritstra\u00dfe",
-      ""
-    ],
-    "lat": "51.895908",
-    "lng": "7.644838"
-  },
-  {
-    "inf": [
-      "48165 M\u00fcnster - Hiltrup",
-      "Westfalenstra\u00dfe\/Zum Roten Berge",
-      ""
-    ],
-    "lat": "51.898979",
-    "lng": "7.641050"
-  },
-  {
-    "inf": [
-      "48165 M\u00fcnster - Hiltrup",
-      "Zum Hiltruper See (Ortsausgang, h\u00f6he Haus-Nr. 30)",
-      ""
-    ],
-    "lat": "51.903862",
-    "lng": "7.659473"
-  },
-  {
-    "inf": [
-      "48165 M\u00fcnster - Hiltrup",
-      "Zum Hiltruper See\/Westfalenstra\u00dfe (Parkplatz Hohe Ward)",
-      ""
-    ],
-    "lat": "51.886429",
-    "lng": "7.650055"
-  },
-  {
-    "inf": [
-      "48159 M\u00fcnster - Kinderhaus",
-      "Br\u00fcningheide (Haus Nr. 111-121)",
-      ""
-    ],
-    "lat": "52.000778",
-    "lng": "7.592439"
-  },
-  {
-    "inf": [
-      "48159 M\u00fcnster - Kinderhaus",
-      "Br\u00fcningheide 123 (Meinertzstr. gg\u00fc.)",
-      ""
-    ],
-    "lat": "52.000397",
-    "lng": "7.595122"
-  },
-  {
-    "inf": [
-      "48159 M\u00fcnster - Kinderhaus",
-      "Diesterwegstr.\/Meinertzstra\u00dfe",
-      ""
-    ],
-    "lat": "52.001865",
-    "lng": "7.599298"
-  },
-  {
-    "inf": [
-      "48159 M\u00fcnster - Kinderhaus",
-      "Diesterwegstr.\/Schm\u00fcllingstr. (Parkstr.)",
-      ""
-    ],
-    "lat": "52.000870",
-    "lng": "7.599377"
-  },
-  {
-    "inf": [
-      "48159 M\u00fcnster - Kinderhaus",
-      "Dreizehnerstra\u00dfe\/Grevener Stra\u00dfe",
-      ""
-    ],
-    "lat": "51.983723",
-    "lng": "7.611165"
-  },
-  {
-    "inf": [
-      "48159 M\u00fcnster - Kinderhaus",
-      "Janningsweg\/Grevener Stra\u00dfe (Stadtausw\u00e4rts)",
-      ""
-    ],
-    "lat": "51.995136",
-    "lng": "7.612909"
-  },
-  {
-    "inf": [
-      "48159 M\u00fcnster - Kinderhaus",
-      "Josef-Beckmann-Str.\/Br\u00fcningheide",
-      ""
-    ],
-    "lat": "51.997406",
-    "lng": "7.598622"
-  },
-  {
-    "inf": [
-      "48159 M\u00fcnster - Kinderhaus",
-      "Josef-Beckmann-Str.\/Sprickmannstr.",
-      ""
-    ],
-    "lat": "51.997375",
-    "lng": "7.597071"
-  },
-  {
-    "inf": [
-      "48159 M\u00fcnster - Kinderhaus",
-      "Kerstingskamp vor Nr. 24",
-      ""
-    ],
-    "lat": "51.988323",
-    "lng": "7.609817"
-  },
-  {
-    "inf": [
-      "48159 M\u00fcnster - Kinderhaus",
-      "Killingstr. Haus Nr. 15 gegen\u00fcber",
-      ""
-    ],
-    "lat": "51.999340",
-    "lng": "7.594050"
-  },
-  {
-    "inf": [
-      "48159 M\u00fcnster - Kinderhaus",
-      "Rektoratsweg\/Im Moorhock 54-36",
-      ""
-    ],
-    "lat": "51.987228",
-    "lng": "7.607960"
-  },
-  {
-    "inf": [
-      "48159 M\u00fcnster - Kinderhaus",
-      "Sprickmannstr. (Haus Nr. 19 gegen\u00fcber)",
-      ""
-    ],
-    "lat": "51.998631",
-    "lng": "7.594129"
-  },
-  {
-    "inf": [
-      "48159 M\u00fcnster - Kinderhaus",
-      "Sprickmannstr. \/ Josef-Beckmann-Str. \/ Langeworth",
-      ""
-    ],
-    "lat": "51.997715",
-    "lng": "7.592207"
-  },
-  {
-    "inf": [
-      "48159 M\u00fcnster - Kinderhaus",
-      "Steinfurter Str. 104",
-      ""
-    ],
-    "lat": "51.974457",
-    "lng": "7.605184"
-  },
-  {
-    "inf": [
-      "48159 M\u00fcnster - Kinderhaus",
-      "Von Humboldt-Stra\u00dfe (vor Recyclinghof)",
-      ""
-    ],
-    "lat": "52.000240",
-    "lng": "7.604641"
-  },
-  {
-    "inf": [
-      "48159 M\u00fcnster - Kinderhaus",
-      "Von-Einem-Str.\/ Gasselstiege gegen\u00fcber Haus-Nr 182",
-      ""
-    ],
-    "lat": "51.982868",
-    "lng": "7.605937"
-  },
-  {
-    "inf": [
-      "48159 M\u00fcnster - Kinderhaus",
-      "Von-Humboldt-Str. 11\/Kristiansandstr.",
-      ""
-    ],
-    "lat": "51.997746",
-    "lng": "7.603484"
-  },
-  {
-    "inf": [
-      "48159 M\u00fcnster - Kinderhaus",
-      "Westhoffstra\u00dfe (Parkplatz REWE Markt)",
-      ""
-    ],
-    "lat": "51.993469",
-    "lng": "7.599206"
-  },
-  {
-    "inf": [
-      "48145 M\u00fcnster - Mauritz",
-      "Andreas-Hofer-Stra\u00dfe (OFD)",
-      ""
-    ],
-    "lat": "51.958149",
-    "lng": "7.653021"
-  },
-  {
-    "inf": [
-      "48155 M\u00fcnster - Mauritz",
-      "August-Schepers-Stra\u00dfe\/vor der Kanalbr\u00fccke Leinenpfad",
-      ""
-    ],
-    "lat": "51.953896",
-    "lng": "7.655171"
-  },
-  {
-    "inf": [
-      "48145 M\u00fcnster - Mauritz",
-      "Dieckstra\u00dfe\/Mecklenburger Stra\u00dfe",
-      ""
-    ],
-    "lat": "51.970932",
-    "lng": "7.649163"
-  },
-  {
-    "inf": [
-      "48145 M\u00fcnster - Mauritz",
-      "Hohenzollernring\/Manfred-von-Richthofen-Str.",
-      ""
-    ],
-    "lat": "51.958385",
-    "lng": "7.647442"
-  },
-  {
-    "inf": [
-      "48155 M\u00fcnster - Mauritz",
-      "Manfred-von-Richthofen-Str.\/Merschkamp",
-      ""
-    ],
-    "lat": "51.955795",
-    "lng": "7.666448"
-  },
-  {
-    "inf": [
-      "48145 M\u00fcnster - Mauritz",
-      "Mauritz-Lindenweg (Hallenbad-Ost) Parkpl.",
-      ""
-    ],
-    "lat": "51.959148",
-    "lng": "7.658765"
-  },
-  {
-    "inf": [
-      "48155 M\u00fcnster - Mauritz",
-      "Mondstra\u00dfe\/Hans-Bredow-Weg",
-      ""
-    ],
-    "lat": "51.958359",
-    "lng": "7.676224"
-  },
-  {
-    "inf": [
-      "48155 M\u00fcnster - Mauritz",
-      "Mondstra\u00dfe\/Peter-Rosegger-Weg",
-      ""
-    ],
-    "lat": "51.949944",
-    "lng": "7.675664"
-  },
-  {
-    "inf": [
-      "48155 M\u00fcnster - Mauritz",
-      "Pleisterm\u00fchlenweg (Kl\u00e4rwerk)",
-      ""
-    ],
-    "lat": "51.962414",
-    "lng": "7.684070"
-  },
-  {
-    "inf": [
-      "48155 M\u00fcnster - Mauritz",
-      "Pleisterm\u00fchlenweg (Recyclinghof)",
-      ""
-    ],
-    "lat": "51.961880",
-    "lng": "7.684342"
-  },
-  {
-    "inf": [
-      "48145 M\u00fcnster - Mauritz",
-      "P\u00f6tterhoek\/Cloppenburgstra\u00dfe",
-      ""
-    ],
-    "lat": "51.972275",
-    "lng": "7.653685"
-  },
-  {
-    "inf": [
-      "48145 M\u00fcnster - Mauritz",
-      "Schiffahrter Damm 75",
-      ""
-    ],
-    "lat": "51.971226",
-    "lng": "7.656959"
-  },
-  {
-    "inf": [
-      "48155 M\u00fcnster - Mauritz",
-      "Schillerstra\u00dfe \/Ecke Ewaldistra\u00dfe",
-      ""
-    ],
-    "lat": "51.952538",
-    "lng": "7.648145"
-  },
-  {
-    "inf": [
-      "48145 M\u00fcnster - Mauritz",
-      "Stiftsstra\u00dfe",
-      ""
-    ],
-    "lat": "51.963406",
-    "lng": "7.649329"
-  },
-  {
-    "inf": [
-      "48145 M\u00fcnster - Mauritz",
-      "Von-der-Tinnen-Str.\/Sophienstr.",
-      ""
-    ],
-    "lat": "51.956608",
-    "lng": "7.648202"
-  },
-  {
-    "inf": [
-      "48145 M\u00fcnster - Mauritz",
-      "Warendorfer Stra\u00dfe 189 (Parkplatz Rewe)",
-      ""
-    ],
-    "lat": "51.967869",
-    "lng": "7.657542"
-  },
-  {
-    "inf": [
-      "48155 M\u00fcnster - Mauritz",
-      "Wolbecker Str. 296 (Parkpl.)",
-      ""
-    ],
-    "lat": "51.951363",
-    "lng": "7.669298"
-  },
-  {
-    "inf": [
-      "48155 M\u00fcnster - Mauritz",
-      "Wolbecker Str.\/ Clara-Ratzka-Weg",
-      ""
-    ],
-    "lat": "51.951370",
-    "lng": "7.669279"
-  },
-  {
-    "inf": [
-      "48155 M\u00fcnster - Mauritz",
-      "Wolbecker Stra\u00dfe (Freibad Stapelskotten, Parkplatz Gastst\u00e4tte)",
-      ""
-    ],
-    "lat": "51.946774",
-    "lng": "7.690635"
-  },
-  {
-    "inf": [
-      "48155 M\u00fcnster - Mauritz",
-      "Zum Guten Hirten (v.d. Kanalbr\u00fccke)",
-      ""
-    ],
-    "lat": "51.962791",
-    "lng": "7.663968"
-  },
-  {
-    "inf": [
-      "48163 M\u00fcnster - Mecklenbeck",
-      "Brockmannstra\u00dfe (hinter Kirche)",
-      ""
-    ],
-    "lat": "51.930538",
-    "lng": "7.579145"
-  },
-  {
-    "inf": [
-      "48163 M\u00fcnster - Mecklenbeck",
-      "Christop-Bernhard-Str\/ Spielplatz",
-      ""
-    ],
-    "lat": "51.930477",
-    "lng": "7.574136"
-  },
-  {
-    "inf": [
-      "48163 M\u00fcnster - Mecklenbeck",
-      "Echelmeyerstra\u00dfe (Parkpl. Bildungsz.)",
-      ""
-    ],
-    "lat": "51.935619",
-    "lng": "7.589543"
-  },
-  {
-    "inf": [
-      "48163 M\u00fcnster - Mecklenbeck",
-      "Meyerbeerstra\u00dfe 71",
-      ""
-    ],
-    "lat": "51.925892",
-    "lng": "7.576723"
-  },
-  {
-    "inf": [
-      "48163 M\u00fcnster - Mecklenbeck",
-      "Ossenkampstiege\/Boeselagerstra\u00dfe",
-      ""
-    ],
-    "lat": "51.936481",
-    "lng": "7.596457"
-  },
-  {
-    "inf": [
-      "48163 M\u00fcnster - Mecklenbeck",
-      "RH Mecklenbeck",
-      ""
-    ],
-    "lat": "51.930542",
-    "lng": "7.554598"
-  },
-  {
-    "inf": [
-      "48163 M\u00fcnster - Mecklenbeck",
-      "Rockbusch\/Kleibusch",
-      ""
-    ],
-    "lat": "51.920006",
-    "lng": "7.575841"
-  },
-  {
-    "inf": [
-      "48163 M\u00fcnster - Mecklenbeck",
-      "Sch\u00fcrbusch gegen\u00fcber Haus Nr. 19",
-      ""
-    ],
-    "lat": "51.929585",
-    "lng": "7.584455"
-  },
-  {
-    "inf": [
-      "48161 M\u00fcnster - Nienberge",
-      "Am Baumberger Hof\/H\u00e4gerstra\u00dfe",
-      ""
-    ],
-    "lat": "52.001541",
-    "lng": "7.557883"
-  },
-  {
-    "inf": [
-      "48161 M\u00fcnster - Nienberge",
-      "Feldstiege (Parkpl. vor Sportzentrum)",
-      ""
-    ],
-    "lat": "51.999985",
-    "lng": "7.549464"
-  },
-  {
-    "inf": [
-      "48161 M\u00fcnster - Nienberge",
-      "Hermann-Hesse-Str.\/H\u00fclshoffstra\u00dfe",
-      ""
-    ],
-    "lat": "51.995483",
-    "lng": "7.553368"
-  },
-  {
-    "inf": [
-      "48161 M\u00fcnster - Nienberge",
-      "Kirmstr. gegen\u00fcber Haus Nr. 23",
-      ""
-    ],
-    "lat": "51.998016",
-    "lng": "7.558968"
-  },
-  {
-    "inf": [
-      "48161 M\u00fcnster - Nienberge",
-      "Recyclinghof Waltruper Weg",
-      ""
-    ],
-    "lat": "51.993042",
-    "lng": "7.543488"
-  },
-  {
-    "inf": [
-      "48161 M\u00fcnster - Nienberge",
-      "Schmitthausweg 4",
-      ""
-    ],
-    "lat": "52.022331",
-    "lng": "7.561598"
-  },
-  {
-    "inf": [
-      "48161 M\u00fcnster - Nienberge",
-      "Sebastianstra\u00dfe\/ Plettendorfstr. (Ev. Kirche)",
-      ""
-    ],
-    "lat": "51.996719",
-    "lng": "7.556325"
-  },
-  {
-    "inf": [
-      "48161 M\u00fcnster - Nienberge",
-      "Waltruper Weg",
-      ""
-    ],
-    "lat": "51.994022",
-    "lng": "7.547929"
-  },
-  {
-    "inf": [
-      "48161 M\u00fcnster - Roxel",
-      "Autobahnrastst\u00e4tte Ost",
-      ""
-    ],
-    "lat": "51.941013",
-    "lng": "7.551159"
-  },
-  {
-    "inf": [
-      "48161 M\u00fcnster - Roxel",
-      "Autobahnrastst\u00e4tte West",
-      ""
-    ],
-    "lat": "51.945625",
-    "lng": "7.548377"
-  },
-  {
-    "inf": [
-      "48161 M\u00fcnster - Roxel",
-      "Dorffeldstra\u00dfe (gg\u00fc. Haus Nr. 32)",
-      ""
-    ],
-    "lat": "51.950661",
-    "lng": "7.537469"
-  },
-  {
-    "inf": [
-      "48161 M\u00fcnster - Roxel",
-      "Pienersallee (gegen\u00fc. Haus Nr. 26)",
-      ""
-    ],
-    "lat": "51.951305",
-    "lng": "7.530418"
-  },
-  {
-    "inf": [
-      "48161 M\u00fcnster - Roxel",
-      "Recyclinghof Roxel, Nottulner Landweg",
-      ""
-    ],
-    "lat": "51.947376",
-    "lng": "7.535186"
-  },
-  {
-    "inf": [
-      "48161 M\u00fcnster - Roxel",
-      "Schelmenstiege (Parkpl. vor der BVS)",
-      ""
-    ],
-    "lat": "51.954731",
-    "lng": "7.541640"
-  },
-  {
-    "inf": [
-      "48161 M\u00fcnster - Roxel",
-      "Schulte-Hermann-Str. (Zufahrt z. Tiefgarage)",
-      ""
-    ],
-    "lat": "51.953308",
-    "lng": "7.533664"
-  },
-  {
-    "inf": [
-      "48161 M\u00fcnster - Roxel",
-      "Tilbecker Stra\u00dfe (Parkpl. Hallenbad)",
-      ""
-    ],
-    "lat": "51.954082",
-    "lng": "7.527064"
-  },
-  {
-    "inf": [
-      "48161 M\u00fcnster - Roxel",
-      "Wenningweg (neben dem Kl\u00e4rwerk)",
-      ""
-    ],
-    "lat": "51.949280",
-    "lng": "7.526384"
-  },
-  {
-    "inf": [
-      "48149 M\u00fcnster - Sentrup",
-      "Busso-Peus-Stra\u00dfe",
-      ""
-    ],
-    "lat": "51.968987",
-    "lng": "7.588885"
-  },
-  {
-    "inf": [
-      "48149 M\u00fcnster - Sentrup",
-      "Rudolf-Harbig-Weg",
-      ""
-    ],
-    "lat": "51.975273",
-    "lng": "7.591884"
-  },
-  {
-    "inf": [
-      "48149 M\u00fcnster - Sentrup",
-      "Rudolf-Harbig-Weg (Studentenw., 26-46)",
-      ""
-    ],
-    "lat": "51.972748",
-    "lng": "7.594686"
-  },
-  {
-    "inf": [
-      "48149 M\u00fcnster - Sentrup",
-      "Rudolf-Harbig-Weg (Studentenw., 39-51)",
-      ""
-    ],
-    "lat": "51.974236",
-    "lng": "7.593605"
-  },
-  {
-    "inf": [
-      "48149 M\u00fcnster - Sentrup",
-      "Schmeddingstr. (gegen\u00fcber Haus Nr. 50)",
-      ""
-    ],
-    "lat": "51.960724",
-    "lng": "7.589834"
-  },
-  {
-    "inf": [
-      "48149 M\u00fcnster - Sentrup",
-      "Sentruper Str. (Parkplatz M\u00fchlenhof)",
-      ""
-    ],
-    "lat": "51.950104",
-    "lng": "7.596748"
-  },
-  {
-    "inf": [
-      "48149 M\u00fcnster - Sentrup",
-      "Sentruper Str. (vor Sportzentrum)",
-      ""
-    ],
-    "lat": "51.955223",
-    "lng": "7.601379"
-  },
-  {
-    "inf": [
-      "48157 M\u00fcnster - Sprakel",
-      "Bahnhof Sprakel",
-      ""
-    ],
-    "lat": "52.042213",
-    "lng": "7.619248"
-  },
-  {
-    "inf": [
-      "48159 M\u00fcnster - Sprakel",
-      "Dreilinden\/Nienberger Stra\u00dfe",
-      ""
-    ],
-    "lat": "52.041821",
-    "lng": "7.615412"
-  },
-  {
-    "inf": [
-      "48157 M\u00fcnster - Sprakel",
-      "Schlusenweg",
-      ""
-    ],
-    "lat": "52.032299",
-    "lng": "7.619631"
-  },
-  {
-    "inf": [
-      "48147 M\u00fcnster - Wienburg",
-      "Gartenstr. vor Haus Nr. 165-170",
-      ""
-    ],
-    "lat": "51.976074",
-    "lng": "7.636142"
-  },
-  {
-    "inf": [
-      "48147 M\u00fcnster - Wienburg",
-      "Hoher Heckenweg 170\/Sibeliusstra\u00dfe",
-      ""
-    ],
-    "lat": "51.982262",
-    "lng": "7.645751"
-  },
-  {
-    "inf": [
-      "48147 M\u00fcnster - Wienburg",
-      "Holsteiner Stra\u00dfe\/Piusallee (Wiewel-Markt)",
-      ""
-    ],
-    "lat": "51.971451",
-    "lng": "7.640960"
-  },
-  {
-    "inf": [
-      "48147 M\u00fcnster - Wienburg",
-      "Jahnstra\u00dfe 26",
-      ""
-    ],
-    "lat": "51.975925",
-    "lng": "7.616317"
-  },
-  {
-    "inf": [
-      "48147 M\u00fcnster - Wienburg",
-      "Kanalstra\u00dfe \/ Lublinring (Parkplatz) Unterflur",
-      ""
-    ],
-    "lat": "51.972527",
-    "lng": "7.632902"
-  },
-  {
-    "inf": [
-      "48147 M\u00fcnster - Wienburg",
-      "Me\u00dfkamp\/Kinderhauser Stra\u00dfe",
-      ""
-    ],
-    "lat": "51.980396",
-    "lng": "7.613625"
-  },
-  {
-    "inf": [
-      "48147 M\u00fcnster - Wienburg",
-      "Stettiner Str. (gg\u00fc. Haus Nr. 68-82)",
-      ""
-    ],
-    "lat": "51.975903",
-    "lng": "7.646607"
-  },
-  {
-    "inf": [
-      "48147 M\u00fcnster - Wienburg",
-      "Wienburgstra\u00dfe\/Salzmannstra\u00dfe 1",
-      ""
-    ],
-    "lat": "51.977360",
-    "lng": "7.621630"
-  },
-  {
-    "inf": [
-      "48167 M\u00fcnster - Wolbeck",
-      "Am Borggarten (neben Haus Nr. 3)",
-      ""
-    ],
-    "lat": "51.921364",
-    "lng": "7.730451"
-  },
-  {
-    "inf": [
-      "48167 M\u00fcnster - Wolbeck",
-      "Am Steintor\/Juffernkamp",
-      ""
-    ],
-    "lat": "51.912006",
-    "lng": "7.728437"
-  },
-  {
-    "inf": [
-      "48167 M\u00fcnster - Wolbeck",
-      "Brandhoveweg (Parkplatz Hallenbad)",
-      ""
-    ],
-    "lat": "51.915874",
-    "lng": "7.715109"
-  },
-  {
-    "inf": [
-      "48167 M\u00fcnster - Wolbeck",
-      "Dirk-von-Merveldt-Str. Ev.-Kirche",
-      ""
-    ],
-    "lat": "51.918667",
-    "lng": "7.726744"
-  },
-  {
-    "inf": [
-      "48167 M\u00fcnster - Wolbeck",
-      "Eschstra\u00dfe 6",
-      ""
-    ],
-    "lat": "51.921391",
-    "lng": "7.726744"
-  },
-  {
-    "inf": [
-      "48167 M\u00fcnster - Wolbeck",
-      "Goldbrink (vor Haus Nr. 69)",
-      ""
-    ],
-    "lat": "51.922970",
-    "lng": "7.721637"
-  },
-  {
-    "inf": [
-      "48167 M\u00fcnster - Wolbeck",
-      "Hiltruper Str. 55",
-      ""
-    ],
-    "lat": "51.911495",
-    "lng": "7.717853"
-  },
-  {
-    "inf": [
-      "48167 M\u00fcnster - Wolbeck",
-      "Hofstr. (neben Feuerwehrger\u00e4tehaus)",
-      ""
-    ],
-    "lat": "51.916927",
-    "lng": "7.734440"
-  },
-  {
-    "inf": [
-      "48167 M\u00fcnster - Wolbeck",
-      "Middeler Stra\u00dfe (K&amp;K)",
-      ""
-    ],
-    "lat": "51.925724",
-    "lng": "7.724731"
-  },
-  {
-    "inf": [
-      "48167 M\u00fcnster - Wolbeck",
-      "Recyclinghof Eschstra\u00dfe",
-      ""
-    ],
-    "lat": "51.918297",
-    "lng": "7.721005"
-  },
-  {
-    "inf": [
-      "48167 M\u00fcnster - Wolbeck",
-      "Zumbuschstr.\/Buxtrup",
-      ""
-    ],
-    "lat": "51.905758",
-    "lng": "7.720199"
-  }
+    {
+        "art_txt": "Glascontainer"
+    },
+    {
+        "inf": [
+            "48151 M\u00fcnster - Aaseestadt",
+            "Bonhoefferstra\u00dfe (Polizeischule gg\u00fc.)",
+            ""
+        ],
+        "lat": "51.941853",
+        "lng": "7.606371"
+    },
+    {
+        "inf": [
+            "48151 M\u00fcnster - Aaseestadt",
+            "Delpstra\u00dfe\/Goerdeler Stra\u00dfe (gegen\u00fcber Hochh\u00e4user)",
+            ""
+        ],
+        "lat": "51.947723",
+        "lng": "7.607582"
+    },
+    {
+        "inf": [
+            "48151 M\u00fcnster - Aaseestadt",
+            "Lange Ossenbeck (Buskehre)",
+            ""
+        ],
+        "lat": "51.937237",
+        "lng": "7.597556",
+        "iwo": 1
+    },
+    {
+        "inf": [
+            "48151 M\u00fcnster - Aaseestadt",
+            "Lange Ossenbeck\/Kleihorststra\u00dfe",
+            ""
+        ],
+        "lat": "51.938862",
+        "lng": "7.599680"
+    },
+    {
+        "inf": [
+            "48151 M\u00fcnster - Aaseestadt",
+            "Von-Ossietzky-Str. gegen\u00fc. Tennisplatz",
+            ""
+        ],
+        "lat": "51.942280",
+        "lng": "7.601887"
+    },
+    {
+        "inf": [
+            "48151 M\u00fcnster - Aaseestadt",
+            "Von-Stauffenbergstr. gegen\u00fc. Haus Nr. 36",
+            ""
+        ],
+        "lat": "51.945587",
+        "lng": "7.612130"
+    },
+    {
+        "inf": [
+            "48163 M\u00fcnster - Albachten",
+            "Am K\u00e4mpken",
+            ""
+        ],
+        "lat": "51.920242",
+        "lng": "7.526349"
+    },
+    {
+        "inf": [
+            "48163 M\u00fcnster - Albachten",
+            "Concordenstr. (Parkplatz vor dem Sportplatz)",
+            ""
+        ],
+        "lat": "51.923843",
+        "lng": "7.529778"
+    },
+    {
+        "inf": [
+            "48163 M\u00fcnster - Albachten",
+            "D\u00fclmener Stra\u00dfe (gegen\u00fcber Feuerwehr)",
+            ""
+        ],
+        "lat": "51.925007",
+        "lng": "7.521031"
+    },
+    {
+        "inf": [
+            "48163 M\u00fcnster - Albachten",
+            "Langenkamp (Buswende)",
+            ""
+        ],
+        "lat": "51.914619",
+        "lng": "7.526518"
+    },
+    {
+        "inf": [
+            "48163 M\u00fcnster - Albachten",
+            "Osthofstra\u00dfe (Parkplatz Friedhof)",
+            ""
+        ],
+        "lat": "51.923420",
+        "lng": "7.526430"
+    },
+    {
+        "inf": [
+            "48163 M\u00fcnster - Amelsb\u00fcren",
+            "Am Emmerbach (Parkplatz)",
+            ""
+        ],
+        "lat": "51.885490",
+        "lng": "7.604564"
+    },
+    {
+        "inf": [
+            "48163 M\u00fcnster - Amelsb\u00fcren",
+            "Auf der Woort (vor Getr\u00e4nkemarkt Dursty, Parkstreifen)",
+            ""
+        ],
+        "lat": "51.883064",
+        "lng": "7.605256"
+    },
+    {
+        "inf": [
+            "48163 M\u00fcnster - Amelsb\u00fcren",
+            "Davertstra\u00dfe (Feuerwehr\/Friedhof)",
+            ""
+        ],
+        "lat": "51.881355",
+        "lng": "7.608515"
+    },
+    {
+        "inf": [
+            "48163 M\u00fcnster - Amelsb\u00fcren",
+            "Kappenberger Damm (Wiedau-Schule)",
+            ""
+        ],
+        "lat": "51.894478",
+        "lng": "7.578858"
+    },
+    {
+        "inf": [
+            "48163 M\u00fcnster - Amelsb\u00fcren",
+            "Pater-Kolbe-Stra\u00dfe\/Am Dornbusch",
+            ""
+        ],
+        "lat": "51.883289",
+        "lng": "7.615717"
+    },
+    {
+        "inf": [
+            "48167 M\u00fcnster - Angelmodde",
+            "Albersloher Weg\/Zum Kaiserbusch gegen\u00fcber Haus Nr. 1",
+            ""
+        ],
+        "lat": "51.912727",
+        "lng": "7.684429"
+    },
+    {
+        "inf": [
+            "48167 M\u00fcnster - Angelmodde",
+            "Alter Postweg",
+            ""
+        ],
+        "lat": "51.923958",
+        "lng": "7.699961"
+    },
+    {
+        "inf": [
+            "48167 M\u00fcnster - Angelmodde",
+            "Am Sch\u00fctthook (Junker-J\u00f6rg-Platz)",
+            ""
+        ],
+        "lat": "51.915607",
+        "lng": "7.690217"
+    },
+    {
+        "inf": [
+            "48167 M\u00fcnster - Angelmodde",
+            "Am Sch\u00fctthook (Parkplatz Boelestra\u00dfe)",
+            ""
+        ],
+        "lat": "51.915855",
+        "lng": "7.694539"
+    },
+    {
+        "inf": [
+            "48167 M\u00fcnster - Angelmodde",
+            "Bonnenkamp\/ Middelkamp (Wendehammer)",
+            ""
+        ],
+        "lat": "51.912060",
+        "lng": "7.689929"
+    },
+    {
+        "inf": [
+            "48167 M\u00fcnster - Angelmodde",
+            "Brandhoveweg\/Pepinghegeweg",
+            ""
+        ],
+        "lat": "51.917656",
+        "lng": "7.707878"
+    },
+    {
+        "inf": [
+            "48167 M\u00fcnster - Angelmodde",
+            "Buschstra\u00dfe 6\/Zum Erlenbusch",
+            ""
+        ],
+        "lat": "51.922100",
+        "lng": "7.677308"
+    },
+    {
+        "inf": [
+            "48167 M\u00fcnster - Angelmodde",
+            "Eichendorffstra\u00dfe vor Haus Nr. 3",
+            ""
+        ],
+        "lat": "51.914375",
+        "lng": "7.691037"
+    },
+    {
+        "inf": [
+            "48167 M\u00fcnster - Angelmodde",
+            "Homannstra\u00dfe\/Zum Erlenbusch 100",
+            ""
+        ],
+        "lat": "51.919628",
+        "lng": "7.681194"
+    },
+    {
+        "inf": [
+            "48167 M\u00fcnster - Angelmodde",
+            "Schlesienstra\u00dfe",
+            ""
+        ],
+        "lat": "51.918465",
+        "lng": "7.677483"
+    },
+    {
+        "inf": [
+            "48167 M\u00fcnster - Angelmodde",
+            "Schlesienstra\u00dfe\/Ostpreu\u00dfenstra\u00dfe",
+            ""
+        ],
+        "lat": "51.918427",
+        "lng": "7.677505"
+    },
+    {
+        "inf": [
+            "48167 M\u00fcnster - Angelmodde",
+            "Theodor-Heuss-Stra\u00dfe 10",
+            ""
+        ],
+        "lat": "51.914455",
+        "lng": "7.692838"
+    },
+    {
+        "inf": [
+            "48167 M\u00fcnster - Angelmodde",
+            "Vogelrohrsheide (vor Haus Nr. 138)",
+            ""
+        ],
+        "lat": "51.914555",
+        "lng": "7.684626"
+    },
+    {
+        "inf": [
+            "48153 M\u00fcnster - Berg Fidel",
+            "Am Berg Fidel (Parkpl. Preu\u00dfen-Stadion)",
+            ""
+        ],
+        "lat": "51.931835",
+        "lng": "7.625546"
+    },
+    {
+        "inf": [
+            "48153 M\u00fcnster - Berg Fidel",
+            "Am Berg Fidel (gg\u00fc. Haus Nr. 62)",
+            ""
+        ],
+        "lat": "51.926998",
+        "lng": "7.624035"
+    },
+    {
+        "inf": [
+            "48165 M\u00fcnster - Berg Fidel",
+            "Elsa-Br\u00e4ndstr\u00f6m-Weg\/Vennheideweg",
+            ""
+        ],
+        "lat": "51.921417",
+        "lng": "7.621697"
+    },
+    {
+        "inf": [
+            "48153 M\u00fcnster - Berg Fidel",
+            "Hogenbergstr. vor Haus Nr. 21-27 Einkaufszentrum",
+            ""
+        ],
+        "lat": "51.927155",
+        "lng": "7.619977"
+    },
+    {
+        "inf": [
+            "48153 M\u00fcnster - Berg Fidel",
+            "Lechterstra\u00dfe 6 (B\u00fcrgersteig)",
+            ""
+        ],
+        "lat": "51.926044",
+        "lng": "7.617250"
+    },
+    {
+        "inf": [
+            "48153 M\u00fcnster - Berg Fidel",
+            "Pankokstra\u00dfe (Haus Simeon)",
+            ""
+        ],
+        "lat": "51.926411",
+        "lng": "7.622861"
+    },
+    {
+        "inf": [
+            "48153 M\u00fcnster - Berg Fidel",
+            "Ter-Borch-Stra\u00dfe (Parkplatz)",
+            ""
+        ],
+        "lat": "51.925774",
+        "lng": "7.620609"
+    },
+    {
+        "inf": [
+            "48147 M\u00fcnster - Centrum",
+            "Am Kreuztor (REWE-Markt)",
+            ""
+        ],
+        "lat": "51.968212",
+        "lng": "7.622635"
+    },
+    {
+        "inf": [
+            "48149 M\u00fcnster - Centrum",
+            "Einsteinstra\u00dfe\/Hittorfstra\u00dfe",
+            ""
+        ],
+        "lat": "51.965752",
+        "lng": "7.604761"
+    },
+    {
+        "inf": [
+            "48153 M\u00fcnster - Centrum",
+            "Friedrich-Ebert-Stra\u00dfe\/Annenstra\u00dfe",
+            ""
+        ],
+        "lat": "51.950481",
+        "lng": "7.631752"
+    },
+    {
+        "inf": [
+            "48151 M\u00fcnster - Centrum",
+            "Geiststra\u00dfe 10",
+            ""
+        ],
+        "lat": "51.951641",
+        "lng": "7.620634"
+    },
+    {
+        "inf": [
+            "48147 M\u00fcnster - Centrum",
+            "Goldstra\u00dfe\/Piusallee",
+            ""
+        ],
+        "lat": "51.971039",
+        "lng": "7.640486"
+    },
+    {
+        "inf": [
+            "48149 M\u00fcnster - Centrum",
+            "Grevener Stra\u00dfe, H\u00f6he Nr. 61c",
+            ""
+        ],
+        "lat": "51.971848",
+        "lng": "7.612333"
+    },
+    {
+        "inf": [
+            "48155 M\u00fcnster - Centrum",
+            "Hansaring (REWE-Markt)",
+            ""
+        ],
+        "lat": "51.953514",
+        "lng": "7.643968"
+    },
+    {
+        "inf": [
+            "48151 M\u00fcnster - Centrum",
+            "Hermannstra\u00dfe\/Norbertstra\u00dfe",
+            ""
+        ],
+        "lat": "51.953445",
+        "lng": "7.622813"
+    },
+    {
+        "inf": [
+            "48149 M\u00fcnster - Centrum",
+            "H\u00fcfferstr. (auf Parkstr. vor Haus Nr. 54, M\u00f6serweg)",
+            ""
+        ],
+        "lat": "51.960754",
+        "lng": "7.605673"
+    },
+    {
+        "inf": [
+            "48143 M\u00fcnster - Centrum",
+            "Katthagen\/Rosenplatz (Unterflur)",
+            ""
+        ],
+        "lat": "51.965084",
+        "lng": "7.622202"
+    },
+    {
+        "inf": [
+            "48151 M\u00fcnster - Centrum",
+            "Kolde-Ring",
+            ""
+        ],
+        "lat": "51.949726",
+        "lng": "7.613043"
+    },
+    {
+        "inf": [
+            "48143 M\u00fcnster - Centrum",
+            "Korduanenstra\u00dfe (H\u00f6rster Parkplatz)",
+            ""
+        ],
+        "lat": "51.964432",
+        "lng": "7.631551"
+    },
+    {
+        "inf": [
+            "48143 M\u00fcnster - Centrum",
+            "K\u00f6nigsstr. (Parkplatz vor Haus Nr. 46, AOK)",
+            ""
+        ],
+        "lat": "51.958977",
+        "lng": "7.625776"
+    },
+    {
+        "inf": [
+            "48153 M\u00fcnster - Centrum",
+            "Leostra\u00dfe\/Hafenstra\u00dfe (Busbahnhof)",
+            ""
+        ],
+        "lat": "51.953434",
+        "lng": "7.632208"
+    },
+    {
+        "inf": [
+            "48147 M\u00fcnster - Centrum",
+            "Maximilianstra\u00dfe\/Zuhornstra\u00dfe",
+            ""
+        ],
+        "lat": "51.970196",
+        "lng": "7.626627"
+    },
+    {
+        "inf": [
+            "48143 M\u00fcnster - Centrum",
+            "M\u00fchlenstra\u00dfe\/Am Stadtgraben",
+            ""
+        ],
+        "lat": "51.958794",
+        "lng": "7.619821"
+    },
+    {
+        "inf": [
+            "48143 M\u00fcnster - Centrum",
+            "M\u00fcnzstra\u00dfe\/Kalkmarkt (gegen\u00fcber)",
+            ""
+        ],
+        "lat": "51.966702",
+        "lng": "7.617672"
+    },
+    {
+        "inf": [
+            "48149 M\u00fcnster - Centrum",
+            "Nordplatz",
+            ""
+        ],
+        "lat": "51.971889",
+        "lng": "7.623393"
+    },
+    {
+        "inf": [
+            "48145 M\u00fcnster - Centrum",
+            "Oststr. (gg\u00fc. Fernmeldeamt, Durchgang)",
+            ""
+        ],
+        "lat": "51.962105",
+        "lng": "7.645330"
+    },
+    {
+        "inf": [
+            "48151 M\u00fcnster - Centrum",
+            "Scharnhorststra\u00dfe (Hoppendamm) Unterflur",
+            ""
+        ],
+        "lat": "51.953228",
+        "lng": "7.614333"
+    },
+    {
+        "inf": [
+            "48151 M\u00fcnster - Centrum",
+            "Scharnhorststra\u00dfe vor Haus Nr. 100",
+            ""
+        ],
+        "lat": "51.950066",
+        "lng": "7.607161"
+    },
+    {
+        "inf": [
+            "48149 M\u00fcnster - Centrum",
+            "Schlossplatz (gg\u00fc. Frauenstra\u00dfe)",
+            ""
+        ],
+        "lat": "51.963127",
+        "lng": "7.617717"
+    },
+    {
+        "inf": [
+            "48143 M\u00fcnster - Centrum",
+            "Servatiiplatz\/Wolbecker Stra\u00dfe",
+            ""
+        ],
+        "lat": "51.959908",
+        "lng": "7.635615"
+    },
+    {
+        "inf": [
+            "48149 M\u00fcnster - Centrum",
+            "Steinfurter Str. 67-81 (Studentenw.)",
+            ""
+        ],
+        "lat": "51.972324",
+        "lng": "7.606580"
+    },
+    {
+        "inf": [
+            "48149 M\u00fcnster - Centrum",
+            "Steinfurter Stra\u00dfe 23-25 (REWE-Markt)",
+            ""
+        ],
+        "lat": "51.969162",
+        "lng": "7.612375"
+    },
+    {
+        "inf": [
+            "48149 M\u00fcnster - Centrum",
+            "Studtplatz\/Grimmstra\u00dfe  Unterflur",
+            ""
+        ],
+        "lat": "51.969345",
+        "lng": "7.618198"
+    },
+    {
+        "inf": [
+            "48153 M\u00fcnster - Centrum",
+            "S\u00fcdstra\u00dfe\/Hafenstra\u00dfe",
+            ""
+        ],
+        "lat": "51.954987",
+        "lng": "7.627707"
+    },
+    {
+        "inf": [
+            "48143 M\u00fcnster - Centrum",
+            "Universit\u00e4tsstra\u00dfe\/Bispinghof",
+            ""
+        ],
+        "lat": "51.960754",
+        "lng": "7.620446"
+    },
+    {
+        "inf": [
+            "48147 M\u00fcnster - Centrum",
+            "Wasserstra\u00dfe\/Kanalstra\u00dfe",
+            ""
+        ],
+        "lat": "51.966888",
+        "lng": "7.630901"
+    },
+    {
+        "inf": [
+            "48149 M\u00fcnster - Centrum",
+            "Wilhelmstra\u00dfe\/Orl\u00e8ans-Ring",
+            ""
+        ],
+        "lat": "51.968712",
+        "lng": "7.603550"
+    },
+    {
+        "inf": [
+            "48159 M\u00fcnster - Centrum",
+            "York-Ring (Hauptfeuerwache)",
+            ""
+        ],
+        "lat": "51.974380",
+        "lng": "7.610001"
+    },
+    {
+        "inf": [
+            "48157 M\u00fcnster - Coerde",
+            "An der Kleimannbr\u00fccke 25 (Kanal)",
+            ""
+        ],
+        "lat": "51.990982",
+        "lng": "7.660605"
+    },
+    {
+        "inf": [
+            "48157 M\u00fcnster - Coerde",
+            "An der Kleinannbr\u00fccke\/August-Horch-Stra\u00dfe",
+            ""
+        ],
+        "lat": "51.995888",
+        "lng": "7.662595"
+    },
+    {
+        "inf": [
+            "48157 M\u00fcnster - Coerde",
+            "An der Meerwiese",
+            ""
+        ],
+        "lat": "51.987568",
+        "lng": "7.649341"
+    },
+    {
+        "inf": [
+            "48157 M\u00fcnster - Coerde",
+            "Dachsleite\/Marienburgstra\u00dfe",
+            ""
+        ],
+        "lat": "51.997517",
+        "lng": "7.648975"
+    },
+    {
+        "inf": [
+            "48157 M\u00fcnster - Coerde",
+            "G\u00f6rlitzer Stra\u00dfe (zw. Haus Nr. 34-58)",
+            ""
+        ],
+        "lat": "51.991726",
+        "lng": "7.642728"
+    },
+    {
+        "inf": [
+            "48157 M\u00fcnster - Coerde",
+            "Hamannplatz",
+            ""
+        ],
+        "lat": "51.993423",
+        "lng": "7.646639"
+    },
+    {
+        "inf": [
+            "48157 M\u00fcnster - Coerde",
+            "Hessenbusch gg\u00fc. 184 (Wagenburg)",
+            ""
+        ],
+        "lat": "52.010876",
+        "lng": "7.665422"
+    },
+    {
+        "inf": [
+            "48157 M\u00fcnster - Coerde",
+            "Josef-K\u00f6nig-Str.\/Nevinghoff \/ Arbeitsamt",
+            ""
+        ],
+        "lat": "51.984341",
+        "lng": "7.633314"
+    },
+    {
+        "inf": [
+            "48157 M\u00fcnster - Coerde",
+            "Nerzweg gegen\u00fcber Haus Nr. 32",
+            ""
+        ],
+        "lat": "51.999153",
+        "lng": "7.640459"
+    },
+    {
+        "inf": [
+            "48157 M\u00fcnster - Coerde",
+            "Schneidem\u00fchler Str. \/K\u00f6nigsberger Str.",
+            ""
+        ],
+        "lat": "51.993668",
+        "lng": "7.650028"
+    },
+    {
+        "inf": [
+            "48157 M\u00fcnster - Coerde",
+            "ZDM Coerder Liekweg 76 Recyclinghof",
+            ""
+        ],
+        "lat": "52.010872",
+        "lng": "7.652774"
+    },
+    {
+        "inf": [
+            "48153 M\u00fcnster - Geist",
+            "Augustastra\u00dfe\/Friedrich-Ebert-Stra\u00dfe",
+            ""
+        ],
+        "lat": "51.948067",
+        "lng": "7.630926"
+    },
+    {
+        "inf": [
+            "48163 M\u00fcnster - Geist",
+            "Buldernweg\/Drensteinfurtweg",
+            ""
+        ],
+        "lat": "51.926701",
+        "lng": "7.601066"
+    },
+    {
+        "inf": [
+            "48153 M\u00fcnster - Geist",
+            "D\u00fcesbergweg (Maria-H\u00f6tte-Stift)",
+            ""
+        ],
+        "lat": "51.931030",
+        "lng": "7.613087"
+    },
+    {
+        "inf": [
+            "48151 M\u00fcnster - Geist",
+            "Els\u00e4sser Stra\u00dfe\/Metzer Stra\u00dfe",
+            ""
+        ],
+        "lat": "51.939926",
+        "lng": "7.620346"
+    },
+    {
+        "inf": [
+            "48153 M\u00fcnster - Geist",
+            "Friedrich-Ebert-Stra\u00dfe (E-Center, ehem. Toom-Markt)",
+            ""
+        ],
+        "lat": "51.943275",
+        "lng": "7.630899"
+    },
+    {
+        "inf": [
+            "48163 M\u00fcnster - Geist",
+            "Geringhoffstra\u00dfe (HIT-Markt)",
+            ""
+        ],
+        "lat": "51.929947",
+        "lng": "7.600092"
+    },
+    {
+        "inf": [
+            "48153 M\u00fcnster - Geist",
+            "Herdingstra\u00dfe\/Travelmannstra\u00dfe",
+            ""
+        ],
+        "lat": "51.946091",
+        "lng": "7.628080"
+    },
+    {
+        "inf": [
+            "48151 M\u00fcnster - Geist",
+            "Kappenberger Damm gegen\u00fcber Haus Nr. 88",
+            ""
+        ],
+        "lat": "51.935253",
+        "lng": "7.608469"
+    },
+    {
+        "inf": [
+            "48153 M\u00fcnster - Geist",
+            "Kriegerweg 41 (Bahnunterf\u00fchrung)",
+            ""
+        ],
+        "lat": "51.924641",
+        "lng": "7.611925"
+    },
+    {
+        "inf": [
+            "48153 M\u00fcnster - Geist",
+            "Scheibenstra\u00dfe (vor Haus Nr. 115)",
+            ""
+        ],
+        "lat": "51.938881",
+        "lng": "7.627559"
+    },
+    {
+        "inf": [
+            "48153 M\u00fcnster - Geist",
+            "Scheibenstra\u00dfe \/ Friedrich-Ebert-Stra\u00dfe",
+            ""
+        ],
+        "lat": "51.942413",
+        "lng": "7.625407"
+    },
+    {
+        "inf": [
+            "48151 M\u00fcnster - Geist",
+            "Sentmaringer Weg\/Geiststr.\/Marktplatz",
+            ""
+        ],
+        "lat": "51.945499",
+        "lng": "7.621973"
+    },
+    {
+        "inf": [
+            "48153 M\u00fcnster - Geist",
+            "St.-Josef-Kirchplatz (Hammer Stra\u00dfe\/ Dahlweg)",
+            ""
+        ],
+        "lat": "51.949680",
+        "lng": "7.625407"
+    },
+    {
+        "inf": [
+            "48163 M\u00fcnster - Geist",
+            "Werneweg\/Kappenberger Damm",
+            ""
+        ],
+        "lat": "51.924240",
+        "lng": "7.603225"
+    },
+    {
+        "inf": [
+            "48151 M\u00fcnster - Geist",
+            "W\u00f6rthstra\u00dfe 4",
+            ""
+        ],
+        "lat": "51.944141",
+        "lng": "7.622934"
+    },
+    {
+        "inf": [
+            "48157 M\u00fcnster - Gelmer",
+            "Westerheide (Schule)",
+            ""
+        ],
+        "lat": "52.028553",
+        "lng": "7.675924"
+    },
+    {
+        "inf": [
+            "48157 M\u00fcnster - Gelmer",
+            "Zur Eckernheide (Sportplatz)",
+            ""
+        ],
+        "lat": "52.025928",
+        "lng": "7.674493"
+    },
+    {
+        "inf": [
+            "48161 M\u00fcnster - Gievenbeck",
+            "Arnheimweg (Parkplatz Sportgel\u00e4nde)",
+            ""
+        ],
+        "lat": "51.965122",
+        "lng": "7.574830"
+    },
+    {
+        "inf": [
+            "48161 M\u00fcnster - Gievenbeck",
+            "Borghorstweg\/Enschedeweg\/Ahausweg",
+            ""
+        ],
+        "lat": "51.968826",
+        "lng": "7.572401"
+    },
+    {
+        "inf": [
+            "48161 M\u00fcnster - Gievenbeck",
+            "Gescherweg (Haus Nr. 70-84)",
+            ""
+        ],
+        "lat": "51.975597",
+        "lng": "7.574424"
+    },
+    {
+        "inf": [
+            "48161 M\u00fcnster - Gievenbeck",
+            "Gievenbecker Reihe (am Sportplatz)",
+            ""
+        ],
+        "lat": "51.965359",
+        "lng": "7.568089"
+    },
+    {
+        "inf": [
+            "48161 M\u00fcnster - Gievenbeck",
+            "Heekweg 15 (Sparkasse)",
+            ""
+        ],
+        "lat": "51.972759",
+        "lng": "7.564210"
+    },
+    {
+        "inf": [
+            "48161 M\u00fcnster - Gievenbeck",
+            "Hensenstra\u00dfe (vor Haus Nr. 190)",
+            ""
+        ],
+        "lat": "51.974056",
+        "lng": "7.570235"
+    },
+    {
+        "inf": [
+            "48161 M\u00fcnster - Gievenbeck",
+            "Horstmarer Landweg (Haus Nr. 250-258)",
+            ""
+        ],
+        "lat": "51.976212",
+        "lng": "7.585530"
+    },
+    {
+        "inf": [
+            "48161 M\u00fcnster - Gievenbeck",
+            "Horstmarer Landweg (Wendehammer) vor Uni Sportplatz",
+            ""
+        ],
+        "lat": "51.970104",
+        "lng": "7.602499"
+    },
+    {
+        "inf": [
+            "48161 M\u00fcnster - Gievenbeck",
+            "Horstmarer Landweg bei Haus Nr. 92",
+            ""
+        ],
+        "lat": "51.971432",
+        "lng": "7.596370"
+    },
+    {
+        "inf": [
+            "48161 M\u00fcnster - Gievenbeck",
+            "RATIO Verbrauchermarkt \/ Roxeler Str. 416-420",
+            ""
+        ],
+        "lat": "51.957581",
+        "lng": "7.571720"
+    },
+    {
+        "inf": [
+            "48161 M\u00fcnster - Gievenbeck",
+            "Recyclinghof Gievenbeck",
+            ""
+        ],
+        "lat": "51.960854",
+        "lng": "7.570661"
+    },
+    {
+        "inf": [
+            "48161 M\u00fcnster - Gievenbeck",
+            "R\u00fcschhausweg\/Asbeckweg\/Bentheimweg",
+            ""
+        ],
+        "lat": "51.970848",
+        "lng": "7.571204"
+    },
+    {
+        "inf": [
+            "48161 M\u00fcnster - Gievenbeck",
+            "R\u00fcschhausweg\/Toppheideweg (Coop)",
+            ""
+        ],
+        "lat": "51.973320",
+        "lng": "7.565579"
+    },
+    {
+        "inf": [
+            "48161 M\u00fcnster - Gievenbeck",
+            "Stadtlohnweg gegen\u00fc. Haus Nr. 1-17",
+            ""
+        ],
+        "lat": "51.973133",
+        "lng": "7.560686"
+    },
+    {
+        "inf": [
+            "48161 M\u00fcnster - Gievenbeck",
+            "Twenteweg (Haus Nr. 1)",
+            ""
+        ],
+        "lat": "51.972908",
+        "lng": "7.572505"
+    },
+    {
+        "inf": [
+            "48161 M\u00fcnster - Gievenbeck",
+            "Von-Esmarch-Str. (vor Haus Nr. 168)",
+            ""
+        ],
+        "lat": "51.966751",
+        "lng": "7.581358"
+    },
+    {
+        "inf": [
+            "48161 M\u00fcnster - Gievenbeck",
+            "Von-Esmarch-Str.\/Schreiberstra\u00dfe",
+            ""
+        ],
+        "lat": "51.965172",
+        "lng": "7.593898"
+    },
+    {
+        "inf": [
+            "48161 M\u00fcnster - Gievenbeck",
+            "Wickenkamp\/Dieckmannstra\u00dfe",
+            ""
+        ],
+        "lat": "51.968044",
+        "lng": "7.562038"
+    },
+    {
+        "inf": [
+            "48167 M\u00fcnster - Gremmendorf",
+            "Albersloher Weg (Parkplatz Kaufpark) bei Haus Nr. 539",
+            ""
+        ],
+        "lat": "51.925003",
+        "lng": "7.671709"
+    },
+    {
+        "inf": [
+            "48167 M\u00fcnster - Gremmendorf",
+            "Albersloher Weg 450 (Einfahrt York-Karserne)",
+            ""
+        ],
+        "lat": "51.926556",
+        "lng": "7.669054"
+    },
+    {
+        "inf": [
+            "48167 M\u00fcnster - Gremmendorf",
+            "Angelmodder Weg (gg\u00fc. Haus Nr. 80) \/ Agathastr.",
+            ""
+        ],
+        "lat": "51.928375",
+        "lng": "7.687179"
+    },
+    {
+        "inf": [
+            "48167 M\u00fcnster - Gremmendorf",
+            "Biederlackweg gegen\u00fc. Haus Nr. 71",
+            ""
+        ],
+        "lat": "51.930607",
+        "lng": "7.654998"
+    },
+    {
+        "inf": [
+            "48155 M\u00fcnster - Gremmendorf",
+            "Boelckeweg (am Bahndamm)",
+            ""
+        ],
+        "lat": "51.941086",
+        "lng": "7.651419"
+    },
+    {
+        "inf": [
+            "48167 M\u00fcnster - Gremmendorf",
+            "Erbdrostenweg\/Anton-Knubel-Weg",
+            ""
+        ],
+        "lat": "51.931797",
+        "lng": "7.666986"
+    },
+    {
+        "inf": [
+            "48167 M\u00fcnster - Gremmendorf",
+            "Frankenweg",
+            ""
+        ],
+        "lat": "51.920677",
+        "lng": "7.668984"
+    },
+    {
+        "inf": [
+            "48155 M\u00fcnster - Gremmendorf",
+            "Fridtjof-Nansen-Weg 10",
+            ""
+        ],
+        "lat": "51.933544",
+        "lng": "7.655370"
+    },
+    {
+        "inf": [
+            "48167 M\u00fcnster - Gremmendorf",
+            "Gremmendorfer Weg 34 (n\u00e4he Bahn\u00fcbergang)",
+            ""
+        ],
+        "lat": "51.929703",
+        "lng": "7.672285"
+    },
+    {
+        "inf": [
+            "48167 M\u00fcnster - Gremmendorf",
+            "Gremmendorfer Weg\/ B\u00f6ddingheideweg (ehem. Zwi-Schulmann-Weg)",
+            ""
+        ],
+        "lat": "51.932178",
+        "lng": "7.681217"
+    },
+    {
+        "inf": [
+            "48155 M\u00fcnster - Gremmendorf",
+            "Loddenheide 2 \/ Egbert-Snoek-Str. Marktkauf (Parkplatz)",
+            ""
+        ],
+        "lat": "51.938759",
+        "lng": "7.645896"
+    },
+    {
+        "inf": [
+            "48155 M\u00fcnster - Gremmendorf",
+            "Recyclinghof Eulerstra\u00dfe",
+            ""
+        ],
+        "lat": "51.938850",
+        "lng": "7.641551"
+    },
+    {
+        "inf": [
+            "48155 M\u00fcnster - Hafen",
+            "Am Hawerkamp 39",
+            ""
+        ],
+        "lat": "51.944805",
+        "lng": "7.638512"
+    },
+    {
+        "inf": [
+            "48157 M\u00fcnster - Handorf",
+            "An den Eichen (Parkstreifen)",
+            ""
+        ],
+        "lat": "52.002293",
+        "lng": "7.715920"
+    },
+    {
+        "inf": [
+            "48157 M\u00fcnster - Handorf",
+            "Heriburgstra\u00dfe (Parkplatz Hallenbad)",
+            ""
+        ],
+        "lat": "51.989536",
+        "lng": "7.705504"
+    },
+    {
+        "inf": [
+            "48157 M\u00fcnster - Handorf",
+            "Hobbeltstra\u00dfe\/Handorfer Stra\u00dfe",
+            ""
+        ],
+        "lat": "51.981728",
+        "lng": "7.704549"
+    },
+    {
+        "inf": [
+            "48157 M\u00fcnster - Handorf",
+            "Hugo-Pottebaum-Platz",
+            ""
+        ],
+        "lat": "51.987602",
+        "lng": "7.697667"
+    },
+    {
+        "inf": [
+            "48157 M\u00fcnster - Handorf",
+            "Kirschgarten\/Hobbeltstr. (Sportplatz)",
+            ""
+        ],
+        "lat": "51.987438",
+        "lng": "7.708974"
+    },
+    {
+        "inf": [
+            "48157 M\u00fcnster - Handorf",
+            "Kr\u00fcsbreede, Friedhof",
+            ""
+        ],
+        "lat": "51.986298",
+        "lng": "7.701195"
+    },
+    {
+        "inf": [
+            "48157 M\u00fcnster - Handorf",
+            "L\u00fctzowstra\u00dfe (Soldatenheim gegen\u00fc. Bushaltestelle)",
+            ""
+        ],
+        "lat": "51.999031",
+        "lng": "7.716472"
+    },
+    {
+        "inf": [
+            "48157 M\u00fcnster - Handorf",
+            "Mariendorfer Str. (Haus Nr. 35)",
+            ""
+        ],
+        "lat": "51.987469",
+        "lng": "7.668847"
+    },
+    {
+        "inf": [
+            "48157 M\u00fcnster - Handorf",
+            "Mariendorfer Str. \/ Im Sundern (Stra\u00dfenrand)",
+            ""
+        ],
+        "lat": "51.988544",
+        "lng": "7.673992"
+    },
+    {
+        "inf": [
+            "48157 M\u00fcnster - Handorf",
+            "Recyclinghof Handorf Panzerstra\u00dfe",
+            ""
+        ],
+        "lat": "51.989388",
+        "lng": "7.713545"
+    },
+    {
+        "inf": [
+            "48157 M\u00fcnster - Handorf",
+            "Sudm\u00fchlenstr.\/Havichhorststr.",
+            ""
+        ],
+        "lat": "51.997078",
+        "lng": "7.681153"
+    },
+    {
+        "inf": [
+            "48165 M\u00fcnster - Hiltrup",
+            "Adolf-Wentrup-Weg\/Asternweg",
+            ""
+        ],
+        "lat": "51.902493",
+        "lng": "7.668835"
+    },
+    {
+        "inf": [
+            "48165 M\u00fcnster - Hiltrup",
+            "Am Roggenkamp",
+            ""
+        ],
+        "lat": "51.903996",
+        "lng": "7.673036"
+    },
+    {
+        "inf": [
+            "48165 M\u00fcnster - Hiltrup",
+            "Amelsb\u00fcrener Str.\/Langestra\u00dfe",
+            ""
+        ],
+        "lat": "51.900467",
+        "lng": "7.634603"
+    },
+    {
+        "inf": [
+            "48165 M\u00fcnster - Hiltrup",
+            "Amelsb\u00fcrener Str.\/Meesenstiege",
+            ""
+        ],
+        "lat": "51.898232",
+        "lng": "7.624178"
+    },
+    {
+        "inf": [
+            "48165 M\u00fcnster - Hiltrup",
+            "Beethovenstra\u00dfe gegen\u00fcber Haus Nr. 4",
+            ""
+        ],
+        "lat": "51.910000",
+        "lng": "7.648747"
+    },
+    {
+        "inf": [
+            "48165 M\u00fcnster - Hiltrup",
+            "Burgwall\/Linckensstra\u00dfe",
+            ""
+        ],
+        "lat": "51.906822",
+        "lng": "7.619626"
+    },
+    {
+        "inf": [
+            "48165 M\u00fcnster - Hiltrup",
+            "Franz-Marc-Weg (Buswendeplatz)",
+            ""
+        ],
+        "lat": "51.901039",
+        "lng": "7.666804"
+    },
+    {
+        "inf": [
+            "48165 M\u00fcnster - Hiltrup",
+            "Glasuritstra\u00dfe, Zufahrt zum Bahnhof",
+            ""
+        ],
+        "lat": "51.903767",
+        "lng": "7.654262"
+    },
+    {
+        "inf": [
+            "48165 M\u00fcnster - Hiltrup",
+            "Helene-Weigel-Weg (Parkplatz hinter E-Center)",
+            ""
+        ],
+        "lat": "51.901825",
+        "lng": "7.623629"
+    },
+    {
+        "inf": [
+            "48165 M\u00fcnster - Hiltrup",
+            "Hoffmann-von-Fallersleben-Weg\/Kortumweg",
+            ""
+        ],
+        "lat": "51.902592",
+        "lng": "7.634952"
+    },
+    {
+        "inf": [
+            "48165 M\u00fcnster - Hiltrup",
+            "H\u00fcnenburg\/Linckensstr., (Tenniscenter)",
+            ""
+        ],
+        "lat": "51.910946",
+        "lng": "7.623936"
+    },
+    {
+        "inf": [
+            "48165 M\u00fcnster - Hiltrup",
+            "Im Hain (gg\u00fc. Haus Nr. 35)",
+            ""
+        ],
+        "lat": "51.912704",
+        "lng": "7.655836"
+    },
+    {
+        "inf": [
+            "48165 M\u00fcnster - Hiltrup",
+            "Kanalpromenade unter Br\u00fccke Osttor\/ F\u00f6hrenweg",
+            ""
+        ],
+        "lat": "51.906296",
+        "lng": "7.656748"
+    },
+    {
+        "inf": [
+            "48165 M\u00fcnster - Hiltrup",
+            "Max-Winkelmann-Str. \/ Bergiusstra\u00dfe (alter Bahnhof)",
+            ""
+        ],
+        "lat": "51.903778",
+        "lng": "7.654245"
+    },
+    {
+        "inf": [
+            "48165 M\u00fcnster - Hiltrup",
+            "Merkureck\/Hohe Geest",
+            ""
+        ],
+        "lat": "51.913910",
+        "lng": "7.634893"
+    },
+    {
+        "inf": [
+            "48165 M\u00fcnster - Hiltrup",
+            "Mor\u00e4nenstra\u00dfe\/Kardinalstr. (Markt)",
+            ""
+        ],
+        "lat": "51.905052",
+        "lng": "7.642563"
+    },
+    {
+        "inf": [
+            "48165 M\u00fcnster - Hiltrup",
+            "Osttor (Parkplatz Stadion)",
+            ""
+        ],
+        "lat": "51.906590",
+        "lng": "7.668780"
+    },
+    {
+        "inf": [
+            "48165 M\u00fcnster - Hiltrup",
+            "Recyclinghof Hansestra\u00dfe\/Glasuritstra\u00dfe",
+            ""
+        ],
+        "lat": "51.895908",
+        "lng": "7.644838"
+    },
+    {
+        "inf": [
+            "48165 M\u00fcnster - Hiltrup",
+            "Westfalenstra\u00dfe\/Zum Roten Berge",
+            ""
+        ],
+        "lat": "51.898979",
+        "lng": "7.641050"
+    },
+    {
+        "inf": [
+            "48165 M\u00fcnster - Hiltrup",
+            "Zum Hiltruper See (Ortsausgang, h\u00f6he Haus-Nr. 30)",
+            ""
+        ],
+        "lat": "51.903862",
+        "lng": "7.659473"
+    },
+    {
+        "inf": [
+            "48165 M\u00fcnster - Hiltrup",
+            "Zum Hiltruper See\/Westfalenstra\u00dfe (Parkplatz Hohe Ward)",
+            ""
+        ],
+        "lat": "51.886429",
+        "lng": "7.650055"
+    },
+    {
+        "inf": [
+            "48159 M\u00fcnster - Kinderhaus",
+            "Br\u00fcningheide (Haus Nr. 111-121)",
+            ""
+        ],
+        "lat": "52.000778",
+        "lng": "7.592439"
+    },
+    {
+        "inf": [
+            "48159 M\u00fcnster - Kinderhaus",
+            "Br\u00fcningheide 123 (Meinertzstr. gg\u00fc.)",
+            ""
+        ],
+        "lat": "52.000397",
+        "lng": "7.595122"
+    },
+    {
+        "inf": [
+            "48159 M\u00fcnster - Kinderhaus",
+            "Diesterwegstr.\/Meinertzstra\u00dfe",
+            ""
+        ],
+        "lat": "52.001865",
+        "lng": "7.599298"
+    },
+    {
+        "inf": [
+            "48159 M\u00fcnster - Kinderhaus",
+            "Diesterwegstr.\/Schm\u00fcllingstr. (Parkstr.)",
+            ""
+        ],
+        "lat": "52.000870",
+        "lng": "7.599377"
+    },
+    {
+        "inf": [
+            "48159 M\u00fcnster - Kinderhaus",
+            "Dreizehnerstra\u00dfe\/Grevener Stra\u00dfe",
+            ""
+        ],
+        "lat": "51.983723",
+        "lng": "7.611165"
+    },
+    {
+        "inf": [
+            "48159 M\u00fcnster - Kinderhaus",
+            "Janningsweg\/Grevener Stra\u00dfe (Stadtausw\u00e4rts)",
+            ""
+        ],
+        "lat": "51.995136",
+        "lng": "7.612909"
+    },
+    {
+        "inf": [
+            "48159 M\u00fcnster - Kinderhaus",
+            "Josef-Beckmann-Str.\/Br\u00fcningheide",
+            ""
+        ],
+        "lat": "51.997406",
+        "lng": "7.598622"
+    },
+    {
+        "inf": [
+            "48159 M\u00fcnster - Kinderhaus",
+            "Josef-Beckmann-Str.\/Sprickmannstr.",
+            ""
+        ],
+        "lat": "51.997375",
+        "lng": "7.597071"
+    },
+    {
+        "inf": [
+            "48159 M\u00fcnster - Kinderhaus",
+            "Kerstingskamp vor Nr. 24",
+            ""
+        ],
+        "lat": "51.988323",
+        "lng": "7.609817"
+    },
+    {
+        "inf": [
+            "48159 M\u00fcnster - Kinderhaus",
+            "Killingstr. Haus Nr. 15 gegen\u00fcber",
+            ""
+        ],
+        "lat": "51.999340",
+        "lng": "7.594050"
+    },
+    {
+        "inf": [
+            "48159 M\u00fcnster - Kinderhaus",
+            "Rektoratsweg\/Im Moorhock 54-36",
+            ""
+        ],
+        "lat": "51.987228",
+        "lng": "7.607960"
+    },
+    {
+        "inf": [
+            "48159 M\u00fcnster - Kinderhaus",
+            "Sprickmannstr. (Haus Nr. 19 gegen\u00fcber)",
+            ""
+        ],
+        "lat": "51.998631",
+        "lng": "7.594129"
+    },
+    {
+        "inf": [
+            "48159 M\u00fcnster - Kinderhaus",
+            "Sprickmannstr. \/ Josef-Beckmann-Str. \/ Langeworth",
+            ""
+        ],
+        "lat": "51.997715",
+        "lng": "7.592207"
+    },
+    {
+        "inf": [
+            "48159 M\u00fcnster - Kinderhaus",
+            "Steinfurter Str. 104",
+            ""
+        ],
+        "lat": "51.974457",
+        "lng": "7.605184"
+    },
+    {
+        "inf": [
+            "48159 M\u00fcnster - Kinderhaus",
+            "Von Humboldt-Stra\u00dfe (vor Recyclinghof)",
+            ""
+        ],
+        "lat": "52.000240",
+        "lng": "7.604641"
+    },
+    {
+        "inf": [
+            "48159 M\u00fcnster - Kinderhaus",
+            "Von-Einem-Str.\/ Gasselstiege gegen\u00fcber Haus-Nr 182",
+            ""
+        ],
+        "lat": "51.982868",
+        "lng": "7.605937"
+    },
+    {
+        "inf": [
+            "48159 M\u00fcnster - Kinderhaus",
+            "Von-Humboldt-Str. 11\/Kristiansandstr.",
+            ""
+        ],
+        "lat": "51.997746",
+        "lng": "7.603484"
+    },
+    {
+        "inf": [
+            "48159 M\u00fcnster - Kinderhaus",
+            "Westhoffstra\u00dfe (Parkplatz REWE Markt)",
+            ""
+        ],
+        "lat": "51.993469",
+        "lng": "7.599206"
+    },
+    {
+        "inf": [
+            "48145 M\u00fcnster - Mauritz",
+            "Andreas-Hofer-Stra\u00dfe (OFD)",
+            ""
+        ],
+        "lat": "51.958149",
+        "lng": "7.653021"
+    },
+    {
+        "inf": [
+            "48155 M\u00fcnster - Mauritz",
+            "August-Schepers-Stra\u00dfe\/vor der Kanalbr\u00fccke Leinenpfad",
+            ""
+        ],
+        "lat": "51.953896",
+        "lng": "7.655171"
+    },
+    {
+        "inf": [
+            "48145 M\u00fcnster - Mauritz",
+            "Dieckstra\u00dfe\/Mecklenburger Stra\u00dfe",
+            ""
+        ],
+        "lat": "51.970932",
+        "lng": "7.649163"
+    },
+    {
+        "inf": [
+            "48145 M\u00fcnster - Mauritz",
+            "Hohenzollernring\/Manfred-von-Richthofen-Str.",
+            ""
+        ],
+        "lat": "51.958385",
+        "lng": "7.647442"
+    },
+    {
+        "inf": [
+            "48155 M\u00fcnster - Mauritz",
+            "Manfred-von-Richthofen-Str.\/Merschkamp",
+            ""
+        ],
+        "lat": "51.955795",
+        "lng": "7.666448"
+    },
+    {
+        "inf": [
+            "48145 M\u00fcnster - Mauritz",
+            "Mauritz-Lindenweg (Hallenbad-Ost) Parkpl.",
+            ""
+        ],
+        "lat": "51.959148",
+        "lng": "7.658765"
+    },
+    {
+        "inf": [
+            "48155 M\u00fcnster - Mauritz",
+            "Mondstra\u00dfe\/Hans-Bredow-Weg",
+            ""
+        ],
+        "lat": "51.958359",
+        "lng": "7.676224"
+    },
+    {
+        "inf": [
+            "48155 M\u00fcnster - Mauritz",
+            "Mondstra\u00dfe\/Peter-Rosegger-Weg",
+            ""
+        ],
+        "lat": "51.949944",
+        "lng": "7.675664"
+    },
+    {
+        "inf": [
+            "48155 M\u00fcnster - Mauritz",
+            "Pleisterm\u00fchlenweg (Kl\u00e4rwerk)",
+            ""
+        ],
+        "lat": "51.962414",
+        "lng": "7.684070"
+    },
+    {
+        "inf": [
+            "48155 M\u00fcnster - Mauritz",
+            "Pleisterm\u00fchlenweg (Recyclinghof)",
+            ""
+        ],
+        "lat": "51.961880",
+        "lng": "7.684342"
+    },
+    {
+        "inf": [
+            "48145 M\u00fcnster - Mauritz",
+            "P\u00f6tterhoek\/Cloppenburgstra\u00dfe",
+            ""
+        ],
+        "lat": "51.972275",
+        "lng": "7.653685"
+    },
+    {
+        "inf": [
+            "48145 M\u00fcnster - Mauritz",
+            "Schiffahrter Damm 75",
+            ""
+        ],
+        "lat": "51.971226",
+        "lng": "7.656959"
+    },
+    {
+        "inf": [
+            "48155 M\u00fcnster - Mauritz",
+            "Schillerstra\u00dfe \/Ecke Ewaldistra\u00dfe",
+            ""
+        ],
+        "lat": "51.952538",
+        "lng": "7.648145"
+    },
+    {
+        "inf": [
+            "48145 M\u00fcnster - Mauritz",
+            "Stiftsstra\u00dfe",
+            ""
+        ],
+        "lat": "51.963406",
+        "lng": "7.649329"
+    },
+    {
+        "inf": [
+            "48145 M\u00fcnster - Mauritz",
+            "Von-der-Tinnen-Str.\/Sophienstr.",
+            ""
+        ],
+        "lat": "51.956608",
+        "lng": "7.648202"
+    },
+    {
+        "inf": [
+            "48145 M\u00fcnster - Mauritz",
+            "Warendorfer Stra\u00dfe 189 (Parkplatz Rewe)",
+            ""
+        ],
+        "lat": "51.967869",
+        "lng": "7.657542"
+    },
+    {
+        "inf": [
+            "48155 M\u00fcnster - Mauritz",
+            "Wolbecker Str. 296 (Parkpl.)",
+            ""
+        ],
+        "lat": "51.951363",
+        "lng": "7.669298"
+    },
+    {
+        "inf": [
+            "48155 M\u00fcnster - Mauritz",
+            "Wolbecker Str.\/ Clara-Ratzka-Weg",
+            ""
+        ],
+        "lat": "51.951370",
+        "lng": "7.669279"
+    },
+    {
+        "inf": [
+            "48155 M\u00fcnster - Mauritz",
+            "Wolbecker Stra\u00dfe (Freibad Stapelskotten, Parkplatz Gastst\u00e4tte)",
+            ""
+        ],
+        "lat": "51.946774",
+        "lng": "7.690635"
+    },
+    {
+        "inf": [
+            "48155 M\u00fcnster - Mauritz",
+            "Zum Guten Hirten (v.d. Kanalbr\u00fccke)",
+            ""
+        ],
+        "lat": "51.962791",
+        "lng": "7.663968"
+    },
+    {
+        "inf": [
+            "48163 M\u00fcnster - Mecklenbeck",
+            "Brockmannstra\u00dfe (hinter Kirche)",
+            ""
+        ],
+        "lat": "51.930538",
+        "lng": "7.579145"
+    },
+    {
+        "inf": [
+            "48163 M\u00fcnster - Mecklenbeck",
+            "Christop-Bernhard-Str\/ Spielplatz",
+            ""
+        ],
+        "lat": "51.930477",
+        "lng": "7.574136"
+    },
+    {
+        "inf": [
+            "48163 M\u00fcnster - Mecklenbeck",
+            "Echelmeyerstra\u00dfe (Parkpl. Bildungsz.)",
+            ""
+        ],
+        "lat": "51.935619",
+        "lng": "7.589543"
+    },
+    {
+        "inf": [
+            "48163 M\u00fcnster - Mecklenbeck",
+            "Meyerbeerstra\u00dfe 71",
+            ""
+        ],
+        "lat": "51.925892",
+        "lng": "7.576723"
+    },
+    {
+        "inf": [
+            "48163 M\u00fcnster - Mecklenbeck",
+            "Ossenkampstiege\/Boeselagerstra\u00dfe",
+            ""
+        ],
+        "lat": "51.936481",
+        "lng": "7.596457"
+    },
+    {
+        "inf": [
+            "48163 M\u00fcnster - Mecklenbeck",
+            "RH Mecklenbeck",
+            ""
+        ],
+        "lat": "51.930542",
+        "lng": "7.554598"
+    },
+    {
+        "inf": [
+            "48163 M\u00fcnster - Mecklenbeck",
+            "Rockbusch\/Kleibusch",
+            ""
+        ],
+        "lat": "51.920006",
+        "lng": "7.575841"
+    },
+    {
+        "inf": [
+            "48163 M\u00fcnster - Mecklenbeck",
+            "Sch\u00fcrbusch gegen\u00fcber Haus Nr. 19",
+            ""
+        ],
+        "lat": "51.929585",
+        "lng": "7.584455"
+    },
+    {
+        "inf": [
+            "48161 M\u00fcnster - Nienberge",
+            "Am Baumberger Hof\/H\u00e4gerstra\u00dfe",
+            ""
+        ],
+        "lat": "52.001541",
+        "lng": "7.557883"
+    },
+    {
+        "inf": [
+            "48161 M\u00fcnster - Nienberge",
+            "Feldstiege (Parkpl. vor Sportzentrum)",
+            ""
+        ],
+        "lat": "51.999985",
+        "lng": "7.549464"
+    },
+    {
+        "inf": [
+            "48161 M\u00fcnster - Nienberge",
+            "Hermann-Hesse-Str.\/H\u00fclshoffstra\u00dfe",
+            ""
+        ],
+        "lat": "51.995483",
+        "lng": "7.553368"
+    },
+    {
+        "inf": [
+            "48161 M\u00fcnster - Nienberge",
+            "Kirmstr. gegen\u00fcber Haus Nr. 23",
+            ""
+        ],
+        "lat": "51.998016",
+        "lng": "7.558968"
+    },
+    {
+        "inf": [
+            "48161 M\u00fcnster - Nienberge",
+            "Recyclinghof Waltruper Weg",
+            ""
+        ],
+        "lat": "51.993042",
+        "lng": "7.543488"
+    },
+    {
+        "inf": [
+            "48161 M\u00fcnster - Nienberge",
+            "Schmitthausweg 4",
+            ""
+        ],
+        "lat": "52.022331",
+        "lng": "7.561598"
+    },
+    {
+        "inf": [
+            "48161 M\u00fcnster - Nienberge",
+            "Sebastianstra\u00dfe\/ Plettendorfstr. (Ev. Kirche)",
+            ""
+        ],
+        "lat": "51.996719",
+        "lng": "7.556325"
+    },
+    {
+        "inf": [
+            "48161 M\u00fcnster - Nienberge",
+            "Waltruper Weg",
+            ""
+        ],
+        "lat": "51.994022",
+        "lng": "7.547929"
+    },
+    {
+        "inf": [
+            "48161 M\u00fcnster - Roxel",
+            "Autobahnrastst\u00e4tte Ost",
+            ""
+        ],
+        "lat": "51.941013",
+        "lng": "7.551159"
+    },
+    {
+        "inf": [
+            "48161 M\u00fcnster - Roxel",
+            "Autobahnrastst\u00e4tte West",
+            ""
+        ],
+        "lat": "51.945625",
+        "lng": "7.548377"
+    },
+    {
+        "inf": [
+            "48161 M\u00fcnster - Roxel",
+            "Dorffeldstra\u00dfe (gg\u00fc. Haus Nr. 32)",
+            ""
+        ],
+        "lat": "51.950661",
+        "lng": "7.537469"
+    },
+    {
+        "inf": [
+            "48161 M\u00fcnster - Roxel",
+            "Pienersallee (gegen\u00fc. Haus Nr. 26)",
+            ""
+        ],
+        "lat": "51.951305",
+        "lng": "7.530418"
+    },
+    {
+        "inf": [
+            "48161 M\u00fcnster - Roxel",
+            "Recyclinghof Roxel, Nottulner Landweg",
+            ""
+        ],
+        "lat": "51.947376",
+        "lng": "7.535186"
+    },
+    {
+        "inf": [
+            "48161 M\u00fcnster - Roxel",
+            "Schelmenstiege (Parkpl. vor der BVS)",
+            ""
+        ],
+        "lat": "51.954731",
+        "lng": "7.541640"
+    },
+    {
+        "inf": [
+            "48161 M\u00fcnster - Roxel",
+            "Schulte-Hermann-Str. (Zufahrt z. Tiefgarage)",
+            ""
+        ],
+        "lat": "51.953308",
+        "lng": "7.533664"
+    },
+    {
+        "inf": [
+            "48161 M\u00fcnster - Roxel",
+            "Tilbecker Stra\u00dfe (Parkpl. Hallenbad)",
+            ""
+        ],
+        "lat": "51.954082",
+        "lng": "7.527064"
+    },
+    {
+        "inf": [
+            "48161 M\u00fcnster - Roxel",
+            "Wenningweg (neben dem Kl\u00e4rwerk)",
+            ""
+        ],
+        "lat": "51.949280",
+        "lng": "7.526384"
+    },
+    {
+        "inf": [
+            "48149 M\u00fcnster - Sentrup",
+            "Busso-Peus-Stra\u00dfe",
+            ""
+        ],
+        "lat": "51.968987",
+        "lng": "7.588885"
+    },
+    {
+        "inf": [
+            "48149 M\u00fcnster - Sentrup",
+            "Rudolf-Harbig-Weg",
+            ""
+        ],
+        "lat": "51.975273",
+        "lng": "7.591884"
+    },
+    {
+        "inf": [
+            "48149 M\u00fcnster - Sentrup",
+            "Rudolf-Harbig-Weg (Studentenw., 26-46)",
+            ""
+        ],
+        "lat": "51.972748",
+        "lng": "7.594686"
+    },
+    {
+        "inf": [
+            "48149 M\u00fcnster - Sentrup",
+            "Schmeddingstr. (gegen\u00fcber Haus Nr. 50)",
+            ""
+        ],
+        "lat": "51.960724",
+        "lng": "7.589834"
+    },
+    {
+        "inf": [
+            "48149 M\u00fcnster - Sentrup",
+            "Sentruper Str. (Parkplatz M\u00fchlenhof)",
+            ""
+        ],
+        "lat": "51.950104",
+        "lng": "7.596748"
+    },
+    {
+        "inf": [
+            "48149 M\u00fcnster - Sentrup",
+            "Sentruper Str. (vor Sportzentrum)",
+            ""
+        ],
+        "lat": "51.955223",
+        "lng": "7.601379"
+    },
+    {
+        "inf": [
+            "48157 M\u00fcnster - Sprakel",
+            "Bahnhof Sprakel",
+            ""
+        ],
+        "lat": "52.042213",
+        "lng": "7.619248"
+    },
+    {
+        "inf": [
+            "48159 M\u00fcnster - Sprakel",
+            "Dreilinden\/Nienberger Stra\u00dfe",
+            ""
+        ],
+        "lat": "52.041821",
+        "lng": "7.615412"
+    },
+    {
+        "inf": [
+            "48157 M\u00fcnster - Sprakel",
+            "Schlusenweg",
+            ""
+        ],
+        "lat": "52.032299",
+        "lng": "7.619631"
+    },
+    {
+        "inf": [
+            "48147 M\u00fcnster - Wienburg",
+            "Gartenstr. vor Haus Nr. 165-170",
+            ""
+        ],
+        "lat": "51.976074",
+        "lng": "7.636142"
+    },
+    {
+        "inf": [
+            "48147 M\u00fcnster - Wienburg",
+            "Hoher Heckenweg 170\/Sibeliusstra\u00dfe",
+            ""
+        ],
+        "lat": "51.982262",
+        "lng": "7.645751"
+    },
+    {
+        "inf": [
+            "48147 M\u00fcnster - Wienburg",
+            "Holsteiner Stra\u00dfe\/Piusallee (Wiewel-Markt)",
+            ""
+        ],
+        "lat": "51.971451",
+        "lng": "7.640960"
+    },
+    {
+        "inf": [
+            "48147 M\u00fcnster - Wienburg",
+            "Jahnstra\u00dfe 26",
+            ""
+        ],
+        "lat": "51.975925",
+        "lng": "7.616317"
+    },
+    {
+        "inf": [
+            "48147 M\u00fcnster - Wienburg",
+            "Kanalstra\u00dfe \/ Lublinring (Parkplatz) Unterflur",
+            ""
+        ],
+        "lat": "51.972527",
+        "lng": "7.632902"
+    },
+    {
+        "inf": [
+            "48147 M\u00fcnster - Wienburg",
+            "Me\u00dfkamp\/Kinderhauser Stra\u00dfe",
+            ""
+        ],
+        "lat": "51.980396",
+        "lng": "7.613625"
+    },
+    {
+        "inf": [
+            "48147 M\u00fcnster - Wienburg",
+            "Stettiner Str. (gg\u00fc. Haus Nr. 68-82)",
+            ""
+        ],
+        "lat": "51.975903",
+        "lng": "7.646607"
+    },
+    {
+        "inf": [
+            "48147 M\u00fcnster - Wienburg",
+            "Wienburgstra\u00dfe\/Salzmannstra\u00dfe 1",
+            ""
+        ],
+        "lat": "51.977360",
+        "lng": "7.621630"
+    },
+    {
+        "inf": [
+            "48167 M\u00fcnster - Wolbeck",
+            "Am Borggarten (neben Haus Nr. 3)",
+            ""
+        ],
+        "lat": "51.921364",
+        "lng": "7.730451"
+    },
+    {
+        "inf": [
+            "48167 M\u00fcnster - Wolbeck",
+            "Am Steintor\/Juffernkamp",
+            ""
+        ],
+        "lat": "51.912006",
+        "lng": "7.728437"
+    },
+    {
+        "inf": [
+            "48167 M\u00fcnster - Wolbeck",
+            "Brandhoveweg (Parkplatz Hallenbad)",
+            ""
+        ],
+        "lat": "51.915874",
+        "lng": "7.715109"
+    },
+    {
+        "inf": [
+            "48167 M\u00fcnster - Wolbeck",
+            "Dirk-von-Merveldt-Str. Ev.-Kirche",
+            ""
+        ],
+        "lat": "51.918667",
+        "lng": "7.726744"
+    },
+    {
+        "inf": [
+            "48167 M\u00fcnster - Wolbeck",
+            "Eschstra\u00dfe 6",
+            ""
+        ],
+        "lat": "51.921391",
+        "lng": "7.726744"
+    },
+    {
+        "inf": [
+            "48167 M\u00fcnster - Wolbeck",
+            "Goldbrink (vor Haus Nr. 69)",
+            ""
+        ],
+        "lat": "51.922970",
+        "lng": "7.721637"
+    },
+    {
+        "inf": [
+            "48167 M\u00fcnster - Wolbeck",
+            "Hiltruper Str. 55",
+            ""
+        ],
+        "lat": "51.911495",
+        "lng": "7.717853"
+    },
+    {
+        "inf": [
+            "48167 M\u00fcnster - Wolbeck",
+            "Hofstr. (neben Feuerwehrger\u00e4tehaus)",
+            ""
+        ],
+        "lat": "51.916927",
+        "lng": "7.734440"
+    },
+    {
+        "inf": [
+            "48167 M\u00fcnster - Wolbeck",
+            "Middeler Stra\u00dfe (K&amp;K)",
+            ""
+        ],
+        "lat": "51.925724",
+        "lng": "7.724731"
+    },
+    {
+        "inf": [
+            "48167 M\u00fcnster - Wolbeck",
+            "Recyclinghof Eschstra\u00dfe",
+            ""
+        ],
+        "lat": "51.918297",
+        "lng": "7.721005"
+    },
+    {
+        "inf": [
+            "48167 M\u00fcnster - Wolbeck",
+            "Zumbuschstr.\/Buxtrup",
+            ""
+        ],
+        "lat": "51.905758",
+        "lng": "7.720199"
+    }
 ]

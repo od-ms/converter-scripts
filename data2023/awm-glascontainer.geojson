@@ -51,8 +51,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.599728,
-          51.938889
+          7.59968,
+          51.938862
         ]
       },
       "properties": {
@@ -3359,21 +3359,6 @@
         "Typ": "Glascontainer",
         "Stadtteil": "48149 M\u00fcnster - Sentrup",
         "Standort": "Rudolf-Harbig-Weg (Studentenw., 26-46)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.593605,
-          51.974236
-        ]
-      },
-      "properties": {
-        "Typ": "Glascontainer",
-        "Stadtteil": "48149 M\u00fcnster - Sentrup",
-        "Standort": "Rudolf-Harbig-Weg (Studentenw., 39-51)"
       }
     },
     {

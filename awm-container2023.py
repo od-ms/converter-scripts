@@ -15,10 +15,13 @@ LOGGER.info("=====> START %s <=====", TODAY)
 
 ###
 ### STEP 1: Download data files from AWM website:
-###     https://awm.stadt-muenster.de/abfuhrtermine-und-entsorgungsstandorte
+###     https://awm.stadt-muenster.de/verwertung-entsorgung/sammlung-services/altglascontainer
+###     bzw. einfach unter:
+###     https://www.muellmax.de/abfallkalender/awm/res/AwmStart.php
+###     Then:
 ###        a) Choose desired container type
 ###        b) "Bitte den Stadtteil auswählen: 'alle Stadtteile'"
-###        c) Click on any "Standort"
+###        c) Click on any "Standort" (click the map pin icon on the right)
 ###        d) A map with all positions will show. Check the network requests.
 ###        e) Save response json to this subdirectory "data/"
 ###        f) repeat 3 times (all container types: kleider, elektro, glas)
