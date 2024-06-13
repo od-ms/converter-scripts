@@ -10,7 +10,7 @@ import os
 
 from datetime import datetime, timezone
 
-FILE = 'klimadata_2024-02-20_1.csv'
+FILE = '05515000_csv_klimarelevante_daten.csv'
 
 # Basic logger configuration
 logging.basicConfig(level=logging.DEBUG, format='<%(asctime)s %(levelname)s> %(message)s')
@@ -33,8 +33,8 @@ DATASET_DESCRIPTIONS = {
     "endenergie":                   [12, "Endenergie (Sekt)", r"^Endenergieverbrauch"],
     "teilnehmer-startberatung":     [16, "Teilnehmer (Unternehmen) Startberatung", r"^Teilnehmer"],
     "verbrauch-erzeugung-strom":    [13, "Verbrauch-Erzeugung Strom", r"^Stromerzeugung/-bereitstellung"],
-    "stadtwerke-bus-fahrzeuge":     [3, "BUS-Fahrzeuge der Stadtwerke", r"^Fahrzeuge"]
-
+    "stadtwerke-bus-fahrzeuge":     [3, "BUS-Fahrzeuge der Stadtwerke", r"^Fahrzeuge"],
+    "wachstum":                     [19, "Wachstumskennzahlen", r"^Sozialversicherungspflichtige"]
     # Änderung 2024-03: Das ist jetzt zusammen mit "4" Zeitreihe Verkehrsmittelwahl:
     # "modal-split-v-leistung":       ["Modal Split V.leistung", r"^(Absolut|Absolut\sin\skm|Modal\sSplit\sV\.leistung.*)$"],
 }
