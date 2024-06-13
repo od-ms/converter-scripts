@@ -1,0 +1,34 @@
+{
+  "Summen": {
+    "AnzahlAnlagen": 28,
+    "AnzahlSolarModule": 0,
+    "Bruttoleistung": 68450,
+    "Nettonennleistung": 68450
+  },
+  "Werte": {
+    "BetriebsStatusName": {
+      "In Betrieb": 28
+    },
+    "EnergietraegerName": {
+      "Wind": 28
+    },
+    "IsAnonymisiert": {
+      "False": 28
+    },
+    "IsPilotwindanlage": {
+      "False": 15,
+      "None": 13
+    },
+    "PersonenArtId": {
+      "517": 27,
+      "518": 1
+    },
+    "Plz": {
+      "48157": 1,
+      "48159": 11,
+      "48161": 7,
+      "48163": 7,
+      "48167": 2
+    }
+  }
+}

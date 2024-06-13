@@ -1,0 +1,43 @@
+{
+  "Summen": {
+    "AnzahlAnlagen": 8461,
+    "AnzahlSolarModule": 456372,
+    "Bruttoleistung": 114061,
+    "Nettonennleistung": 103613
+  },
+  "Werte": {
+    "BetriebsStatusName": {
+      "In Betrieb": 8459,
+      "Vor\u00fcbergehend stillgelegt": 2
+    },
+    "EnergietraegerName": {
+      "Solare Strahlungsenergie": 8461
+    },
+    "IsAnonymisiert": {
+      "False": 383,
+      "True": 8078
+    },
+    "IsPilotwindanlage": {
+      "None": 8461
+    },
+    "PersonenArtId": {
+      "517": 772,
+      "518": 7689
+    },
+    "Plz": {
+      "48143": 28,
+      "48145": 142,
+      "48147": 418,
+      "48149": 352,
+      "48151": 316,
+      "48153": 277,
+      "48155": 571,
+      "48157": 877,
+      "48159": 710,
+      "48161": 1351,
+      "48163": 1244,
+      "48165": 997,
+      "48167": 1178
+    }
+  }
+}
