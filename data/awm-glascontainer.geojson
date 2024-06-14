@@ -51,8 +51,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.599728,
-          51.938889
+          7.59968,
+          51.938862
         ]
       },
       "properties": {
@@ -381,6 +381,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.677483,
+          51.918465
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Stadtteil": "48167 M\u00fcnster - Angelmodde",
+        "Standort": "Schlesienstra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.677505,
           51.918427
         ]
@@ -546,6 +561,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.604761,
+          51.965752
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Stadtteil": "48149 M\u00fcnster - Centrum",
+        "Standort": "Einsteinstra\u00dfe/Hittorfstra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.631752,
           51.950481
         ]
@@ -591,14 +621,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.645471,
-          51.960331
+          7.612333,
+          51.971848
         ]
       },
       "properties": {
         "Typ": "Glascontainer",
-        "Stadtteil": "48145 M\u00fcnster - Centrum",
-        "Standort": "Gutenbergstra\u00dfe/Lortzingstra\u00dfe"
+        "Stadtteil": "48149 M\u00fcnster - Centrum",
+        "Standort": "Grevener Stra\u00dfe, H\u00f6he Nr. 61c"
       }
     },
     {
@@ -636,21 +666,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.603974,
-          51.965481
-        ]
-      },
-      "properties": {
-        "Typ": "Glascontainer",
-        "Stadtteil": "48149 M\u00fcnster - Centrum",
-        "Standort": "Hittorfstra\u00dfe/Einsteinstra\u00dfe"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.605673,
           51.960754
         ]
@@ -659,21 +674,6 @@
         "Typ": "Glascontainer",
         "Stadtteil": "48149 M\u00fcnster - Centrum",
         "Standort": "H\u00fcfferstr. (auf Parkstr. vor Haus Nr. 54, M\u00f6serweg)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.613197,
-          51.971268
-        ]
-      },
-      "properties": {
-        "Typ": "Glascontainer",
-        "Stadtteil": "48149 M\u00fcnster - Centrum",
-        "Standort": "Kanonierplatz/Melchersstra\u00dfe"
       }
     },
     {
@@ -1086,6 +1086,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.646639,
+          51.993423
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Stadtteil": "48157 M\u00fcnster - Coerde",
+        "Standort": "Hamannplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.665422,
           52.010876
         ]
@@ -1094,21 +1109,6 @@
         "Typ": "Glascontainer",
         "Stadtteil": "48157 M\u00fcnster - Coerde",
         "Standort": "Hessenbusch gg\u00fc. 184 (Wagenburg)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.637692,
-          51.994709
-        ]
-      },
-      "properties": {
-        "Typ": "Glascontainer",
-        "Stadtteil": "48157 M\u00fcnster - Coerde",
-        "Standort": "Holtmannsweg gegen\u00fcber Eichhornweg"
       }
     },
     {
@@ -1589,36 +1589,6 @@
         "Typ": "Glascontainer",
         "Stadtteil": "48161 M\u00fcnster - Gievenbeck",
         "Standort": "Recyclinghof Gievenbeck"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.594686,
-          51.972748
-        ]
-      },
-      "properties": {
-        "Typ": "Glascontainer",
-        "Stadtteil": "48161 M\u00fcnster - Gievenbeck",
-        "Standort": "Rudolf-Harbig-Weg (Studentenw., 26-46)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.593605,
-          51.974236
-        ]
-      },
-      "properties": {
-        "Typ": "Glascontainer",
-        "Stadtteil": "48161 M\u00fcnster - Gievenbeck",
-        "Standort": "Rudolf-Harbig-Weg (Studentenw., 39-51)"
       }
     },
     {
@@ -3351,6 +3321,51 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.588885,
+          51.968987
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Stadtteil": "48149 M\u00fcnster - Sentrup",
+        "Standort": "Busso-Peus-Stra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.591884,
+          51.975273
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Stadtteil": "48149 M\u00fcnster - Sentrup",
+        "Standort": "Rudolf-Harbig-Weg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.594686,
+          51.972748
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Stadtteil": "48149 M\u00fcnster - Sentrup",
+        "Standort": "Rudolf-Harbig-Weg (Studentenw., 26-46)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.589834,
           51.960724
         ]
@@ -3674,6 +3689,21 @@
         "Typ": "Glascontainer",
         "Stadtteil": "48167 M\u00fcnster - Wolbeck",
         "Standort": "Hofstr. (neben Feuerwehrger\u00e4tehaus)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.724731,
+          51.925724
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Stadtteil": "48167 M\u00fcnster - Wolbeck",
+        "Standort": "Middeler Stra\u00dfe (K&amp;K)"
       }
     },
     {

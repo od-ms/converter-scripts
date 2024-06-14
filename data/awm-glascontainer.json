@@ -1,5 +1,8 @@
 [
     {
+        "art_txt": "Glascontainer"
+    },
+    {
         "inf": [
             "48151 M\u00fcnster - Aaseestadt",
             "Bonhoefferstra\u00dfe (Polizeischule gg\u00fc.)",
@@ -24,7 +27,8 @@
             ""
         ],
         "lat": "51.937237",
-        "lng": "7.597556"
+        "lng": "7.597556",
+        "iwo": 1
     },
     {
         "inf": [
@@ -32,8 +36,8 @@
             "Lange Ossenbeck\/Kleihorststra\u00dfe",
             ""
         ],
-        "lat": "51.938889",
-        "lng": "7.599728"
+        "lat": "51.938862",
+        "lng": "7.599680"
     },
     {
         "inf": [
@@ -227,6 +231,15 @@
     {
         "inf": [
             "48167 M\u00fcnster - Angelmodde",
+            "Schlesienstra\u00dfe",
+            ""
+        ],
+        "lat": "51.918465",
+        "lng": "7.677483"
+    },
+    {
+        "inf": [
+            "48167 M\u00fcnster - Angelmodde",
             "Schlesienstra\u00dfe\/Ostpreu\u00dfenstra\u00dfe",
             ""
         ],
@@ -325,6 +338,15 @@
     },
     {
         "inf": [
+            "48149 M\u00fcnster - Centrum",
+            "Einsteinstra\u00dfe\/Hittorfstra\u00dfe",
+            ""
+        ],
+        "lat": "51.965752",
+        "lng": "7.604761"
+    },
+    {
+        "inf": [
             "48153 M\u00fcnster - Centrum",
             "Friedrich-Ebert-Stra\u00dfe\/Annenstra\u00dfe",
             ""
@@ -352,12 +374,12 @@
     },
     {
         "inf": [
-            "48145 M\u00fcnster - Centrum",
-            "Gutenbergstra\u00dfe\/Lortzingstra\u00dfe",
+            "48149 M\u00fcnster - Centrum",
+            "Grevener Stra\u00dfe, H\u00f6he Nr. 61c",
             ""
         ],
-        "lat": "51.960331",
-        "lng": "7.645471"
+        "lat": "51.971848",
+        "lng": "7.612333"
     },
     {
         "inf": [
@@ -380,29 +402,11 @@
     {
         "inf": [
             "48149 M\u00fcnster - Centrum",
-            "Hittorfstra\u00dfe\/Einsteinstra\u00dfe",
-            ""
-        ],
-        "lat": "51.965481",
-        "lng": "7.603974"
-    },
-    {
-        "inf": [
-            "48149 M\u00fcnster - Centrum",
             "H\u00fcfferstr. (auf Parkstr. vor Haus Nr. 54, M\u00f6serweg)",
             ""
         ],
         "lat": "51.960754",
         "lng": "7.605673"
-    },
-    {
-        "inf": [
-            "48149 M\u00fcnster - Centrum",
-            "Kanonierplatz\/Melchersstra\u00dfe",
-            ""
-        ],
-        "lat": "51.971268",
-        "lng": "7.613197"
     },
     {
         "inf": [
@@ -650,20 +654,20 @@
     {
         "inf": [
             "48157 M\u00fcnster - Coerde",
+            "Hamannplatz",
+            ""
+        ],
+        "lat": "51.993423",
+        "lng": "7.646639"
+    },
+    {
+        "inf": [
+            "48157 M\u00fcnster - Coerde",
             "Hessenbusch gg\u00fc. 184 (Wagenburg)",
             ""
         ],
         "lat": "52.010876",
         "lng": "7.665422"
-    },
-    {
-        "inf": [
-            "48157 M\u00fcnster - Coerde",
-            "Holtmannsweg gegen\u00fcber Eichhornweg",
-            ""
-        ],
-        "lat": "51.994709",
-        "lng": "7.637692"
     },
     {
         "inf": [
@@ -952,24 +956,6 @@
         ],
         "lat": "51.960854",
         "lng": "7.570661"
-    },
-    {
-        "inf": [
-            "48161 M\u00fcnster - Gievenbeck",
-            "Rudolf-Harbig-Weg (Studentenw., 26-46)",
-            ""
-        ],
-        "lat": "51.972748",
-        "lng": "7.594686"
-    },
-    {
-        "inf": [
-            "48161 M\u00fcnster - Gievenbeck",
-            "Rudolf-Harbig-Weg (Studentenw., 39-51)",
-            ""
-        ],
-        "lat": "51.974236",
-        "lng": "7.593605"
     },
     {
         "inf": [
@@ -2009,6 +1995,33 @@
     {
         "inf": [
             "48149 M\u00fcnster - Sentrup",
+            "Busso-Peus-Stra\u00dfe",
+            ""
+        ],
+        "lat": "51.968987",
+        "lng": "7.588885"
+    },
+    {
+        "inf": [
+            "48149 M\u00fcnster - Sentrup",
+            "Rudolf-Harbig-Weg",
+            ""
+        ],
+        "lat": "51.975273",
+        "lng": "7.591884"
+    },
+    {
+        "inf": [
+            "48149 M\u00fcnster - Sentrup",
+            "Rudolf-Harbig-Weg (Studentenw., 26-46)",
+            ""
+        ],
+        "lat": "51.972748",
+        "lng": "7.594686"
+    },
+    {
+        "inf": [
+            "48149 M\u00fcnster - Sentrup",
             "Schmeddingstr. (gegen\u00fcber Haus Nr. 50)",
             ""
         ],
@@ -2203,6 +2216,15 @@
         ],
         "lat": "51.916927",
         "lng": "7.734440"
+    },
+    {
+        "inf": [
+            "48167 M\u00fcnster - Wolbeck",
+            "Middeler Stra\u00dfe (K&amp;K)",
+            ""
+        ],
+        "lat": "51.925724",
+        "lng": "7.724731"
     },
     {
         "inf": [

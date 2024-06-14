@@ -1,12 +1,15 @@
 [
     {
+        "art_txt": "Elektrokleinger\u00e4te-Container"
+    },
+    {
         "inf": [
             "48151 M\u00fcnster - Aaseestadt",
-            "Lange Ossenbeck, vor Nr. 9",
+            "Lange Ossenbeck\/Kleihorststra\u00dfe",
             ""
         ],
-        "lat": "51.937202",
-        "lng": "7.597586"
+        "lat": "51.938862",
+        "lng": "7.599680"
     },
     {
         "inf": [
@@ -15,7 +18,8 @@
             ""
         ],
         "lat": "51.923733",
-        "lng": "7.529846"
+        "lng": "7.529846",
+        "iwo": 1
     },
     {
         "inf": [
@@ -73,21 +77,21 @@
     },
     {
         "inf": [
+            "48149 M\u00fcnster - Centrum",
+            "Grevener Stra\u00dfe, H\u00f6he Nr. 61c",
+            ""
+        ],
+        "lat": "51.971848",
+        "lng": "7.612333"
+    },
+    {
+        "inf": [
             "48155 M\u00fcnster - Centrum",
             "Hansaring 63 (vor REWE) - vor\u00fcbergehend versetzt zur Schillerstr. (Hansa-Berufskolleg &amp; Anfang Schillerbr\u00fccke)",
             ""
         ],
         "lat": "51.954071",
         "lng": "7.644300"
-    },
-    {
-        "inf": [
-            "48149 M\u00fcnster - Centrum",
-            "Melchersstra\u00dfe (Kanonierplatz)",
-            ""
-        ],
-        "lat": "51.971207",
-        "lng": "7.613248"
     },
     {
         "inf": [

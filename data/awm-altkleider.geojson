@@ -201,6 +201,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.612333,
+          51.971848
+        ]
+      },
+      "properties": {
+        "Typ": "Altkleidercontainer",
+        "Stadtteil": "48149 M\u00fcnster - Centrum",
+        "Standort": "Grevener Stra\u00dfe, H\u00f6he Nr. 61c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.6443,
           51.954071
         ]
@@ -209,21 +224,6 @@
         "Typ": "Altkleidercontainer",
         "Stadtteil": "48155 M\u00fcnster - Centrum",
         "Standort": "Hansaring 63 (vor REWE) - vor\u00fcbergehend versetzt zur Schillerstr. (Hansa-Berufskolleg &amp; Anfang Schillerbr\u00fccke)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.613248,
-          51.971207
-        ]
-      },
-      "properties": {
-        "Typ": "Altkleidercontainer",
-        "Stadtteil": "48149 M\u00fcnster - Centrum",
-        "Standort": "Melchersstra\u00dfe (Kanonierplatz)"
       }
     },
     {

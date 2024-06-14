@@ -6,14 +6,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.597586,
-          51.937202
+          7.59968,
+          51.938862
         ]
       },
       "properties": {
         "Typ": "Elektrokleinger\u00e4te-Container",
         "Stadtteil": "48151 M\u00fcnster - Aaseestadt",
-        "Standort": "Lange Ossenbeck, vor Nr. 9"
+        "Standort": "Lange Ossenbeck/Kleihorststra\u00dfe"
       }
     },
     {
@@ -126,6 +126,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.612333,
+          51.971848
+        ]
+      },
+      "properties": {
+        "Typ": "Elektrokleinger\u00e4te-Container",
+        "Stadtteil": "48149 M\u00fcnster - Centrum",
+        "Standort": "Grevener Stra\u00dfe, H\u00f6he Nr. 61c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.6443,
           51.954071
         ]
@@ -134,21 +149,6 @@
         "Typ": "Elektrokleinger\u00e4te-Container",
         "Stadtteil": "48155 M\u00fcnster - Centrum",
         "Standort": "Hansaring 63 (vor REWE) - vor\u00fcbergehend versetzt zur Schillerstr. (Hansa-Berufskolleg &amp; Anfang Schillerbr\u00fccke)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.613248,
-          51.971207
-        ]
-      },
-      "properties": {
-        "Typ": "Elektrokleinger\u00e4te-Container",
-        "Stadtteil": "48149 M\u00fcnster - Centrum",
-        "Standort": "Melchersstra\u00dfe (Kanonierplatz)"
       }
     },
     {

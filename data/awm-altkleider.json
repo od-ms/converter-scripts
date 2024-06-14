@@ -1,5 +1,8 @@
 [
     {
+        "art_txt": "Altkleidercontainer"
+    },
+    {
         "inf": [
             "48151 M\u00fcnster - Aaseestadt",
             "Lange Ossenbeck, vor Nr. 9",
@@ -15,7 +18,8 @@
             ""
         ],
         "lat": "51.925529",
-        "lng": "7.523392"
+        "lng": "7.523392",
+        "iwo": 1
     },
     {
         "inf": [
@@ -118,21 +122,21 @@
     },
     {
         "inf": [
+            "48149 M\u00fcnster - Centrum",
+            "Grevener Stra\u00dfe, H\u00f6he Nr. 61c",
+            ""
+        ],
+        "lat": "51.971848",
+        "lng": "7.612333"
+    },
+    {
+        "inf": [
             "48155 M\u00fcnster - Centrum",
             "Hansaring 63 (vor REWE) - vor\u00fcbergehend versetzt zur Schillerstr. (Hansa-Berufskolleg &amp; Anfang Schillerbr\u00fccke)",
             ""
         ],
         "lat": "51.954071",
         "lng": "7.644300"
-    },
-    {
-        "inf": [
-            "48149 M\u00fcnster - Centrum",
-            "Melchersstra\u00dfe (Kanonierplatz)",
-            ""
-        ],
-        "lat": "51.971207",
-        "lng": "7.613248"
     },
     {
         "inf": [

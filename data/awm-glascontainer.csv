@@ -1,248 +1,250 @@
 Nr,Containertyp,Standort1,Standort2,Standort3,Latitude,Longitude,Datum
-1,Glascontainer,48151 Münster - Aaseestadt,Bonhoefferstraße (Polizeischule ggü.),,51.941853,7.606371,2021-12-19
-2,Glascontainer,48151 Münster - Aaseestadt,Delpstraße/Goerdeler Straße (gegenüber Hochhäuser),,51.947723,7.607582,2021-12-19
-3,Glascontainer,48151 Münster - Aaseestadt,Lange Ossenbeck (Buskehre),,51.937237,7.597556,2021-12-19
-4,Glascontainer,48151 Münster - Aaseestadt,Lange Ossenbeck/Kleihorststraße,,51.938889,7.599728,2021-12-19
-5,Glascontainer,48151 Münster - Aaseestadt,Von-Ossietzky-Str. gegenü. Tennisplatz,,51.942280,7.601887,2021-12-19
-6,Glascontainer,48151 Münster - Aaseestadt,Von-Stauffenbergstr. gegenü. Haus Nr. 36,,51.945587,7.612130,2021-12-19
-7,Glascontainer,48163 Münster - Albachten,Am Kämpken,,51.920242,7.526349,2021-12-19
-8,Glascontainer,48163 Münster - Albachten,Concordenstr. (Parkplatz vor dem Sportplatz),,51.923843,7.529778,2021-12-19
-9,Glascontainer,48163 Münster - Albachten,Dülmener Straße (gegenüber Feuerwehr),,51.925007,7.521031,2021-12-19
-10,Glascontainer,48163 Münster - Albachten,Langenkamp (Buswende),,51.914619,7.526518,2021-12-19
-11,Glascontainer,48163 Münster - Albachten,Osthofstraße (Parkplatz Friedhof),,51.923420,7.526430,2021-12-19
-12,Glascontainer,48163 Münster - Amelsbüren,Am Emmerbach (Parkplatz),,51.885490,7.604564,2021-12-19
-13,Glascontainer,48163 Münster - Amelsbüren,"Auf der Woort (vor Getränkemarkt Dursty, Parkstreifen)",,51.883064,7.605256,2021-12-19
-14,Glascontainer,48163 Münster - Amelsbüren,Davertstraße (Feuerwehr/Friedhof),,51.881355,7.608515,2021-12-19
-15,Glascontainer,48163 Münster - Amelsbüren,Kappenberger Damm (Wiedau-Schule),,51.894478,7.578858,2021-12-19
-16,Glascontainer,48163 Münster - Amelsbüren,Pater-Kolbe-Straße/Am Dornbusch,,51.883289,7.615717,2021-12-19
-17,Glascontainer,48167 Münster - Angelmodde,Albersloher Weg/Zum Kaiserbusch gegenüber Haus Nr. 1,,51.912727,7.684429,2021-12-19
-18,Glascontainer,48167 Münster - Angelmodde,Alter Postweg,,51.923958,7.699961,2021-12-19
-19,Glascontainer,48167 Münster - Angelmodde,Am Schütthook (Junker-Jörg-Platz),,51.915607,7.690217,2021-12-19
-20,Glascontainer,48167 Münster - Angelmodde,Am Schütthook (Parkplatz Boelestraße),,51.915855,7.694539,2021-12-19
-21,Glascontainer,48167 Münster - Angelmodde,Bonnenkamp/ Middelkamp (Wendehammer),,51.912060,7.689929,2021-12-19
-22,Glascontainer,48167 Münster - Angelmodde,Brandhoveweg/Pepinghegeweg,,51.917656,7.707878,2021-12-19
-23,Glascontainer,48167 Münster - Angelmodde,Buschstraße 6/Zum Erlenbusch,,51.922100,7.677308,2021-12-19
-24,Glascontainer,48167 Münster - Angelmodde,Eichendorffstraße vor Haus Nr. 3,,51.914375,7.691037,2021-12-19
-25,Glascontainer,48167 Münster - Angelmodde,Homannstraße/Zum Erlenbusch 100,,51.919628,7.681194,2021-12-19
-26,Glascontainer,48167 Münster - Angelmodde,Schlesienstraße/Ostpreußenstraße,,51.918427,7.677505,2021-12-19
-27,Glascontainer,48167 Münster - Angelmodde,Theodor-Heuss-Straße 10,,51.914455,7.692838,2021-12-19
-28,Glascontainer,48167 Münster - Angelmodde,Vogelrohrsheide (vor Haus Nr. 138),,51.914555,7.684626,2021-12-19
-29,Glascontainer,48153 Münster - Berg Fidel,Am Berg Fidel (Parkpl. Preußen-Stadion),,51.931835,7.625546,2021-12-19
-30,Glascontainer,48153 Münster - Berg Fidel,Am Berg Fidel (ggü. Haus Nr. 62),,51.926998,7.624035,2021-12-19
-31,Glascontainer,48165 Münster - Berg Fidel,Elsa-Brändström-Weg/Vennheideweg,,51.921417,7.621697,2021-12-19
-32,Glascontainer,48153 Münster - Berg Fidel,Hogenbergstr. vor Haus Nr. 21-27 Einkaufszentrum,,51.927155,7.619977,2021-12-19
-33,Glascontainer,48153 Münster - Berg Fidel,Lechterstraße 6 (Bürgersteig),,51.926044,7.617250,2021-12-19
-34,Glascontainer,48153 Münster - Berg Fidel,Pankokstraße (Haus Simeon),,51.926411,7.622861,2021-12-19
-35,Glascontainer,48153 Münster - Berg Fidel,Ter-Borch-Straße (Parkplatz),,51.925774,7.620609,2021-12-19
-36,Glascontainer,48147 Münster - Centrum,Am Kreuztor (REWE-Markt),,51.968212,7.622635,2021-12-19
-37,Glascontainer,48153 Münster - Centrum,Friedrich-Ebert-Straße/Annenstraße,,51.950481,7.631752,2021-12-19
-38,Glascontainer,48151 Münster - Centrum,Geiststraße 10,,51.951641,7.620634,2021-12-19
-39,Glascontainer,48147 Münster - Centrum,Goldstraße/Piusallee,,51.971039,7.640486,2021-12-19
-40,Glascontainer,48145 Münster - Centrum,Gutenbergstraße/Lortzingstraße,,51.960331,7.645471,2021-12-19
-41,Glascontainer,48155 Münster - Centrum,Hansaring (REWE-Markt),,51.953514,7.643968,2021-12-19
-42,Glascontainer,48151 Münster - Centrum,Hermannstraße/Norbertstraße,,51.953445,7.622813,2021-12-19
-43,Glascontainer,48149 Münster - Centrum,Hittorfstraße/Einsteinstraße,,51.965481,7.603974,2021-12-19
-44,Glascontainer,48149 Münster - Centrum,"Hüfferstr. (auf Parkstr. vor Haus Nr. 54, Möserweg)",,51.960754,7.605673,2021-12-19
-45,Glascontainer,48149 Münster - Centrum,Kanonierplatz/Melchersstraße,,51.971268,7.613197,2021-12-19
-46,Glascontainer,48143 Münster - Centrum,Katthagen/Rosenplatz (Unterflur),,51.965084,7.622202,2021-12-19
-47,Glascontainer,48151 Münster - Centrum,Kolde-Ring,,51.949726,7.613043,2021-12-19
-48,Glascontainer,48143 Münster - Centrum,Korduanenstraße (Hörster Parkplatz),,51.964432,7.631551,2021-12-19
-49,Glascontainer,48143 Münster - Centrum,"Königsstr. (Parkplatz vor Haus Nr. 46, AOK)",,51.958977,7.625776,2021-12-19
-50,Glascontainer,48153 Münster - Centrum,Leostraße/Hafenstraße (Busbahnhof),,51.953434,7.632208,2021-12-19
-51,Glascontainer,48147 Münster - Centrum,Maximilianstraße/Zuhornstraße,,51.970196,7.626627,2021-12-19
-52,Glascontainer,48143 Münster - Centrum,Mühlenstraße/Am Stadtgraben,,51.958794,7.619821,2021-12-19
-53,Glascontainer,48143 Münster - Centrum,Münzstraße/Kalkmarkt (gegenüber),,51.966702,7.617672,2021-12-19
-54,Glascontainer,48149 Münster - Centrum,Nordplatz,,51.971889,7.623393,2021-12-19
-55,Glascontainer,48145 Münster - Centrum,"Oststr. (ggü. Fernmeldeamt, Durchgang)",,51.962105,7.645330,2021-12-19
-56,Glascontainer,48151 Münster - Centrum,Scharnhorststraße (Hoppendamm) Unterflur,,51.953228,7.614333,2021-12-19
-57,Glascontainer,48151 Münster - Centrum,Scharnhorststraße vor Haus Nr. 100,,51.950066,7.607161,2021-12-19
-58,Glascontainer,48149 Münster - Centrum,Schlossplatz (ggü. Frauenstraße),,51.963127,7.617717,2021-12-19
-59,Glascontainer,48143 Münster - Centrum,Servatiiplatz/Wolbecker Straße,,51.959908,7.635615,2021-12-19
-60,Glascontainer,48149 Münster - Centrum,Steinfurter Str. 67-81 (Studentenw.),,51.972324,7.606580,2021-12-19
-61,Glascontainer,48149 Münster - Centrum,Steinfurter Straße 23-25 (REWE-Markt),,51.969162,7.612375,2021-12-19
-62,Glascontainer,48149 Münster - Centrum,Studtplatz/Grimmstraße  Unterflur,,51.969345,7.618198,2021-12-19
-63,Glascontainer,48153 Münster - Centrum,Südstraße/Hafenstraße,,51.954987,7.627707,2021-12-19
-64,Glascontainer,48143 Münster - Centrum,Universitätsstraße/Bispinghof,,51.960754,7.620446,2021-12-19
-65,Glascontainer,48147 Münster - Centrum,Wasserstraße/Kanalstraße,,51.966888,7.630901,2021-12-19
-66,Glascontainer,48149 Münster - Centrum,Wilhelmstraße/Orlèans-Ring,,51.968712,7.603550,2021-12-19
-67,Glascontainer,48159 Münster - Centrum,York-Ring (Hauptfeuerwache),,51.974380,7.610001,2021-12-19
-68,Glascontainer,48157 Münster - Coerde,An der Kleimannbrücke 25 (Kanal),,51.990982,7.660605,2021-12-19
-69,Glascontainer,48157 Münster - Coerde,An der Kleinannbrücke/August-Horch-Straße,,51.995888,7.662595,2021-12-19
-70,Glascontainer,48157 Münster - Coerde,An der Meerwiese,,51.987568,7.649341,2021-12-19
-71,Glascontainer,48157 Münster - Coerde,Dachsleite/Marienburgstraße,,51.997517,7.648975,2021-12-19
-72,Glascontainer,48157 Münster - Coerde,Görlitzer Straße (zw. Haus Nr. 34-58),,51.991726,7.642728,2021-12-19
-73,Glascontainer,48157 Münster - Coerde,Hessenbusch ggü. 184 (Wagenburg),,52.010876,7.665422,2021-12-19
-74,Glascontainer,48157 Münster - Coerde,Holtmannsweg gegenüber Eichhornweg,,51.994709,7.637692,2021-12-19
-75,Glascontainer,48157 Münster - Coerde,Josef-König-Str./Nevinghoff / Arbeitsamt,,51.984341,7.633314,2021-12-19
-76,Glascontainer,48157 Münster - Coerde,Nerzweg gegenüber Haus Nr. 32,,51.999153,7.640459,2021-12-19
-77,Glascontainer,48157 Münster - Coerde,Schneidemühler Str. /Königsberger Str.,,51.993668,7.650028,2021-12-19
-78,Glascontainer,48157 Münster - Coerde,ZDM Coerder Liekweg 76 Recyclinghof,,52.010872,7.652774,2021-12-19
-79,Glascontainer,48153 Münster - Geist,Augustastraße/Friedrich-Ebert-Straße,,51.948067,7.630926,2021-12-19
-80,Glascontainer,48163 Münster - Geist,Buldernweg/Drensteinfurtweg,,51.926701,7.601066,2021-12-19
-81,Glascontainer,48153 Münster - Geist,Düesbergweg (Maria-Hötte-Stift),,51.931030,7.613087,2021-12-19
-82,Glascontainer,48151 Münster - Geist,Elsässer Straße/Metzer Straße,,51.939926,7.620346,2021-12-19
-83,Glascontainer,48153 Münster - Geist,"Friedrich-Ebert-Straße (E-Center, ehem. Toom-Markt)",,51.943275,7.630899,2021-12-19
-84,Glascontainer,48163 Münster - Geist,Geringhoffstraße (HIT-Markt),,51.929947,7.600092,2021-12-19
-85,Glascontainer,48153 Münster - Geist,Herdingstraße/Travelmannstraße,,51.946091,7.628080,2021-12-19
-86,Glascontainer,48151 Münster - Geist,Kappenberger Damm gegenüber Haus Nr. 88,,51.935253,7.608469,2021-12-19
-87,Glascontainer,48153 Münster - Geist,Kriegerweg 41 (Bahnunterführung),,51.924641,7.611925,2021-12-19
-88,Glascontainer,48153 Münster - Geist,Scheibenstraße (vor Haus Nr. 115),,51.938881,7.627559,2021-12-19
-89,Glascontainer,48153 Münster - Geist,Scheibenstraße / Friedrich-Ebert-Straße,,51.942413,7.625407,2021-12-19
-90,Glascontainer,48151 Münster - Geist,Sentmaringer Weg/Geiststr./Marktplatz,,51.945499,7.621973,2021-12-19
-91,Glascontainer,48153 Münster - Geist,St.-Josef-Kirchplatz (Hammer Straße/ Dahlweg),,51.949680,7.625407,2021-12-19
-92,Glascontainer,48163 Münster - Geist,Werneweg/Kappenberger Damm,,51.924240,7.603225,2021-12-19
-93,Glascontainer,48151 Münster - Geist,Wörthstraße 4,,51.944141,7.622934,2021-12-19
-94,Glascontainer,48157 Münster - Gelmer,Westerheide (Schule),,52.028553,7.675924,2021-12-19
-95,Glascontainer,48157 Münster - Gelmer,Zur Eckernheide (Sportplatz),,52.025928,7.674493,2021-12-19
-96,Glascontainer,48161 Münster - Gievenbeck,Arnheimweg (Parkplatz Sportgelände),,51.965122,7.574830,2021-12-19
-97,Glascontainer,48161 Münster - Gievenbeck,Borghorstweg/Enschedeweg/Ahausweg,,51.968826,7.572401,2021-12-19
-98,Glascontainer,48161 Münster - Gievenbeck,Gescherweg (Haus Nr. 70-84),,51.975597,7.574424,2021-12-19
-99,Glascontainer,48161 Münster - Gievenbeck,Gievenbecker Reihe (am Sportplatz),,51.965359,7.568089,2021-12-19
-100,Glascontainer,48161 Münster - Gievenbeck,Heekweg 15 (Sparkasse),,51.972759,7.564210,2021-12-19
-101,Glascontainer,48161 Münster - Gievenbeck,Hensenstraße (vor Haus Nr. 190),,51.974056,7.570235,2021-12-19
-102,Glascontainer,48161 Münster - Gievenbeck,Horstmarer Landweg (Haus Nr. 250-258),,51.976212,7.585530,2021-12-19
-103,Glascontainer,48161 Münster - Gievenbeck,Horstmarer Landweg (Wendehammer) vor Uni Sportplatz,,51.970104,7.602499,2021-12-19
-104,Glascontainer,48161 Münster - Gievenbeck,Horstmarer Landweg bei Haus Nr. 92,,51.971432,7.596370,2021-12-19
-105,Glascontainer,48161 Münster - Gievenbeck,RATIO Verbrauchermarkt / Roxeler Str. 416-420,,51.957581,7.571720,2021-12-19
-106,Glascontainer,48161 Münster - Gievenbeck,Recyclinghof Gievenbeck,,51.960854,7.570661,2021-12-19
-107,Glascontainer,48161 Münster - Gievenbeck,"Rudolf-Harbig-Weg (Studentenw., 26-46)",,51.972748,7.594686,2021-12-19
-108,Glascontainer,48161 Münster - Gievenbeck,"Rudolf-Harbig-Weg (Studentenw., 39-51)",,51.974236,7.593605,2021-12-19
-109,Glascontainer,48161 Münster - Gievenbeck,Rüschhausweg/Asbeckweg/Bentheimweg,,51.970848,7.571204,2021-12-19
-110,Glascontainer,48161 Münster - Gievenbeck,Rüschhausweg/Toppheideweg (Coop),,51.973320,7.565579,2021-12-19
-111,Glascontainer,48161 Münster - Gievenbeck,Stadtlohnweg gegenü. Haus Nr. 1-17,,51.973133,7.560686,2021-12-19
-112,Glascontainer,48161 Münster - Gievenbeck,Twenteweg (Haus Nr. 1),,51.972908,7.572505,2021-12-19
-113,Glascontainer,48161 Münster - Gievenbeck,Von-Esmarch-Str. (vor Haus Nr. 168),,51.966751,7.581358,2021-12-19
-114,Glascontainer,48161 Münster - Gievenbeck,Von-Esmarch-Str./Schreiberstraße,,51.965172,7.593898,2021-12-19
-115,Glascontainer,48161 Münster - Gievenbeck,Wickenkamp/Dieckmannstraße,,51.968044,7.562038,2021-12-19
-116,Glascontainer,48167 Münster - Gremmendorf,Albersloher Weg (Parkplatz Kaufpark) bei Haus Nr. 539,,51.925003,7.671709,2021-12-19
-117,Glascontainer,48167 Münster - Gremmendorf,Albersloher Weg 450 (Einfahrt York-Karserne),,51.926556,7.669054,2021-12-19
-118,Glascontainer,48167 Münster - Gremmendorf,Angelmodder Weg (ggü. Haus Nr. 80) / Agathastr.,,51.928375,7.687179,2021-12-19
-119,Glascontainer,48167 Münster - Gremmendorf,Biederlackweg gegenü. Haus Nr. 71,,51.930607,7.654998,2021-12-19
-120,Glascontainer,48155 Münster - Gremmendorf,Boelckeweg (am Bahndamm),,51.941086,7.651419,2021-12-19
-121,Glascontainer,48167 Münster - Gremmendorf,Erbdrostenweg/Anton-Knubel-Weg,,51.931797,7.666986,2021-12-19
-122,Glascontainer,48167 Münster - Gremmendorf,Frankenweg,,51.920677,7.668984,2021-12-19
-123,Glascontainer,48155 Münster - Gremmendorf,Fridtjof-Nansen-Weg 10,,51.933544,7.655370,2021-12-19
-124,Glascontainer,48167 Münster - Gremmendorf,Gremmendorfer Weg 34 (nähe Bahnübergang),,51.929703,7.672285,2021-12-19
-125,Glascontainer,48167 Münster - Gremmendorf,Gremmendorfer Weg/ Böddingheideweg (ehem. Zwi-Schulmann-Weg),,51.932178,7.681217,2021-12-19
-126,Glascontainer,48155 Münster - Gremmendorf,Loddenheide 2 / Egbert-Snoek-Str. Marktkauf (Parkplatz),,51.938759,7.645896,2021-12-19
-127,Glascontainer,48155 Münster - Gremmendorf,Recyclinghof Eulerstraße,,51.938850,7.641551,2021-12-19
-128,Glascontainer,48155 Münster - Hafen,Am Hawerkamp 39,,51.944805,7.638512,2021-12-19
-129,Glascontainer,48157 Münster - Handorf,An den Eichen (Parkstreifen),,52.002293,7.715920,2021-12-19
-130,Glascontainer,48157 Münster - Handorf,Heriburgstraße (Parkplatz Hallenbad),,51.989536,7.705504,2021-12-19
-131,Glascontainer,48157 Münster - Handorf,Hobbeltstraße/Handorfer Straße,,51.981728,7.704549,2021-12-19
-132,Glascontainer,48157 Münster - Handorf,Hugo-Pottebaum-Platz,,51.987602,7.697667,2021-12-19
-133,Glascontainer,48157 Münster - Handorf,Kirschgarten/Hobbeltstr. (Sportplatz),,51.987438,7.708974,2021-12-19
-134,Glascontainer,48157 Münster - Handorf,"Krüsbreede, Friedhof",,51.986298,7.701195,2021-12-19
-135,Glascontainer,48157 Münster - Handorf,Lützowstraße (Soldatenheim gegenü. Bushaltestelle),,51.999031,7.716472,2021-12-19
-136,Glascontainer,48157 Münster - Handorf,Mariendorfer Str. (Haus Nr. 35),,51.987469,7.668847,2021-12-19
-137,Glascontainer,48157 Münster - Handorf,Mariendorfer Str. / Im Sundern (Straßenrand),,51.988544,7.673992,2021-12-19
-138,Glascontainer,48157 Münster - Handorf,Recyclinghof Handorf Panzerstraße,,51.989388,7.713545,2021-12-19
-139,Glascontainer,48157 Münster - Handorf,Sudmühlenstr./Havichhorststr.,,51.997078,7.681153,2021-12-19
-140,Glascontainer,48165 Münster - Hiltrup,Adolf-Wentrup-Weg/Asternweg,,51.902493,7.668835,2021-12-19
-141,Glascontainer,48165 Münster - Hiltrup,Am Roggenkamp,,51.903996,7.673036,2021-12-19
-142,Glascontainer,48165 Münster - Hiltrup,Amelsbürener Str./Langestraße,,51.900467,7.634603,2021-12-19
-143,Glascontainer,48165 Münster - Hiltrup,Amelsbürener Str./Meesenstiege,,51.898232,7.624178,2021-12-19
-144,Glascontainer,48165 Münster - Hiltrup,Beethovenstraße gegenüber Haus Nr. 4,,51.910000,7.648747,2021-12-19
-145,Glascontainer,48165 Münster - Hiltrup,Burgwall/Linckensstraße,,51.906822,7.619626,2021-12-19
-146,Glascontainer,48165 Münster - Hiltrup,Franz-Marc-Weg (Buswendeplatz),,51.901039,7.666804,2021-12-19
-147,Glascontainer,48165 Münster - Hiltrup,"Glasuritstraße, Zufahrt zum Bahnhof",,51.903767,7.654262,2021-12-19
-148,Glascontainer,48165 Münster - Hiltrup,Helene-Weigel-Weg (Parkplatz hinter E-Center),,51.901825,7.623629,2021-12-19
-149,Glascontainer,48165 Münster - Hiltrup,Hoffmann-von-Fallersleben-Weg/Kortumweg,,51.902592,7.634952,2021-12-19
-150,Glascontainer,48165 Münster - Hiltrup,"Hünenburg/Linckensstr., (Tenniscenter)",,51.910946,7.623936,2021-12-19
-151,Glascontainer,48165 Münster - Hiltrup,Im Hain (ggü. Haus Nr. 35),,51.912704,7.655836,2021-12-19
-152,Glascontainer,48165 Münster - Hiltrup,Kanalpromenade unter Brücke Osttor/ Föhrenweg,,51.906296,7.656748,2021-12-19
-153,Glascontainer,48165 Münster - Hiltrup,Max-Winkelmann-Str. / Bergiusstraße (alter Bahnhof),,51.903778,7.654245,2021-12-19
-154,Glascontainer,48165 Münster - Hiltrup,Merkureck/Hohe Geest,,51.913910,7.634893,2021-12-19
-155,Glascontainer,48165 Münster - Hiltrup,Moränenstraße/Kardinalstr. (Markt),,51.905052,7.642563,2021-12-19
-156,Glascontainer,48165 Münster - Hiltrup,Osttor (Parkplatz Stadion),,51.906590,7.668780,2021-12-19
-157,Glascontainer,48165 Münster - Hiltrup,Recyclinghof Hansestraße/Glasuritstraße,,51.895908,7.644838,2021-12-19
-158,Glascontainer,48165 Münster - Hiltrup,Westfalenstraße/Zum Roten Berge,,51.898979,7.641050,2021-12-19
-159,Glascontainer,48165 Münster - Hiltrup,"Zum Hiltruper See (Ortsausgang, höhe Haus-Nr. 30)",,51.903862,7.659473,2021-12-19
-160,Glascontainer,48165 Münster - Hiltrup,Zum Hiltruper See/Westfalenstraße (Parkplatz Hohe Ward),,51.886429,7.650055,2021-12-19
-161,Glascontainer,48159 Münster - Kinderhaus,Brüningheide (Haus Nr. 111-121),,52.000778,7.592439,2021-12-19
-162,Glascontainer,48159 Münster - Kinderhaus,Brüningheide 123 (Meinertzstr. ggü.),,52.000397,7.595122,2021-12-19
-163,Glascontainer,48159 Münster - Kinderhaus,Diesterwegstr./Meinertzstraße,,52.001865,7.599298,2021-12-19
-164,Glascontainer,48159 Münster - Kinderhaus,Diesterwegstr./Schmüllingstr. (Parkstr.),,52.000870,7.599377,2021-12-19
-165,Glascontainer,48159 Münster - Kinderhaus,Dreizehnerstraße/Grevener Straße,,51.983723,7.611165,2021-12-19
-166,Glascontainer,48159 Münster - Kinderhaus,Janningsweg/Grevener Straße (Stadtauswärts),,51.995136,7.612909,2021-12-19
-167,Glascontainer,48159 Münster - Kinderhaus,Josef-Beckmann-Str./Brüningheide,,51.997406,7.598622,2021-12-19
-168,Glascontainer,48159 Münster - Kinderhaus,Josef-Beckmann-Str./Sprickmannstr.,,51.997375,7.597071,2021-12-19
-169,Glascontainer,48159 Münster - Kinderhaus,Kerstingskamp vor Nr. 24,,51.988323,7.609817,2021-12-19
-170,Glascontainer,48159 Münster - Kinderhaus,Killingstr. Haus Nr. 15 gegenüber,,51.999340,7.594050,2021-12-19
-171,Glascontainer,48159 Münster - Kinderhaus,Rektoratsweg/Im Moorhock 54-36,,51.987228,7.607960,2021-12-19
-172,Glascontainer,48159 Münster - Kinderhaus,Sprickmannstr. (Haus Nr. 19 gegenüber),,51.998631,7.594129,2021-12-19
-173,Glascontainer,48159 Münster - Kinderhaus,Sprickmannstr. / Josef-Beckmann-Str. / Langeworth,,51.997715,7.592207,2021-12-19
-174,Glascontainer,48159 Münster - Kinderhaus,Steinfurter Str. 104,,51.974457,7.605184,2021-12-19
-175,Glascontainer,48159 Münster - Kinderhaus,Von Humboldt-Straße (vor Recyclinghof),,52.000240,7.604641,2021-12-19
-176,Glascontainer,48159 Münster - Kinderhaus,Von-Einem-Str./ Gasselstiege gegenüber Haus-Nr 182,,51.982868,7.605937,2021-12-19
-177,Glascontainer,48159 Münster - Kinderhaus,Von-Humboldt-Str. 11/Kristiansandstr.,,51.997746,7.603484,2021-12-19
-178,Glascontainer,48159 Münster - Kinderhaus,Westhoffstraße (Parkplatz REWE Markt),,51.993469,7.599206,2021-12-19
-179,Glascontainer,48145 Münster - Mauritz,Andreas-Hofer-Straße (OFD),,51.958149,7.653021,2021-12-19
-180,Glascontainer,48155 Münster - Mauritz,August-Schepers-Straße/vor der Kanalbrücke Leinenpfad,,51.953896,7.655171,2021-12-19
-181,Glascontainer,48145 Münster - Mauritz,Dieckstraße/Mecklenburger Straße,,51.970932,7.649163,2021-12-19
-182,Glascontainer,48145 Münster - Mauritz,Hohenzollernring/Manfred-von-Richthofen-Str.,,51.958385,7.647442,2021-12-19
-183,Glascontainer,48155 Münster - Mauritz,Manfred-von-Richthofen-Str./Merschkamp,,51.955795,7.666448,2021-12-19
-184,Glascontainer,48145 Münster - Mauritz,Mauritz-Lindenweg (Hallenbad-Ost) Parkpl.,,51.959148,7.658765,2021-12-19
-185,Glascontainer,48155 Münster - Mauritz,Mondstraße/Hans-Bredow-Weg,,51.958359,7.676224,2021-12-19
-186,Glascontainer,48155 Münster - Mauritz,Mondstraße/Peter-Rosegger-Weg,,51.949944,7.675664,2021-12-19
-187,Glascontainer,48155 Münster - Mauritz,Pleistermühlenweg (Klärwerk),,51.962414,7.684070,2021-12-19
-188,Glascontainer,48155 Münster - Mauritz,Pleistermühlenweg (Recyclinghof),,51.961880,7.684342,2021-12-19
-189,Glascontainer,48145 Münster - Mauritz,Pötterhoek/Cloppenburgstraße,,51.972275,7.653685,2021-12-19
-190,Glascontainer,48145 Münster - Mauritz,Schiffahrter Damm 75,,51.971226,7.656959,2021-12-19
-191,Glascontainer,48155 Münster - Mauritz,Schillerstraße /Ecke Ewaldistraße,,51.952538,7.648145,2021-12-19
-192,Glascontainer,48145 Münster - Mauritz,Stiftsstraße,,51.963406,7.649329,2021-12-19
-193,Glascontainer,48145 Münster - Mauritz,Von-der-Tinnen-Str./Sophienstr.,,51.956608,7.648202,2021-12-19
-194,Glascontainer,48145 Münster - Mauritz,Warendorfer Straße 189 (Parkplatz Rewe),,51.967869,7.657542,2021-12-19
-195,Glascontainer,48155 Münster - Mauritz,Wolbecker Str. 296 (Parkpl.),,51.951363,7.669298,2021-12-19
-196,Glascontainer,48155 Münster - Mauritz,Wolbecker Str./ Clara-Ratzka-Weg,,51.951370,7.669279,2021-12-19
-197,Glascontainer,48155 Münster - Mauritz,"Wolbecker Straße (Freibad Stapelskotten, Parkplatz Gaststätte)",,51.946774,7.690635,2021-12-19
-198,Glascontainer,48155 Münster - Mauritz,Zum Guten Hirten (v.d. Kanalbrücke),,51.962791,7.663968,2021-12-19
-199,Glascontainer,48163 Münster - Mecklenbeck,Brockmannstraße (hinter Kirche),,51.930538,7.579145,2021-12-19
-200,Glascontainer,48163 Münster - Mecklenbeck,Christop-Bernhard-Str/ Spielplatz,,51.930477,7.574136,2021-12-19
-201,Glascontainer,48163 Münster - Mecklenbeck,Echelmeyerstraße (Parkpl. Bildungsz.),,51.935619,7.589543,2021-12-19
-202,Glascontainer,48163 Münster - Mecklenbeck,Meyerbeerstraße 71,,51.925892,7.576723,2021-12-19
-203,Glascontainer,48163 Münster - Mecklenbeck,Ossenkampstiege/Boeselagerstraße,,51.936481,7.596457,2021-12-19
-204,Glascontainer,48163 Münster - Mecklenbeck,RH Mecklenbeck,,51.930542,7.554598,2021-12-19
-205,Glascontainer,48163 Münster - Mecklenbeck,Rockbusch/Kleibusch,,51.920006,7.575841,2021-12-19
-206,Glascontainer,48163 Münster - Mecklenbeck,Schürbusch gegenüber Haus Nr. 19,,51.929585,7.584455,2021-12-19
-207,Glascontainer,48161 Münster - Nienberge,Am Baumberger Hof/Hägerstraße,,52.001541,7.557883,2021-12-19
-208,Glascontainer,48161 Münster - Nienberge,Feldstiege (Parkpl. vor Sportzentrum),,51.999985,7.549464,2021-12-19
-209,Glascontainer,48161 Münster - Nienberge,Hermann-Hesse-Str./Hülshoffstraße,,51.995483,7.553368,2021-12-19
-210,Glascontainer,48161 Münster - Nienberge,Kirmstr. gegenüber Haus Nr. 23,,51.998016,7.558968,2021-12-19
-211,Glascontainer,48161 Münster - Nienberge,Recyclinghof Waltruper Weg,,51.993042,7.543488,2021-12-19
-212,Glascontainer,48161 Münster - Nienberge,Schmitthausweg 4,,52.022331,7.561598,2021-12-19
-213,Glascontainer,48161 Münster - Nienberge,Sebastianstraße/ Plettendorfstr. (Ev. Kirche),,51.996719,7.556325,2021-12-19
-214,Glascontainer,48161 Münster - Nienberge,Waltruper Weg,,51.994022,7.547929,2021-12-19
-215,Glascontainer,48161 Münster - Roxel,Autobahnraststätte Ost,,51.941013,7.551159,2021-12-19
-216,Glascontainer,48161 Münster - Roxel,Autobahnraststätte West,,51.945625,7.548377,2021-12-19
-217,Glascontainer,48161 Münster - Roxel,Dorffeldstraße (ggü. Haus Nr. 32),,51.950661,7.537469,2021-12-19
-218,Glascontainer,48161 Münster - Roxel,Pienersallee (gegenü. Haus Nr. 26),,51.951305,7.530418,2021-12-19
-219,Glascontainer,48161 Münster - Roxel,"Recyclinghof Roxel, Nottulner Landweg",,51.947376,7.535186,2021-12-19
-220,Glascontainer,48161 Münster - Roxel,Schelmenstiege (Parkpl. vor der BVS),,51.954731,7.541640,2021-12-19
-221,Glascontainer,48161 Münster - Roxel,Schulte-Hermann-Str. (Zufahrt z. Tiefgarage),,51.953308,7.533664,2021-12-19
-222,Glascontainer,48161 Münster - Roxel,Tilbecker Straße (Parkpl. Hallenbad),,51.954082,7.527064,2021-12-19
-223,Glascontainer,48161 Münster - Roxel,Wenningweg (neben dem Klärwerk),,51.949280,7.526384,2021-12-19
-224,Glascontainer,48149 Münster - Sentrup,Schmeddingstr. (gegenüber Haus Nr. 50),,51.960724,7.589834,2021-12-19
-225,Glascontainer,48149 Münster - Sentrup,Sentruper Str. (Parkplatz Mühlenhof),,51.950104,7.596748,2021-12-19
-226,Glascontainer,48149 Münster - Sentrup,Sentruper Str. (vor Sportzentrum),,51.955223,7.601379,2021-12-19
-227,Glascontainer,48157 Münster - Sprakel,Bahnhof Sprakel,,52.042213,7.619248,2021-12-19
-228,Glascontainer,48159 Münster - Sprakel,Dreilinden/Nienberger Straße,,52.041821,7.615412,2021-12-19
-229,Glascontainer,48157 Münster - Sprakel,Schlusenweg,,52.032299,7.619631,2021-12-19
-230,Glascontainer,48147 Münster - Wienburg,Gartenstr. vor Haus Nr. 165-170,,51.976074,7.636142,2021-12-19
-231,Glascontainer,48147 Münster - Wienburg,Hoher Heckenweg 170/Sibeliusstraße,,51.982262,7.645751,2021-12-19
-232,Glascontainer,48147 Münster - Wienburg,Holsteiner Straße/Piusallee (Wiewel-Markt),,51.971451,7.640960,2021-12-19
-233,Glascontainer,48147 Münster - Wienburg,Jahnstraße 26,,51.975925,7.616317,2021-12-19
-234,Glascontainer,48147 Münster - Wienburg,Kanalstraße / Lublinring (Parkplatz) Unterflur,,51.972527,7.632902,2021-12-19
-235,Glascontainer,48147 Münster - Wienburg,Meßkamp/Kinderhauser Straße,,51.980396,7.613625,2021-12-19
-236,Glascontainer,48147 Münster - Wienburg,Stettiner Str. (ggü. Haus Nr. 68-82),,51.975903,7.646607,2021-12-19
-237,Glascontainer,48147 Münster - Wienburg,Wienburgstraße/Salzmannstraße 1,,51.977360,7.621630,2021-12-19
-238,Glascontainer,48167 Münster - Wolbeck,Am Borggarten (neben Haus Nr. 3),,51.921364,7.730451,2021-12-19
-239,Glascontainer,48167 Münster - Wolbeck,Am Steintor/Juffernkamp,,51.912006,7.728437,2021-12-19
-240,Glascontainer,48167 Münster - Wolbeck,Brandhoveweg (Parkplatz Hallenbad),,51.915874,7.715109,2021-12-19
-241,Glascontainer,48167 Münster - Wolbeck,Dirk-von-Merveldt-Str. Ev.-Kirche,,51.918667,7.726744,2021-12-19
-242,Glascontainer,48167 Münster - Wolbeck,Eschstraße 6,,51.921391,7.726744,2021-12-19
-243,Glascontainer,48167 Münster - Wolbeck,Goldbrink (vor Haus Nr. 69),,51.922970,7.721637,2021-12-19
-244,Glascontainer,48167 Münster - Wolbeck,Hiltruper Str. 55,,51.911495,7.717853,2021-12-19
-245,Glascontainer,48167 Münster - Wolbeck,Hofstr. (neben Feuerwehrgerätehaus),,51.916927,7.734440,2021-12-19
-246,Glascontainer,48167 Münster - Wolbeck,Recyclinghof Eschstraße,,51.918297,7.721005,2021-12-19
-247,Glascontainer,48167 Münster - Wolbeck,Zumbuschstr./Buxtrup,,51.905758,7.720199,2021-12-19
+2,Glascontainer,48151 Münster - Aaseestadt,Bonhoefferstraße (Polizeischule ggü.),,51.941853,7.606371,2024-06-10
+3,Glascontainer,48151 Münster - Aaseestadt,Delpstraße/Goerdeler Straße (gegenüber Hochhäuser),,51.947723,7.607582,2024-06-10
+4,Glascontainer,48151 Münster - Aaseestadt,Lange Ossenbeck (Buskehre),,51.937237,7.597556,2024-06-10
+5,Glascontainer,48151 Münster - Aaseestadt,Lange Ossenbeck/Kleihorststraße,,51.938862,7.599680,2024-06-10
+6,Glascontainer,48151 Münster - Aaseestadt,Von-Ossietzky-Str. gegenü. Tennisplatz,,51.942280,7.601887,2024-06-10
+7,Glascontainer,48151 Münster - Aaseestadt,Von-Stauffenbergstr. gegenü. Haus Nr. 36,,51.945587,7.612130,2024-06-10
+8,Glascontainer,48163 Münster - Albachten,Am Kämpken,,51.920242,7.526349,2024-06-10
+9,Glascontainer,48163 Münster - Albachten,Concordenstr. (Parkplatz vor dem Sportplatz),,51.923843,7.529778,2024-06-10
+10,Glascontainer,48163 Münster - Albachten,Dülmener Straße (gegenüber Feuerwehr),,51.925007,7.521031,2024-06-10
+11,Glascontainer,48163 Münster - Albachten,Langenkamp (Buswende),,51.914619,7.526518,2024-06-10
+12,Glascontainer,48163 Münster - Albachten,Osthofstraße (Parkplatz Friedhof),,51.923420,7.526430,2024-06-10
+13,Glascontainer,48163 Münster - Amelsbüren,Am Emmerbach (Parkplatz),,51.885490,7.604564,2024-06-10
+14,Glascontainer,48163 Münster - Amelsbüren,"Auf der Woort (vor Getränkemarkt Dursty, Parkstreifen)",,51.883064,7.605256,2024-06-10
+15,Glascontainer,48163 Münster - Amelsbüren,Davertstraße (Feuerwehr/Friedhof),,51.881355,7.608515,2024-06-10
+16,Glascontainer,48163 Münster - Amelsbüren,Kappenberger Damm (Wiedau-Schule),,51.894478,7.578858,2024-06-10
+17,Glascontainer,48163 Münster - Amelsbüren,Pater-Kolbe-Straße/Am Dornbusch,,51.883289,7.615717,2024-06-10
+18,Glascontainer,48167 Münster - Angelmodde,Albersloher Weg/Zum Kaiserbusch gegenüber Haus Nr. 1,,51.912727,7.684429,2024-06-10
+19,Glascontainer,48167 Münster - Angelmodde,Alter Postweg,,51.923958,7.699961,2024-06-10
+20,Glascontainer,48167 Münster - Angelmodde,Am Schütthook (Junker-Jörg-Platz),,51.915607,7.690217,2024-06-10
+21,Glascontainer,48167 Münster - Angelmodde,Am Schütthook (Parkplatz Boelestraße),,51.915855,7.694539,2024-06-10
+22,Glascontainer,48167 Münster - Angelmodde,Bonnenkamp/ Middelkamp (Wendehammer),,51.912060,7.689929,2024-06-10
+23,Glascontainer,48167 Münster - Angelmodde,Brandhoveweg/Pepinghegeweg,,51.917656,7.707878,2024-06-10
+24,Glascontainer,48167 Münster - Angelmodde,Buschstraße 6/Zum Erlenbusch,,51.922100,7.677308,2024-06-10
+25,Glascontainer,48167 Münster - Angelmodde,Eichendorffstraße vor Haus Nr. 3,,51.914375,7.691037,2024-06-10
+26,Glascontainer,48167 Münster - Angelmodde,Homannstraße/Zum Erlenbusch 100,,51.919628,7.681194,2024-06-10
+27,Glascontainer,48167 Münster - Angelmodde,Schlesienstraße,,51.918465,7.677483,2024-06-10
+28,Glascontainer,48167 Münster - Angelmodde,Schlesienstraße/Ostpreußenstraße,,51.918427,7.677505,2024-06-10
+29,Glascontainer,48167 Münster - Angelmodde,Theodor-Heuss-Straße 10,,51.914455,7.692838,2024-06-10
+30,Glascontainer,48167 Münster - Angelmodde,Vogelrohrsheide (vor Haus Nr. 138),,51.914555,7.684626,2024-06-10
+31,Glascontainer,48153 Münster - Berg Fidel,Am Berg Fidel (Parkpl. Preußen-Stadion),,51.931835,7.625546,2024-06-10
+32,Glascontainer,48153 Münster - Berg Fidel,Am Berg Fidel (ggü. Haus Nr. 62),,51.926998,7.624035,2024-06-10
+33,Glascontainer,48165 Münster - Berg Fidel,Elsa-Brändström-Weg/Vennheideweg,,51.921417,7.621697,2024-06-10
+34,Glascontainer,48153 Münster - Berg Fidel,Hogenbergstr. vor Haus Nr. 21-27 Einkaufszentrum,,51.927155,7.619977,2024-06-10
+35,Glascontainer,48153 Münster - Berg Fidel,Lechterstraße 6 (Bürgersteig),,51.926044,7.617250,2024-06-10
+36,Glascontainer,48153 Münster - Berg Fidel,Pankokstraße (Haus Simeon),,51.926411,7.622861,2024-06-10
+37,Glascontainer,48153 Münster - Berg Fidel,Ter-Borch-Straße (Parkplatz),,51.925774,7.620609,2024-06-10
+38,Glascontainer,48147 Münster - Centrum,Am Kreuztor (REWE-Markt),,51.968212,7.622635,2024-06-10
+39,Glascontainer,48149 Münster - Centrum,Einsteinstraße/Hittorfstraße,,51.965752,7.604761,2024-06-10
+40,Glascontainer,48153 Münster - Centrum,Friedrich-Ebert-Straße/Annenstraße,,51.950481,7.631752,2024-06-10
+41,Glascontainer,48151 Münster - Centrum,Geiststraße 10,,51.951641,7.620634,2024-06-10
+42,Glascontainer,48147 Münster - Centrum,Goldstraße/Piusallee,,51.971039,7.640486,2024-06-10
+43,Glascontainer,48149 Münster - Centrum,"Grevener Straße, Höhe Nr. 61c",,51.971848,7.612333,2024-06-10
+44,Glascontainer,48155 Münster - Centrum,Hansaring (REWE-Markt),,51.953514,7.643968,2024-06-10
+45,Glascontainer,48151 Münster - Centrum,Hermannstraße/Norbertstraße,,51.953445,7.622813,2024-06-10
+46,Glascontainer,48149 Münster - Centrum,"Hüfferstr. (auf Parkstr. vor Haus Nr. 54, Möserweg)",,51.960754,7.605673,2024-06-10
+47,Glascontainer,48143 Münster - Centrum,Katthagen/Rosenplatz (Unterflur),,51.965084,7.622202,2024-06-10
+48,Glascontainer,48151 Münster - Centrum,Kolde-Ring,,51.949726,7.613043,2024-06-10
+49,Glascontainer,48143 Münster - Centrum,Korduanenstraße (Hörster Parkplatz),,51.964432,7.631551,2024-06-10
+50,Glascontainer,48143 Münster - Centrum,"Königsstr. (Parkplatz vor Haus Nr. 46, AOK)",,51.958977,7.625776,2024-06-10
+51,Glascontainer,48153 Münster - Centrum,Leostraße/Hafenstraße (Busbahnhof),,51.953434,7.632208,2024-06-10
+52,Glascontainer,48147 Münster - Centrum,Maximilianstraße/Zuhornstraße,,51.970196,7.626627,2024-06-10
+53,Glascontainer,48143 Münster - Centrum,Mühlenstraße/Am Stadtgraben,,51.958794,7.619821,2024-06-10
+54,Glascontainer,48143 Münster - Centrum,Münzstraße/Kalkmarkt (gegenüber),,51.966702,7.617672,2024-06-10
+55,Glascontainer,48149 Münster - Centrum,Nordplatz,,51.971889,7.623393,2024-06-10
+56,Glascontainer,48145 Münster - Centrum,"Oststr. (ggü. Fernmeldeamt, Durchgang)",,51.962105,7.645330,2024-06-10
+57,Glascontainer,48151 Münster - Centrum,Scharnhorststraße (Hoppendamm) Unterflur,,51.953228,7.614333,2024-06-10
+58,Glascontainer,48151 Münster - Centrum,Scharnhorststraße vor Haus Nr. 100,,51.950066,7.607161,2024-06-10
+59,Glascontainer,48149 Münster - Centrum,Schlossplatz (ggü. Frauenstraße),,51.963127,7.617717,2024-06-10
+60,Glascontainer,48143 Münster - Centrum,Servatiiplatz/Wolbecker Straße,,51.959908,7.635615,2024-06-10
+61,Glascontainer,48149 Münster - Centrum,Steinfurter Str. 67-81 (Studentenw.),,51.972324,7.606580,2024-06-10
+62,Glascontainer,48149 Münster - Centrum,Steinfurter Straße 23-25 (REWE-Markt),,51.969162,7.612375,2024-06-10
+63,Glascontainer,48149 Münster - Centrum,Studtplatz/Grimmstraße  Unterflur,,51.969345,7.618198,2024-06-10
+64,Glascontainer,48153 Münster - Centrum,Südstraße/Hafenstraße,,51.954987,7.627707,2024-06-10
+65,Glascontainer,48143 Münster - Centrum,Universitätsstraße/Bispinghof,,51.960754,7.620446,2024-06-10
+66,Glascontainer,48147 Münster - Centrum,Wasserstraße/Kanalstraße,,51.966888,7.630901,2024-06-10
+67,Glascontainer,48149 Münster - Centrum,Wilhelmstraße/Orlèans-Ring,,51.968712,7.603550,2024-06-10
+68,Glascontainer,48159 Münster - Centrum,York-Ring (Hauptfeuerwache),,51.974380,7.610001,2024-06-10
+69,Glascontainer,48157 Münster - Coerde,An der Kleimannbrücke 25 (Kanal),,51.990982,7.660605,2024-06-10
+70,Glascontainer,48157 Münster - Coerde,An der Kleinannbrücke/August-Horch-Straße,,51.995888,7.662595,2024-06-10
+71,Glascontainer,48157 Münster - Coerde,An der Meerwiese,,51.987568,7.649341,2024-06-10
+72,Glascontainer,48157 Münster - Coerde,Dachsleite/Marienburgstraße,,51.997517,7.648975,2024-06-10
+73,Glascontainer,48157 Münster - Coerde,Görlitzer Straße (zw. Haus Nr. 34-58),,51.991726,7.642728,2024-06-10
+74,Glascontainer,48157 Münster - Coerde,Hamannplatz,,51.993423,7.646639,2024-06-10
+75,Glascontainer,48157 Münster - Coerde,Hessenbusch ggü. 184 (Wagenburg),,52.010876,7.665422,2024-06-10
+76,Glascontainer,48157 Münster - Coerde,Josef-König-Str./Nevinghoff / Arbeitsamt,,51.984341,7.633314,2024-06-10
+77,Glascontainer,48157 Münster - Coerde,Nerzweg gegenüber Haus Nr. 32,,51.999153,7.640459,2024-06-10
+78,Glascontainer,48157 Münster - Coerde,Schneidemühler Str. /Königsberger Str.,,51.993668,7.650028,2024-06-10
+79,Glascontainer,48157 Münster - Coerde,ZDM Coerder Liekweg 76 Recyclinghof,,52.010872,7.652774,2024-06-10
+80,Glascontainer,48153 Münster - Geist,Augustastraße/Friedrich-Ebert-Straße,,51.948067,7.630926,2024-06-10
+81,Glascontainer,48163 Münster - Geist,Buldernweg/Drensteinfurtweg,,51.926701,7.601066,2024-06-10
+82,Glascontainer,48153 Münster - Geist,Düesbergweg (Maria-Hötte-Stift),,51.931030,7.613087,2024-06-10
+83,Glascontainer,48151 Münster - Geist,Elsässer Straße/Metzer Straße,,51.939926,7.620346,2024-06-10
+84,Glascontainer,48153 Münster - Geist,"Friedrich-Ebert-Straße (E-Center, ehem. Toom-Markt)",,51.943275,7.630899,2024-06-10
+85,Glascontainer,48163 Münster - Geist,Geringhoffstraße (HIT-Markt),,51.929947,7.600092,2024-06-10
+86,Glascontainer,48153 Münster - Geist,Herdingstraße/Travelmannstraße,,51.946091,7.628080,2024-06-10
+87,Glascontainer,48151 Münster - Geist,Kappenberger Damm gegenüber Haus Nr. 88,,51.935253,7.608469,2024-06-10
+88,Glascontainer,48153 Münster - Geist,Kriegerweg 41 (Bahnunterführung),,51.924641,7.611925,2024-06-10
+89,Glascontainer,48153 Münster - Geist,Scheibenstraße (vor Haus Nr. 115),,51.938881,7.627559,2024-06-10
+90,Glascontainer,48153 Münster - Geist,Scheibenstraße / Friedrich-Ebert-Straße,,51.942413,7.625407,2024-06-10
+91,Glascontainer,48151 Münster - Geist,Sentmaringer Weg/Geiststr./Marktplatz,,51.945499,7.621973,2024-06-10
+92,Glascontainer,48153 Münster - Geist,St.-Josef-Kirchplatz (Hammer Straße/ Dahlweg),,51.949680,7.625407,2024-06-10
+93,Glascontainer,48163 Münster - Geist,Werneweg/Kappenberger Damm,,51.924240,7.603225,2024-06-10
+94,Glascontainer,48151 Münster - Geist,Wörthstraße 4,,51.944141,7.622934,2024-06-10
+95,Glascontainer,48157 Münster - Gelmer,Westerheide (Schule),,52.028553,7.675924,2024-06-10
+96,Glascontainer,48157 Münster - Gelmer,Zur Eckernheide (Sportplatz),,52.025928,7.674493,2024-06-10
+97,Glascontainer,48161 Münster - Gievenbeck,Arnheimweg (Parkplatz Sportgelände),,51.965122,7.574830,2024-06-10
+98,Glascontainer,48161 Münster - Gievenbeck,Borghorstweg/Enschedeweg/Ahausweg,,51.968826,7.572401,2024-06-10
+99,Glascontainer,48161 Münster - Gievenbeck,Gescherweg (Haus Nr. 70-84),,51.975597,7.574424,2024-06-10
+100,Glascontainer,48161 Münster - Gievenbeck,Gievenbecker Reihe (am Sportplatz),,51.965359,7.568089,2024-06-10
+101,Glascontainer,48161 Münster - Gievenbeck,Heekweg 15 (Sparkasse),,51.972759,7.564210,2024-06-10
+102,Glascontainer,48161 Münster - Gievenbeck,Hensenstraße (vor Haus Nr. 190),,51.974056,7.570235,2024-06-10
+103,Glascontainer,48161 Münster - Gievenbeck,Horstmarer Landweg (Haus Nr. 250-258),,51.976212,7.585530,2024-06-10
+104,Glascontainer,48161 Münster - Gievenbeck,Horstmarer Landweg (Wendehammer) vor Uni Sportplatz,,51.970104,7.602499,2024-06-10
+105,Glascontainer,48161 Münster - Gievenbeck,Horstmarer Landweg bei Haus Nr. 92,,51.971432,7.596370,2024-06-10
+106,Glascontainer,48161 Münster - Gievenbeck,RATIO Verbrauchermarkt / Roxeler Str. 416-420,,51.957581,7.571720,2024-06-10
+107,Glascontainer,48161 Münster - Gievenbeck,Recyclinghof Gievenbeck,,51.960854,7.570661,2024-06-10
+108,Glascontainer,48161 Münster - Gievenbeck,Rüschhausweg/Asbeckweg/Bentheimweg,,51.970848,7.571204,2024-06-10
+109,Glascontainer,48161 Münster - Gievenbeck,Rüschhausweg/Toppheideweg (Coop),,51.973320,7.565579,2024-06-10
+110,Glascontainer,48161 Münster - Gievenbeck,Stadtlohnweg gegenü. Haus Nr. 1-17,,51.973133,7.560686,2024-06-10
+111,Glascontainer,48161 Münster - Gievenbeck,Twenteweg (Haus Nr. 1),,51.972908,7.572505,2024-06-10
+112,Glascontainer,48161 Münster - Gievenbeck,Von-Esmarch-Str. (vor Haus Nr. 168),,51.966751,7.581358,2024-06-10
+113,Glascontainer,48161 Münster - Gievenbeck,Von-Esmarch-Str./Schreiberstraße,,51.965172,7.593898,2024-06-10
+114,Glascontainer,48161 Münster - Gievenbeck,Wickenkamp/Dieckmannstraße,,51.968044,7.562038,2024-06-10
+115,Glascontainer,48167 Münster - Gremmendorf,Albersloher Weg (Parkplatz Kaufpark) bei Haus Nr. 539,,51.925003,7.671709,2024-06-10
+116,Glascontainer,48167 Münster - Gremmendorf,Albersloher Weg 450 (Einfahrt York-Karserne),,51.926556,7.669054,2024-06-10
+117,Glascontainer,48167 Münster - Gremmendorf,Angelmodder Weg (ggü. Haus Nr. 80) / Agathastr.,,51.928375,7.687179,2024-06-10
+118,Glascontainer,48167 Münster - Gremmendorf,Biederlackweg gegenü. Haus Nr. 71,,51.930607,7.654998,2024-06-10
+119,Glascontainer,48155 Münster - Gremmendorf,Boelckeweg (am Bahndamm),,51.941086,7.651419,2024-06-10
+120,Glascontainer,48167 Münster - Gremmendorf,Erbdrostenweg/Anton-Knubel-Weg,,51.931797,7.666986,2024-06-10
+121,Glascontainer,48167 Münster - Gremmendorf,Frankenweg,,51.920677,7.668984,2024-06-10
+122,Glascontainer,48155 Münster - Gremmendorf,Fridtjof-Nansen-Weg 10,,51.933544,7.655370,2024-06-10
+123,Glascontainer,48167 Münster - Gremmendorf,Gremmendorfer Weg 34 (nähe Bahnübergang),,51.929703,7.672285,2024-06-10
+124,Glascontainer,48167 Münster - Gremmendorf,Gremmendorfer Weg/ Böddingheideweg (ehem. Zwi-Schulmann-Weg),,51.932178,7.681217,2024-06-10
+125,Glascontainer,48155 Münster - Gremmendorf,Loddenheide 2 / Egbert-Snoek-Str. Marktkauf (Parkplatz),,51.938759,7.645896,2024-06-10
+126,Glascontainer,48155 Münster - Gremmendorf,Recyclinghof Eulerstraße,,51.938850,7.641551,2024-06-10
+127,Glascontainer,48155 Münster - Hafen,Am Hawerkamp 39,,51.944805,7.638512,2024-06-10
+128,Glascontainer,48157 Münster - Handorf,An den Eichen (Parkstreifen),,52.002293,7.715920,2024-06-10
+129,Glascontainer,48157 Münster - Handorf,Heriburgstraße (Parkplatz Hallenbad),,51.989536,7.705504,2024-06-10
+130,Glascontainer,48157 Münster - Handorf,Hobbeltstraße/Handorfer Straße,,51.981728,7.704549,2024-06-10
+131,Glascontainer,48157 Münster - Handorf,Hugo-Pottebaum-Platz,,51.987602,7.697667,2024-06-10
+132,Glascontainer,48157 Münster - Handorf,Kirschgarten/Hobbeltstr. (Sportplatz),,51.987438,7.708974,2024-06-10
+133,Glascontainer,48157 Münster - Handorf,"Krüsbreede, Friedhof",,51.986298,7.701195,2024-06-10
+134,Glascontainer,48157 Münster - Handorf,Lützowstraße (Soldatenheim gegenü. Bushaltestelle),,51.999031,7.716472,2024-06-10
+135,Glascontainer,48157 Münster - Handorf,Mariendorfer Str. (Haus Nr. 35),,51.987469,7.668847,2024-06-10
+136,Glascontainer,48157 Münster - Handorf,Mariendorfer Str. / Im Sundern (Straßenrand),,51.988544,7.673992,2024-06-10
+137,Glascontainer,48157 Münster - Handorf,Recyclinghof Handorf Panzerstraße,,51.989388,7.713545,2024-06-10
+138,Glascontainer,48157 Münster - Handorf,Sudmühlenstr./Havichhorststr.,,51.997078,7.681153,2024-06-10
+139,Glascontainer,48165 Münster - Hiltrup,Adolf-Wentrup-Weg/Asternweg,,51.902493,7.668835,2024-06-10
+140,Glascontainer,48165 Münster - Hiltrup,Am Roggenkamp,,51.903996,7.673036,2024-06-10
+141,Glascontainer,48165 Münster - Hiltrup,Amelsbürener Str./Langestraße,,51.900467,7.634603,2024-06-10
+142,Glascontainer,48165 Münster - Hiltrup,Amelsbürener Str./Meesenstiege,,51.898232,7.624178,2024-06-10
+143,Glascontainer,48165 Münster - Hiltrup,Beethovenstraße gegenüber Haus Nr. 4,,51.910000,7.648747,2024-06-10
+144,Glascontainer,48165 Münster - Hiltrup,Burgwall/Linckensstraße,,51.906822,7.619626,2024-06-10
+145,Glascontainer,48165 Münster - Hiltrup,Franz-Marc-Weg (Buswendeplatz),,51.901039,7.666804,2024-06-10
+146,Glascontainer,48165 Münster - Hiltrup,"Glasuritstraße, Zufahrt zum Bahnhof",,51.903767,7.654262,2024-06-10
+147,Glascontainer,48165 Münster - Hiltrup,Helene-Weigel-Weg (Parkplatz hinter E-Center),,51.901825,7.623629,2024-06-10
+148,Glascontainer,48165 Münster - Hiltrup,Hoffmann-von-Fallersleben-Weg/Kortumweg,,51.902592,7.634952,2024-06-10
+149,Glascontainer,48165 Münster - Hiltrup,"Hünenburg/Linckensstr., (Tenniscenter)",,51.910946,7.623936,2024-06-10
+150,Glascontainer,48165 Münster - Hiltrup,Im Hain (ggü. Haus Nr. 35),,51.912704,7.655836,2024-06-10
+151,Glascontainer,48165 Münster - Hiltrup,Kanalpromenade unter Brücke Osttor/ Föhrenweg,,51.906296,7.656748,2024-06-10
+152,Glascontainer,48165 Münster - Hiltrup,Max-Winkelmann-Str. / Bergiusstraße (alter Bahnhof),,51.903778,7.654245,2024-06-10
+153,Glascontainer,48165 Münster - Hiltrup,Merkureck/Hohe Geest,,51.913910,7.634893,2024-06-10
+154,Glascontainer,48165 Münster - Hiltrup,Moränenstraße/Kardinalstr. (Markt),,51.905052,7.642563,2024-06-10
+155,Glascontainer,48165 Münster - Hiltrup,Osttor (Parkplatz Stadion),,51.906590,7.668780,2024-06-10
+156,Glascontainer,48165 Münster - Hiltrup,Recyclinghof Hansestraße/Glasuritstraße,,51.895908,7.644838,2024-06-10
+157,Glascontainer,48165 Münster - Hiltrup,Westfalenstraße/Zum Roten Berge,,51.898979,7.641050,2024-06-10
+158,Glascontainer,48165 Münster - Hiltrup,"Zum Hiltruper See (Ortsausgang, höhe Haus-Nr. 30)",,51.903862,7.659473,2024-06-10
+159,Glascontainer,48165 Münster - Hiltrup,Zum Hiltruper See/Westfalenstraße (Parkplatz Hohe Ward),,51.886429,7.650055,2024-06-10
+160,Glascontainer,48159 Münster - Kinderhaus,Brüningheide (Haus Nr. 111-121),,52.000778,7.592439,2024-06-10
+161,Glascontainer,48159 Münster - Kinderhaus,Brüningheide 123 (Meinertzstr. ggü.),,52.000397,7.595122,2024-06-10
+162,Glascontainer,48159 Münster - Kinderhaus,Diesterwegstr./Meinertzstraße,,52.001865,7.599298,2024-06-10
+163,Glascontainer,48159 Münster - Kinderhaus,Diesterwegstr./Schmüllingstr. (Parkstr.),,52.000870,7.599377,2024-06-10
+164,Glascontainer,48159 Münster - Kinderhaus,Dreizehnerstraße/Grevener Straße,,51.983723,7.611165,2024-06-10
+165,Glascontainer,48159 Münster - Kinderhaus,Janningsweg/Grevener Straße (Stadtauswärts),,51.995136,7.612909,2024-06-10
+166,Glascontainer,48159 Münster - Kinderhaus,Josef-Beckmann-Str./Brüningheide,,51.997406,7.598622,2024-06-10
+167,Glascontainer,48159 Münster - Kinderhaus,Josef-Beckmann-Str./Sprickmannstr.,,51.997375,7.597071,2024-06-10
+168,Glascontainer,48159 Münster - Kinderhaus,Kerstingskamp vor Nr. 24,,51.988323,7.609817,2024-06-10
+169,Glascontainer,48159 Münster - Kinderhaus,Killingstr. Haus Nr. 15 gegenüber,,51.999340,7.594050,2024-06-10
+170,Glascontainer,48159 Münster - Kinderhaus,Rektoratsweg/Im Moorhock 54-36,,51.987228,7.607960,2024-06-10
+171,Glascontainer,48159 Münster - Kinderhaus,Sprickmannstr. (Haus Nr. 19 gegenüber),,51.998631,7.594129,2024-06-10
+172,Glascontainer,48159 Münster - Kinderhaus,Sprickmannstr. / Josef-Beckmann-Str. / Langeworth,,51.997715,7.592207,2024-06-10
+173,Glascontainer,48159 Münster - Kinderhaus,Steinfurter Str. 104,,51.974457,7.605184,2024-06-10
+174,Glascontainer,48159 Münster - Kinderhaus,Von Humboldt-Straße (vor Recyclinghof),,52.000240,7.604641,2024-06-10
+175,Glascontainer,48159 Münster - Kinderhaus,Von-Einem-Str./ Gasselstiege gegenüber Haus-Nr 182,,51.982868,7.605937,2024-06-10
+176,Glascontainer,48159 Münster - Kinderhaus,Von-Humboldt-Str. 11/Kristiansandstr.,,51.997746,7.603484,2024-06-10
+177,Glascontainer,48159 Münster - Kinderhaus,Westhoffstraße (Parkplatz REWE Markt),,51.993469,7.599206,2024-06-10
+178,Glascontainer,48145 Münster - Mauritz,Andreas-Hofer-Straße (OFD),,51.958149,7.653021,2024-06-10
+179,Glascontainer,48155 Münster - Mauritz,August-Schepers-Straße/vor der Kanalbrücke Leinenpfad,,51.953896,7.655171,2024-06-10
+180,Glascontainer,48145 Münster - Mauritz,Dieckstraße/Mecklenburger Straße,,51.970932,7.649163,2024-06-10
+181,Glascontainer,48145 Münster - Mauritz,Hohenzollernring/Manfred-von-Richthofen-Str.,,51.958385,7.647442,2024-06-10
+182,Glascontainer,48155 Münster - Mauritz,Manfred-von-Richthofen-Str./Merschkamp,,51.955795,7.666448,2024-06-10
+183,Glascontainer,48145 Münster - Mauritz,Mauritz-Lindenweg (Hallenbad-Ost) Parkpl.,,51.959148,7.658765,2024-06-10
+184,Glascontainer,48155 Münster - Mauritz,Mondstraße/Hans-Bredow-Weg,,51.958359,7.676224,2024-06-10
+185,Glascontainer,48155 Münster - Mauritz,Mondstraße/Peter-Rosegger-Weg,,51.949944,7.675664,2024-06-10
+186,Glascontainer,48155 Münster - Mauritz,Pleistermühlenweg (Klärwerk),,51.962414,7.684070,2024-06-10
+187,Glascontainer,48155 Münster - Mauritz,Pleistermühlenweg (Recyclinghof),,51.961880,7.684342,2024-06-10
+188,Glascontainer,48145 Münster - Mauritz,Pötterhoek/Cloppenburgstraße,,51.972275,7.653685,2024-06-10
+189,Glascontainer,48145 Münster - Mauritz,Schiffahrter Damm 75,,51.971226,7.656959,2024-06-10
+190,Glascontainer,48155 Münster - Mauritz,Schillerstraße /Ecke Ewaldistraße,,51.952538,7.648145,2024-06-10
+191,Glascontainer,48145 Münster - Mauritz,Stiftsstraße,,51.963406,7.649329,2024-06-10
+192,Glascontainer,48145 Münster - Mauritz,Von-der-Tinnen-Str./Sophienstr.,,51.956608,7.648202,2024-06-10
+193,Glascontainer,48145 Münster - Mauritz,Warendorfer Straße 189 (Parkplatz Rewe),,51.967869,7.657542,2024-06-10
+194,Glascontainer,48155 Münster - Mauritz,Wolbecker Str. 296 (Parkpl.),,51.951363,7.669298,2024-06-10
+195,Glascontainer,48155 Münster - Mauritz,Wolbecker Str./ Clara-Ratzka-Weg,,51.951370,7.669279,2024-06-10
+196,Glascontainer,48155 Münster - Mauritz,"Wolbecker Straße (Freibad Stapelskotten, Parkplatz Gaststätte)",,51.946774,7.690635,2024-06-10
+197,Glascontainer,48155 Münster - Mauritz,Zum Guten Hirten (v.d. Kanalbrücke),,51.962791,7.663968,2024-06-10
+198,Glascontainer,48163 Münster - Mecklenbeck,Brockmannstraße (hinter Kirche),,51.930538,7.579145,2024-06-10
+199,Glascontainer,48163 Münster - Mecklenbeck,Christop-Bernhard-Str/ Spielplatz,,51.930477,7.574136,2024-06-10
+200,Glascontainer,48163 Münster - Mecklenbeck,Echelmeyerstraße (Parkpl. Bildungsz.),,51.935619,7.589543,2024-06-10
+201,Glascontainer,48163 Münster - Mecklenbeck,Meyerbeerstraße 71,,51.925892,7.576723,2024-06-10
+202,Glascontainer,48163 Münster - Mecklenbeck,Ossenkampstiege/Boeselagerstraße,,51.936481,7.596457,2024-06-10
+203,Glascontainer,48163 Münster - Mecklenbeck,RH Mecklenbeck,,51.930542,7.554598,2024-06-10
+204,Glascontainer,48163 Münster - Mecklenbeck,Rockbusch/Kleibusch,,51.920006,7.575841,2024-06-10
+205,Glascontainer,48163 Münster - Mecklenbeck,Schürbusch gegenüber Haus Nr. 19,,51.929585,7.584455,2024-06-10
+206,Glascontainer,48161 Münster - Nienberge,Am Baumberger Hof/Hägerstraße,,52.001541,7.557883,2024-06-10
+207,Glascontainer,48161 Münster - Nienberge,Feldstiege (Parkpl. vor Sportzentrum),,51.999985,7.549464,2024-06-10
+208,Glascontainer,48161 Münster - Nienberge,Hermann-Hesse-Str./Hülshoffstraße,,51.995483,7.553368,2024-06-10
+209,Glascontainer,48161 Münster - Nienberge,Kirmstr. gegenüber Haus Nr. 23,,51.998016,7.558968,2024-06-10
+210,Glascontainer,48161 Münster - Nienberge,Recyclinghof Waltruper Weg,,51.993042,7.543488,2024-06-10
+211,Glascontainer,48161 Münster - Nienberge,Schmitthausweg 4,,52.022331,7.561598,2024-06-10
+212,Glascontainer,48161 Münster - Nienberge,Sebastianstraße/ Plettendorfstr. (Ev. Kirche),,51.996719,7.556325,2024-06-10
+213,Glascontainer,48161 Münster - Nienberge,Waltruper Weg,,51.994022,7.547929,2024-06-10
+214,Glascontainer,48161 Münster - Roxel,Autobahnraststätte Ost,,51.941013,7.551159,2024-06-10
+215,Glascontainer,48161 Münster - Roxel,Autobahnraststätte West,,51.945625,7.548377,2024-06-10
+216,Glascontainer,48161 Münster - Roxel,Dorffeldstraße (ggü. Haus Nr. 32),,51.950661,7.537469,2024-06-10
+217,Glascontainer,48161 Münster - Roxel,Pienersallee (gegenü. Haus Nr. 26),,51.951305,7.530418,2024-06-10
+218,Glascontainer,48161 Münster - Roxel,"Recyclinghof Roxel, Nottulner Landweg",,51.947376,7.535186,2024-06-10
+219,Glascontainer,48161 Münster - Roxel,Schelmenstiege (Parkpl. vor der BVS),,51.954731,7.541640,2024-06-10
+220,Glascontainer,48161 Münster - Roxel,Schulte-Hermann-Str. (Zufahrt z. Tiefgarage),,51.953308,7.533664,2024-06-10
+221,Glascontainer,48161 Münster - Roxel,Tilbecker Straße (Parkpl. Hallenbad),,51.954082,7.527064,2024-06-10
+222,Glascontainer,48161 Münster - Roxel,Wenningweg (neben dem Klärwerk),,51.949280,7.526384,2024-06-10
+223,Glascontainer,48149 Münster - Sentrup,Busso-Peus-Straße,,51.968987,7.588885,2024-06-10
+224,Glascontainer,48149 Münster - Sentrup,Rudolf-Harbig-Weg,,51.975273,7.591884,2024-06-10
+225,Glascontainer,48149 Münster - Sentrup,"Rudolf-Harbig-Weg (Studentenw., 26-46)",,51.972748,7.594686,2024-06-10
+226,Glascontainer,48149 Münster - Sentrup,Schmeddingstr. (gegenüber Haus Nr. 50),,51.960724,7.589834,2024-06-10
+227,Glascontainer,48149 Münster - Sentrup,Sentruper Str. (Parkplatz Mühlenhof),,51.950104,7.596748,2024-06-10
+228,Glascontainer,48149 Münster - Sentrup,Sentruper Str. (vor Sportzentrum),,51.955223,7.601379,2024-06-10
+229,Glascontainer,48157 Münster - Sprakel,Bahnhof Sprakel,,52.042213,7.619248,2024-06-10
+230,Glascontainer,48159 Münster - Sprakel,Dreilinden/Nienberger Straße,,52.041821,7.615412,2024-06-10
+231,Glascontainer,48157 Münster - Sprakel,Schlusenweg,,52.032299,7.619631,2024-06-10
+232,Glascontainer,48147 Münster - Wienburg,Gartenstr. vor Haus Nr. 165-170,,51.976074,7.636142,2024-06-10
+233,Glascontainer,48147 Münster - Wienburg,Hoher Heckenweg 170/Sibeliusstraße,,51.982262,7.645751,2024-06-10
+234,Glascontainer,48147 Münster - Wienburg,Holsteiner Straße/Piusallee (Wiewel-Markt),,51.971451,7.640960,2024-06-10
+235,Glascontainer,48147 Münster - Wienburg,Jahnstraße 26,,51.975925,7.616317,2024-06-10
+236,Glascontainer,48147 Münster - Wienburg,Kanalstraße / Lublinring (Parkplatz) Unterflur,,51.972527,7.632902,2024-06-10
+237,Glascontainer,48147 Münster - Wienburg,Meßkamp/Kinderhauser Straße,,51.980396,7.613625,2024-06-10
+238,Glascontainer,48147 Münster - Wienburg,Stettiner Str. (ggü. Haus Nr. 68-82),,51.975903,7.646607,2024-06-10
+239,Glascontainer,48147 Münster - Wienburg,Wienburgstraße/Salzmannstraße 1,,51.977360,7.621630,2024-06-10
+240,Glascontainer,48167 Münster - Wolbeck,Am Borggarten (neben Haus Nr. 3),,51.921364,7.730451,2024-06-10
+241,Glascontainer,48167 Münster - Wolbeck,Am Steintor/Juffernkamp,,51.912006,7.728437,2024-06-10
+242,Glascontainer,48167 Münster - Wolbeck,Brandhoveweg (Parkplatz Hallenbad),,51.915874,7.715109,2024-06-10
+243,Glascontainer,48167 Münster - Wolbeck,Dirk-von-Merveldt-Str. Ev.-Kirche,,51.918667,7.726744,2024-06-10
+244,Glascontainer,48167 Münster - Wolbeck,Eschstraße 6,,51.921391,7.726744,2024-06-10
+245,Glascontainer,48167 Münster - Wolbeck,Goldbrink (vor Haus Nr. 69),,51.922970,7.721637,2024-06-10
+246,Glascontainer,48167 Münster - Wolbeck,Hiltruper Str. 55,,51.911495,7.717853,2024-06-10
+247,Glascontainer,48167 Münster - Wolbeck,Hofstr. (neben Feuerwehrgerätehaus),,51.916927,7.734440,2024-06-10
+248,Glascontainer,48167 Münster - Wolbeck,Middeler Straße (K&amp;K),,51.925724,7.724731,2024-06-10
+249,Glascontainer,48167 Münster - Wolbeck,Recyclinghof Eschstraße,,51.918297,7.721005,2024-06-10
+250,Glascontainer,48167 Münster - Wolbeck,Zumbuschstr./Buxtrup,,51.905758,7.720199,2024-06-10
