@@ -1,0 +1,3305 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63198,
+          51.964164
+        ]
+      },
+      "properties": {
+        "Typ": "07.03.2022",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "07.03.2022",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63326,
+          51.95556
+        ]
+      },
+      "properties": {
+        "Typ": "28.03.2022",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "28.03.2022",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "4",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62635,
+          51.959686
+        ]
+      },
+      "properties": {
+        "Typ": "19.09.2022",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "19.09.2022",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2, AC Schuko",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.627244,
+          51.955681
+        ]
+      },
+      "properties": {
+        "Typ": "20.09.2022",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "20.09.2022",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2, AC Schuko",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.632006,
+          51.962039
+        ]
+      },
+      "properties": {
+        "Typ": "21.09.2022",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "21.09.2022",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2, AC Schuko",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.635289,
+          51.959811
+        ]
+      },
+      "properties": {
+        "Typ": "22.09.2022",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "22.09.2022",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.631389,
+          51.955953
+        ]
+      },
+      "properties": {
+        "Typ": "27.09.2022",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "27.09.2022",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.631389,
+          51.955953
+        ]
+      },
+      "properties": {
+        "Typ": "27.09.2022",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "27.09.2022",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6566247,
+          51.9621201
+        ]
+      },
+      "properties": {
+        "Typ": "13.12.2022",
+        "Betreiber": "Hotel Guter Hirte GmbH",
+        "Inbetriebnahme": "13.12.2022",
+        "Nennleistung[kW]": "11",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.657967,
+          51.975384
+        ]
+      },
+      "properties": {
+        "Typ": "25.02.2021",
+        "Betreiber": "Knubel GmbH & Co. KG",
+        "Inbetriebnahme": "25.02.2021",
+        "Nennleistung[kW]": "39,6",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "DC Kupplung Combo",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.657877,
+          51.975353
+        ]
+      },
+      "properties": {
+        "Typ": "21.09.2023",
+        "Betreiber": "Knubel GmbH & Co. KG",
+        "Inbetriebnahme": "21.09.2023",
+        "Nennleistung[kW]": "39,65",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.642513,
+          51.961223
+        ]
+      },
+      "properties": {
+        "Typ": "18.08.2023",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "18.08.2023",
+        "Nennleistung[kW]": "44",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.642513,
+          51.961223
+        ]
+      },
+      "properties": {
+        "Typ": "30.08.2023",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "30.08.2023",
+        "Nennleistung[kW]": "44",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.641609,
+          51.963806
+        ]
+      },
+      "properties": {
+        "Typ": "08.09.2023",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "08.09.2023",
+        "Nennleistung[kW]": "44",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.631083,
+          51.966896
+        ]
+      },
+      "properties": {
+        "Typ": "14.03.2022",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "14.03.2022",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.629456,
+          51.970129
+        ]
+      },
+      "properties": {
+        "Typ": "16.08.2023",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "16.08.2023",
+        "Nennleistung[kW]": "44",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.613994,
+          51.982029
+        ]
+      },
+      "properties": {
+        "Typ": "24.11.2022",
+        "Betreiber": "VKA Pflegedienst GmbH",
+        "Inbetriebnahme": "24.11.2022",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6431482,
+          51.967304
+        ]
+      },
+      "properties": {
+        "Typ": "01.01.2021",
+        "Betreiber": "Westfalen AG",
+        "Inbetriebnahme": "01.01.2021",
+        "Nennleistung[kW]": "72",
+        "Ladeeinrichung": "Schnellladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "DC Kupplung Combo, DC CHAdeMO",
+        "Ladeleistung[kW]": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63736,
+          51.9825
+        ]
+      },
+      "properties": {
+        "Typ": "22.11.2023",
+        "Betreiber": "WSF Immobilienverwaltungs-GmbH & Co. KG",
+        "Inbetriebnahme": "22.11.2023",
+        "Nennleistung[kW]": "11",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "4",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61363,
+          51.96862
+        ]
+      },
+      "properties": {
+        "Typ": "18.11.2021",
+        "Betreiber": "Aral Pulse",
+        "Inbetriebnahme": "18.11.2021",
+        "Nennleistung[kW]": "300",
+        "Ladeeinrichung": "Schnellladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "DC Kupplung Combo, DC CHAdeMO",
+        "Ladeleistung[kW]": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61363,
+          51.9686
+        ]
+      },
+      "properties": {
+        "Typ": "18.11.2021",
+        "Betreiber": "Aral Pulse",
+        "Inbetriebnahme": "18.11.2021",
+        "Nennleistung[kW]": "300",
+        "Ladeeinrichung": "Schnellladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "DC Kupplung Combo, DC CHAdeMO",
+        "Ladeleistung[kW]": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61363,
+          51.96862
+        ]
+      },
+      "properties": {
+        "Typ": "05.01.2023",
+        "Betreiber": "Aral Pulse",
+        "Inbetriebnahme": "05.01.2023",
+        "Nennleistung[kW]": "300",
+        "Ladeeinrichung": "Schnellladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "DC Kupplung Combo, DC CHAdeMO",
+        "Ladeleistung[kW]": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5937529,
+          51.9754197
+        ]
+      },
+      "properties": {
+        "Typ": "14.02.2023",
+        "Betreiber": "Dr Maasjost&Collegen AG",
+        "Inbetriebnahme": "14.02.2023",
+        "Nennleistung[kW]": "44",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.612578,
+          51.957928
+        ]
+      },
+      "properties": {
+        "Typ": "31.12.2023",
+        "Betreiber": "Industrie- und Gewerbepark Mittelelbe GmbH",
+        "Inbetriebnahme": "31.12.2023",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.614362059,
+          51.9590064
+        ]
+      },
+      "properties": {
+        "Typ": "06.03.2024",
+        "Betreiber": "LBS Nordwest",
+        "Inbetriebnahme": "06.03.2024",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.613736085,
+          51.9599835
+        ]
+      },
+      "properties": {
+        "Typ": "06.03.2024",
+        "Betreiber": "LBS Nordwest",
+        "Inbetriebnahme": "06.03.2024",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.613787654,
+          51.95995172
+        ]
+      },
+      "properties": {
+        "Typ": "06.03.2024",
+        "Betreiber": "LBS Nordwest",
+        "Inbetriebnahme": "06.03.2024",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.613787654,
+          51.9600113
+        ]
+      },
+      "properties": {
+        "Typ": "06.03.2024",
+        "Betreiber": "LBS Nordwest",
+        "Inbetriebnahme": "06.03.2024",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61382633,
+          51.96000733
+        ]
+      },
+      "properties": {
+        "Typ": "06.03.2024",
+        "Betreiber": "LBS Nordwest",
+        "Inbetriebnahme": "06.03.2024",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.590982458,
+          51.97007887
+        ]
+      },
+      "properties": {
+        "Typ": "20.02.2023",
+        "Betreiber": "Q1 Autostrom",
+        "Inbetriebnahme": "20.02.2023",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.590845665,
+          51.97007887
+        ]
+      },
+      "properties": {
+        "Typ": "20.02.2023",
+        "Betreiber": "Q1 Autostrom",
+        "Inbetriebnahme": "20.02.2023",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.590952953,
+          51.97012844
+        ]
+      },
+      "properties": {
+        "Typ": "20.02.2023",
+        "Betreiber": "Q1 Autostrom",
+        "Inbetriebnahme": "20.02.2023",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.590868266,
+          51.97011418
+        ]
+      },
+      "properties": {
+        "Typ": "20.02.2023",
+        "Betreiber": "Q1 Autostrom",
+        "Inbetriebnahme": "20.02.2023",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.596564,
+          51.961886
+        ]
+      },
+      "properties": {
+        "Typ": "07.03.2022",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "07.03.2022",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "4",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.612086,
+          51.9715
+        ]
+      },
+      "properties": {
+        "Typ": "16.09.2022",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "16.09.2022",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "AC Steckdose Typ 2, AC Schuko",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.599331,
+          51.975428
+        ]
+      },
+      "properties": {
+        "Typ": "27.09.2022",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "27.09.2022",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.597861,
+          51.959332
+        ]
+      },
+      "properties": {
+        "Typ": "11.08.2023",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "11.08.2023",
+        "Nennleistung[kW]": "88",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "4",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59946225,
+          51.97616979
+        ]
+      },
+      "properties": {
+        "Typ": "28.09.2023",
+        "Betreiber": "Westfalen AG",
+        "Inbetriebnahme": "28.09.2023",
+        "Nennleistung[kW]": "11",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59946225,
+          51.97616979
+        ]
+      },
+      "properties": {
+        "Typ": "28.09.2023",
+        "Betreiber": "Westfalen AG",
+        "Inbetriebnahme": "28.09.2023",
+        "Nennleistung[kW]": "11",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59946225,
+          51.97616979
+        ]
+      },
+      "properties": {
+        "Typ": "28.09.2023",
+        "Betreiber": "Westfalen AG",
+        "Inbetriebnahme": "28.09.2023",
+        "Nennleistung[kW]": "11",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59946225,
+          51.97616979
+        ]
+      },
+      "properties": {
+        "Typ": "28.09.2023",
+        "Betreiber": "Westfalen AG",
+        "Inbetriebnahme": "28.09.2023",
+        "Nennleistung[kW]": "11",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59946225,
+          51.97616979
+        ]
+      },
+      "properties": {
+        "Typ": "28.09.2023",
+        "Betreiber": "Westfalen AG",
+        "Inbetriebnahme": "28.09.2023",
+        "Nennleistung[kW]": "11",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59946225,
+          51.97616979
+        ]
+      },
+      "properties": {
+        "Typ": "28.09.2023",
+        "Betreiber": "Westfalen AG",
+        "Inbetriebnahme": "28.09.2023",
+        "Nennleistung[kW]": "11",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59946225,
+          51.97616979
+        ]
+      },
+      "properties": {
+        "Typ": "28.09.2023",
+        "Betreiber": "Westfalen AG",
+        "Inbetriebnahme": "28.09.2023",
+        "Nennleistung[kW]": "11",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59946225,
+          51.97616979
+        ]
+      },
+      "properties": {
+        "Typ": "28.09.2023",
+        "Betreiber": "Westfalen AG",
+        "Inbetriebnahme": "28.09.2023",
+        "Nennleistung[kW]": "11",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59946225,
+          51.97616979
+        ]
+      },
+      "properties": {
+        "Typ": "28.09.2023",
+        "Betreiber": "Westfalen AG",
+        "Inbetriebnahme": "28.09.2023",
+        "Nennleistung[kW]": "11",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59946225,
+          51.97616979
+        ]
+      },
+      "properties": {
+        "Typ": "28.09.2023",
+        "Betreiber": "Westfalen AG",
+        "Inbetriebnahme": "28.09.2023",
+        "Nennleistung[kW]": "11",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59946225,
+          51.97616979
+        ]
+      },
+      "properties": {
+        "Typ": "28.09.2023",
+        "Betreiber": "Westfalen AG",
+        "Inbetriebnahme": "28.09.2023",
+        "Nennleistung[kW]": "11",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59946225,
+          51.97616979
+        ]
+      },
+      "properties": {
+        "Typ": "28.09.2023",
+        "Betreiber": "Westfalen AG",
+        "Inbetriebnahme": "28.09.2023",
+        "Nennleistung[kW]": "11",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59946225,
+          51.97616979
+        ]
+      },
+      "properties": {
+        "Typ": "28.09.2023",
+        "Betreiber": "Westfalen AG",
+        "Inbetriebnahme": "28.09.2023",
+        "Nennleistung[kW]": "11",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59946225,
+          51.97616979
+        ]
+      },
+      "properties": {
+        "Typ": "28.09.2023",
+        "Betreiber": "Westfalen AG",
+        "Inbetriebnahme": "28.09.2023",
+        "Nennleistung[kW]": "11",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59946225,
+          51.97616979
+        ]
+      },
+      "properties": {
+        "Typ": "28.09.2023",
+        "Betreiber": "Westfalen AG",
+        "Inbetriebnahme": "28.09.2023",
+        "Nennleistung[kW]": "11",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59946225,
+          51.97616979
+        ]
+      },
+      "properties": {
+        "Typ": "28.09.2023",
+        "Betreiber": "Westfalen AG",
+        "Inbetriebnahme": "28.09.2023",
+        "Nennleistung[kW]": "11",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59946225,
+          51.97616979
+        ]
+      },
+      "properties": {
+        "Typ": "28.09.2023",
+        "Betreiber": "Westfalen AG",
+        "Inbetriebnahme": "28.09.2023",
+        "Nennleistung[kW]": "11",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59946225,
+          51.97616979
+        ]
+      },
+      "properties": {
+        "Typ": "28.09.2023",
+        "Betreiber": "Westfalen AG",
+        "Inbetriebnahme": "28.09.2023",
+        "Nennleistung[kW]": "11",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59946225,
+          51.97616979
+        ]
+      },
+      "properties": {
+        "Typ": "28.09.2023",
+        "Betreiber": "Westfalen AG",
+        "Inbetriebnahme": "28.09.2023",
+        "Nennleistung[kW]": "11",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59946225,
+          51.97616979
+        ]
+      },
+      "properties": {
+        "Typ": "28.09.2023",
+        "Betreiber": "Westfalen AG",
+        "Inbetriebnahme": "28.09.2023",
+        "Nennleistung[kW]": "11",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59946225,
+          51.97616979
+        ]
+      },
+      "properties": {
+        "Typ": "28.09.2023",
+        "Betreiber": "Westfalen AG",
+        "Inbetriebnahme": "28.09.2023",
+        "Nennleistung[kW]": "11",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59946225,
+          51.97616979
+        ]
+      },
+      "properties": {
+        "Typ": "28.09.2023",
+        "Betreiber": "Westfalen AG",
+        "Inbetriebnahme": "28.09.2023",
+        "Nennleistung[kW]": "11",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59946225,
+          51.97616979
+        ]
+      },
+      "properties": {
+        "Typ": "28.09.2023",
+        "Betreiber": "Westfalen AG",
+        "Inbetriebnahme": "28.09.2023",
+        "Nennleistung[kW]": "11",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59946225,
+          51.97616979
+        ]
+      },
+      "properties": {
+        "Typ": "28.09.2023",
+        "Betreiber": "Westfalen AG",
+        "Inbetriebnahme": "28.09.2023",
+        "Nennleistung[kW]": "11",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59946225,
+          51.97616979
+        ]
+      },
+      "properties": {
+        "Typ": "28.09.2023",
+        "Betreiber": "Westfalen AG",
+        "Inbetriebnahme": "28.09.2023",
+        "Nennleistung[kW]": "11",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59946225,
+          51.97616979
+        ]
+      },
+      "properties": {
+        "Typ": "28.09.2023",
+        "Betreiber": "Westfalen AG",
+        "Inbetriebnahme": "28.09.2023",
+        "Nennleistung[kW]": "11",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59946225,
+          51.97616979
+        ]
+      },
+      "properties": {
+        "Typ": "28.09.2023",
+        "Betreiber": "Westfalen AG",
+        "Inbetriebnahme": "28.09.2023",
+        "Nennleistung[kW]": "11",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59946225,
+          51.97616979
+        ]
+      },
+      "properties": {
+        "Typ": "28.09.2023",
+        "Betreiber": "Westfalen AG",
+        "Inbetriebnahme": "28.09.2023",
+        "Nennleistung[kW]": "11",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.618466,
+          51.952144
+        ]
+      },
+      "properties": {
+        "Typ": "24.04.2023",
+        "Betreiber": "EWE Go GmbH",
+        "Inbetriebnahme": "24.04.2023",
+        "Nennleistung[kW]": "160",
+        "Ladeeinrichung": "Schnellladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "DC Kupplung Combo",
+        "Ladeleistung[kW]": "160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.607063,
+          51.93146
+        ]
+      },
+      "properties": {
+        "Typ": "03.08.2020",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "03.08.2020",
+        "Nennleistung[kW]": "44",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6217061,
+          51.9457455
+        ]
+      },
+      "properties": {
+        "Typ": "05.12.2022",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "05.12.2022",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.621709,
+          51.945723
+        ]
+      },
+      "properties": {
+        "Typ": "23.01.2023",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "23.01.2023",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.614271,
+          51.953154
+        ]
+      },
+      "properties": {
+        "Typ": "14.04.2023",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "14.04.2023",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6142739,
+          51.95316
+        ]
+      },
+      "properties": {
+        "Typ": "21.04.2023",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "21.04.2023",
+        "Nennleistung[kW]": "44",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.617707,
+          51.955691
+        ]
+      },
+      "properties": {
+        "Typ": "22.12.2022",
+        "Betreiber": "Studierendenwerk M\u00fcnster A\u00f6R",
+        "Inbetriebnahme": "22.12.2022",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6106554,
+          51.942709
+        ]
+      },
+      "properties": {
+        "Typ": "17.12.2021",
+        "Betreiber": "Westfalen AG",
+        "Inbetriebnahme": "17.12.2021",
+        "Nennleistung[kW]": "75",
+        "Ladeeinrichung": "Schnellladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "DC Kupplung Combo",
+        "Ladeleistung[kW]": "75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.630839,
+          51.944284
+        ]
+      },
+      "properties": {
+        "Typ": "16.03.2020",
+        "Betreiber": "L. Stroetmann Lebensmittel GmbH & Co. KG",
+        "Inbetriebnahme": "16.03.2020",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.623937,
+          51.942816
+        ]
+      },
+      "properties": {
+        "Typ": "28.02.2022",
+        "Betreiber": "Lidl",
+        "Inbetriebnahme": "28.02.2022",
+        "Nennleistung[kW]": "72",
+        "Ladeeinrichung": "Schnellladeeinrichtung",
+        "Anzahl Ladepunkte": "3",
+        "Steckertypen": "AC Kupplung Typ 2, DC Kupplung Combo",
+        "Ladeleistung[kW]": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.632673,
+          51.924533
+        ]
+      },
+      "properties": {
+        "Typ": "21.03.2023",
+        "Betreiber": "Mauri Bowling M\u00fcnster GmbH",
+        "Inbetriebnahme": "21.03.2023",
+        "Nennleistung[kW]": "44",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.632673,
+          51.924533
+        ]
+      },
+      "properties": {
+        "Typ": "21.03.2023",
+        "Betreiber": "Mauri Bowling M\u00fcnster GmbH",
+        "Inbetriebnahme": "21.03.2023",
+        "Nennleistung[kW]": "44",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Kupplung Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.624275,
+          51.944084
+        ]
+      },
+      "properties": {
+        "Typ": "20.01.2022",
+        "Betreiber": "Senger M\u00fcnster GmbH",
+        "Inbetriebnahme": "20.01.2022",
+        "Nennleistung[kW]": "39,6",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "DC Kupplung Combo",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61563,
+          51.9325
+        ]
+      },
+      "properties": {
+        "Typ": "26.11.2021",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "26.11.2021",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "4",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63503,
+          51.93649
+        ]
+      },
+      "properties": {
+        "Typ": "25.07.2022",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "25.07.2022",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Kupplung Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.628809,
+          51.924419
+        ]
+      },
+      "properties": {
+        "Typ": "14.08.2023",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "14.08.2023",
+        "Nennleistung[kW]": "44",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.634689513,
+          51.94128085
+        ]
+      },
+      "properties": {
+        "Typ": "01.12.2022",
+        "Betreiber": "AGRAVIS",
+        "Inbetriebnahme": "01.12.2022",
+        "Nennleistung[kW]": "44",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "4",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.634689513,
+          51.94128085
+        ]
+      },
+      "properties": {
+        "Typ": "01.12.2022",
+        "Betreiber": "AGRAVIS",
+        "Inbetriebnahme": "01.12.2022",
+        "Nennleistung[kW]": "44",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "4",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.634689513,
+          51.94128085
+        ]
+      },
+      "properties": {
+        "Typ": "01.12.2022",
+        "Betreiber": "AGRAVIS",
+        "Inbetriebnahme": "01.12.2022",
+        "Nennleistung[kW]": "44",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "4",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.634689513,
+          51.94128085
+        ]
+      },
+      "properties": {
+        "Typ": "01.12.2022",
+        "Betreiber": "AGRAVIS",
+        "Inbetriebnahme": "01.12.2022",
+        "Nennleistung[kW]": "44",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "4",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.644754,
+          51.928995
+        ]
+      },
+      "properties": {
+        "Typ": "16.09.2022",
+        "Betreiber": "Charge Construct GmbH",
+        "Inbetriebnahme": "16.09.2022",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2, AC Kupplung Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.644754,
+          51.928995
+        ]
+      },
+      "properties": {
+        "Typ": "16.09.2022",
+        "Betreiber": "Charge Construct GmbH",
+        "Inbetriebnahme": "16.09.2022",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2, AC Kupplung Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.644754,
+          51.928995
+        ]
+      },
+      "properties": {
+        "Typ": "16.09.2022",
+        "Betreiber": "Charge Construct GmbH",
+        "Inbetriebnahme": "16.09.2022",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2, AC Kupplung Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.644754,
+          51.928995
+        ]
+      },
+      "properties": {
+        "Typ": "16.09.2022",
+        "Betreiber": "Charge Construct GmbH",
+        "Inbetriebnahme": "16.09.2022",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2, AC Kupplung Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.649798,
+          51.940537
+        ]
+      },
+      "properties": {
+        "Typ": "31.01.2020",
+        "Betreiber": "EnKL GmbH",
+        "Inbetriebnahme": "31.01.2020",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.649798,
+          51.940537
+        ]
+      },
+      "properties": {
+        "Typ": "31.01.2020",
+        "Betreiber": "EnKL GmbH",
+        "Inbetriebnahme": "31.01.2020",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.646728,
+          51.938871
+        ]
+      },
+      "properties": {
+        "Typ": "31.01.2020",
+        "Betreiber": "EnKL GmbH",
+        "Inbetriebnahme": "31.01.2020",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.646728,
+          51.938871
+        ]
+      },
+      "properties": {
+        "Typ": "31.01.2020",
+        "Betreiber": "EnKL GmbH",
+        "Inbetriebnahme": "31.01.2020",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.635707178,
+          51.9479677
+        ]
+      },
+      "properties": {
+        "Typ": "27.07.2023",
+        "Betreiber": "FIN Green",
+        "Inbetriebnahme": "27.07.2023",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.668689269,
+          51.95427932
+        ]
+      },
+      "properties": {
+        "Typ": "30.09.2021",
+        "Betreiber": "GLS Mobility GmbH",
+        "Inbetriebnahme": "30.09.2021",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.641078,
+          51.949327
+        ]
+      },
+      "properties": {
+        "Typ": "29.10.2019",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "29.10.2019",
+        "Nennleistung[kW]": "44",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.641078,
+          51.949327
+        ]
+      },
+      "properties": {
+        "Typ": "29.10.2019",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "29.10.2019",
+        "Nennleistung[kW]": "44",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.641078,
+          51.949327
+        ]
+      },
+      "properties": {
+        "Typ": "29.10.2019",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "29.10.2019",
+        "Nennleistung[kW]": "44",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.641078,
+          51.949327
+        ]
+      },
+      "properties": {
+        "Typ": "29.10.2019",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "29.10.2019",
+        "Nennleistung[kW]": "44",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.641078,
+          51.949327
+        ]
+      },
+      "properties": {
+        "Typ": "29.10.2019",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "29.10.2019",
+        "Nennleistung[kW]": "44",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.641078,
+          51.949327
+        ]
+      },
+      "properties": {
+        "Typ": "29.10.2019",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "29.10.2019",
+        "Nennleistung[kW]": "150",
+        "Ladeeinrichung": "Schnellladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "DC Kupplung Combo, DC CHAdeMO",
+        "Ladeleistung[kW]": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.647657,
+          51.939792
+        ]
+      },
+      "properties": {
+        "Typ": "29.10.2019",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "29.10.2019",
+        "Nennleistung[kW]": "44",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.636888,
+          51.951548
+        ]
+      },
+      "properties": {
+        "Typ": "18.10.2021",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "18.10.2021",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "4",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64209,
+          51.9511
+        ]
+      },
+      "properties": {
+        "Typ": "05.11.2021",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "05.11.2021",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.636061,
+          51.952128
+        ]
+      },
+      "properties": {
+        "Typ": "17.01.2022",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "17.01.2022",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64628,
+          51.9457
+        ]
+      },
+      "properties": {
+        "Typ": "02.05.2022",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "02.05.2022",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "4",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64628,
+          51.9457
+        ]
+      },
+      "properties": {
+        "Typ": "02.05.2022",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "02.05.2022",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "4",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64577,
+          51.932021
+        ]
+      },
+      "properties": {
+        "Typ": "29.08.2022",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "29.08.2022",
+        "Nennleistung[kW]": "44",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.637086,
+          51.948579
+        ]
+      },
+      "properties": {
+        "Typ": "01.02.2024",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "01.02.2024",
+        "Nennleistung[kW]": "44",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.637086,
+          51.948579
+        ]
+      },
+      "properties": {
+        "Typ": "01.02.2024",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "01.02.2024",
+        "Nennleistung[kW]": "44",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6687,
+          51.95435
+        ]
+      },
+      "properties": {
+        "Typ": "18.06.2021",
+        "Betreiber": "Vonovia Energie Service GmbH",
+        "Inbetriebnahme": "18.06.2021",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.705262303,
+          51.97872477
+        ]
+      },
+      "properties": {
+        "Typ": "29.10.2021",
+        "Betreiber": "Citywatt GmbH",
+        "Inbetriebnahme": "29.10.2021",
+        "Nennleistung[kW]": "300",
+        "Ladeeinrichung": "Schnellladeeinrichtung",
+        "Anzahl Ladepunkte": "3",
+        "Steckertypen": "DC Kupplung Combo",
+        "Ladeleistung[kW]": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.705315948,
+          51.97874129
+        ]
+      },
+      "properties": {
+        "Typ": "29.10.2021",
+        "Betreiber": "Citywatt GmbH",
+        "Inbetriebnahme": "29.10.2021",
+        "Nennleistung[kW]": "300",
+        "Ladeeinrichung": "Schnellladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "DC Kupplung Combo",
+        "Ladeleistung[kW]": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.705401778,
+          51.9787479
+        ]
+      },
+      "properties": {
+        "Typ": "29.10.2021",
+        "Betreiber": "Citywatt GmbH",
+        "Inbetriebnahme": "29.10.2021",
+        "Nennleistung[kW]": "300",
+        "Ladeeinrichung": "Schnellladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "DC Kupplung Combo",
+        "Ladeleistung[kW]": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.705498338,
+          51.97876112
+        ]
+      },
+      "properties": {
+        "Typ": "29.10.2021",
+        "Betreiber": "Citywatt GmbH",
+        "Inbetriebnahme": "29.10.2021",
+        "Nennleistung[kW]": "300",
+        "Ladeeinrichung": "Schnellladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "DC Kupplung Combo",
+        "Ladeleistung[kW]": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.705589533,
+          51.97876442
+        ]
+      },
+      "properties": {
+        "Typ": "29.10.2021",
+        "Betreiber": "Citywatt GmbH",
+        "Inbetriebnahme": "29.10.2021",
+        "Nennleistung[kW]": "300",
+        "Ladeeinrichung": "Schnellladeeinrichtung",
+        "Anzahl Ladepunkte": "3",
+        "Steckertypen": "DC Kupplung Combo",
+        "Ladeleistung[kW]": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6897,
+          52.016367
+        ]
+      },
+      "properties": {
+        "Typ": "22.03.2021",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "22.03.2021",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.691269,
+          51.94652
+        ]
+      },
+      "properties": {
+        "Typ": "02.02.2024",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "02.02.2024",
+        "Nennleistung[kW]": "44",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.611447,
+          51.977102
+        ]
+      },
+      "properties": {
+        "Typ": "01.12.2020",
+        "Betreiber": "Germania Parkhaus GmbH & Co. KG",
+        "Inbetriebnahme": "01.12.2020",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.611522,
+          51.977129
+        ]
+      },
+      "properties": {
+        "Typ": "01.12.2020",
+        "Betreiber": "Germania Parkhaus GmbH & Co. KG",
+        "Inbetriebnahme": "01.12.2020",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.58587,
+          51.98783
+        ]
+      },
+      "properties": {
+        "Typ": "30.11.2022",
+        "Betreiber": "Restaurant Hotel Schloss Wilkinghege",
+        "Inbetriebnahme": "30.11.2022",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5999255,
+          51.977606
+        ]
+      },
+      "properties": {
+        "Typ": "15.06.2022",
+        "Betreiber": "Westfalen AG",
+        "Inbetriebnahme": "15.06.2022",
+        "Nennleistung[kW]": "150",
+        "Ladeeinrichung": "Schnellladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "DC Kupplung Combo",
+        "Ladeleistung[kW]": "75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6007736,
+          51.977633
+        ]
+      },
+      "properties": {
+        "Typ": "15.06.2022",
+        "Betreiber": "Westfalen AG",
+        "Inbetriebnahme": "15.06.2022",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.553414,
+          51.951907
+        ]
+      },
+      "properties": {
+        "Typ": "19.01.2021",
+        "Betreiber": "Autohaus Schlagheck GmbH & Co.KG",
+        "Inbetriebnahme": "19.01.2021",
+        "Nennleistung[kW]": "39,6",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "DC Kupplung Combo",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.550983,
+          51.942285
+        ]
+      },
+      "properties": {
+        "Typ": "22.08.2019",
+        "Betreiber": "E.ON Drive GmbH",
+        "Inbetriebnahme": "22.08.2019",
+        "Nennleistung[kW]": "160",
+        "Ladeeinrichung": "Schnellladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "DC Kupplung Combo",
+        "Ladeleistung[kW]": "160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.547842,
+          51.945421
+        ]
+      },
+      "properties": {
+        "Typ": "23.08.2019",
+        "Betreiber": "E.ON Drive GmbH",
+        "Inbetriebnahme": "23.08.2019",
+        "Nennleistung[kW]": "160",
+        "Ladeeinrichung": "Schnellladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "DC Kupplung Combo",
+        "Ladeleistung[kW]": "160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.551004,
+          51.942285
+        ]
+      },
+      "properties": {
+        "Typ": "20.10.2020",
+        "Betreiber": "E.ON Drive GmbH",
+        "Inbetriebnahme": "20.10.2020",
+        "Nennleistung[kW]": "160",
+        "Ladeeinrichung": "Schnellladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "DC Kupplung Combo, DC CHAdeMO",
+        "Ladeleistung[kW]": "160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.547842,
+          51.945425
+        ]
+      },
+      "properties": {
+        "Typ": "20.10.2020",
+        "Betreiber": "E.ON Drive GmbH",
+        "Inbetriebnahme": "20.10.2020",
+        "Nennleistung[kW]": "160",
+        "Ladeeinrichung": "Schnellladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "DC Kupplung Combo, DC CHAdeMO",
+        "Ladeleistung[kW]": "160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.550983,
+          51.942285
+        ]
+      },
+      "properties": {
+        "Typ": "22.08.2019",
+        "Betreiber": "E.ON Drive Infrastructure",
+        "Inbetriebnahme": "22.08.2019",
+        "Nennleistung[kW]": "160",
+        "Ladeeinrichung": "Schnellladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "DC Kupplung Combo",
+        "Ladeleistung[kW]": "160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.547842,
+          51.945421
+        ]
+      },
+      "properties": {
+        "Typ": "23.08.2019",
+        "Betreiber": "E.ON Drive Infrastructure",
+        "Inbetriebnahme": "23.08.2019",
+        "Nennleistung[kW]": "160",
+        "Ladeeinrichung": "Schnellladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "DC Kupplung Combo",
+        "Ladeleistung[kW]": "160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.572103,
+          51.957796
+        ]
+      },
+      "properties": {
+        "Typ": "31.01.2020",
+        "Betreiber": "EnKL GmbH",
+        "Inbetriebnahme": "31.01.2020",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.572103,
+          51.957796
+        ]
+      },
+      "properties": {
+        "Typ": "31.01.2020",
+        "Betreiber": "EnKL GmbH",
+        "Inbetriebnahme": "31.01.2020",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.589151,
+          51.948465
+        ]
+      },
+      "properties": {
+        "Typ": "27.07.2022",
+        "Betreiber": "Pluq",
+        "Inbetriebnahme": "27.07.2022",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.589151,
+          51.9848465
+        ]
+      },
+      "properties": {
+        "Typ": "27.07.2022",
+        "Betreiber": "Pluq",
+        "Inbetriebnahme": "27.07.2022",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.589151,
+          51.948465
+        ]
+      },
+      "properties": {
+        "Typ": "27.07.2022",
+        "Betreiber": "Pluq",
+        "Inbetriebnahme": "27.07.2022",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.56973,
+          51.95694
+        ]
+      },
+      "properties": {
+        "Typ": "12.12.2016",
+        "Betreiber": "Ratio Erd\u00f6l GmbH & Co KG",
+        "Inbetriebnahme": "12.12.2016",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5628,
+          51.9458
+        ]
+      },
+      "properties": {
+        "Typ": "20.04.2023",
+        "Betreiber": "THC Tennis- und Hockeyclub M\u00fcnster e.V.",
+        "Inbetriebnahme": "20.04.2023",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.587946,
+          51.92793
+        ]
+      },
+      "properties": {
+        "Typ": "14.08.2018",
+        "Betreiber": "Allego GmbH",
+        "Inbetriebnahme": "14.08.2018",
+        "Nennleistung[kW]": "93",
+        "Ladeeinrichung": "Schnellladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "DC Kupplung Combo, DC CHAdeMO",
+        "Ladeleistung[kW]": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.57015,
+          51.92427
+        ]
+      },
+      "properties": {
+        "Typ": "01.02.2019",
+        "Betreiber": "Hakvoort GmbH",
+        "Inbetriebnahme": "01.02.2019",
+        "Nennleistung[kW]": "4,14",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "4,14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.592022446,
+          51.93017867
+        ]
+      },
+      "properties": {
+        "Typ": "03.02.2020",
+        "Betreiber": "Knubel GmbH & Co. KG",
+        "Inbetriebnahme": "03.02.2020",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Schnellladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.591481,
+          51.929179
+        ]
+      },
+      "properties": {
+        "Typ": "14.04.2022",
+        "Betreiber": "Knubel GmbH & Co. KG",
+        "Inbetriebnahme": "14.04.2022",
+        "Nennleistung[kW]": "13,2",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.591508,
+          51.929198
+        ]
+      },
+      "properties": {
+        "Typ": "14.04.2022",
+        "Betreiber": "Knubel GmbH & Co. KG",
+        "Inbetriebnahme": "14.04.2022",
+        "Nennleistung[kW]": "13,2",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.566931,
+          51.922444
+        ]
+      },
+      "properties": {
+        "Typ": "16.03.2020",
+        "Betreiber": "L. Stroetmann Gro\u00dfm\u00e4rkte GmbH & Co. KG",
+        "Inbetriebnahme": "16.03.2020",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.580626055,
+          51.92723809
+        ]
+      },
+      "properties": {
+        "Typ": "26.11.2020",
+        "Betreiber": "Michael Kuhlmann",
+        "Inbetriebnahme": "26.11.2020",
+        "Nennleistung[kW]": "11",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "AC Kupplung Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.573521,
+          51.924681
+        ]
+      },
+      "properties": {
+        "Typ": "20.12.2019",
+        "Betreiber": "PZ M\u00fcnster Knubel GmbH & Co. KG",
+        "Inbetriebnahme": "20.12.2019",
+        "Nennleistung[kW]": "11",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "AC Steckdose Typ 2, AC Kupplung Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.573525,
+          51.924811
+        ]
+      },
+      "properties": {
+        "Typ": "20.12.2019",
+        "Betreiber": "PZ M\u00fcnster Knubel GmbH & Co. KG",
+        "Inbetriebnahme": "20.12.2019",
+        "Nennleistung[kW]": "11",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "AC Steckdose Typ 2, AC Kupplung Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.573525,
+          51.924811
+        ]
+      },
+      "properties": {
+        "Typ": "20.12.2019",
+        "Betreiber": "PZ M\u00fcnster Knubel GmbH & Co. KG",
+        "Inbetriebnahme": "20.12.2019",
+        "Nennleistung[kW]": "25",
+        "Ladeeinrichung": "Schnellladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "DC Kupplung Combo",
+        "Ladeleistung[kW]": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.605865,
+          51.88237
+        ]
+      },
+      "properties": {
+        "Typ": "03.08.2020",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "03.08.2020",
+        "Nennleistung[kW]": "44",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.577724,
+          51.926007
+        ]
+      },
+      "properties": {
+        "Typ": "08.11.2021",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "08.11.2021",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59132735,
+          51.93104515
+        ]
+      },
+      "properties": {
+        "Typ": "29.09.2023",
+        "Betreiber": "TotalEnergies Charging Solutions Deutschland GmbH",
+        "Inbetriebnahme": "29.09.2023",
+        "Nennleistung[kW]": "75",
+        "Ladeeinrichung": "Schnellladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "DC Kupplung Combo",
+        "Ladeleistung[kW]": "75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.579351,
+          52.061379
+        ]
+      },
+      "properties": {
+        "Typ": "05.02.2024",
+        "Betreiber": "TotalEnergies Charging Solutions Deutschland GmbH",
+        "Inbetriebnahme": "05.02.2024",
+        "Nennleistung[kW]": "150",
+        "Ladeeinrichung": "Schnellladeeinrichtung",
+        "Anzahl Ladepunkte": "3",
+        "Steckertypen": "DC Kupplung Combo",
+        "Ladeleistung[kW]": "75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.579351,
+          52.061379
+        ]
+      },
+      "properties": {
+        "Typ": "05.02.2024",
+        "Betreiber": "TotalEnergies Charging Solutions Deutschland GmbH",
+        "Inbetriebnahme": "05.02.2024",
+        "Nennleistung[kW]": "150",
+        "Ladeeinrichung": "Schnellladeeinrichtung",
+        "Anzahl Ladepunkte": "3",
+        "Steckertypen": "DC Kupplung Combo",
+        "Ladeleistung[kW]": "75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.579351,
+          52.061379
+        ]
+      },
+      "properties": {
+        "Typ": "05.02.2024",
+        "Betreiber": "TotalEnergies Charging Solutions Deutschland GmbH",
+        "Inbetriebnahme": "05.02.2024",
+        "Nennleistung[kW]": "150",
+        "Ladeeinrichung": "Schnellladeeinrichtung",
+        "Anzahl Ladepunkte": "3",
+        "Steckertypen": "DC Kupplung Combo",
+        "Ladeleistung[kW]": "75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5838618,
+          51.892241
+        ]
+      },
+      "properties": {
+        "Typ": "19.12.2022",
+        "Betreiber": "Westfalen AG",
+        "Inbetriebnahme": "19.12.2022",
+        "Nennleistung[kW]": "150",
+        "Ladeeinrichung": "Schnellladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "DC Kupplung Combo",
+        "Ladeleistung[kW]": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.632741,
+          51.908556
+        ]
+      },
+      "properties": {
+        "Typ": "29.09.2021",
+        "Betreiber": "Heinrich Hollenhorst GmbH & Co. KG",
+        "Inbetriebnahme": "29.09.2021",
+        "Nennleistung[kW]": "39,6",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "DC Kupplung Combo",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.65273,
+          51.904842
+        ]
+      },
+      "properties": {
+        "Typ": "16.03.2020",
+        "Betreiber": "L. Stroetmann Lebensmittel GmbH & Co. KG",
+        "Inbetriebnahme": "16.03.2020",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.650447,
+          51.904983
+        ]
+      },
+      "properties": {
+        "Typ": "03.08.2020",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "03.08.2020",
+        "Nennleistung[kW]": "44",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.653517,
+          51.905029
+        ]
+      },
+      "properties": {
+        "Typ": "01.03.2021",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "01.03.2021",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.650359,
+          51.906581
+        ]
+      },
+      "properties": {
+        "Typ": "11.05.2021",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "11.05.2021",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6251632,
+          51.9016085
+        ]
+      },
+      "properties": {
+        "Typ": "05.05.2023",
+        "Betreiber": "Stadtwerke M\u00fcnster GmbH",
+        "Inbetriebnahme": "05.05.2023",
+        "Nennleistung[kW]": "44",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6503304,
+          51.902145
+        ]
+      },
+      "properties": {
+        "Typ": "01.08.2021",
+        "Betreiber": "Westfalen AG",
+        "Inbetriebnahme": "01.08.2021",
+        "Nennleistung[kW]": "44",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6502962,
+          51.902078
+        ]
+      },
+      "properties": {
+        "Typ": "01.08.2021",
+        "Betreiber": "Westfalen AG",
+        "Inbetriebnahme": "01.08.2021",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.715318328,
+          51.91059189
+        ]
+      },
+      "properties": {
+        "Typ": "01.08.2023",
+        "Betreiber": "effektiva GmbH",
+        "Inbetriebnahme": "01.08.2023",
+        "Nennleistung[kW]": "11",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "1",
+        "Steckertypen": "AC Kupplung Typ 2",
+        "Ladeleistung[kW]": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6742283,
+          51.921978
+        ]
+      },
+      "properties": {
+        "Typ": "08.06.2022",
+        "Betreiber": "Westfalen AG",
+        "Inbetriebnahme": "08.06.2022",
+        "Nennleistung[kW]": "22",
+        "Ladeeinrichung": "Normalladeeinrichtung",
+        "Anzahl Ladepunkte": "2",
+        "Steckertypen": "AC Steckdose Typ 2",
+        "Ladeleistung[kW]": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6334241,
+          51.9058669
+        ]
+      },
+      "properties": {
+        "Typ": "14.07.2021",
+        "Betreiber": "Lidl",
+        "Inbetriebnahme": "14.07.2021",
+        "Nennleistung[kW]": "93",
+        "Ladeeinrichung": "Schnellladeeinrichtung",
+        "Anzahl Ladepunkte": "3",
+        "Steckertypen": "AC Steckdose Typ 2, AC Kupplung Typ 2",
+        "Ladeleistung[kW]": "50"
+      }
+    }
+  ]
+}
