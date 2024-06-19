@@ -1,0 +1,4432 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.645724,
+          51.963823
+        ]
+      },
+      "properties": {
+        "name": "\u00d6G HAVICHHORSTSTRASSE (Alt-SP)",
+        "ort": "Schule",
+        "ortId": "12506",
+        "material": "Stein",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.620556298769743,
+          51.96438361603951
+        ]
+      },
+      "properties": {
+        "name": "Sp Gesamtschule Mitte, Katthagen",
+        "ort": "Spielplatz",
+        "ortId": "21201",
+        "material": "Sonstige",
+        "typ": "Tischtennisplatte Katthagen Neubau",
+        "baujahr": "2018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.620556298769743,
+          51.96438361603951
+        ]
+      },
+      "properties": {
+        "name": "Sp Gesamtschule Mitte, Katthagen",
+        "ort": "Spielplatz",
+        "ortId": "21201",
+        "material": "Sonstige",
+        "typ": "Tischtennisplatte Katthagen Spielbereich",
+        "baujahr": "2018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.632012370180278,
+          51.96550915457626
+        ]
+      },
+      "properties": {
+        "name": "Sp Martinischule",
+        "ort": "Spielplatz",
+        "ortId": "21501",
+        "material": "Stein",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.644796262701368,
+          51.95518043766086
+        ]
+      },
+      "properties": {
+        "name": "Sp Hansaplatz",
+        "ort": "Spielplatz",
+        "ortId": "22402",
+        "material": "Stein",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63772883984793,
+          51.95371797088697
+        ]
+      },
+      "properties": {
+        "name": "Sp Soester Strasse",
+        "ort": "Spielplatz",
+        "ortId": "22404",
+        "material": "Stein",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6467038747142055,
+          51.962249992215376
+        ]
+      },
+      "properties": {
+        "name": "Sp Oststrasse",
+        "ort": "Spielplatz",
+        "ortId": "22503",
+        "material": "Stein",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.641618966259975,
+          51.95941322400803
+        ]
+      },
+      "properties": {
+        "name": "Sp Zumsandeplatz",
+        "ort": "Spielplatz",
+        "ortId": "22504",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.640548041767211,
+          51.958141120280416
+        ]
+      },
+      "properties": {
+        "name": "Sp Diepenbrockstrasse",
+        "ort": "Spielplatz",
+        "ortId": "22505",
+        "material": "Stein",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.634454298844638,
+          51.97224011785281
+        ]
+      },
+      "properties": {
+        "name": "Sp Rjasanstrasse",
+        "ort": "Spielplatz",
+        "ortId": "22606",
+        "material": "Beton",
+        "typ": "Tischtennisplatte",
+        "baujahr": "2002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.628548818755587,
+          51.97374846813245
+        ]
+      },
+      "properties": {
+        "name": "Sp Tannenbergstrasse",
+        "ort": "Spielplatz",
+        "ortId": "22706",
+        "material": "Stein",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.614079399960718,
+          51.96954424611485
+        ]
+      },
+      "properties": {
+        "name": "Sp Schulstrasse",
+        "ort": "Spielplatz",
+        "ortId": "22707",
+        "material": "Beton",
+        "typ": "Tischtennisplatte",
+        "baujahr": "2013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.616247716857416,
+          51.97134021849594
+        ]
+      },
+      "properties": {
+        "name": "Sp Melchersstrasse",
+        "ort": "Spielplatz",
+        "ortId": "22708",
+        "material": "Stein",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.624319933175306,
+          51.97327798930288
+        ]
+      },
+      "properties": {
+        "name": "Sp Wichernstrasse",
+        "ort": "Spielplatz",
+        "ortId": "22709",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.616350998028483,
+          51.972860868250045
+        ]
+      },
+      "properties": {
+        "name": "Sp Martin-Niem\u00f6ller-Park",
+        "ort": "Spielplatz",
+        "ortId": "22710",
+        "material": "Stein",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.612204331225958,
+          51.961138804037944
+        ]
+      },
+      "properties": {
+        "name": "Sp Alter Zoo",
+        "ort": "Spielplatz",
+        "ortId": "22901",
+        "material": "Beton",
+        "typ": "Tischtennisplatte rund",
+        "baujahr": "2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.610519291095772,
+          51.966983389809194
+        ]
+      },
+      "properties": {
+        "name": "Sp Wilhelmstrasse",
+        "ort": "Spielplatz",
+        "ortId": "22902",
+        "material": "Sonstige",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.597931759588226,
+          51.97014802706031
+        ]
+      },
+      "properties": {
+        "name": "Sp Horstmarer Landweg",
+        "ort": "Spielplatz",
+        "ortId": "25201",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5930352945214326,
+          51.952768996576864
+        ]
+      },
+      "properties": {
+        "name": "Sp Auf Dem Draun",
+        "ort": "Spielplatz",
+        "ortId": "25202",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.641744,
+          51.963995
+        ]
+      },
+      "properties": {
+        "name": "Vg Staufenplatz",
+        "ort": "\u00d6ffentlicher Platz",
+        "ortId": "52523",
+        "material": "Stein",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.624200250730548,
+          51.95795472089719
+        ]
+      },
+      "properties": {
+        "name": "Annette-von-Droste-H\u00fclshoff-Gymnasium",
+        "ort": "Schule",
+        "ortId": "61101",
+        "material": "Stahl, verzinkt",
+        "typ": "Tischtennisplatte (rechts)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.624200250730548,
+          51.95795472089719
+        ]
+      },
+      "properties": {
+        "name": "Annette-von-Droste-H\u00fclshoff-Gymnasium",
+        "ort": "Schule",
+        "ortId": "61101",
+        "material": "Stahl, verzinkt",
+        "typ": "Tischtennisplatte (links)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.624200250730548,
+          51.95795472089719
+        ]
+      },
+      "properties": {
+        "name": "Annette-von-Droste-H\u00fclshoff-Gymnasium",
+        "ort": "Schule",
+        "ortId": "61101",
+        "material": "Stahl, verzinkt",
+        "typ": "Tischtennisplatte (rechts)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.624200250730548,
+          51.95795472089719
+        ]
+      },
+      "properties": {
+        "name": "Annette-von-Droste-H\u00fclshoff-Gymnasium",
+        "ort": "Schule",
+        "ortId": "61101",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (links)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.624200250730548,
+          51.95795472089719
+        ]
+      },
+      "properties": {
+        "name": "Annette-von-Droste-H\u00fclshoff-Gymnasium",
+        "ort": "Schule",
+        "ortId": "61101",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (rechts)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.619676758007121,
+          51.9640856126378
+        ]
+      },
+      "properties": {
+        "name": "Gesamtschule M\u00fcnster-Mitte",
+        "ort": "Schule",
+        "ortId": "61201",
+        "material": "Beton",
+        "typ": "Tischtennisplatte Innenhof, beim Beet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.619676758007121,
+          51.9640856126378
+        ]
+      },
+      "properties": {
+        "name": "Gesamtschule M\u00fcnster-Mitte",
+        "ort": "Schule",
+        "ortId": "61201",
+        "material": "Beton",
+        "typ": "Tischtennisplatte Innenhof, Mitte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.619676758007121,
+          51.9640856126378
+        ]
+      },
+      "properties": {
+        "name": "Gesamtschule M\u00fcnster-Mitte",
+        "ort": "Schule",
+        "ortId": "61201",
+        "material": "Beton",
+        "typ": "Tischtennisplatte Innenhof, bei Schaukel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.609309332002956,
+          51.95209943734531
+        ]
+      },
+      "properties": {
+        "name": "ERICH-KLAUSENER-REALSCHULE",
+        "ort": "Schule",
+        "ortId": "62101",
+        "material": "Sonstige",
+        "typ": "Tischtennisplatte 4 am S\u00fcdtrakt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.609309332002956,
+          51.95209943734531
+        ]
+      },
+      "properties": {
+        "name": "ERICH-KLAUSENER-REALSCHULE",
+        "ort": "Schule",
+        "ortId": "62101",
+        "material": "Sonstige",
+        "typ": "Tischtennisplatte 5 Ostrand  Schulhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.622243181011138,
+          51.95250305344428
+        ]
+      },
+      "properties": {
+        "name": "Johannisschule",
+        "ort": "Schule",
+        "ortId": "62202",
+        "material": "Stein",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.644859509195523,
+          51.95647740612795
+        ]
+      },
+      "properties": {
+        "name": "Overbergschule",
+        "ort": "Schule",
+        "ortId": "62401",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.644859509195523,
+          51.95647740612795
+        ]
+      },
+      "properties": {
+        "name": "Overbergschule",
+        "ort": "Schule",
+        "ortId": "62401",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.644705773979225,
+          51.9597602800455
+        ]
+      },
+      "properties": {
+        "name": "Sp Bodelschwinghschule, Gutenbergstr.14",
+        "ort": "Spielplatz",
+        "ortId": "62501",
+        "material": "Stein",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.638012410635285,
+          51.966887522654
+        ]
+      },
+      "properties": {
+        "name": "Ratsgymnasium",
+        "ort": "Schule",
+        "ortId": "62601",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (vorne)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.638012410635285,
+          51.966887522654
+        ]
+      },
+      "properties": {
+        "name": "Ratsgymnasium",
+        "ort": "Schule",
+        "ortId": "62601",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (hinten)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.627649901227481,
+          51.96970779143315
+        ]
+      },
+      "properties": {
+        "name": "Sp Martin-Luther-Schule",
+        "ort": "Spielplatz",
+        "ortId": "62702",
+        "material": "Stein",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.627649901227481,
+          51.96970779143315
+        ]
+      },
+      "properties": {
+        "name": "Sp Martin-Luther-Schule",
+        "ort": "Spielplatz",
+        "ortId": "62702",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.620782962034212,
+          51.96881729957317
+        ]
+      },
+      "properties": {
+        "name": "Schillergymnasium",
+        "ort": "Schule",
+        "ortId": "62703",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (links)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.620782962034212,
+          51.96881729957317
+        ]
+      },
+      "properties": {
+        "name": "Schillergymnasium",
+        "ort": "Schule",
+        "ortId": "62703",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (mitte)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.620437281135641,
+          51.97391847050406
+        ]
+      },
+      "properties": {
+        "name": "Realschule im Kreuzviertel",
+        "ort": "Schule",
+        "ortId": "62704",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (von vorne 1)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.620437281135641,
+          51.97391847050406
+        ]
+      },
+      "properties": {
+        "name": "Realschule im Kreuzviertel",
+        "ort": "Schule",
+        "ortId": "62704",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (von vorne 2)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.620437281135641,
+          51.97391847050406
+        ]
+      },
+      "properties": {
+        "name": "Realschule im Kreuzviertel",
+        "ort": "Schule",
+        "ortId": "62704",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (von vorne 3)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.620437281135641,
+          51.97391847050406
+        ]
+      },
+      "properties": {
+        "name": "Realschule im Kreuzviertel",
+        "ort": "Schule",
+        "ortId": "62704",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (von vorne 4)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.620437281135641,
+          51.97391847050406
+        ]
+      },
+      "properties": {
+        "name": "Realschule im Kreuzviertel",
+        "ort": "Schule",
+        "ortId": "62704",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (von vorne 5)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6237844352095845,
+          51.969643339365895
+        ]
+      },
+      "properties": {
+        "name": "Kreuzschule",
+        "ort": "Schule",
+        "ortId": "62705",
+        "material": "Stein",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6173622004754105,
+          51.959861046573224
+        ]
+      },
+      "properties": {
+        "name": "Gymnasium Paulinum",
+        "ort": "Schule",
+        "ortId": "62901",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (links)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6173622004754105,
+          51.959861046573224
+        ]
+      },
+      "properties": {
+        "name": "Gymnasium Paulinum",
+        "ort": "Schule",
+        "ortId": "62901",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (mitte)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6173622004754105,
+          51.959861046573224
+        ]
+      },
+      "properties": {
+        "name": "Gymnasium Paulinum",
+        "ort": "Schule",
+        "ortId": "62901",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (rechts)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.592485146847508,
+          51.958802680562535
+        ]
+      },
+      "properties": {
+        "name": "SCHULE AN DER BECKSTRASSE 26",
+        "ort": "Schule",
+        "ortId": "63101",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6048107952772215,
+          51.94189867974506
+        ]
+      },
+      "properties": {
+        "name": "D.-BONHOEFFER-SCHULE",
+        "ort": "Schule",
+        "ortId": "63102",
+        "material": "Stein",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6048107952772215,
+          51.94189867974506
+        ]
+      },
+      "properties": {
+        "name": "D.-BONHOEFFER-SCHULE",
+        "ort": "Schule",
+        "ortId": "63102",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6048107952772215,
+          51.94189867974506
+        ]
+      },
+      "properties": {
+        "name": "D.-BONHOEFFER-SCHULE",
+        "ort": "Schule",
+        "ortId": "63102",
+        "material": "Beton",
+        "typ": "Tischtennisplatte rund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.594090580604656,
+          51.955995696298466
+        ]
+      },
+      "properties": {
+        "name": "Sp Sentruper H\u00f6he (Theresienschule)",
+        "ort": "Spielplatz",
+        "ortId": "65201",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.594090580604656,
+          51.955995696298466
+        ]
+      },
+      "properties": {
+        "name": "Sp Sentruper H\u00f6he (Theresienschule)",
+        "ort": "Spielplatz",
+        "ortId": "65201",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.592494593104714,
+          51.95880222694001
+        ]
+      },
+      "properties": {
+        "name": "UNI-KLINIK: SPIELANGEBOT in der HELEN-KELLER-SCHULE",
+        "ort": "Schule",
+        "ortId": "85210",
+        "material": "Sonstige",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.610146403639356,
+          51.938637429011685
+        ]
+      },
+      "properties": {
+        "name": "Sp Kappenberger Damm",
+        "ort": "Spielplatz",
+        "ortId": "23202",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.612134708274046,
+          51.93895946806052
+        ]
+      },
+      "properties": {
+        "name": "Sp Matthias-Claudius-Schule",
+        "ort": "Spielplatz",
+        "ortId": "23203",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (Schaukel)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.612134708274046,
+          51.93895946806052
+        ]
+      },
+      "properties": {
+        "name": "Sp Matthias-Claudius-Schule",
+        "ort": "Spielplatz",
+        "ortId": "23203",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (Treppe)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.613871494669641,
+          51.94102543887177
+        ]
+      },
+      "properties": {
+        "name": "Sp Gr\u00fcner Grund",
+        "ort": "Spielplatz",
+        "ortId": "23205",
+        "material": "Beton",
+        "typ": "Tischtennisplatte 1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.613871494669641,
+          51.94102543887177
+        ]
+      },
+      "properties": {
+        "name": "Sp Gr\u00fcner Grund",
+        "ort": "Spielplatz",
+        "ortId": "23205",
+        "material": "Beton",
+        "typ": "Tischtennisplatte 2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.621416283463022,
+          51.93876807338719
+        ]
+      },
+      "properties": {
+        "name": "Sp Geistschule",
+        "ort": "Spielplatz",
+        "ortId": "23209",
+        "material": "Beton",
+        "typ": "Tischtennisplatte rund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.621416283463022,
+          51.93876807338719
+        ]
+      },
+      "properties": {
+        "name": "Sp Geistschule",
+        "ort": "Spielplatz",
+        "ortId": "23209",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (rechts)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.621416283463022,
+          51.93876807338719
+        ]
+      },
+      "properties": {
+        "name": "Sp Geistschule",
+        "ort": "Spielplatz",
+        "ortId": "23209",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (links)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.626158704564626,
+          51.94343515141237
+        ]
+      },
+      "properties": {
+        "name": "Sp Dahlweg",
+        "ort": "Spielplatz",
+        "ortId": "23303",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.627728234502779,
+          51.94588355487556
+        ]
+      },
+      "properties": {
+        "name": "Sp Herdingstrasse",
+        "ort": "Spielplatz",
+        "ortId": "23304",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6242919487273015,
+          51.94539828208819
+        ]
+      },
+      "properties": {
+        "name": "Sp Sch\u00fctzenhof",
+        "ort": "Spielplatz",
+        "ortId": "23305",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.603654987532194,
+          51.93027403898673
+        ]
+      },
+      "properties": {
+        "name": "Sp Seppenradeweg",
+        "ort": "Spielplatz",
+        "ortId": "23407",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.623020888434983,
+          51.93563211629424
+        ]
+      },
+      "properties": {
+        "name": "Sp Spichernstrasse",
+        "ort": "Spielplatz",
+        "ortId": "23409",
+        "material": "Beton",
+        "typ": "Tischtennisplatte rund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5681066702616375,
+          51.92638031469528
+        ]
+      },
+      "properties": {
+        "name": "Sp Schwarzer Kamp",
+        "ort": "Spielplatz",
+        "ortId": "25402",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (Bank)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5736380560827055,
+          51.930186760435596
+        ]
+      },
+      "properties": {
+        "name": "Sp Christoph-Bernhard-Graben (Sp Westenkamp)",
+        "ort": "Spielplatz",
+        "ortId": "25405",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.573855797354559,
+          51.91991349319137
+        ]
+      },
+      "properties": {
+        "name": "Sp Heroldstrasse (Heidbusch)",
+        "ort": "Spielplatz",
+        "ortId": "25406",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.57296293180037,
+          51.932729587424525
+        ]
+      },
+      "properties": {
+        "name": "Sp Im Landschaftspark Mecklenbeck",
+        "ort": "Spielplatz",
+        "ortId": "25409",
+        "material": "Beton",
+        "typ": "Tischtennisplatte rund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.526085502601129,
+          51.920512487815046
+        ]
+      },
+      "properties": {
+        "name": "Sp Am K\u00e4mpken",
+        "ort": "Spielplatz",
+        "ortId": "25605",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.526085502601129,
+          51.920512487815046
+        ]
+      },
+      "properties": {
+        "name": "Sp Am K\u00e4mpken",
+        "ort": "Spielplatz",
+        "ortId": "25605",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (H\u00fcgel)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.523207489876134,
+          51.915994749535095
+        ]
+      },
+      "properties": {
+        "name": "Sp Haus Wiek",
+        "ort": "Spielplatz",
+        "ortId": "25607",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.640315836030658,
+          51.913432418809535
+        ]
+      },
+      "properties": {
+        "name": "Sp Im Dahl",
+        "ort": "Spielplatz",
+        "ortId": "29602",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.650500015671857,
+          51.90408273622195
+        ]
+      },
+      "properties": {
+        "name": "Sp Hanses-Ketteler-Strasse",
+        "ort": "Spielplatz",
+        "ortId": "29605",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62908272596569,
+          51.90013826738865
+        ]
+      },
+      "properties": {
+        "name": "Sp H\u00f6lderlinweg",
+        "ort": "Spielplatz",
+        "ortId": "29704",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.635301830945582,
+          51.8971905219838
+        ]
+      },
+      "properties": {
+        "name": "Sp Malteserstrasse",
+        "ort": "Spielplatz",
+        "ortId": "29705",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6323211815871534,
+          51.905054495975946
+        ]
+      },
+      "properties": {
+        "name": "Sp An Der Alten Kirche",
+        "ort": "Spielplatz",
+        "ortId": "29709",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (links)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6117456618259975,
+          51.88433269604511
+        ]
+      },
+      "properties": {
+        "name": "Sp Lange Kuhle",
+        "ort": "Spielplatz",
+        "ortId": "29801",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.606926944998162,
+          51.88439857915087
+        ]
+      },
+      "properties": {
+        "name": "Sp Alte Furt",
+        "ort": "Spielplatz",
+        "ortId": "29804",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (Fahrradst\u00e4nder)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.606926944998162,
+          51.88439857915087
+        ]
+      },
+      "properties": {
+        "name": "Sp Alte Furt",
+        "ort": "Spielplatz",
+        "ortId": "29804",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (Geb\u00e4ude)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.60371937882194,
+          51.88213500703422
+        ]
+      },
+      "properties": {
+        "name": "Sp Arnikaweg",
+        "ort": "Spielplatz",
+        "ortId": "29805",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.626344302645134,
+          51.944911064498434
+        ]
+      },
+      "properties": {
+        "name": "Hermannschule",
+        "ort": "Schule",
+        "ortId": "63301",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.626344302645134,
+          51.944911064498434
+        ]
+      },
+      "properties": {
+        "name": "Hermannschule",
+        "ort": "Schule",
+        "ortId": "63301",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.611614710697902,
+          51.93374575129137
+        ]
+      },
+      "properties": {
+        "name": "Sp Gottfried-Von-Cappenberg-Schule, Glatzer Weg 9",
+        "ort": "Spielplatz",
+        "ortId": "63401",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (vorne)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.611614710697902,
+          51.93374575129137
+        ]
+      },
+      "properties": {
+        "name": "Sp Gottfried-Von-Cappenberg-Schule, Glatzer Weg 9",
+        "ort": "Spielplatz",
+        "ortId": "63401",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (hinten)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6232799417329575,
+          51.93478165882587
+        ]
+      },
+      "properties": {
+        "name": "Erna-de-Vries-Schule",
+        "ort": "Schule",
+        "ortId": "63402",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (links)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6232799417329575,
+          51.93478165882587
+        ]
+      },
+      "properties": {
+        "name": "Erna-de-Vries-Schule",
+        "ort": "Schule",
+        "ortId": "63402",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (rechts)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6232799417329575,
+          51.93478165882587
+        ]
+      },
+      "properties": {
+        "name": "Erna-de-Vries-Schule",
+        "ort": "Schule",
+        "ortId": "63402",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (vorne)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6232799417329575,
+          51.93478165882587
+        ]
+      },
+      "properties": {
+        "name": "Erna-de-Vries-Schule",
+        "ort": "Schule",
+        "ortId": "63402",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (hinten)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5804595917113735,
+          51.93287130176683
+        ]
+      },
+      "properties": {
+        "name": "Peter-Wust-Schule",
+        "ort": "Schule",
+        "ortId": "65401",
+        "material": "Beton",
+        "typ": "Tischtennisplatte rund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5804595917113735,
+          51.93287130176683
+        ]
+      },
+      "properties": {
+        "name": "Peter-Wust-Schule",
+        "ort": "Schule",
+        "ortId": "65401",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5804595917113735,
+          51.93287130176683
+        ]
+      },
+      "properties": {
+        "name": "Peter-Wust-Schule",
+        "ort": "Schule",
+        "ortId": "65401",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (Schulhof)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.527841457881592,
+          51.92300355264066
+        ]
+      },
+      "properties": {
+        "name": "Ludgerusschule Albachten",
+        "ort": "Schule",
+        "ortId": "65601",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (Spielfl\u00e4che)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.527841457881592,
+          51.92300355264066
+        ]
+      },
+      "properties": {
+        "name": "Ludgerusschule Albachten",
+        "ort": "Schule",
+        "ortId": "65601",
+        "material": "Beton",
+        "typ": "Tischtennisplatte rund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.527841457881592,
+          51.92300355264066
+        ]
+      },
+      "properties": {
+        "name": "Ludgerusschule Albachten",
+        "ort": "Schule",
+        "ortId": "65601",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (Fahrradst\u00e4nder)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.527841457881592,
+          51.92300355264066
+        ]
+      },
+      "properties": {
+        "name": "Ludgerusschule Albachten",
+        "ort": "Schule",
+        "ortId": "65601",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (Geb\u00e4ude)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.616445039849797,
+          51.925042969999474
+        ]
+      },
+      "properties": {
+        "name": "PRIMUSSCHULE BERG FIDEL",
+        "ort": "Schule",
+        "ortId": "69101",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (Wande \"Kamel\")"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.616445039849797,
+          51.925042969999474
+        ]
+      },
+      "properties": {
+        "name": "PRIMUSSCHULE BERG FIDEL",
+        "ort": "Schule",
+        "ortId": "69101",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.641326787521912,
+          51.901465503300976
+        ]
+      },
+      "properties": {
+        "name": "Hauptschule Hiltrup",
+        "ort": "Schule",
+        "ortId": "69601",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.641326787521912,
+          51.901465503300976
+        ]
+      },
+      "properties": {
+        "name": "Hauptschule Hiltrup",
+        "ort": "Schule",
+        "ortId": "69601",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.641326787521912,
+          51.901465503300976
+        ]
+      },
+      "properties": {
+        "name": "Hauptschule Hiltrup",
+        "ort": "Schule",
+        "ortId": "69601",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.641326787521912,
+          51.901465503300976
+        ]
+      },
+      "properties": {
+        "name": "Hauptschule Hiltrup",
+        "ort": "Schule",
+        "ortId": "69601",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.641326787521912,
+          51.901465503300976
+        ]
+      },
+      "properties": {
+        "name": "Hauptschule Hiltrup",
+        "ort": "Schule",
+        "ortId": "69601",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.646713479372256,
+          51.90643504259296
+        ]
+      },
+      "properties": {
+        "name": "CLEMENS-+PAUL-GERHARDT-SCHULE",
+        "ort": "Schule",
+        "ortId": "69604",
+        "material": "Beton",
+        "typ": "Tischtennisplatte rund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.646713479372256,
+          51.90643504259296
+        ]
+      },
+      "properties": {
+        "name": "CLEMENS-+PAUL-GERHARDT-SCHULE",
+        "ort": "Schule",
+        "ortId": "69604",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (am Bauwerksger\u00fcst)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.646713479372256,
+          51.90643504259296
+        ]
+      },
+      "properties": {
+        "name": "CLEMENS-+PAUL-GERHARDT-SCHULE",
+        "ort": "Schule",
+        "ortId": "69604",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (Schulhof Mitte)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.646713479372256,
+          51.90643504259296
+        ]
+      },
+      "properties": {
+        "name": "CLEMENS-+PAUL-GERHARDT-SCHULE",
+        "ort": "Schule",
+        "ortId": "69604",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (Johannesschule links)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.646713479372256,
+          51.90643504259296
+        ]
+      },
+      "properties": {
+        "name": "CLEMENS-+PAUL-GERHARDT-SCHULE",
+        "ort": "Schule",
+        "ortId": "69604",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (Johannesschule rechts)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.626570507326741,
+          51.90364923934733
+        ]
+      },
+      "properties": {
+        "name": "Ludgerusschule Hiltrup",
+        "ort": "Schule",
+        "ortId": "69701",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (rechts)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.626570507326741,
+          51.90364923934733
+        ]
+      },
+      "properties": {
+        "name": "Ludgerusschule Hiltrup",
+        "ort": "Schule",
+        "ortId": "69701",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (mitte)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.626570507326741,
+          51.90364923934733
+        ]
+      },
+      "properties": {
+        "name": "Ludgerusschule Hiltrup",
+        "ort": "Schule",
+        "ortId": "69701",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (links)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.57782883261359,
+          51.89416340870317
+        ]
+      },
+      "properties": {
+        "name": "Grundschule Loevelingloh",
+        "ort": "Schule",
+        "ortId": "69802",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.626656477579451,
+          51.94911807317884
+        ]
+      },
+      "properties": {
+        "name": "Betreuter Spielplatz S\u00fcdpark 'Abi'",
+        "ort": "Sonstige",
+        "ortId": "83301",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6461656909960585,
+          51.97181148563841
+        ]
+      },
+      "properties": {
+        "name": "Sp Stettiner Strasse",
+        "ort": "Spielplatz",
+        "ortId": "24601",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.642616313434438,
+          51.98029865513253
+        ]
+      },
+      "properties": {
+        "name": "Sp Vivaldistrasse",
+        "ort": "Spielplatz",
+        "ortId": "24605",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.644832096479794,
+          51.9744980388965
+        ]
+      },
+      "properties": {
+        "name": "Sp Thomas-Morus-Schule",
+        "ort": "Spielplatz",
+        "ortId": "24607",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (rechts)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.644832096479794,
+          51.9744980388965
+        ]
+      },
+      "properties": {
+        "name": "Sp Thomas-Morus-Schule",
+        "ort": "Spielplatz",
+        "ortId": "24607",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (links)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.627008669710859,
+          51.9790537456476
+        ]
+      },
+      "properties": {
+        "name": "Sp Stadtpark Wienburg",
+        "ort": "Spielplatz",
+        "ortId": "24707",
+        "material": "Beton",
+        "typ": "Tischtennisplatte rund",
+        "baujahr": "2018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.610213493519696,
+          51.98425109468388
+        ]
+      },
+      "properties": {
+        "name": "Sp Dreizehner-Strasse",
+        "ort": "Spielplatz",
+        "ortId": "24708",
+        "material": "Beton",
+        "typ": "Tischtennisplatte",
+        "baujahr": "2002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.579445699276074,
+          51.965092077108075
+        ]
+      },
+      "properties": {
+        "name": "Sp Potstiege",
+        "ort": "Spielplatz",
+        "ortId": "25101",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.585502115852763,
+          51.96277993935313
+        ]
+      },
+      "properties": {
+        "name": "Sp M\u00f6llmannsweg",
+        "ort": "Spielplatz",
+        "ortId": "25103",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.561118728871046,
+          51.97463736019435
+        ]
+      },
+      "properties": {
+        "name": "Sp Bruchfeldweg",
+        "ort": "Spielplatz",
+        "ortId": "25106",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.560495383933216,
+          51.96942930521263
+        ]
+      },
+      "properties": {
+        "name": "Sp Mergelberg-Nord",
+        "ort": "Spielplatz",
+        "ortId": "25117",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (Balancierseil)",
+        "baujahr": "2001"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.560495383933216,
+          51.96942930521263
+        ]
+      },
+      "properties": {
+        "name": "Sp Mergelberg-Nord",
+        "ort": "Spielplatz",
+        "ortId": "25117",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (Unterstand)",
+        "baujahr": "2001"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.527377915838521,
+          51.952527818101224
+        ]
+      },
+      "properties": {
+        "name": "Sp Korbmacherweg",
+        "ort": "Spielplatz",
+        "ortId": "25708",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.528408434192344,
+          51.9547179012786
+        ]
+      },
+      "properties": {
+        "name": "Sp Schulcampus Roxel",
+        "ort": "Spielplatz",
+        "ortId": "25709",
+        "material": "Beton",
+        "typ": "Tischtennisplatte rund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.528408434192344,
+          51.9547179012786
+        ]
+      },
+      "properties": {
+        "name": "Sp Schulcampus Roxel",
+        "ort": "Spielplatz",
+        "ortId": "25709",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (von links 1)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.528408434192344,
+          51.9547179012786
+        ]
+      },
+      "properties": {
+        "name": "Sp Schulcampus Roxel",
+        "ort": "Spielplatz",
+        "ortId": "25709",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (von links 2)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.528408434192344,
+          51.9547179012786
+        ]
+      },
+      "properties": {
+        "name": "Sp Schulcampus Roxel",
+        "ort": "Spielplatz",
+        "ortId": "25709",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (von links 3)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.528408434192344,
+          51.9547179012786
+        ]
+      },
+      "properties": {
+        "name": "Sp Schulcampus Roxel",
+        "ort": "Spielplatz",
+        "ortId": "25709",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (von links 4)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.528408434192344,
+          51.9547179012786
+        ]
+      },
+      "properties": {
+        "name": "Sp Schulcampus Roxel",
+        "ort": "Spielplatz",
+        "ortId": "25709",
+        "material": "Stein",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.55662213402744,
+          51.99882881198519
+        ]
+      },
+      "properties": {
+        "name": "Sp Am Haus Nienberge",
+        "ort": "Spielplatz",
+        "ortId": "25807",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.562267307471802,
+          52.020265118464145
+        ]
+      },
+      "properties": {
+        "name": "Sp H\u00e4ger, H\u00e4gerstra\u00dfe",
+        "ort": "Spielplatz",
+        "ortId": "25809",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.641068186064878,
+          51.99979158076226
+        ]
+      },
+      "properties": {
+        "name": "Sp Nerzweg",
+        "ort": "Spielplatz",
+        "ortId": "26106",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.641068186064878,
+          51.99979158076226
+        ]
+      },
+      "properties": {
+        "name": "Sp Nerzweg",
+        "ort": "Spielplatz",
+        "ortId": "26106",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.650425628321932,
+          51.98874409006625
+        ]
+      },
+      "properties": {
+        "name": "Sp An Der Meerwiese-Mitte",
+        "ort": "Spielplatz",
+        "ortId": "26112",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.594063050631306,
+          51.999687397653204
+        ]
+      },
+      "properties": {
+        "name": "Sp Killingstrasse",
+        "ort": "Spielplatz",
+        "ortId": "26302",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.589874420758313,
+          51.99989201985218
+        ]
+      },
+      "properties": {
+        "name": "Sp Alte Schanze",
+        "ort": "Spielplatz",
+        "ortId": "26309",
+        "material": "Sonstige",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6012380442678635,
+          52.0027865979658
+        ]
+      },
+      "properties": {
+        "name": "Sp Nordmark",
+        "ort": "Spielplatz",
+        "ortId": "26313",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.648398271798084,
+          51.99358054566289
+        ]
+      },
+      "properties": {
+        "name": "Vg Hamannplatz",
+        "ort": "Sonstige",
+        "ortId": "56122",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5917743141237874,
+          51.998678707768505
+        ]
+      },
+      "properties": {
+        "name": "Vg Schmaloers Busch",
+        "ort": "Sonstige",
+        "ortId": "56351",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.615205359954028,
+          51.97488683009171
+        ]
+      },
+      "properties": {
+        "name": "Sp Dreifaltigkeitsschule",
+        "ort": "Spielplatz",
+        "ortId": "64701",
+        "material": "Sonstige",
+        "typ": "Tischtennisplatte West"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.615205359954028,
+          51.97488683009171
+        ]
+      },
+      "properties": {
+        "name": "Sp Dreifaltigkeitsschule",
+        "ort": "Spielplatz",
+        "ortId": "64701",
+        "material": "Sonstige",
+        "typ": "Tischtennisplatte Ost"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.626065204282213,
+          51.97596158858148
+        ]
+      },
+      "properties": {
+        "name": "Pascal-Gymnasium",
+        "ort": "Schule",
+        "ortId": "64702",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.626065204282213,
+          51.97596158858148
+        ]
+      },
+      "properties": {
+        "name": "Pascal-Gymnasium",
+        "ort": "Schule",
+        "ortId": "64702",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.626065204282213,
+          51.97596158858148
+        ]
+      },
+      "properties": {
+        "name": "Pascal-Gymnasium",
+        "ort": "Schule",
+        "ortId": "64702",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.581220091385148,
+          51.96779034608303
+        ]
+      },
+      "properties": {
+        "name": "Michaelschule",
+        "ort": "Schule",
+        "ortId": "65101",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.581220091385148,
+          51.96779034608303
+        ]
+      },
+      "properties": {
+        "name": "Michaelschule",
+        "ort": "Schule",
+        "ortId": "65101",
+        "material": "Beton",
+        "typ": "Tischtennisplatte rund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.581220091385148,
+          51.96779034608303
+        ]
+      },
+      "properties": {
+        "name": "Michaelschule",
+        "ort": "Schule",
+        "ortId": "65101",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (Tischtennisplatte rund)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.581220091385148,
+          51.96779034608303
+        ]
+      },
+      "properties": {
+        "name": "Michaelschule",
+        "ort": "Schule",
+        "ortId": "65101",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.566765351652201,
+          51.965602882284706
+        ]
+      },
+      "properties": {
+        "name": "MOSAIKSCHULE",
+        "ort": "Schule",
+        "ortId": "65103",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (Stra\u00dfe)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.566765351652201,
+          51.965602882284706
+        ]
+      },
+      "properties": {
+        "name": "MOSAIKSCHULE",
+        "ort": "Schule",
+        "ortId": "65103",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.568601109515213,
+          51.961480873295564
+        ]
+      },
+      "properties": {
+        "name": "Freiherr-vom-Stein-Gymnasium",
+        "ort": "Schule",
+        "ortId": "65104",
+        "material": "Beton",
+        "typ": "Tischtennisplatte rund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.568601109515213,
+          51.961480873295564
+        ]
+      },
+      "properties": {
+        "name": "Freiherr-vom-Stein-Gymnasium",
+        "ort": "Schule",
+        "ortId": "65104",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (Tischtennisplatte rund)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.568601109515213,
+          51.961480873295564
+        ]
+      },
+      "properties": {
+        "name": "Freiherr-vom-Stein-Gymnasium",
+        "ort": "Schule",
+        "ortId": "65104",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (Sportplatz)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.568601109515213,
+          51.961480873295564
+        ]
+      },
+      "properties": {
+        "name": "Freiherr-vom-Stein-Gymnasium",
+        "ort": "Schule",
+        "ortId": "65104",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (Basketballst\u00e4nder)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.531328977084703,
+          51.95513493425613
+        ]
+      },
+      "properties": {
+        "name": "Marienschule Roxel",
+        "ort": "Schule",
+        "ortId": "65703",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.531328977084703,
+          51.95513493425613
+        ]
+      },
+      "properties": {
+        "name": "Marienschule Roxel",
+        "ort": "Schule",
+        "ortId": "65703",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.531884932897995,
+          51.9550310440076
+        ]
+      },
+      "properties": {
+        "name": "AUGUSTIN-WIBBELT-SCHULE",
+        "ort": "Schule",
+        "ortId": "65704",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (Basketballkorb)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.531884932897995,
+          51.9550310440076
+        ]
+      },
+      "properties": {
+        "name": "AUGUSTIN-WIBBELT-SCHULE",
+        "ort": "Schule",
+        "ortId": "65704",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (Turmkombination)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.56013864693255,
+          51.99584715300072
+        ]
+      },
+      "properties": {
+        "name": "Annette-von-Droste-H\u00fclshoff-Schule Nienberge",
+        "ort": "Schule",
+        "ortId": "65801",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.56013864693255,
+          51.99584715300072
+        ]
+      },
+      "properties": {
+        "name": "Annette-von-Droste-H\u00fclshoff-Schule Nienberge",
+        "ort": "Schule",
+        "ortId": "65801",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (Tischtennisplatte rund)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.56013864693255,
+          51.99584715300072
+        ]
+      },
+      "properties": {
+        "name": "Annette-von-Droste-H\u00fclshoff-Schule Nienberge",
+        "ort": "Schule",
+        "ortId": "65801",
+        "material": "Beton",
+        "typ": "Tischtennisplatte rund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.645777996782428,
+          51.99334789225802
+        ]
+      },
+      "properties": {
+        "name": "MELANCHTONSCHULE",
+        "ort": "Schule",
+        "ortId": "66102",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.647727064538258,
+          51.99706431956884
+        ]
+      },
+      "properties": {
+        "name": "Hauptschule Coerde",
+        "ort": "Schule",
+        "ortId": "66103",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (vorne)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.647727064538258,
+          51.99706431956884
+        ]
+      },
+      "properties": {
+        "name": "Hauptschule Coerde",
+        "ort": "Schule",
+        "ortId": "66103",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (hinten)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.647727064538258,
+          51.99706431956884
+        ]
+      },
+      "properties": {
+        "name": "Hauptschule Coerde",
+        "ort": "Schule",
+        "ortId": "66103",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (Treppe)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.649120640845163,
+          51.989458474302985
+        ]
+      },
+      "properties": {
+        "name": "Norbertschule",
+        "ort": "Schule",
+        "ortId": "66104",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.649120640845163,
+          51.989458474302985
+        ]
+      },
+      "properties": {
+        "name": "Norbertschule",
+        "ort": "Schule",
+        "ortId": "66104",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6125954733233625,
+          51.9985674870865
+        ]
+      },
+      "properties": {
+        "name": "GERTRUDEN-/P-SCHNEIDER-SCHULE",
+        "ort": "Schule",
+        "ortId": "66201",
+        "material": "Beton",
+        "typ": "Tischtennisplatte rund",
+        "baujahr": "2006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6162608774908485,
+          51.99281630551734
+        ]
+      },
+      "properties": {
+        "name": "KompassSchule",
+        "ort": "Schule",
+        "ortId": "66202",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6162608774908485,
+          51.99281630551734
+        ]
+      },
+      "properties": {
+        "name": "KompassSchule",
+        "ort": "Schule",
+        "ortId": "66202",
+        "material": "Sonstige",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.593655441706337,
+          51.99682706427417
+        ]
+      },
+      "properties": {
+        "name": "GRUNDSCHULE-KINDERH.-W",
+        "ort": "Schule",
+        "ortId": "66301",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (links)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.593655441706337,
+          51.99682706427417
+        ]
+      },
+      "properties": {
+        "name": "GRUNDSCHULE-KINDERH.-W",
+        "ort": "Schule",
+        "ortId": "66301",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (links vorne)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.593655441706337,
+          51.99682706427417
+        ]
+      },
+      "properties": {
+        "name": "GRUNDSCHULE-KINDERH.-W",
+        "ort": "Schule",
+        "ortId": "66301",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (links hinten)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.593655441706337,
+          51.99682706427417
+        ]
+      },
+      "properties": {
+        "name": "GRUNDSCHULE-KINDERH.-W",
+        "ort": "Schule",
+        "ortId": "66301",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (rechts vorne)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.593655441706337,
+          51.99682706427417
+        ]
+      },
+      "properties": {
+        "name": "GRUNDSCHULE-KINDERH.-W",
+        "ort": "Schule",
+        "ortId": "66301",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (rechts hinten)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61054156397201,
+          52.00120675823876
+        ]
+      },
+      "properties": {
+        "name": "Waldschule Kinderhaus",
+        "ort": "Schule",
+        "ortId": "66302",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61054156397201,
+          52.00120675823876
+        ]
+      },
+      "properties": {
+        "name": "Waldschule Kinderhaus",
+        "ort": "Schule",
+        "ortId": "66302",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (Schaukel)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61054156397201,
+          52.00120675823876
+        ]
+      },
+      "properties": {
+        "name": "Waldschule Kinderhaus",
+        "ort": "Schule",
+        "ortId": "66302",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (links)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61054156397201,
+          52.00120675823876
+        ]
+      },
+      "properties": {
+        "name": "Waldschule Kinderhaus",
+        "ort": "Schule",
+        "ortId": "66302",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (rechts)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61054156397201,
+          52.00120675823876
+        ]
+      },
+      "properties": {
+        "name": "Waldschule Kinderhaus",
+        "ort": "Schule",
+        "ortId": "66302",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.60553060036486,
+          51.99887129107541
+        ]
+      },
+      "properties": {
+        "name": "SCHULZENTR. KI-HAUS: GRUND+REALSCHULE+GYMN.",
+        "ort": "Schule",
+        "ortId": "66303",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.60553060036486,
+          51.99887129107541
+        ]
+      },
+      "properties": {
+        "name": "SCHULZENTR. KI-HAUS: GRUND+REALSCHULE+GYMN.",
+        "ort": "Schule",
+        "ortId": "66303",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (vorne)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.60553060036486,
+          51.99887129107541
+        ]
+      },
+      "properties": {
+        "name": "SCHULZENTR. KI-HAUS: GRUND+REALSCHULE+GYMN.",
+        "ort": "Schule",
+        "ortId": "66303",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (hinten)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.615558006772101,
+          52.03781992510306
+        ]
+      },
+      "properties": {
+        "name": "Grundschule Sprakel",
+        "ort": "Schule",
+        "ortId": "66801",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.615558006772101,
+          52.03781992510306
+        ]
+      },
+      "properties": {
+        "name": "Grundschule Sprakel",
+        "ort": "Schule",
+        "ortId": "66801",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.650327468874284,
+          51.95359070312566
+        ]
+      },
+      "properties": {
+        "name": "Sp Hubertistrasse",
+        "ort": "Spielplatz",
+        "ortId": "24401",
+        "material": "Sonstige",
+        "typ": "Tischtennisplatte",
+        "baujahr": "2021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.658321554179112,
+          51.960799797887454
+        ]
+      },
+      "properties": {
+        "name": "Sp Mauritz-Lindenweg",
+        "ort": "Spielplatz",
+        "ortId": "24408",
+        "material": "Beton",
+        "typ": "Tischtennisplatte rund",
+        "baujahr": "2018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.652583940586829,
+          51.96964215992893
+        ]
+      },
+      "properties": {
+        "name": "Sp Wiener Strasse",
+        "ort": "Spielplatz",
+        "ortId": "24502",
+        "material": "Beton",
+        "typ": "Tischtennisplatte rund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.655706056919073,
+          51.972250236754974
+        ]
+      },
+      "properties": {
+        "name": "Sp P\u00f6tterhoek",
+        "ort": "Spielplatz",
+        "ortId": "24506",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.662138005517565,
+          51.967614988790764
+        ]
+      },
+      "properties": {
+        "name": "Sp Admiral-Spee-Strasse",
+        "ort": "Spielplatz",
+        "ortId": "24507",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.662138005517565,
+          51.967614988790764
+        ]
+      },
+      "properties": {
+        "name": "Sp Admiral-Spee-Strasse",
+        "ort": "Spielplatz",
+        "ortId": "24507",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.673768520503377,
+          51.95243408523824
+        ]
+      },
+      "properties": {
+        "name": "Sp Margaretenschule, Brentanoweg 18",
+        "ort": "Spielplatz",
+        "ortId": "27103",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.680721627617647,
+          51.961184306236
+        ]
+      },
+      "properties": {
+        "name": "Sp Parkallee",
+        "ort": "Spielplatz",
+        "ortId": "27105",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.672421274422977,
+          51.94808753801053
+        ]
+      },
+      "properties": {
+        "name": "Sp Hegerskamp",
+        "ort": "Spielplatz",
+        "ortId": "27106",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.670935191508772,
+          51.957523668875844
+        ]
+      },
+      "properties": {
+        "name": "Sp Hans-Bredow-Weg",
+        "ort": "Spielplatz",
+        "ortId": "27108",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.717043986634241,
+          52.00269229622538
+        ]
+      },
+      "properties": {
+        "name": "Sp Am Hornbach",
+        "ort": "Spielplatz",
+        "ortId": "27703",
+        "material": "Beton",
+        "typ": "Tischtennisplatte rund",
+        "baujahr": "2001"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7069968122266275,
+          51.983178049481566
+        ]
+      },
+      "properties": {
+        "name": "Sp Tomkotten",
+        "ort": "Spielplatz",
+        "ortId": "27708",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (rechts)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7069968122266275,
+          51.983178049481566
+        ]
+      },
+      "properties": {
+        "name": "Sp Tomkotten",
+        "ort": "Spielplatz",
+        "ortId": "27708",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (links)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.656250403220775,
+          51.94064534907499
+        ]
+      },
+      "properties": {
+        "name": "Sp Am L\u00fctkebach",
+        "ort": "Spielplatz",
+        "ortId": "28101",
+        "material": "Beton",
+        "typ": "Tischtennisplatte",
+        "baujahr": "2004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.655721116590505,
+          51.92487838137793
+        ]
+      },
+      "properties": {
+        "name": "Sp Kr\u00f6gerweg",
+        "ort": "Spielplatz",
+        "ortId": "28103",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (vorne)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.655721116590505,
+          51.92487838137793
+        ]
+      },
+      "properties": {
+        "name": "Sp Kr\u00f6gerweg",
+        "ort": "Spielplatz",
+        "ortId": "28103",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (hinten)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6904411830467785,
+          51.92802491758967
+        ]
+      },
+      "properties": {
+        "name": "Sp Angelmodder Weg",
+        "ort": "Spielplatz",
+        "ortId": "28204",
+        "material": "Beton",
+        "typ": "Tischtennisplatte rund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6811913590811915,
+          51.921526165750336
+        ]
+      },
+      "properties": {
+        "name": "Sp Birkenheide Ii",
+        "ort": "Spielplatz",
+        "ortId": "28603",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.681999073923934,
+          51.91725000746279
+        ]
+      },
+      "properties": {
+        "name": "Sp Vogelrohrsheide",
+        "ort": "Spielplatz",
+        "ortId": "28605",
+        "material": "Beton",
+        "typ": "Tischtennisplatte rund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.70135254240687,
+          51.92041606431939
+        ]
+      },
+      "properties": {
+        "name": "Sp Haus Angelmodde",
+        "ort": "Spielplatz",
+        "ortId": "28609",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.67646360256968,
+          51.91799343544099
+        ]
+      },
+      "properties": {
+        "name": "Sp Ostpreussenstrasse",
+        "ort": "Spielplatz",
+        "ortId": "28611",
+        "material": "Sonstige",
+        "typ": "Tischtennisplatte",
+        "baujahr": "2020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.718942324458779,
+          51.91779412694339
+        ]
+      },
+      "properties": {
+        "name": "Sp Am Berler Kamp",
+        "ort": "Spielplatz",
+        "ortId": "28709",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.72258341182386,
+          51.92322426545522
+        ]
+      },
+      "properties": {
+        "name": "Sp Goldbrink",
+        "ort": "Spielplatz",
+        "ortId": "28710",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.667944437334888,
+          51.90213021970665
+        ]
+      },
+      "properties": {
+        "name": "Sp Dahlienweg",
+        "ort": "Spielplatz",
+        "ortId": "29505",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.671087684827654,
+          51.90198392038654
+        ]
+      },
+      "properties": {
+        "name": "Sp Am Roggenkamp",
+        "ort": "Spielplatz",
+        "ortId": "29506",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.657436579546089,
+          51.9588697475505
+        ]
+      },
+      "properties": {
+        "name": "Sp Albert-Schweitzer-Schule",
+        "ort": "Spielplatz",
+        "ortId": "64401",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6536086211458585,
+          51.95822251357923
+        ]
+      },
+      "properties": {
+        "name": "Mathilde-Anneke-Gesamtschule",
+        "ort": "Schule",
+        "ortId": "64402",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6536086211458585,
+          51.95822251357923
+        ]
+      },
+      "properties": {
+        "name": "Mathilde-Anneke-Gesamtschule",
+        "ort": "Schule",
+        "ortId": "64402",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.655177183651633,
+          51.958014827121744
+        ]
+      },
+      "properties": {
+        "name": "OBERSTUFENHAUS MATHILDE-ANNEKE-GESAMTSCHULE",
+        "ort": "Schule",
+        "ortId": "64403",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (bei Kletterwand)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.655177183651633,
+          51.958014827121744
+        ]
+      },
+      "properties": {
+        "name": "OBERSTUFENHAUS MATHILDE-ANNEKE-GESAMTSCHULE",
+        "ort": "Schule",
+        "ortId": "64403",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (Technikraum)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.655177183651633,
+          51.958014827121744
+        ]
+      },
+      "properties": {
+        "name": "OBERSTUFENHAUS MATHILDE-ANNEKE-GESAMTSCHULE",
+        "ort": "Schule",
+        "ortId": "64403",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.649722920034181,
+          51.96359784311193
+        ]
+      },
+      "properties": {
+        "name": "Mauritzschule",
+        "ort": "Schule",
+        "ortId": "64501",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.649722920034181,
+          51.96359784311193
+        ]
+      },
+      "properties": {
+        "name": "Mauritzschule",
+        "ort": "Schule",
+        "ortId": "64501",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.649722920034181,
+          51.96359784311193
+        ]
+      },
+      "properties": {
+        "name": "Mauritzschule",
+        "ort": "Schule",
+        "ortId": "64501",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.653951899081711,
+          51.97251741260564
+        ]
+      },
+      "properties": {
+        "name": "P\u00f6tterhoekschule",
+        "ort": "Schule",
+        "ortId": "64502",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.653633497915167,
+          51.97343055408543
+        ]
+      },
+      "properties": {
+        "name": "Erich K\u00e4stner-Schule",
+        "ort": "Schule",
+        "ortId": "64503",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.677824821763299,
+          51.9633952090482
+        ]
+      },
+      "properties": {
+        "name": "Pleisterschule",
+        "ort": "Schule",
+        "ortId": "67101",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (Basketballst\u00e4nder)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.677824821763299,
+          51.9633952090482
+        ]
+      },
+      "properties": {
+        "name": "Pleisterschule",
+        "ort": "Schule",
+        "ortId": "67101",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.673768520503377,
+          51.95243408523824
+        ]
+      },
+      "properties": {
+        "name": "Sp Margaretenschule, Brentanoweg 18",
+        "ort": "Spielplatz",
+        "ortId": "67102",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.601030735786032,
+          51.94355325904727
+        ]
+      },
+      "properties": {
+        "name": "R.-VON-WEIZS\u00c4CKER-SCHULE",
+        "ort": "Schule",
+        "ortId": "67103",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.601030735786032,
+          51.94355325904727
+        ]
+      },
+      "properties": {
+        "name": "R.-VON-WEIZS\u00c4CKER-SCHULE",
+        "ort": "Schule",
+        "ortId": "67103",
+        "material": "Sonstige",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.675208335104652,
+          52.02950444098261
+        ]
+      },
+      "properties": {
+        "name": "GRUNDSCHULE GELMER",
+        "ort": "Schule",
+        "ortId": "67601",
+        "material": "Beton",
+        "typ": "Tischtennisplatte rund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.675208335104652,
+          52.02950444098261
+        ]
+      },
+      "properties": {
+        "name": "GRUNDSCHULE GELMER",
+        "ort": "Schule",
+        "ortId": "67601",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.703283343850582,
+          51.989761242562366
+        ]
+      },
+      "properties": {
+        "name": "Matthias-Claudius-Schule Handorf",
+        "ort": "Schule",
+        "ortId": "67701",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (Einfahrt)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.703283343850582,
+          51.989761242562366
+        ]
+      },
+      "properties": {
+        "name": "Matthias-Claudius-Schule Handorf",
+        "ort": "Schule",
+        "ortId": "67701",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (Papierkorb)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7005368388094295,
+          51.98807720723628
+        ]
+      },
+      "properties": {
+        "name": "KARDINAL-VON-GALEN SCHULE",
+        "ort": "Schule",
+        "ortId": "67702",
+        "material": "Beton",
+        "typ": "Tischtennisplatte rund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7005368388094295,
+          51.98807720723628
+        ]
+      },
+      "properties": {
+        "name": "KARDINAL-VON-GALEN SCHULE",
+        "ort": "Schule",
+        "ortId": "67702",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (rechts)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7005368388094295,
+          51.98807720723628
+        ]
+      },
+      "properties": {
+        "name": "KARDINAL-VON-GALEN SCHULE",
+        "ort": "Schule",
+        "ortId": "67702",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (links)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.672697134817798,
+          51.93231007900058
+        ]
+      },
+      "properties": {
+        "name": "Sp Idaschule, V\u00f6rnste Esch ",
+        "ort": "Spielplatz",
+        "ortId": "68201",
+        "material": "Stein",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.672697134817798,
+          51.93231007900058
+        ]
+      },
+      "properties": {
+        "name": "Sp Idaschule, V\u00f6rnste Esch ",
+        "ort": "Spielplatz",
+        "ortId": "68201",
+        "material": "Stein",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.66696209967985,
+          51.93109745971898
+        ]
+      },
+      "properties": {
+        "name": "PESTALOZZISCHULE",
+        "ort": "Schule",
+        "ortId": "68202",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.696009960007773,
+          51.91454161175453
+        ]
+      },
+      "properties": {
+        "name": "Sp Eichendorff-Schule",
+        "ort": "Spielplatz",
+        "ortId": "68601",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.696009960007773,
+          51.91454161175453
+        ]
+      },
+      "properties": {
+        "name": "Sp Eichendorff-Schule",
+        "ort": "Spielplatz",
+        "ortId": "68601",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6805453323376955,
+          51.92123581977076
+        ]
+      },
+      "properties": {
+        "name": "Annette-von-Droste-H\u00fclshoff-Schule Angelmodde",
+        "ort": "Schule",
+        "ortId": "68602",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.719252,
+          51.913875
+        ]
+      },
+      "properties": {
+        "name": "SCHULZENTRUM WOLBECK (HS",
+        "ort": "Schule",
+        "ortId": "68701",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.719252,
+          51.913875
+        ]
+      },
+      "properties": {
+        "name": "SCHULZENTRUM WOLBECK (HS",
+        "ort": "Schule",
+        "ortId": "68701",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (Torwand)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.719252,
+          51.913875
+        ]
+      },
+      "properties": {
+        "name": "SCHULZENTRUM WOLBECK (HS",
+        "ort": "Schule",
+        "ortId": "68701",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.719252,
+          51.913875
+        ]
+      },
+      "properties": {
+        "name": "SCHULZENTRUM WOLBECK (HS",
+        "ort": "Schule",
+        "ortId": "68701",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (Betonstufenanlage)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.719252,
+          51.913875
+        ]
+      },
+      "properties": {
+        "name": "SCHULZENTRUM WOLBECK (HS",
+        "ort": "Schule",
+        "ortId": "68701",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (mitte)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.719252,
+          51.913875
+        ]
+      },
+      "properties": {
+        "name": "SCHULZENTRUM WOLBECK (HS",
+        "ort": "Schule",
+        "ortId": "68701",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.719252,
+          51.913875
+        ]
+      },
+      "properties": {
+        "name": "SCHULZENTRUM WOLBECK (HS",
+        "ort": "Schule",
+        "ortId": "68701",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (links)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.719252,
+          51.913875
+        ]
+      },
+      "properties": {
+        "name": "SCHULZENTRUM WOLBECK (HS",
+        "ort": "Schule",
+        "ortId": "68701",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.719252,
+          51.913875
+        ]
+      },
+      "properties": {
+        "name": "SCHULZENTRUM WOLBECK (HS",
+        "ort": "Schule",
+        "ortId": "68701",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (Fahrradst\u00e4nder)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.72904261832517,
+          51.91540558109518
+        ]
+      },
+      "properties": {
+        "name": "Nikolaischule Wolbeck",
+        "ort": "Schule",
+        "ortId": "68704",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.72904261832517,
+          51.91540558109518
+        ]
+      },
+      "properties": {
+        "name": "Nikolaischule Wolbeck",
+        "ort": "Schule",
+        "ortId": "68704",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.666132493208336,
+          51.90724978065139
+        ]
+      },
+      "properties": {
+        "name": "Marienschule Hiltrup",
+        "ort": "Schule",
+        "ortId": "69501",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (rechts)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.666132493208336,
+          51.90724978065139
+        ]
+      },
+      "properties": {
+        "name": "Marienschule Hiltrup",
+        "ort": "Schule",
+        "ortId": "69501",
+        "material": "Beton",
+        "typ": "Tischtennisplatte (links)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.667721,
+          51.971664
+        ]
+      },
+      "properties": {
+        "name": "Unterkunft Warendorfer Str. 265",
+        "ort": "Sonstige",
+        "ortId": "87103",
+        "material": "Beton",
+        "typ": "Tischtennisplatte",
+        "baujahr": "2015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.71283665258779,
+          51.995272982349675
+        ]
+      },
+      "properties": {
+        "name": "Jugeneinrichtung Drei Eichen",
+        "ort": "Sonstige",
+        "ortId": "87706",
+        "material": "Beton",
+        "typ": "Tischtennisplatte"
+      }
+    }
+  ]
+}
