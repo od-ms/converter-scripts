@@ -1,0 +1,4911 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.574347,
+          51.992869
+        ]
+      },
+      "properties": {
+        "title": "Haus Uhlenkotten",
+        "id": 170
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7176,
+          51.932682
+        ]
+      },
+      "properties": {
+        "title": "Abzweig Angelmodde",
+        "id": 171
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.588382,
+          51.984619
+        ]
+      },
+      "properties": {
+        "title": "Abzweig Wilkinghege",
+        "id": 172,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei sind nur die Bussteige A und B."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.676823,
+          51.966328
+        ]
+      },
+      "properties": {
+        "title": "Adlerhorst",
+        "id": 173
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62412,
+          51.960506
+        ]
+      },
+      "properties": {
+        "title": "Aegidiimarkt / LWL-Museum",
+        "id": 174
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.618864,
+          51.957531
+        ]
+      },
+      "properties": {
+        "title": "Aegidiitor",
+        "id": 175
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.687582,
+          51.928563
+        ]
+      },
+      "properties": {
+        "title": "Agathastra\u00dfe",
+        "id": 176,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadtausw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.527638,
+          51.914797
+        ]
+      },
+      "properties": {
+        "title": "Albachten Bahnhof",
+        "id": 177
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.527566,
+          51.924712
+        ]
+      },
+      "properties": {
+        "title": "Albachten Kirche",
+        "id": 178,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadtausw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.65463,
+          51.966756
+        ]
+      },
+      "properties": {
+        "title": "Albertstra\u00dfe",
+        "id": 179
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.673299,
+          52.027536
+        ]
+      },
+      "properties": {
+        "title": "Alfersheide",
+        "id": 180
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.548603,
+          51.99521
+        ]
+      },
+      "properties": {
+        "title": "Alhardstra\u00dfe",
+        "id": 181
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.585254,
+          51.976729
+        ]
+      },
+      "properties": {
+        "title": "Alte Sternwarte",
+        "id": 182,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadteinw\u00e4rtige Bussteig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.683398,
+          51.929186
+        ]
+      },
+      "properties": {
+        "title": "Altehof",
+        "id": 183
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.623256,
+          51.94583
+        ]
+      },
+      "properties": {
+        "title": "Alter Sch\u00fctzenhof",
+        "id": 184
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.630641,
+          51.964299
+        ]
+      },
+      "properties": {
+        "title": "Altstadt / B\u00fclt",
+        "id": 185
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.720538,
+          51.915672
+        ]
+      },
+      "properties": {
+        "title": "Am Berler Kamp",
+        "id": 186,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadteinw\u00e4rtige Bussteig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.680899,
+          51.915832
+        ]
+      },
+      "properties": {
+        "title": "Am Blaukreuzw\u00e4ldchen",
+        "id": 187,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadtausw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.683082,
+          51.906946
+        ]
+      },
+      "properties": {
+        "title": "Am Herzkamp",
+        "id": 188
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.709677,
+          52.002859
+        ]
+      },
+      "properties": {
+        "title": "Am Hornbach",
+        "id": 189,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadteinw\u00e4rtige Bussteig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.526886,
+          51.920463
+        ]
+      },
+      "properties": {
+        "title": "Am K\u00e4mpken",
+        "id": 190
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.709113,
+          52.005195
+        ]
+      },
+      "properties": {
+        "title": "Am Kerkamp",
+        "id": 191
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.684833,
+          51.914217
+        ]
+      },
+      "properties": {
+        "title": "Am Sch\u00fctthook",
+        "id": 192
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.600242,
+          51.884478
+        ]
+      },
+      "properties": {
+        "title": "Amelsb\u00fcren Bahnhof",
+        "id": 193
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.60503,
+          51.884881
+        ]
+      },
+      "properties": {
+        "title": "Amelsb\u00fcren Kirche",
+        "id": 194
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.60939,
+          51.878209
+        ]
+      },
+      "properties": {
+        "title": "Amelsb\u00fcren S\u00fcd",
+        "id": 195
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.624145,
+          51.898278
+        ]
+      },
+      "properties": {
+        "title": "Amelsb\u00fcrener Stra\u00dfe",
+        "id": 196
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.635969,
+          51.905339
+        ]
+      },
+      "properties": {
+        "title": "An der Alten Kirche",
+        "id": 197
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.649163,
+          51.90753
+        ]
+      },
+      "properties": {
+        "title": "An der Christuskirche",
+        "id": 198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.531698,
+          51.957258
+        ]
+      },
+      "properties": {
+        "title": "An der Kleikuhle",
+        "id": 199,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadtausw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.675971,
+          51.963437
+        ]
+      },
+      "properties": {
+        "title": "An der Konradkirche",
+        "id": 200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.635288,
+          51.981115
+        ]
+      },
+      "properties": {
+        "title": "Anton-Bruchausen-Stra\u00dfe",
+        "id": 201
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.569302,
+          51.971493
+        ]
+      },
+      "properties": {
+        "title": "Asbeckweg",
+        "id": 202
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61816,
+          52.026816
+        ]
+      },
+      "properties": {
+        "title": "Ash\u00f6lterweg",
+        "id": 203
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.566137,
+          51.966305
+        ]
+      },
+      "properties": {
+        "title": "Auenviertel",
+        "id": 204
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.631044,
+          51.947823
+        ]
+      },
+      "properties": {
+        "title": "Augustastra\u00dfe",
+        "id": 205,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadtausw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.647632,
+          51.935598
+        ]
+      },
+      "properties": {
+        "title": "Bertha-von-Suttner Weg",
+        "id": 206
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.577354,
+          51.970253
+        ]
+      },
+      "properties": {
+        "title": "Besselweg",
+        "id": 207
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.635499,
+          51.980706
+        ]
+      },
+      "properties": {
+        "title": "Bezirksregierung II",
+        "id": 208
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.597941,
+          51.942728
+        ]
+      },
+      "properties": {
+        "title": "Bischopinkstra\u00dfe",
+        "id": 209,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadtausw\u00e4rtige Bussteig C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.618135,
+          51.956323
+        ]
+      },
+      "properties": {
+        "title": "Bismarckallee",
+        "id": 210
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.599527,
+          51.934593
+        ]
+      },
+      "properties": {
+        "title": "Boeselagerstra\u00dfe",
+        "id": 211
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.655616,
+          51.9252
+        ]
+      },
+      "properties": {
+        "title": "Bonifatiusweg",
+        "id": 212
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.644688,
+          51.980094
+        ]
+      },
+      "properties": {
+        "title": "Braseweg",
+        "id": 213
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.676594,
+          51.953442
+        ]
+      },
+      "properties": {
+        "title": "Brentanoweg",
+        "id": 214
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.604918,
+          51.926813
+        ]
+      },
+      "properties": {
+        "title": "Brunnenweg",
+        "id": 215
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62354,
+          51.974846
+        ]
+      },
+      "properties": {
+        "title": "Cheruskerring",
+        "id": 216,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei sind nur die Bussteige A und B."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.575445,
+          51.929992
+        ]
+      },
+      "properties": {
+        "title": "Christoph-Bernhard-Graben",
+        "id": 217
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.615548,
+          51.933211
+        ]
+      },
+      "properties": {
+        "title": "Clemenshospital",
+        "id": 218
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.639583,
+          51.994702
+        ]
+      },
+      "properties": {
+        "title": "Coerde",
+        "id": 219
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.634689,
+          51.996631
+        ]
+      },
+      "properties": {
+        "title": "Coerde Speicherstadt",
+        "id": 220
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.646816,
+          51.997467
+        ]
+      },
+      "properties": {
+        "title": "Dachsleite",
+        "id": 221
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.657407,
+          51.967288
+        ]
+      },
+      "properties": {
+        "title": "Danziger Freiheit",
+        "id": 222,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei sind nur die Bussteige A und B."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.651132,
+          51.965509
+        ]
+      },
+      "properties": {
+        "title": "Dechaneistra\u00dfe",
+        "id": 223
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.635713,
+          51.976242
+        ]
+      },
+      "properties": {
+        "title": "Deutsche Rentenversicherung Westfalen",
+        "id": 224,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadtausw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.572584,
+          51.957802
+        ]
+      },
+      "properties": {
+        "title": "Dieckmannstra\u00dfe",
+        "id": 225
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.583232,
+          51.926864
+        ]
+      },
+      "properties": {
+        "title": "Dingb\u00e4ngerweg",
+        "id": 226,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei sind nur die Bussteige A und B."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.626746,
+          51.962216
+        ]
+      },
+      "properties": {
+        "title": "Domplatz",
+        "id": 227
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.709867,
+          51.998794
+        ]
+      },
+      "properties": {
+        "title": "Dorbaum",
+        "id": 228
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.536821,
+          51.951504
+        ]
+      },
+      "properties": {
+        "title": "Dorffeldstra\u00dfe",
+        "id": 229
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.624144,
+          51.925743
+        ]
+      },
+      "properties": {
+        "title": "Drachterstra\u00dfe",
+        "id": 230
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7111,
+          51.996331
+        ]
+      },
+      "properties": {
+        "title": "Drei Eichen",
+        "id": 231
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.612095,
+          51.974443
+        ]
+      },
+      "properties": {
+        "title": "Dreifaltigkeitskirche",
+        "id": 232,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei sind nur die Bussteige A und B."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.727171,
+          51.915581
+        ]
+      },
+      "properties": {
+        "title": "Drostenhof",
+        "id": 233
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.606759,
+          51.930592
+        ]
+      },
+      "properties": {
+        "title": "D\u00fcesberg-Park",
+        "id": 234
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.625573,
+          51.935375
+        ]
+      },
+      "properties": {
+        "title": "D\u00fcesbergweg",
+        "id": 235,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadteinw\u00e4rtige Bussteig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.52338,
+          51.924976
+        ]
+      },
+      "properties": {
+        "title": "D\u00fclmener Stra\u00dfe",
+        "id": 236
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.598463,
+          51.992329
+        ]
+      },
+      "properties": {
+        "title": "Eimermacherweg",
+        "id": 237
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.642874,
+          51.961209
+        ]
+      },
+      "properties": {
+        "title": "Eisenbahnstra\u00dfe",
+        "id": 238,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadtausw\u00e4rtige Bussteig A."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.653115,
+          51.994493
+        ]
+      },
+      "properties": {
+        "title": "Elbinger Stra\u00dfe",
+        "id": 239
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.642679,
+          51.953671
+        ]
+      },
+      "properties": {
+        "title": "Emdener Stra\u00dfe",
+        "id": 240
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.631552,
+          51.95743
+        ]
+      },
+      "properties": {
+        "title": "Engelenschanze",
+        "id": 241
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.664451,
+          51.930892
+        ]
+      },
+      "properties": {
+        "title": "Erbdrostenweg",
+        "id": 242
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.675717,
+          51.959351
+        ]
+      },
+      "properties": {
+        "title": "Erikaweg / WDR",
+        "id": 243
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.647437,
+          51.968114
+        ]
+      },
+      "properties": {
+        "title": "Erpho-Kirche",
+        "id": 244,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadtausw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.598228,
+          51.99788
+        ]
+      },
+      "properties": {
+        "title": "Feldstiegenkamp",
+        "id": 245
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.630575,
+          51.973453
+        ]
+      },
+      "properties": {
+        "title": "Flandernstra\u00dfe",
+        "id": 246
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.624751,
+          51.900181
+        ]
+      },
+      "properties": {
+        "title": "Franz-Berding-Weg",
+        "id": 247
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.691013,
+          51.997566
+        ]
+      },
+      "properties": {
+        "title": "Freibad Sudm\u00fchle",
+        "id": 248
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.567665,
+          51.961589
+        ]
+      },
+      "properties": {
+        "title": "Freiherr-vom-Stein-Gymnasium",
+        "id": 249
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.631237,
+          51.951168
+        ]
+      },
+      "properties": {
+        "title": "Friedrich-Ebert-Platz",
+        "id": 250
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.635794,
+          51.943242
+        ]
+      },
+      "properties": {
+        "title": "Fundfahrrad-Station",
+        "id": 251
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.665328,
+          51.956241
+        ]
+      },
+      "properties": {
+        "title": "Gallenkamp",
+        "id": 252,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadtausw\u00e4rtige Bussteig (Ausstieg)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.570246,
+          51.95953
+        ]
+      },
+      "properties": {
+        "title": "Gartenbreie",
+        "id": 253
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.637227,
+          51.910537
+        ]
+      },
+      "properties": {
+        "title": "Geistkamp",
+        "id": 254
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.619504,
+          51.952688
+        ]
+      },
+      "properties": {
+        "title": "Geiststra\u00dfe",
+        "id": 255,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei sind nur die Bussteige A und B."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.611641,
+          51.977222
+        ]
+      },
+      "properties": {
+        "title": "Germania-Campus",
+        "id": 256
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.575773,
+          51.972514
+        ]
+      },
+      "properties": {
+        "title": "Gescherweg",
+        "id": 257,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei sind nur die Bussteige A und B."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.662972,
+          51.994726
+        ]
+      },
+      "properties": {
+        "title": "Gewerbegebiet Kleimannbr\u00fccke",
+        "id": 258,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadtausw\u00e4rtige Bussteig B."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.569646,
+          51.995015
+        ]
+      },
+      "properties": {
+        "title": "Gewerbegebiet Uhlenkotten",
+        "id": 259
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.65122,
+          51.905595
+        ]
+      },
+      "properties": {
+        "title": "Glasuritstra\u00dfe",
+        "id": 260,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei sind nur die Bussteige A, B und E."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.625675,
+          51.953322
+        ]
+      },
+      "properties": {
+        "title": "Goebenstra\u00dfe",
+        "id": 261
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.615675,
+          51.957563
+        ]
+      },
+      "properties": {
+        "title": "Goldene Br\u00fccke / Aasee",
+        "id": 262,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadtausw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.642714,
+          51.991992
+        ]
+      },
+      "properties": {
+        "title": "G\u00f6rlitzer Stra\u00dfe",
+        "id": 263
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.675216,
+          51.930599
+        ]
+      },
+      "properties": {
+        "title": "Gremmendorf Ehrenmal",
+        "id": 264
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.667843,
+          51.928647
+        ]
+      },
+      "properties": {
+        "title": "Gremmendorfer Weg",
+        "id": 265
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.727406,
+          51.922511
+        ]
+      },
+      "properties": {
+        "title": "Grenkuhlenweg",
+        "id": 266,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadteinw\u00e4rtige Bussteig B."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.562841,
+          51.967955
+        ]
+      },
+      "properties": {
+        "title": "Gronowskistra\u00dfe",
+        "id": 267
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.613895,
+          51.939825
+        ]
+      },
+      "properties": {
+        "title": "Gr\u00fcner Grund",
+        "id": 268,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadtausw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.647917,
+          51.931781
+        ]
+      },
+      "properties": {
+        "title": "Gustav-Stresemann-Weg",
+        "id": 269
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.637608,
+          51.984425
+        ]
+      },
+      "properties": {
+        "title": "Haltepunkt Zentrum Nord",
+        "id": 270
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.706843,
+          52.011228
+        ]
+      },
+      "properties": {
+        "title": "Handorf Fachklinik Hornheide",
+        "id": 271
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.698376,
+          51.987286
+        ]
+      },
+      "properties": {
+        "title": "Handorf Mitte",
+        "id": 272
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.587897,
+          51.937652
+        ]
+      },
+      "properties": {
+        "title": "Handwerkskammer-Bildungszentrum",
+        "id": 273
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.542054,
+          52.003544
+        ]
+      },
+      "properties": {
+        "title": "Hannaschweg",
+        "id": 274
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.646173,
+          51.955643
+        ]
+      },
+      "properties": {
+        "title": "Hansa-Berufskolleg",
+        "id": 275
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.578008,
+          51.889725
+        ]
+      },
+      "properties": {
+        "title": "Hansa-Business-Park",
+        "id": 276,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei sind nur die Bussteige A und B."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.622125,
+          51.894087
+        ]
+      },
+      "properties": {
+        "title": "Hansestra\u00dfe",
+        "id": 277
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.621648,
+          52.034874
+        ]
+      },
+      "properties": {
+        "title": "Abzweig Sprakel",
+        "id": 278
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.634243,
+          51.957353
+        ]
+      },
+      "properties": {
+        "title": "Hauptbahnhof",
+        "id": 279,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadtausw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.65019,
+          51.878998
+        ]
+      },
+      "properties": {
+        "title": "Haus Heidhorn",
+        "id": 280,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadteinw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.624856,
+          51.906241
+        ]
+      },
+      "properties": {
+        "title": "Haus Herding",
+        "id": 281
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.560939,
+          51.970956
+        ]
+      },
+      "properties": {
+        "title": "Haus Mariengrund",
+        "id": 282
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.716244,
+          51.999242
+        ]
+      },
+      "properties": {
+        "title": "Haus M\u00fcnsterland",
+        "id": 283
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.590747,
+          51.965422
+        ]
+      },
+      "properties": {
+        "title": "Hautklinik",
+        "id": 284
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.605469,
+          51.994032
+        ]
+      },
+      "properties": {
+        "title": "Heidkamp",
+        "id": 285,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadtausw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.620716,
+          51.940719
+        ]
+      },
+      "properties": {
+        "title": "Heilig-Geist-Kirche",
+        "id": 286,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadteinw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.69303,
+          51.913143
+        ]
+      },
+      "properties": {
+        "title": "Heinrich-von-Stephan-Ring",
+        "id": 287
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.553087,
+          51.995514
+        ]
+      },
+      "properties": {
+        "title": "Hermann-Hesse-Stra\u00dfe",
+        "id": 288
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.573234,
+          51.925167
+        ]
+      },
+      "properties": {
+        "title": "Heroldstra\u00dfe",
+        "id": 289,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei sind nur die Bussteige A und B."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.632817,
+          51.909447
+        ]
+      },
+      "properties": {
+        "title": "Herz-Jesu-Krankenhaus",
+        "id": 290
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.673044,
+          52.009042
+        ]
+      },
+      "properties": {
+        "title": "Hessenbusch",
+        "id": 291
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.672116,
+          52.012503
+        ]
+      },
+      "properties": {
+        "title": "Hessenweg",
+        "id": 292
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.65968,
+          51.934184
+        ]
+      },
+      "properties": {
+        "title": "Heumannsweg",
+        "id": 293
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.639565,
+          51.903315
+        ]
+      },
+      "properties": {
+        "title": "Hiltrup Schulzentrum / Stadthalle",
+        "id": 294
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.720025,
+          51.911554
+        ]
+      },
+      "properties": {
+        "title": "Hiltruper Stra\u00dfe",
+        "id": 295,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadtausw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.641003,
+          51.904751
+        ]
+      },
+      "properties": {
+        "title": "Hohe Geest / Hiltruper Museum",
+        "id": 296
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.526572,
+          51.923838
+        ]
+      },
+      "properties": {
+        "title": "Hohe Geist",
+        "id": 297
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.647044,
+          51.963934
+        ]
+      },
+      "properties": {
+        "title": "Hohenzollernring / Finanzgericht",
+        "id": 298,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei sind nur die Bussteige A und B."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.640097,
+          51.974457
+        ]
+      },
+      "properties": {
+        "title": "Hoher Heckenweg",
+        "id": 299,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadtausw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.634802,
+          51.995
+        ]
+      },
+      "properties": {
+        "title": "Holtmannsweg",
+        "id": 300,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadteinw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.697469,
+          51.92529
+        ]
+      },
+      "properties": {
+        "title": "Homannstra\u00dfe",
+        "id": 301
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.634317,
+          51.965765
+        ]
+      },
+      "properties": {
+        "title": "H\u00f6rstertor",
+        "id": 302,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei sind nur die Bussteige B und D."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.590838,
+          51.973963
+        ]
+      },
+      "properties": {
+        "title": "Horstmarer Landweg",
+        "id": 303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.621927,
+          51.970152
+        ]
+      },
+      "properties": {
+        "title": "Hoyastra\u00dfe",
+        "id": 304
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.607728,
+          51.960927
+        ]
+      },
+      "properties": {
+        "title": "H\u00fcfferstiftung",
+        "id": 305
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.639004,
+          51.90735
+        ]
+      },
+      "properties": {
+        "title": "H\u00fclsebrockstra\u00dfe",
+        "id": 306,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei sind nur die Bussteige A und B."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.619275,
+          51.926386
+        ]
+      },
+      "properties": {
+        "title": "H\u00fclsenbusch",
+        "id": 307
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.600272,
+          51.996582
+        ]
+      },
+      "properties": {
+        "title": "Idenbrockplatz",
+        "id": 308
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.635998,
+          51.91342
+        ]
+      },
+      "properties": {
+        "title": "Im Dahl",
+        "id": 309
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.676867,
+          51.956409
+        ]
+      },
+      "properties": {
+        "title": "Im Drostebusch",
+        "id": 310
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.607584,
+          51.989664
+        ]
+      },
+      "properties": {
+        "title": "Im Moorhock",
+        "id": 311
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.714667,
+          51.99894
+        ]
+      },
+      "properties": {
+        "title": "In der Stroth",
+        "id": 312,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadteinw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.609291,
+          51.94013
+        ]
+      },
+      "properties": {
+        "title": "Inselbogen / Sparkassenzentrale",
+        "id": 313,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei sind nur die Bussteige A und B."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.662626,
+          51.986357
+        ]
+      },
+      "properties": {
+        "title": "J\u00e4gerh\u00e4uschen",
+        "id": 314
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.597726,
+          51.975718
+        ]
+      },
+      "properties": {
+        "title": "Johann-Krane-Weg",
+        "id": 315
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.648389,
+          51.989763
+        ]
+      },
+      "properties": {
+        "title": "Josefine-Mauser-Stra\u00dfe",
+        "id": 316
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.727125,
+          51.91332
+        ]
+      },
+      "properties": {
+        "title": "Juffernkamp",
+        "id": 317
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61419,
+          51.953698
+        ]
+      },
+      "properties": {
+        "title": "Jugendg\u00e4stehaus Aasee",
+        "id": 318
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.602924,
+          51.959919
+        ]
+      },
+      "properties": {
+        "title": "Jungeblodtplatz",
+        "id": 319
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.690291,
+          51.91575
+        ]
+      },
+      "properties": {
+        "title": "Junker-J\u00f6rg-Platz",
+        "id": 320
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.570483,
+          51.884478
+        ]
+      },
+      "properties": {
+        "title": "Kannenweg",
+        "id": 321
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.610748,
+          51.970963
+        ]
+      },
+      "properties": {
+        "title": "Kapuzinerstra\u00dfe / Gasselstiege",
+        "id": 322
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.594478,
+          51.931747
+        ]
+      },
+      "properties": {
+        "title": "Kerkheideweg / Brillux",
+        "id": 323
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.649179,
+          51.922976
+        ]
+      },
+      "properties": {
+        "title": "Kesslerweg",
+        "id": 324
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.592323,
+          52.000901
+        ]
+      },
+      "properties": {
+        "title": "Killingstra\u00dfe",
+        "id": 325
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.603007,
+          51.997206
+        ]
+      },
+      "properties": {
+        "title": "Kinderhaus Schulzentrum",
+        "id": 326,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei sind nur die stadtausw\u00e4rtigen Bussteige A und B."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.699712,
+          51.989678
+        ]
+      },
+      "properties": {
+        "title": "Kirschgarten",
+        "id": 327,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadtausw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.629461,
+          51.961104
+        ]
+      },
+      "properties": {
+        "title": "Klemensstra\u00dfe",
+        "id": 328
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6342,
+          51.970178
+        ]
+      },
+      "properties": {
+        "title": "Kolpingstra\u00dfe",
+        "id": 329
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.648382,
+          51.993105
+        ]
+      },
+      "properties": {
+        "title": "K\u00f6nigsberger Stra\u00dfe",
+        "id": 330
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.626775,
+          51.957906
+        ]
+      },
+      "properties": {
+        "title": "K\u00f6nigsstra\u00dfe",
+        "id": 331
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.624157,
+          51.939355
+        ]
+      },
+      "properties": {
+        "title": "K\u00f6nigsweg",
+        "id": 332
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.616437,
+          51.954739
+        ]
+      },
+      "properties": {
+        "title": "K\u00f6rnerstra\u00dfe",
+        "id": 333
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.70068,
+          51.985075
+        ]
+      },
+      "properties": {
+        "title": "K\u00f6tterstra\u00dfe",
+        "id": 334
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.612552,
+          51.998051
+        ]
+      },
+      "properties": {
+        "title": "Kristiansandstra\u00dfe",
+        "id": 335
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61913,
+          51.961901
+        ]
+      },
+      "properties": {
+        "title": "Krummer Timpen",
+        "id": 336,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadtausw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.733809,
+          51.916846
+        ]
+      },
+      "properties": {
+        "title": "Kurhaus",
+        "id": 337
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.615743,
+          51.962133
+        ]
+      },
+      "properties": {
+        "title": "Landgericht",
+        "id": 338
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.628917,
+          51.973831
+        ]
+      },
+      "properties": {
+        "title": "Langemarckstra\u00dfe",
+        "id": 339
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.525337,
+          51.916513
+        ]
+      },
+      "properties": {
+        "title": "Langenkamp",
+        "id": 340
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.631903,
+          51.900045
+        ]
+      },
+      "properties": {
+        "title": "Langestra\u00dfe",
+        "id": 341
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.652926,
+          51.954999
+        ]
+      },
+      "properties": {
+        "title": "Liboristra\u00dfe",
+        "id": 342
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.625188,
+          51.908274
+        ]
+      },
+      "properties": {
+        "title": "Linckensstra\u00dfe",
+        "id": 343
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.650031,
+          51.94097
+        ]
+      },
+      "properties": {
+        "title": "Loddenheide / Beresa",
+        "id": 344
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.668588,
+          51.906289
+        ]
+      },
+      "properties": {
+        "title": "Loddenweg",
+        "id": 345
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.659721,
+          51.954213
+        ]
+      },
+      "properties": {
+        "title": "Institut der Feuerwehr",
+        "id": 346,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadteinw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62747,
+          51.956056
+        ]
+      },
+      "properties": {
+        "title": "Ludgeriplatz",
+        "id": 347
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.596978,
+          51.963495
+        ]
+      },
+      "properties": {
+        "title": "Lukaskirche",
+        "id": 348,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadtausw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.667503,
+          51.956984
+        ]
+      },
+      "properties": {
+        "title": "Maikottenweg",
+        "id": 349
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.647765,
+          51.959086
+        ]
+      },
+      "properties": {
+        "title": "Manfred-von-Richthofen-Stra\u00dfe",
+        "id": 350,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadtausw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.645404,
+          51.904429
+        ]
+      },
+      "properties": {
+        "title": "Marktallee",
+        "id": 351
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.655203,
+          51.937187
+        ]
+      },
+      "properties": {
+        "title": "Martin-Luther-King-Weg",
+        "id": 352
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.601664,
+          51.990388
+        ]
+      },
+      "properties": {
+        "title": "Martin-Niem\u00f6ller-Stra\u00dfe",
+        "id": 353,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadtausw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.652778,
+          51.903417
+        ]
+      },
+      "properties": {
+        "title": "Max-Winkelmann-Stra\u00dfe",
+        "id": 354
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.639017,
+          51.949753
+        ]
+      },
+      "properties": {
+        "title": "MCC Halle M\u00fcnsterland",
+        "id": 355
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.579198,
+          51.934288
+        ]
+      },
+      "properties": {
+        "title": "Mecklenbecker Stra\u00dfe",
+        "id": 356,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei sind nur die Bussteige A und B."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.571001,
+          51.929614
+        ]
+      },
+      "properties": {
+        "title": "Meckmannweg",
+        "id": 357
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.647642,
+          51.98794
+        ]
+      },
+      "properties": {
+        "title": "Meerwiese / Begegnungszentrum",
+        "id": 358
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.625597,
+          51.903721
+        ]
+      },
+      "properties": {
+        "title": "Meesenstiege",
+        "id": 359,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadtausw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.594989,
+          52.000426
+        ]
+      },
+      "properties": {
+        "title": "Meinertzstra\u00dfe",
+        "id": 360
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.596523,
+          51.969612
+        ]
+      },
+      "properties": {
+        "title": "Mendelstra\u00dfe",
+        "id": 361,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadteinw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.632604,
+          51.914056
+        ]
+      },
+      "properties": {
+        "title": "Merkureck",
+        "id": 362
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.592093,
+          51.930444
+        ]
+      },
+      "properties": {
+        "title": "Mersmannsstiege",
+        "id": 363
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.611574,
+          51.979744
+        ]
+      },
+      "properties": {
+        "title": "Me\u00dfkamp",
+        "id": 364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.623862,
+          51.942537
+        ]
+      },
+      "properties": {
+        "title": "Metzer Stra\u00dfe",
+        "id": 365
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.578966,
+          51.925423
+        ]
+      },
+      "properties": {
+        "title": "Meyerbeerstra\u00dfe",
+        "id": 366
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.706312,
+          51.992632
+        ]
+      },
+      "properties": {
+        "title": "Middelfeld",
+        "id": 367
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.675287,
+          51.949628
+        ]
+      },
+      "properties": {
+        "title": "Mondstra\u00dfe",
+        "id": 368,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei sind nur die Bussteige A und B."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.595026,
+          51.952352
+        ]
+      },
+      "properties": {
+        "title": "M\u00fchlenhof",
+        "id": 369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.619598,
+          51.966853
+        ]
+      },
+      "properties": {
+        "title": "M\u00fcnzstra\u00dfe",
+        "id": 370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.615768,
+          51.967167
+        ]
+      },
+      "properties": {
+        "title": "Neutor",
+        "id": 371
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.640459,
+          51.972137
+        ]
+      },
+      "properties": {
+        "title": "Niedersachsenring",
+        "id": 372,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadteinw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.635294,
+          51.900994
+        ]
+      },
+      "properties": {
+        "title": "Nimrodweg",
+        "id": 373
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.622583,
+          51.972429
+        ]
+      },
+      "properties": {
+        "title": "Nordplatz",
+        "id": 374
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.562365,
+          51.969711
+        ]
+      },
+      "properties": {
+        "title": "N\u00fcnningfeld",
+        "id": 375
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.608712,
+          51.936154
+        ]
+      },
+      "properties": {
+        "title": "Oberschlesier Stra\u00dfe",
+        "id": 376
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.611429,
+          51.952015
+        ]
+      },
+      "properties": {
+        "title": "Offenbergstra\u00dfe",
+        "id": 377
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.60145,
+          51.965388
+        ]
+      },
+      "properties": {
+        "title": "P+R Coesfelder Kreuz",
+        "id": 378,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei sind nur die Bussteige A und B."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.645424,
+          51.946036
+        ]
+      },
+      "properties": {
+        "title": "P+R Nieberdingstra\u00dfe",
+        "id": 379
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.618796,
+          51.959214
+        ]
+      },
+      "properties": {
+        "title": "Paulinum",
+        "id": 380,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadtausw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.626408,
+          51.960718
+        ]
+      },
+      "properties": {
+        "title": "Picasso-Museum",
+        "id": 381
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.529925,
+          51.951248
+        ]
+      },
+      "properties": {
+        "title": "Pienersallee",
+        "id": 382
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.679777,
+          51.930099
+        ]
+      },
+      "properties": {
+        "title": "Pirolweg",
+        "id": 383
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.608869,
+          51.950854
+        ]
+      },
+      "properties": {
+        "title": "Platz der Wei\u00dfen Rose",
+        "id": 384
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.693891,
+          51.973738
+        ]
+      },
+      "properties": {
+        "title": "Pleisterm\u00fchlenweg",
+        "id": 385
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.610892,
+          51.882704
+        ]
+      },
+      "properties": {
+        "title": "Plutoweg",
+        "id": 386
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.582894,
+          51.965866
+        ]
+      },
+      "properties": {
+        "title": "Potstiege",
+        "id": 387,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadtausw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.626381,
+          51.932007
+        ]
+      },
+      "properties": {
+        "title": "Preu\u00dfenstadion",
+        "id": 388,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadtausw\u00e4rtige Bussteig B."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.636114,
+          51.972645
+        ]
+      },
+      "properties": {
+        "title": "Pumpenhaus / Lublinring",
+        "id": 389,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei sind nur die Bussteige A und B."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.629029,
+          51.959372
+        ]
+      },
+      "properties": {
+        "title": "Raphaelsklinik",
+        "id": 390
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61706,
+          51.990908
+        ]
+      },
+      "properties": {
+        "title": "Regina-Protmann-Stra\u00dfe",
+        "id": 391
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.666228,
+          52.022095
+        ]
+      },
+      "properties": {
+        "title": "Rieselfelder",
+        "id": 392
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.661398,
+          51.90625
+        ]
+      },
+      "properties": {
+        "title": "Ringstra\u00dfe",
+        "id": 393
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.633313,
+          51.935515
+        ]
+      },
+      "properties": {
+        "title": "Robert-Bosch-Stra\u00dfe",
+        "id": 394
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.519139,
+          51.925183
+        ]
+      },
+      "properties": {
+        "title": "Rottkamp",
+        "id": 395
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.526948,
+          51.946429
+        ]
+      },
+      "properties": {
+        "title": "Roxel Bahnhof",
+        "id": 396
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.536767,
+          51.954927
+        ]
+      },
+      "properties": {
+        "title": "Roxel Mitte",
+        "id": 397
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.565299,
+          51.973929
+        ]
+      },
+      "properties": {
+        "title": "R\u00fcschhausweg",
+        "id": 398,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei sind nur die Bussteige A, B und C."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.642049,
+          51.97729
+        ]
+      },
+      "properties": {
+        "title": "Rumphorstweg",
+        "id": 399
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.657093,
+          51.972438
+        ]
+      },
+      "properties": {
+        "title": "Saarstra\u00dfe",
+        "id": 400,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadtausw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.615719,
+          51.993352
+        ]
+      },
+      "properties": {
+        "title": "Salzmannstra\u00dfe",
+        "id": 401
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.625546,
+          51.94246
+        ]
+      },
+      "properties": {
+        "title": "Scheibenstra\u00dfe",
+        "id": 402
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.541675,
+          51.955347
+        ]
+      },
+      "properties": {
+        "title": "Schelmenstiege",
+        "id": 403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.621254,
+          51.987452
+        ]
+      },
+      "properties": {
+        "title": "Schleebr\u00fcggenkamp",
+        "id": 404
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.658128,
+          51.975934
+        ]
+      },
+      "properties": {
+        "title": "Schleuse",
+        "id": 405,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadteinw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.617582,
+          51.964653
+        ]
+      },
+      "properties": {
+        "title": "Schlossplatz",
+        "id": 406
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.596597,
+          51.958043
+        ]
+      },
+      "properties": {
+        "title": "Schl\u00fcterstra\u00dfe",
+        "id": 407,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadtausw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.589488,
+          51.961527
+        ]
+      },
+      "properties": {
+        "title": "Schmeddingstra\u00dfe",
+        "id": 408
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.65449,
+          51.922683
+        ]
+      },
+      "properties": {
+        "title": "Schmitz-K\u00fchlken",
+        "id": 409
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.673531,
+          52.026357
+        ]
+      },
+      "properties": {
+        "title": "Schornheide",
+        "id": 410
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.595342,
+          51.965163
+        ]
+      },
+      "properties": {
+        "title": "Schreiberstra\u00dfe",
+        "id": 411
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.527996,
+          51.917476
+        ]
+      },
+      "properties": {
+        "title": "Sendener Stiege",
+        "id": 412
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.635713,
+          51.959652
+        ]
+      },
+      "properties": {
+        "title": "Servatiiplatz",
+        "id": 413
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.645832,
+          51.982694
+        ]
+      },
+      "properties": {
+        "title": "Sibeliusstra\u00dfe",
+        "id": 414
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.60776,
+          51.933789
+        ]
+      },
+      "properties": {
+        "title": "Siebenb\u00fcrgenweg",
+        "id": 415,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadtausw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63021,
+          51.932405
+        ]
+      },
+      "properties": {
+        "title": "Siemensstra\u00dfe",
+        "id": 416,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadteinw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.643908,
+          51.956322
+        ]
+      },
+      "properties": {
+        "title": "Sophienstra\u00dfe",
+        "id": 417,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadtausw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.619248,
+          52.041557
+        ]
+      },
+      "properties": {
+        "title": "Sprakel Bahnhof",
+        "id": 418
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.622772,
+          52.04104
+        ]
+      },
+      "properties": {
+        "title": "Sprakel Nord",
+        "id": 419
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.621218,
+          51.955346
+        ]
+      },
+      "properties": {
+        "title": "St. Antonius-Kirche",
+        "id": 420
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.612319,
+          51.931045
+        ]
+      },
+      "properties": {
+        "title": "St. Gottfried-Kirche",
+        "id": 421,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadtausw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.676128,
+          51.971396
+        ]
+      },
+      "properties": {
+        "title": "St. Mauritz",
+        "id": 422,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadteinw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.57972,
+          51.967687
+        ]
+      },
+      "properties": {
+        "title": "St. Michael-Kirche",
+        "id": 423
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.580149,
+          51.931145
+        ]
+      },
+      "properties": {
+        "title": "St.-Anna-Kirche",
+        "id": 424,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei sind nur die Bussteige A und B."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.647264,
+          51.96144
+        ]
+      },
+      "properties": {
+        "title": "St.-Franziskus-Hospital",
+        "id": 425
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.624617,
+          51.950148
+        ]
+      },
+      "properties": {
+        "title": "St.-Joseph-Kirche",
+        "id": 426
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.66968,
+          51.951198
+        ]
+      },
+      "properties": {
+        "title": "St.-Margareta-Kirche",
+        "id": 427,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadtausw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.637428,
+          51.950766
+        ]
+      },
+      "properties": {
+        "title": "Stadtwerke / Hafen",
+        "id": 428
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63259,
+          51.965579
+        ]
+      },
+      "properties": {
+        "title": "Standesamt",
+        "id": 429
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.647956,
+          51.885931
+        ]
+      },
+      "properties": {
+        "title": "Steiner See",
+        "id": 430,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadteinw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.613663,
+          51.968601
+        ]
+      },
+      "properties": {
+        "title": "Steinfurter Stra\u00dfe",
+        "id": 431,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadteinw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.622483,
+          51.896034
+        ]
+      },
+      "properties": {
+        "title": "Sternkamp",
+        "id": 432,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadtausw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.640104,
+          51.957829
+        ]
+      },
+      "properties": {
+        "title": "Sternstra\u00dfe",
+        "id": 433
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.561229,
+          51.976374
+        ]
+      },
+      "properties": {
+        "title": "S\u00fcdlohnweg",
+        "id": 434,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadteinw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.601323,
+          51.976892
+        ]
+      },
+      "properties": {
+        "title": "Technologiepark",
+        "id": 435,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei sind nur die Bussteige A und B."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.694365,
+          51.911603
+        ]
+      },
+      "properties": {
+        "title": "Theodor-Heuss-Stra\u00dfe",
+        "id": 436,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei sind nur die Bussteige A und B."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.626713,
+          51.965286
+        ]
+      },
+      "properties": {
+        "title": "Tibusstra\u00dfe",
+        "id": 437
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.734775,
+          51.900859
+        ]
+      },
+      "properties": {
+        "title": "Tiergartenheide",
+        "id": 438
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.628998,
+          51.944295
+        ]
+      },
+      "properties": {
+        "title": "Timmerscheidtstra\u00dfe",
+        "id": 439
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.57014,
+          51.975394
+        ]
+      },
+      "properties": {
+        "title": "Toppheide",
+        "id": 440
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.706326,
+          51.918773
+        ]
+      },
+      "properties": {
+        "title": "Twenh\u00f6venweg",
+        "id": 441
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.572124,
+          51.973884
+        ]
+      },
+      "properties": {
+        "title": "Twenteweg",
+        "id": 442
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.619537,
+          51.965277
+        ]
+      },
+      "properties": {
+        "title": "\u00dcberwasserstra\u00dfe",
+        "id": 443
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.635955,
+          51.937567
+        ]
+      },
+      "properties": {
+        "title": "Umgehungsstra\u00dfe",
+        "id": 444
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.587501,
+          51.928221
+        ]
+      },
+      "properties": {
+        "title": "Umspannwerk",
+        "id": 445
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.593531,
+          51.961658
+        ]
+      },
+      "properties": {
+        "title": "Universit\u00e4tsklinikum",
+        "id": 446
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.645255,
+          51.939084
+        ]
+      },
+      "properties": {
+        "title": "Verkehrsbetriebe",
+        "id": 447,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadtausw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64663,
+          51.908204
+        ]
+      },
+      "properties": {
+        "title": "Von-Flotow-Stra\u00dfe",
+        "id": 448
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.600252,
+          51.941032
+        ]
+      },
+      "properties": {
+        "title": "Von-Ossietzky-Stra\u00dfe",
+        "id": 449,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadtausw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.591575,
+          51.939145
+        ]
+      },
+      "properties": {
+        "title": "Vorl\u00e4nderweg",
+        "id": 450,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadteinw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.751021,
+          52.000447
+        ]
+      },
+      "properties": {
+        "title": "Waldfriedhof Lauheide",
+        "id": 451
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.592539,
+          51.975551
+        ]
+      },
+      "properties": {
+        "title": "Wasserweg",
+        "id": 452
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.560386,
+          51.973229
+        ]
+      },
+      "properties": {
+        "title": "Weitkampweg",
+        "id": 453
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.603635,
+          51.92376
+        ]
+      },
+      "properties": {
+        "title": "Werneweg",
+        "id": 454
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.632292,
+          51.917406
+        ]
+      },
+      "properties": {
+        "title": "Westfalenstra\u00dfe",
+        "id": 455
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.651557,
+          51.968297
+        ]
+      },
+      "properties": {
+        "title": "Wiener Stra\u00dfe",
+        "id": 456
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.522226,
+          51.924017
+        ]
+      },
+      "properties": {
+        "title": "Wierling",
+        "id": 457
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.597343,
+          51.966429
+        ]
+      },
+      "properties": {
+        "title": "Wilhelm-Klemm-Stra\u00dfe",
+        "id": 458,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadteinw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.652835,
+          51.938777
+        ]
+      },
+      "properties": {
+        "title": "Willy-Brandt-Weg",
+        "id": 459
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.689909,
+          51.995135
+        ]
+      },
+      "properties": {
+        "title": "Windbreede",
+        "id": 460,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadteinw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.611828,
+          51.944284
+        ]
+      },
+      "properties": {
+        "title": "WL BANK/ IHK",
+        "id": 461
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.725406,
+          51.916082
+        ]
+      },
+      "properties": {
+        "title": "Wolbeck Markt",
+        "id": 462
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.71656,
+          51.910734
+        ]
+      },
+      "properties": {
+        "title": "Wolbeck Nogatstra\u00dfe",
+        "id": 463
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.720719,
+          51.928766
+        ]
+      },
+      "properties": {
+        "title": "Wolbecker Windm\u00fchle",
+        "id": 464
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.612368,
+          51.95947
+        ]
+      },
+      "properties": {
+        "title": "Zentralfriedhof",
+        "id": 465
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.650798,
+          51.997903
+        ]
+      },
+      "properties": {
+        "title": "Ziegeleiteich",
+        "id": 466
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.586754,
+          51.94917
+        ]
+      },
+      "properties": {
+        "title": "Zoo / LWL-Naturkundemuseum",
+        "id": 467
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.660735,
+          51.962919
+        ]
+      },
+      "properties": {
+        "title": "Zum Guten Hirten",
+        "id": 468
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.641321,
+          51.961836
+        ]
+      },
+      "properties": {
+        "title": "Zumsandestra\u00dfe",
+        "id": 469
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.670515,
+          52.024594
+        ]
+      },
+      "properties": {
+        "title": "Zur Eckernheide",
+        "id": 470
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.566146,
+          51.876508
+        ]
+      },
+      "properties": {
+        "title": "Alexianer-Campus",
+        "id": 472
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.612087,
+          51.993543
+        ]
+      },
+      "properties": {
+        "title": "Am Burloh",
+        "id": 473,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei sind nur die Bussteige C und D."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.701326,
+          51.990755
+        ]
+      },
+      "properties": {
+        "title": "Am Hof zur Linde",
+        "id": 474
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.595051,
+          51.977238
+        ]
+      },
+      "properties": {
+        "title": "Austermannstra\u00dfe",
+        "id": 475
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.527293,
+          51.926379
+        ]
+      },
+      "properties": {
+        "title": "Blomenkamp",
+        "id": 476,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadtausw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59703,
+          51.971237
+        ]
+      },
+      "properties": {
+        "title": "Corrensstra\u00dfe",
+        "id": 477
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.606032,
+          51.883007
+        ]
+      },
+      "properties": {
+        "title": "Davertstra\u00dfe",
+        "id": 478,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadtausw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.611054,
+          51.988386
+        ]
+      },
+      "properties": {
+        "title": "Ermlandweg",
+        "id": 479
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.669302,
+          51.961087
+        ]
+      },
+      "properties": {
+        "title": "Frauenburgstra\u00dfe",
+        "id": 480
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.632819,
+          51.928906
+        ]
+      },
+      "properties": {
+        "title": "Geister Landweg",
+        "id": 481
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.704275,
+          51.977565
+        ]
+      },
+      "properties": {
+        "title": "Handorf Gartenzentrum",
+        "id": 482
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.525895,
+          51.966753
+        ]
+      },
+      "properties": {
+        "title": "H\u00fclshoffstra\u00dfe",
+        "id": 483
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.612611,
+          51.995772
+        ]
+      },
+      "properties": {
+        "title": "Janningsweg",
+        "id": 484
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.672546,
+          51.962666
+        ]
+      },
+      "properties": {
+        "title": "Kehre Maikottenweg",
+        "id": 485
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.603885,
+          51.975562
+        ]
+      },
+      "properties": {
+        "title": "Leonardo-Campus",
+        "id": 486
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.631017,
+          51.970123
+        ]
+      },
+      "properties": {
+        "title": "Maximilianstra\u00dfe",
+        "id": 487
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.527288,
+          51.953998
+        ]
+      },
+      "properties": {
+        "title": "Roxel Hallenbad",
+        "id": 488,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadteinw\u00e4rtige Bussteig auf dem Parkplatz."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.628064,
+          51.899206
+        ]
+      },
+      "properties": {
+        "title": "R\u00fcckertstra\u00dfe",
+        "id": 489
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.664067,
+          51.99027
+        ]
+      },
+      "properties": {
+        "title": "Rudolf-Diesel-Stra\u00dfe",
+        "id": 490
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.633712,
+          51.927069
+        ]
+      },
+      "properties": {
+        "title": "Schuckertstra\u00dfe",
+        "id": 491
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.609844,
+          51.949215
+        ]
+      },
+      "properties": {
+        "title": "Sperlichstra\u00dfe",
+        "id": 492,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadteinw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.622495,
+          51.929218
+        ]
+      },
+      "properties": {
+        "title": "Sporthalle Berg Fidel",
+        "id": 493
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.628522,
+          51.926975
+        ]
+      },
+      "properties": {
+        "title": "Alte Reitbahn",
+        "id": 494,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadteinw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.742294,
+          51.917039
+        ]
+      },
+      "properties": {
+        "title": "Am Tiergarten",
+        "id": 495
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.642031,
+          51.996604
+        ]
+      },
+      "properties": {
+        "title": "Coerheide",
+        "id": 496
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.611315,
+          51.982905
+        ]
+      },
+      "properties": {
+        "title": "Dreizehnerstra\u00dfe",
+        "id": 497
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.643506,
+          51.96761
+        ]
+      },
+      "properties": {
+        "title": "Elisabet-Ney-Stra\u00dfe",
+        "id": 498,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadteinw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.607174,
+          51.966746
+        ]
+      },
+      "properties": {
+        "title": "F\u00f6rsterstra\u00dfe",
+        "id": 499
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.653695,
+          51.904683
+        ]
+      },
+      "properties": {
+        "title": "Hiltrup Bahnhof",
+        "id": 500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.633063,
+          51.98585
+        ]
+      },
+      "properties": {
+        "title": "Joseph-K\u00f6nig-Stra\u00dfe",
+        "id": 501
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.601198,
+          51.888518
+        ]
+      },
+      "properties": {
+        "title": "Kanalbr\u00fccke",
+        "id": 502
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.60059,
+          51.939587
+        ]
+      },
+      "properties": {
+        "title": "Kleihorststra\u00dfe",
+        "id": 503
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.593066,
+          51.955796
+        ]
+      },
+      "properties": {
+        "title": "Mausbachstra\u00dfe",
+        "id": 504
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.563695,
+          51.997815
+        ]
+      },
+      "properties": {
+        "title": "Nienberge Ehemalige Post",
+        "id": 505
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.560005,
+          51.996432
+        ]
+      },
+      "properties": {
+        "title": "Nienberge Schule (Schulwagen)",
+        "id": 506
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.621115,
+          51.989555
+        ]
+      },
+      "properties": {
+        "title": "Provinzial S\u00fcd",
+        "id": 507
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.618813,
+          51.955078
+        ]
+      },
+      "properties": {
+        "title": "Scharnhorststra\u00dfe",
+        "id": 508
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.717366,
+          51.916116
+        ]
+      },
+      "properties": {
+        "title": "Wolbeck Schulzentrum",
+        "id": 509
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.606334,
+          51.973519
+        ]
+      },
+      "properties": {
+        "title": "Orl\u00e9ans-Ring",
+        "id": 510,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadteinw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.613647,
+          51.999541
+        ]
+      },
+      "properties": {
+        "title": "Pastorsesch",
+        "id": 511
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.636666,
+          51.952819
+        ]
+      },
+      "properties": {
+        "title": "Hansaring",
+        "id": 512,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der Bussteig A."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.603567,
+          51.92297
+        ]
+      },
+      "properties": {
+        "title": "Kriegerweg",
+        "id": 513,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadteinw\u00e4rtige Bussteig."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.594141,
+          51.938112
+        ]
+      },
+      "properties": {
+        "title": "Vagedesweg",
+        "id": 514,
+        "info": "Die Haltestelle ist eingeschr\u00e4nkt barrierefrei. Barrierefrei ist nur der stadteinw\u00e4rtige Bussteig."
+      }
+    }
+  ]
+}
