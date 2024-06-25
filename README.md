@@ -2,12 +2,13 @@
 Skripte zum Konvertieren von Dateien. Diese Skripte werden derzeit 1x im Jahr manuell ausgeführt.
 
 --------------
+
 ## Elektroauto Ladesäulen
 
 [Siehe Unterverzeichnis `ladesaeulen/`](ladesaeulen)
 
-
 --------------
+
 ## Tischtennisplatten Standorte
 
 [Siehe Unterverzeichnis `tischtennisplatten/`](tischtennisplatten)
@@ -48,3 +49,10 @@ source venv/bin/activate
 python3 oparl_generate_gremienkalender_ical.py
 ```
 
+--------------
+
+## Stadtwerke ÖPNV POIs
+
+Liest die verschiedenen POIs ein (Barrierefreie Haltestellen, Park&Ride, Bike&Ride, ...) und speichert sie als GeoJSON und als CSV.
+
+[Siehe Unterverzeichnis `stadtwerke/`](stadtwerke)
