@@ -1,0 +1,160 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.527186,
+          51.915277
+        ]
+      },
+      "properties": {
+        "title": "Leezenbox Bahnhof Albachten",
+        "id": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59997,
+          51.884732
+        ]
+      },
+      "properties": {
+        "title": "Leezenbox Bahnhof Amelsb\u00fcren",
+        "id": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.636985,
+          51.984261
+        ]
+      },
+      "properties": {
+        "title": "Mobilstation Haltepunkt Zentrum Nord",
+        "id": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.654258,
+          51.904674
+        ]
+      },
+      "properties": {
+        "title": "Leezenbox Bahnhof Hiltrup",
+        "id": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.527422,
+          51.94604
+        ]
+      },
+      "properties": {
+        "title": "Leezenbox Bahnhof Roxel",
+        "id": 12,
+        "info": "9 Schlie\u00dff\u00e4cher mit Stromanschluss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.602395,
+          51.93637
+        ]
+      },
+      "properties": {
+        "title": "Mobilstation Weseler Stra\u00dfe",
+        "id": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.634103,
+          51.956342
+        ]
+      },
+      "properties": {
+        "title": "Radstation Hauptbahnhof",
+        "id": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.629057,
+          51.960216
+        ]
+      },
+      "properties": {
+        "title": "Radlager Stubengasse",
+        "id": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.626432,
+          51.960133
+        ]
+      },
+      "properties": {
+        "title": "Radstation M\u00fcnster  Arkarden",
+        "id": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.57944,
+          51.924613
+        ]
+      },
+      "properties": {
+        "title": "Leezenbox Bahnhof Mecklenbeck",
+        "id": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.637067,
+          51.957315
+        ]
+      },
+      "properties": {
+        "title": "Radstation im Hansator",
+        "id": 19
+      }
+    }
+  ]
+}

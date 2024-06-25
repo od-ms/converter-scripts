@@ -1,0 +1,454 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.522342,
+          51.924703
+        ]
+      },
+      "properties": {
+        "title": "Fach-Drogerie Jentschura",
+        "id": 530
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.610852,
+          51.977195
+        ]
+      },
+      "properties": {
+        "title": "Factory Hotel",
+        "id": 531
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.604903,
+          51.92386
+        ]
+      },
+      "properties": {
+        "title": "Kost\u00fcmverleih M\u00fcnsterland",
+        "id": 533
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.654571,
+          51.966793
+        ]
+      },
+      "properties": {
+        "title": "Lotto - Tabak Mauritz",
+        "id": 535
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.598351,
+          51.929706
+        ]
+      },
+      "properties": {
+        "title": "Lotto-Team Eisen",
+        "id": 536
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.580227,
+          51.931756
+        ]
+      },
+      "properties": {
+        "title": "Lotto-Zeitschriften-Tabakwaren W\u00e4nke",
+        "id": 537
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.618112,
+          51.966741
+        ]
+      },
+      "properties": {
+        "title": "J\u00fcdefelder Eck Kiosk",
+        "id": 541
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.633205,
+          51.960221
+        ]
+      },
+      "properties": {
+        "title": "Presse & Tabakwaren Sch\u00f6pper Paradies",
+        "id": 542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.619978,
+          52.041041
+        ]
+      },
+      "properties": {
+        "title": "Raiffeisenstra\u00dfe Sprakel",
+        "id": 543
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.606409,
+          51.883325
+        ]
+      },
+      "properties": {
+        "title": "Reiseb\u00fcro Amelsb\u00fcren",
+        "id": 544
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.728803,
+          51.920146
+        ]
+      },
+      "properties": {
+        "title": "Schreib- & Leseboutique Zumegen",
+        "id": 546
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.558257,
+          51.997847
+        ]
+      },
+      "properties": {
+        "title": "Schreib & Spiel Uhr",
+        "id": 548
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.69941,
+          51.988651
+        ]
+      },
+      "properties": {
+        "title": "Schreib- & Spielwaren Michael",
+        "id": 549
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.658846,
+          51.966851
+        ]
+      },
+      "properties": {
+        "title": "Ska-Treff",
+        "id": 551
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.623767,
+          51.927886
+        ]
+      },
+      "properties": {
+        "title": "Stadtteilhaus Lorenz S\u00fcd",
+        "id": 552
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.578522,
+          51.967491
+        ]
+      },
+      "properties": {
+        "title": "Tabak & Presse Naber",
+        "id": 553
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.647703,
+          51.938664
+        ]
+      },
+      "properties": {
+        "title": "Tabak & Presse Naber (im Marktkauf)",
+        "id": 554
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.570257,
+          51.958025
+        ]
+      },
+      "properties": {
+        "title": "Tabak & Presse Naber (im Marktkauf)",
+        "id": 555
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.533738,
+          51.954639
+        ]
+      },
+      "properties": {
+        "title": "Tabakwaren Kintrup",
+        "id": 556
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.663769,
+          51.90564
+        ]
+      },
+      "properties": {
+        "title": "Uhr, Schreib & Spiel  Osttor",
+        "id": 557
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.625587,
+          51.960113
+        ]
+      },
+      "properties": {
+        "title": "Westf. Nachrichten Ticketshop",
+        "id": 559
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.619995,
+          51.945052
+        ]
+      },
+      "properties": {
+        "title": "Akbar's Kiosk",
+        "id": 561
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.670954,
+          51.950704
+        ]
+      },
+      "properties": {
+        "title": "Alte Apotheke",
+        "id": 562
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.613423,
+          51.996201
+        ]
+      },
+      "properties": {
+        "title": "Amadeus Heinemann Grill",
+        "id": 563
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.645676,
+          51.971193
+        ]
+      },
+      "properties": {
+        "title": "Tabak Tebbe",
+        "id": 566
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.564853,
+          51.972634
+        ]
+      },
+      "properties": {
+        "title": "R\u00fcschhaus Kiosk",
+        "id": 569
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.651737,
+          51.90448
+        ]
+      },
+      "properties": {
+        "title": "Sch\u00f6ner-leben!",
+        "id": 570
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.630436,
+          51.963842
+        ]
+      },
+      "properties": {
+        "title": "Allerlei Khormann \u2013 Am B\u00fclt",
+        "id": 571
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.647918,
+          51.955013
+        ]
+      },
+      "properties": {
+        "title": "Kio Kiosk",
+        "id": 572
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.608168,
+          51.947365
+        ]
+      },
+      "properties": {
+        "title": "Lotto Store im EDEKA Markt",
+        "id": 573
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.613928,
+          51.95298
+        ]
+      },
+      "properties": {
+        "title": "Bauer Melchior",
+        "id": 574,
+        "info": "\u00d6ffnungszeiten:\nMo \u2013 Fr.: 08:30 \u2013 12:00 Uhr und 15:00 \u2013 18:00 Uhr\nSa: 08:30 \u2013 13:00 Uhr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.647675,
+          51.993293
+        ]
+      },
+      "properties": {
+        "title": "Rotthowe Coerde GmbH",
+        "id": 576
+      }
+    }
+  ]
+}

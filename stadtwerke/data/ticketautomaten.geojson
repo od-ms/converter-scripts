@@ -1,0 +1,411 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.623713,
+          51.960715
+        ]
+      },
+      "properties": {
+        "title": "Aegidiimarkt",
+        "id": 100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.623508,
+          51.945899
+        ]
+      },
+      "properties": {
+        "title": "Alter Sch\u00fctzenhof B",
+        "id": 101
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.630529,
+          51.963896
+        ]
+      },
+      "properties": {
+        "title": "Altstadt / B\u00fclt A",
+        "id": 102
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.631832,
+          51.961463
+        ]
+      },
+      "properties": {
+        "title": "CityShop / Salzstra\u00dfe",
+        "id": 103
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.657918,
+          51.967383
+        ]
+      },
+      "properties": {
+        "title": "Mauritz-Mitte",
+        "id": 104
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.626144,
+          51.962117
+        ]
+      },
+      "properties": {
+        "title": "Domplatz",
+        "id": 105
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.635541,
+          51.961662
+        ]
+      },
+      "properties": {
+        "title": "Eisenbahnstra\u00dfe A",
+        "id": 106
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.667575,
+          51.928755
+        ]
+      },
+      "properties": {
+        "title": "Gremmendorfer Weg A",
+        "id": 107
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.634042,
+          51.956462
+        ]
+      },
+      "properties": {
+        "title": "Hauptbahnhof A",
+        "id": 108
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.639542,
+          51.903099
+        ]
+      },
+      "properties": {
+        "title": "Hiltrup Schulzentrum / Stadthalle",
+        "id": 109
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.609184,
+          51.940317
+        ]
+      },
+      "properties": {
+        "title": "Inselbogen / Sparkassenzentrale A",
+        "id": 110
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.628915,
+          51.960979
+        ]
+      },
+      "properties": {
+        "title": "Klemensstra\u00dfe",
+        "id": 111
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.627113,
+          51.956068
+        ]
+      },
+      "properties": {
+        "title": "Ludgeriplatz C",
+        "id": 112
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.645821,
+          51.904396
+        ]
+      },
+      "properties": {
+        "title": "Marktallee",
+        "id": 113
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.600115,
+          51.996454
+        ]
+      },
+      "properties": {
+        "title": "Idenbrockplatz",
+        "id": 114
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.599964,
+          51.964752
+        ]
+      },
+      "properties": {
+        "title": "P+R Coesfelder Kreuz A",
+        "id": 115
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.603608,
+          51.936294
+        ]
+      },
+      "properties": {
+        "title": "P+R Weseler Stra\u00dfe",
+        "id": 116
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.637394,
+          51.95079
+        ]
+      },
+      "properties": {
+        "title": "Stadtwerke / Hafen",
+        "id": 117
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.630568,
+          51.964065
+        ]
+      },
+      "properties": {
+        "title": "Altstadt / B\u00fclt B",
+        "id": 118
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.635056,
+          51.961069
+        ]
+      },
+      "properties": {
+        "title": "Eisenbahnstra\u00dfe B",
+        "id": 119
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.634684,
+          51.957484
+        ]
+      },
+      "properties": {
+        "title": "Hauptbahnhof B2",
+        "id": 120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.633441,
+          51.956444
+        ]
+      },
+      "properties": {
+        "title": "Hauptbahnhof C2",
+        "id": 121
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.634146,
+          51.957225
+        ]
+      },
+      "properties": {
+        "title": "Hauptbahnhof D1",
+        "id": 122
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.725222,
+          51.916037
+        ]
+      },
+      "properties": {
+        "title": "Wolbeck Markt A",
+        "id": 123
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.620165,
+          51.926369
+        ]
+      },
+      "properties": {
+        "title": "H\u00fclsenbusch",
+        "id": 128
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.648152,
+          51.992633
+        ]
+      },
+      "properties": {
+        "title": "K\u00f6nigsberger Stra\u00dfe B",
+        "id": 127
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.564774,
+          51.974009
+        ]
+      },
+      "properties": {
+        "title": "R\u00fcschhausweg A",
+        "id": 126
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.537088,
+          51.954825
+        ]
+      },
+      "properties": {
+        "title": "Roxel Mitte",
+        "id": 125
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.573878,
+          51.924937
+        ]
+      },
+      "properties": {
+        "title": "Alte Heroldstra\u00dfe B",
+        "id": 124
+      }
+    }
+  ]
+}

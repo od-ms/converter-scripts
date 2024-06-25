@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.599906,
+          51.884719
+        ]
+      },
+      "properties": {
+        "title": "Deermannstra\u00dfe 56",
+        "id": 759,
+        "info": "Parkpl\u00e4tze-Anzahl:\n28\n\n\u00d6ffnungszeiten:\nt\u00e4glich \u2013 durchgehend\n\nKosten:\nkostenlos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.615592,
+          52.002997
+        ]
+      },
+      "properties": {
+        "title": "Sprakeler Stra\u00dfe 409",
+        "id": 761,
+        "info": "Parkpl\u00e4tze-Anzahl:\n28\n\n\u00d6ffnungszeiten:\nt\u00e4glich - durchgehend\n\nKosten:\nkostenlos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.637071,
+          51.984261
+        ]
+      },
+      "properties": {
+        "title": "Albrecht-Thaer-Stra\u00dfe",
+        "id": 762,
+        "info": "Parkpl\u00e4tze-Anzahl:\n35\n\n\u00d6ffnungszeiten:\nt\u00e4glich - durchgehend\n\nKosten:\nkostenlos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.635762,
+          51.956355
+        ]
+      },
+      "properties": {
+        "title": "Parkhaus Bahnhofstra\u00dfe",
+        "id": 763,
+        "info": "Parkpl\u00e4tze-Anzahl:\n339\n\nBehinderten-Parkpl\u00e4tze-Anzahl:\n10\n\nKosten:\nkostenpflichtig\n\nAnlage-H\u00f6he:\nmax. H\u00f6he 2 m\n\nParkhaus Bremer Platz\n\nAdresse\nBremer Platz 44\n\nParkpl\u00e4tze-Anzahl\n416\n\nBehinderten-Parkpl\u00e4tze-Anzahl:\n8\n\n\u00d6ffnungszeiten:\nt\u00e4glich \u2013 d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.654237,
+          51.904714
+        ]
+      },
+      "properties": {
+        "title": "Bergiusstra\u00dfe 15",
+        "id": 764,
+        "info": "Parkpl\u00e4tze-Anzahl:\n74\n\n\u00d6ffnungszeiten:\nt\u00e4glich - durchgehend\n\nKosten:\nkostenlos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.576903,
+          51.889977
+        ]
+      },
+      "properties": {
+        "title": "Kappenberger Damm 620 A",
+        "id": 765,
+        "info": "Parkpl\u00e4tze-Anzahl:\n56\n\n\u00d6ffnungszeiten:\nt\u00e4glich - durchgehend\n\nKosten:\nkostenlos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.562157,
+          52.021976
+        ]
+      },
+      "properties": {
+        "title": "H\u00e4gerstra\u00dfe 298",
+        "id": 766,
+        "info": "Parkpl\u00e4tze-Anzahl:\n14\n\n\u00d6ffnungszeiten:\nt\u00e4glich - durchgehend\n\nKosten:\nkostenlos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62587,
+          51.93215
+        ]
+      },
+      "properties": {
+        "title": "Hammer Stra\u00dfe 300",
+        "id": 767,
+        "info": "Parkpl\u00e4tze-Anzahl:\n270\n\n\u00d6ffnungszeiten:\nt\u00e4glich - durchgehend\n\nKosten:\nkostenlos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.527658,
+          51.946119
+        ]
+      },
+      "properties": {
+        "title": "Pienersallee 57",
+        "id": 768,
+        "info": "Parkpl\u00e4tze-Anzahl:\n33\n\nBehinderten-Parkpl\u00e4tze-Anzahl:\n1\n\n\u00d6ffnungszeiten:\nt\u00e4glich - durchgehend\n\nKosten:\nkostenlos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.602481,
+          51.93641
+        ]
+      },
+      "properties": {
+        "title": "Weseler Stra\u00dfe 351",
+        "id": 769,
+        "info": "Parkpl\u00e4tze-Anzahl:\n175\n\n\u00d6ffnungszeiten:\nt\u00e4glich - durchgehend\n\nKosten:\nkostenlos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.588426,
+          51.983693
+        ]
+      },
+      "properties": {
+        "title": "Wilkinghege 1",
+        "id": 770,
+        "info": "Parkpl\u00e4tze-Anzahl:\n50\n\n\u00d6ffnungszeiten:\nt\u00e4glich - durchgehend\n\nKosten:\nkostenlos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.645491,
+          51.944643
+        ]
+      },
+      "properties": {
+        "title": "Theodor-Scheiwe-Stra\u00dfe 1",
+        "id": 771,
+        "info": "Parkpl\u00e4tze-Anzahl:\n172\n\n\u00d6ffnungszeiten:\nt\u00e4glich - durchgehend\n\nKosten:\nkostenlos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.527229,
+          51.915277
+        ]
+      },
+      "properties": {
+        "title": "Langenkamp",
+        "id": 773,
+        "info": "Parkpl\u00e4tze-Anzahl:\n21\n\n\u00d6ffnungszeiten:\nt\u00e4glich -durchgehend ge\u00f6ffnet\n\nKosten:\nkostenlos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.618385,
+          52.041727
+        ]
+      },
+      "properties": {
+        "title": "Sprakeler Stra\u00dfe 5",
+        "id": 774,
+        "info": "Parkpl\u00e4tze-Anzahl:\n16\n\n\u00d6ffnungszeiten:\nt\u00e4glich - durchgehend\n\nKosten:\nkostenlos"
+      }
+    }
+  ]
+}
