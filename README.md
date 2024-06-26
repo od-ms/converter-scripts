@@ -56,3 +56,17 @@ python3 oparl_generate_gremienkalender_ical.py
 Liest die verschiedenen POIs ein (Barrierefreie Haltestellen, Park&Ride, Bike&Ride, ...) und speichert sie als GeoJSON und als CSV.
 
 [Siehe Unterverzeichnis `stadtwerke/`](stadtwerke)
+
+--------------
+
+## Klimadashboard
+
+Die Datendatei wird 1x im Monat per Cronjob neu generiert und eingecheckt.
+Auf folgender Url werden die Metadaten der aktuellen Datei zurückgeliefert: https://opendata.stadt-muenster.de/api/3/action/resource_show?id=klimadashboard
+
+[Skript siehe Unterverzeichnis `klimadashboard/`](klimadashboard)
+
+Schritte zum Ausführen:
+* Inputdatei abglegen als `05515000_csv_klimarelevante_daten.csv`
+* Skript starten `python3 split_datafile.py`
+* Aktuelle Datei im Repository einchecken `git add klimadata.csv;git commit ...;git push;`
