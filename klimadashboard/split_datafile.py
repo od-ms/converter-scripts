@@ -48,7 +48,9 @@ DATASET_DESCRIPTIONS = {
 #                       X      X       X       X            X          X            => rausgeflogen
 
 # new 2024-03-05:     X         alt:QUELLANGABE       NEU        X         X       X       X
-FIRST_ROW_SETUP = '"RAUM";"QUELLE_INSTITUTION";"THEMENBEREICH";"MERKMAL";"ZEIT";"WERT";"WERTEEINHEIT"'
+FIRST_ROW_IN = '"RAUM";"DATENQUELLE";"THEMENBEREICH";"MERKMAL";"ZEIT";"WERT";"WERTEEINHEIT"'
+FIRST_ROW_OUT = '"RAUM";"QUELLE_INSTITUTION";"THEMENBEREICH";"MERKMAL";"ZEIT";"WERT";"WERTEEINHEIT"'
+
 
 
 ENCODING = 'utf-8-sig' # utf8 mit bom
@@ -73,9 +75,11 @@ def group_rows_by_dataset():
             if line < 1:
                 NR_COLS = len(KLIMAROW)
                 FIRST_ROW = KLIMAROW
-                logging.info("%s Spalten: %s", NR_COLS, KLIMAROW)
-                if ('"' + ('";"'.join(FIRST_ROW)) + '"') != FIRST_ROW_SETUP:
+                logging.info("%s Input Spalten: %s", NR_COLS, KLIMAROW)
+                if ('"' + ('";"'.join(FIRST_ROW)) + '"') != FIRST_ROW_IN:
                     raise ValueError("Unexpected first row in CSV")
+                FIRST_ROW = FIRST_ROW_OUT[1:-1].split('";"')
+                logging.info("%s Output Spalten: %s", NR_COLS, FIRST_ROW)
             else:
                 # fix broken rows ... append next row, if its too short ..
 

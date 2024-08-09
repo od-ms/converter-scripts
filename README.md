@@ -59,7 +59,22 @@ Liest die verschiedenen POIs ein (Barrierefreie Haltestellen, Park&Ride, Bike&Ri
 
 --------------
 
+## Solar- und PV Anlagen im Stadtgebiet
+
+Die Daten werden vom Marktstammdatenregister "MaStR" der Bundesnetzagentur ausgelesen.
+
+Im Unterverzeichnis [`marktstammdatenregister/`](marktstammdatenregister) muss dazu das Folgende ausgeführt werden:
+
+```bash
+
+python3 load_data_from_mstr.py
+```
+
+--------------
+
 ## Klimadashboard
+
+Vorher müssen die Marktstammdatenregister-Dateien aktualisiert werden (s.o.), da sie von diesem Skript als Input genutzt werden.
 
 Die Datendatei wird 1x im Monat per Cronjob neu generiert und eingecheckt.
 Auf folgender Url werden die Metadaten der aktuellen Datei zurückgeliefert: https://opendata.stadt-muenster.de/api/3/action/resource_show?id=klimadashboard
