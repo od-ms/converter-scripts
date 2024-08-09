@@ -59,14 +59,13 @@ Liest die verschiedenen POIs ein (Barrierefreie Haltestellen, Park&Ride, Bike&Ri
 
 --------------
 
-## Solar- und PV Anlagen im Stadtgebiet
+## Solaranlagen und Windräder im Stadtgebiet
 
-Die Daten werden vom Marktstammdatenregister "MaStR" der Bundesnetzagentur ausgelesen.
+Die Daten werden vom **Marktstammdatenregister** "MaStR" der Bundesnetzagentur ausgelesen.
 
 Im Unterverzeichnis [`marktstammdatenregister/`](marktstammdatenregister) muss dazu das Folgende ausgeführt werden:
 
 ```bash
-
 python3 load_data_from_mstr.py
 ```
 
