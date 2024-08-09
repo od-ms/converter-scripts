@@ -1,3 +1,5 @@
+
+
 # Open Data Münster Skript Repo
 Skripte zum Konvertieren von Dateien. Diese Skripte werden derzeit 1x im Jahr manuell ausgeführt.
 
@@ -48,6 +50,14 @@ source venv/bin/activate
 
 python3 oparl_generate_gremienkalender_ical.py
 ```
+
+--------------
+
+## Refill-Stationen in Münster
+
+Liest die Refill-Stationen-POIs von der OpenFairDB API aus und speichert sie als GeoJSON und als CSV.
+
+[Siehe Unterverzeichnis `refill-stationen/`](refill-stationen)
 
 --------------
 
