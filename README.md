@@ -94,3 +94,10 @@ Schritte zum Ausführen:
 * Inputdatei abglegen als `05515000_csv_klimarelevante_daten.csv`
 * Skript starten `python3 split_datafile.py`
 * Aktuelle Datei im Repository einchecken `git add klimadata.csv;git commit ...;git push;`
+
+---------------
+
+## UV-Index
+
+Liegt in eigenem Repository `uv-index-muenster`
+
