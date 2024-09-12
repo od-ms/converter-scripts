@@ -1,43 +1,43 @@
 {
   "Summen": {
-    "AnzahlAnlagen": 9789,
-    "AnzahlSolarModule": 488289,
-    "Bruttoleistung": 126078,
-    "Nettonennleistung": 114313
+    "AnzahlAnlagen": 10055,
+    "AnzahlSolarModule": 494208,
+    "Bruttoleistung": 128536,
+    "Nettonennleistung": 116533
   },
   "Werte": {
     "BetriebsStatusName": {
-      "In Betrieb": 9785,
-      "Vor\u00fcbergehend stillgelegt": 4
+      "In Betrieb": 10050,
+      "Vor\u00fcbergehend stillgelegt": 5
     },
     "EnergietraegerName": {
-      "Solare Strahlungsenergie": 9789
+      "Solare Strahlungsenergie": 10055
     },
     "IsAnonymisiert": {
-      "False": 408,
-      "True": 9381
+      "False": 415,
+      "True": 9640
     },
     "IsPilotwindanlage": {
-      "None": 9789
+      "None": 10055
     },
     "PersonenArtId": {
-      "517": 822,
-      "518": 8967
+      "517": 844,
+      "518": 9211
     },
     "Plz": {
-      "48143": 35,
-      "48145": 188,
-      "48147": 494,
-      "48149": 400,
-      "48151": 381,
-      "48153": 319,
-      "48155": 676,
-      "48157": 998,
-      "48159": 808,
-      "48161": 1500,
-      "48163": 1441,
-      "48165": 1165,
-      "48167": 1384
+      "48143": 37,
+      "48145": 191,
+      "48147": 506,
+      "48149": 406,
+      "48151": 397,
+      "48153": 328,
+      "48155": 698,
+      "48157": 1033,
+      "48159": 829,
+      "48161": 1528,
+      "48163": 1477,
+      "48165": 1200,
+      "48167": 1425
     }
   }
 }
