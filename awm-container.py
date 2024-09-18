@@ -15,10 +15,13 @@ LOGGER.info("=====> START %s <=====", TODAY)
 
 ###
 ### STEP 1: Download data files from AWM website:
-###     https://awm.stadt-muenster.de/abfuhrtermine-und-entsorgungsstandorte
+###     https://awm.stadt-muenster.de/verwertung-entsorgung/sammlung-services/altglascontainer
+###     bzw. einfach unter:
+###     https://www.muellmax.de/abfallkalender/awm/res/AwmStart.php
+###     Then:
 ###        a) Choose desired container type
 ###        b) "Bitte den Stadtteil auswählen: 'alle Stadtteile'"
-###        c) Click on any "Standort"
+###        c) Click on any "Standort" (click the map pin icon on the right)
 ###        d) A map with all positions will show. Check the network requests.
 ###        e) Save response json to this subdirectory "data/"
 ###        f) repeat 3 times (all container types: kleider, elektro, glas)
@@ -28,12 +31,15 @@ LOGGER.info("=====> START %s <=====", TODAY)
 ###
 
 
-path = 'data/'
+path = 'data2023/'
 files = [
     ['awm-glascontainer', 'Glascontainer'],
     ['awm-altkleider', 'Altkleidercontainer'],
     ['awm-elektrokleingeraete', 'Elektrokleingeräte-Container']
 ]
+
+
+
 for config in files:
     file = config[0]
     containertype = config[1]
@@ -42,6 +48,11 @@ for config in files:
     f = open(path + file + '.json', "r")
     myfile = f.read()
     data = json.loads(myfile)
+
+    geojson = {
+        "type": "FeatureCollection",
+        "features": []
+    }
 
     outfile = path + file + '.csv'
     with open(outfile, mode='w') as csv_file:
@@ -54,17 +65,36 @@ for config in files:
         counter = 0
         for item in data:
             counter = counter + 1
-            LOGGER.info(" %s / %s", counter, item['inf'][1])
-            writer.writerow([
-                counter,
-                containertype,
-                item['inf'][0],
-                item['inf'][1],
-                item['inf'][2],
-                item['lat'],
-                item['lng'],
-                ("{}".format(TODAY))[0:10]
-            ])
+            if "inf" in item:
+                LOGGER.info(" %s / %s", counter, item)
+                writer.writerow([
+                    counter,
+                    containertype,
+                    item['inf'][0],
+                    item['inf'][1],
+                    item['inf'][2],
+                    item['lat'],
+                    item['lng'],
+                    ("{}".format(TODAY))[0:10]
+                ])
+
+                feature = {
+                    "type": "Feature",
+                    "geometry": {"type": "Point", "coordinates": [float(item['lng']), float(item['lat'])]},
+                    "properties": {
+                        "Typ": containertype,
+                        "Stadtteil": item['inf'][0],
+                        "Standort": item['inf'][1]
+                    }
+                }
+                geojson["features"].append(feature)
+
+    outfile = path + file + '.geojson'
+    LOGGER.info("Writing Geojson file '%s' ", outfile)
+    with open(outfile, mode='w') as json_file:
+        json.dump(geojson, json_file, indent=2)
+
+
 
 
 
