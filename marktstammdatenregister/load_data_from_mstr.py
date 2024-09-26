@@ -11,7 +11,8 @@ import pprint
 import time
 import csv
 import requests
-from pyfiglet import Figlet
+import pyfiglet
+
 from datetime import datetime, timezone
 
 
@@ -23,11 +24,7 @@ logging.addLevelName(logging.ERROR, f"\033[1;41m{logging.getLevelName(logging.ER
 logging.info("=====> START %s <=====", datetime.now())
 
 # Nicer log files with random fonts
-FONTS = (
-    'puffy slant smslant speed standard thick basic bell c_ascii_ charact1 charact2 charact6 chunky clr6x8 colossal '
-    'contessa cosmic crawford demo_1__ drpepper fender graceful gothic'
-)
-HEADLINE_FONT = random.choice(FONTS.split())
+HEADLINE_FONT = random.choice(pyfiglet.FigletFont.getFonts())
 logging.debug("(headline font = '%s')", HEADLINE_FONT)
 
 # Link zum Frontend, mit gesetztem Filter:
@@ -182,8 +179,8 @@ def write_csv_file(data, HEAD_ROW, outfile_name):
 
 def save(URL, TYPE):
     """ Parse all result pages and write json File """
-    custom_fig = Figlet(font=HEADLINE_FONT, width=120)
-    logging.info("\n%s", custom_fig.renderText(TYPE[0:10]))
+    custom_fig = pyfiglet.Figlet(font=HEADLINE_FONT, width=120)
+    logging.info("\n%s", custom_fig.renderText(TYPE[0:13]))
 
     exclude_ids = {}
     accumulated_results = None
