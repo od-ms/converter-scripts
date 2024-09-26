@@ -24,7 +24,7 @@ Die Container Standort-JSON-Dateien müssen manuell über die AWM-Webseite herun
 
 ### Ausführung
 ```
-python3 awm-container2023.py
+python3 awm-container.py
 ```
 
 --------------
@@ -92,5 +92,6 @@ Auf folgender Url werden die Metadaten der aktuellen Datei zurückgeliefert: htt
 
 Schritte zum Ausführen:
 * Inputdatei abglegen als `05515000_csv_klimarelevante_daten.csv`
+* Falls die Inputdatei nicht UTF8 ist: `iconv -f ISO-8859-1 -t UTF-8 05515000_csv_klimarelevante_daten-iso.csv > 05515000_csv_klimarelevante_daten.csv`
 * Skript starten `python3 split_datafile.py`
 * Aktuelle Datei im Repository einchecken `git add klimadata.csv;git commit ...;git push;`
