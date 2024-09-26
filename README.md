@@ -1,3 +1,5 @@
+
+
 # Open Data Münster Skript Repo
 Skripte zum Konvertieren von Dateien. Diese Skripte werden derzeit 1x im Jahr manuell ausgeführt.
 
@@ -51,6 +53,14 @@ python3 oparl_generate_gremienkalender_ical.py
 
 --------------
 
+## Refill-Stationen in Münster
+
+Liest die Refill-Stationen-POIs von der OpenFairDB API aus und speichert sie als GeoJSON und als CSV.
+
+[Siehe Unterverzeichnis `refill-stationen/`](refill-stationen)
+
+--------------
+
 ## Stadtwerke ÖPNV POIs
 
 Liest die verschiedenen POIs ein (Barrierefreie Haltestellen, Park&Ride, Bike&Ride, ...) und speichert sie als GeoJSON und als CSV.
@@ -59,7 +69,21 @@ Liest die verschiedenen POIs ein (Barrierefreie Haltestellen, Park&Ride, Bike&Ri
 
 --------------
 
+## Solaranlagen und Windräder im Stadtgebiet
+
+Die Daten werden vom **Marktstammdatenregister** "MaStR" der Bundesnetzagentur ausgelesen.
+
+Im Unterverzeichnis [`marktstammdatenregister/`](marktstammdatenregister) muss dazu das Folgende ausgeführt werden:
+
+```bash
+python3 load_data_from_mstr.py
+```
+
+--------------
+
 ## Klimadashboard
+
+Vorher müssen die Marktstammdatenregister-Dateien aktualisiert werden (s.o.), da sie von diesem Skript als Input genutzt werden.
 
 Die Datendatei wird 1x im Monat per Cronjob neu generiert und eingecheckt.
 Auf folgender Url werden die Metadaten der aktuellen Datei zurückgeliefert: https://opendata.stadt-muenster.de/api/3/action/resource_show?id=klimadashboard

@@ -31,7 +31,7 @@ LOGGER.info("=====> START %s <=====", TODAY)
 ###
 
 
-path = 'data2023/'
+path = '../data/'
 files = [
     ['awm-glascontainer', 'Glascontainer'],
     ['awm-altkleider', 'Altkleidercontainer'],
