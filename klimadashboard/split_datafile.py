@@ -4,7 +4,6 @@ import re
 import json
 import logging
 import os.path
-import time
 import csv
 import os
 
@@ -38,6 +37,11 @@ DATASET_DESCRIPTIONS = {
     # Änderung 2024-03: Das ist jetzt zusammen mit "4" Zeitreihe Verkehrsmittelwahl:
     # "modal-split-v-leistung":       ["Modal Split V.leistung", r"^(Absolut|Absolut\sin\skm|Modal\sSplit\sV\.leistung.*)$"],
 }
+
+FIX_STRINGS = {
+    "CO2-Emissionen - Private Haushalt (Zielwert)": "CO2-Emissionen - Private Haushalte (Zielwert)"
+}
+
 
 # old 2023-04:
 # FIRST_ROW_SETUP = 'ZEIT;RAUM;MERKMAL;WERT;QUELLANGABE'
@@ -106,6 +110,7 @@ def group_rows_by_dataset():
 #                        break
 
                 if hit:
+                    fix_strings(KLIMAROW)
                     if hit in OUTFILES_DATA:
                         OUTFILES_DATA[hit].append(KLIMAROW)
                     else:
@@ -121,6 +126,13 @@ def group_rows_by_dataset():
             line = line + 1
 
     return OUTFILES_DATA, FIRST_ROW
+
+
+def fix_strings(row):
+    for index, item in enumerate(row):
+        if item in FIX_STRINGS:
+            row[index] = FIX_STRINGS[item]
+    return row
 
 
 def write_json_file(data, outfile_name):
