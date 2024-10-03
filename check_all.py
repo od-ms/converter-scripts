@@ -13,6 +13,7 @@ logging.basicConfig(level=logging.DEBUG, filename=LOGFILE_NAME, format='<%(ascti
 LOGGER = logging.getLogger(__name__)
 TODAY = datetime.now()
 YESTERDAY = datetime.now() - timedelta(1)
+TWODAYS = datetime.now() - timedelta(2)
 ERROR_WORD = '-FAIL-'
 
 LOGGER.info("=====> CHECK START %s <=====", TODAY)
@@ -52,12 +53,12 @@ def check_radverkehr():
     # Load current month's data of Zählstelle "100031297 - Promenade"
     # and check if it has the newest date in last line
 
-    currentDate = '{0}-{1:02d}'.format(YESTERDAY.year, YESTERDAY.month)
+    currentDate = '{0}-{1:02d}'.format(TWODAYS.year, TWODAYS.month)
     url = 'https://raw.githubusercontent.com/od-ms/radverkehr-zaehlstellen/main/100031297/{}.csv'.format(currentDate)
     data = read_url(url)
     lines = data.splitlines()
     lastLine = lines[-1]
-    checkDate = '{0}-{1:02d}-{2:02d}'.format(YESTERDAY.year, YESTERDAY.month, YESTERDAY.day)
+    checkDate = '{0}-{1:02d}-{2:02d}'.format(TWODAYS.year, TWODAYS.month, TWODAYS.day)
     LOGGER.debug("Last line: %s", lastLine)
     return lastLine[0:10] == checkDate
 
