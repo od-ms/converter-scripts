@@ -9,7 +9,8 @@
             ""
         ],
         "lat": "51.941853",
-        "lng": "7.606371"
+        "lng": "7.606371",
+        "iwo": 1
     },
     {
         "inf": [
@@ -27,8 +28,7 @@
             ""
         ],
         "lat": "51.937237",
-        "lng": "7.597556",
-        "iwo": 1
+        "lng": "7.597556"
     },
     {
         "inf": [
@@ -335,6 +335,15 @@
         ],
         "lat": "51.968212",
         "lng": "7.622635"
+    },
+    {
+        "inf": [
+            "48155 M\u00fcnster - Centrum",
+            "Bremer Platz (gegen\u00fcber Bahnhofseingang)",
+            ""
+        ],
+        "lat": "51.956196",
+        "lng": "7.637667"
     },
     {
         "inf": [
@@ -699,11 +708,11 @@
     {
         "inf": [
             "48157 M\u00fcnster - Coerde",
-            "ZDM Coerder Liekweg 76 Recyclinghof",
+            "Zum Heidehof 80 (Recyclinghof Coerde)",
             ""
         ],
-        "lat": "52.010872",
-        "lng": "7.652774"
+        "lat": "52.010937",
+        "lng": "7.652406"
     },
     {
         "inf": [
@@ -1019,15 +1028,6 @@
         ],
         "lat": "51.968044",
         "lng": "7.562038"
-    },
-    {
-        "inf": [
-            "48167 M\u00fcnster - Gremmendorf",
-            "Albersloher Weg (Parkplatz Kaufpark) bei Haus Nr. 539",
-            ""
-        ],
-        "lat": "51.925003",
-        "lng": "7.671709"
     },
     {
         "inf": [

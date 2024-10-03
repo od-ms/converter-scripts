@@ -561,6 +561,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.637667,
+          51.956196
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Stadtteil": "48155 M\u00fcnster - Centrum",
+        "Standort": "Bremer Platz (gegen\u00fcber Bahnhofseingang)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.604761,
           51.965752
         ]
@@ -1161,14 +1176,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.652774,
-          52.010872
+          7.652406,
+          52.010937
         ]
       },
       "properties": {
         "Typ": "Glascontainer",
         "Stadtteil": "48157 M\u00fcnster - Coerde",
-        "Standort": "ZDM Coerder Liekweg 76 Recyclinghof"
+        "Standort": "Zum Heidehof 80 (Recyclinghof Coerde)"
       }
     },
     {
@@ -1694,21 +1709,6 @@
         "Typ": "Glascontainer",
         "Stadtteil": "48161 M\u00fcnster - Gievenbeck",
         "Standort": "Wickenkamp/Dieckmannstra\u00dfe"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.671709,
-          51.925003
-        ]
-      },
-      "properties": {
-        "Typ": "Glascontainer",
-        "Stadtteil": "48167 M\u00fcnster - Gremmendorf",
-        "Standort": "Albersloher Weg (Parkplatz Kaufpark) bei Haus Nr. 539"
       }
     },
     {
