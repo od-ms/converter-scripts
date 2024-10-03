@@ -58,7 +58,7 @@ for config in files:
     with open(outfile, mode='w') as csv_file:
 
         writer = csv.writer(csv_file, dialect='excel')
-        writer.writerow(['Nr', 'Containertyp', 'Standort1', 'Standort2', 'Standort3', 'Latitude', 'Longitude', 'Datum'])
+        writer.writerow(['Nr', 'Containertyp', 'Standort1', 'Standort2', 'Standort3', 'Latitude', 'Longitude'])
 
         # for some reason items is not an array but a dictionary
         #    print(type(data['poiCategory1']['items']))
@@ -74,8 +74,7 @@ for config in files:
                     item['inf'][1],
                     item['inf'][2],
                     item['lat'],
-                    item['lng'],
-                    ("{}".format(TODAY))[0:10]
+                    item['lng']
                 ])
 
                 feature = {
@@ -88,6 +87,7 @@ for config in files:
                     }
                 }
                 geojson["features"].append(feature)
+        writer.writerow(['Erstellungsdatum:', "{}".format(TODAY)[0:10], "", "", "", "", ""])
 
     outfile = path + file + '.geojson'
     LOGGER.info("Writing Geojson file '%s' ", outfile)
