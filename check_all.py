@@ -60,7 +60,7 @@ def check_radverkehr():
     lastLine = lines[-1]
     checkDate = '{0}-{1:02d}-{2:02d}'.format(TWODAYS.year, TWODAYS.month, TWODAYS.day)
     LOGGER.debug("Last line: %s", lastLine)
-    return lastLine[0:10] == checkDate
+    return lastLine[0:10] >= checkDate
 
 
 def check_coronazahlen():
@@ -84,7 +84,7 @@ def check_parkplaetze():
     url = 'https://raw.githubusercontent.com/codeformuenster/parking-decks-muenster/master/data/{}.csv'.format(currentDate)
     data = read_url(url)
     firstLine = data.splitlines()[2]
-    LOGGER.debug("First line: %s", firstLine)
+    LOGGER.debug("%s vs. First line: %s", currentDate, firstLine)
     return firstLine[0:10] == currentDate
 
 
@@ -96,9 +96,9 @@ def check_aasee():
     data = read_url(url)
     lines = data.splitlines()
     lastLine = lines[-1]
-    checkDate = '{0}-{1:02d}-{2:02d}'.format(YESTERDAY.year, YESTERDAY.month, YESTERDAY.day)
-    LOGGER.debug("Last line: %s", lastLine)
-    return lastLine[0:10] == checkDate
+    checkDate = '{0}-{1:02d}-{2:02d}'.format(TWODAYS.year, TWODAYS.month, TWODAYS.day)
+    LOGGER.debug("%s < Last line: %s", checkDate, lastLine)
+    return lastLine[0:10] >= checkDate
 
 
 def check_dcat_ap_harvesting():
