@@ -32,11 +32,14 @@ logging.debug("(headline font = '%s')", HEADLINE_FONT)
 
 BASE_URL = 'https://www.marktstammdatenregister.de/MaStR/Einheit/EinheitJson/GetVerkleinerteOeffentlicheEinheitStromerzeugung?'
 
+COMPLETE_CSV_FILE_NAME = 'alle-anlagen-muenster.csv'
+
 SOURCE_URL = (
     BASE_URL + 'sort=EinheitMeldeDatum-desc'
     '&pageSize=5000'
-    '&group=&filter=Ort~eq~%27M%C3%BCnster%27~and~'
-    'Betriebs-Status~eq~%2735%2C37%27~and~'
+    '&group=&filter='
+#    'Ort~eq~%27M%C3%BCnster%27~and~'
+    'Betriebs-Status~eq~%2735,31,37%27~and~'
     'Energietr%C3%A4ger~eq~%272495%2C2497%27~and~'
     'Gemeindeschl%C3%BCssel~eq~%2705515000%27'
 )
@@ -106,7 +109,7 @@ def addSum(my_dict, name, value):
         my_dict[name] = value
 
 
-def collect_data_from_url(mstr_url, id_list, start_values, energietraeger_name):
+def collect_data_from_url(mstr_url, id_list, start_values, energietraeger_name, collect_all_rows_to_this_csv_file):
     """ return Energieträger Type Anlagen, added to id_list """
     anlagen_json = readUrlWithCache(mstr_url)
     anlagen = anlagen_json.get('Data')
@@ -136,6 +139,7 @@ def collect_data_from_url(mstr_url, id_list, start_values, energietraeger_name):
         wanted_collections = start_values["Werte"]
         wanted_sums = start_values["Summen"]
 
+    alle_zeilen = []
     doppelt_count = 0
     # Add all anlagen values
     for anlage in anlagen:
@@ -159,46 +163,72 @@ def collect_data_from_url(mstr_url, id_list, start_values, energietraeger_name):
 
     logging.debug("Doppelte: %s", doppelt_count)
 
+    if collect_all_rows_to_this_csv_file:
+        append_to_csv_file(anlagen, list(anlagen[0].keys()), collect_all_rows_to_this_csv_file)
+
     return {"Summen": wanted_sums, "Werte": wanted_collections}
 
 
 def write_json_file(data, outfile_name):
-    with open(outfile_name, "w") as outfile:
+    with open(outfile_name, "w", encoding='utf-8') as outfile:
         json.dump(data, outfile, ensure_ascii=True, indent=2, sort_keys=True)
 
 
-def write_csv_file(data, HEAD_ROW, outfile_name):
-    with open(outfile_name, 'w', newline='', encoding='utf-8') as outfile:
-        outwriter = csv.writer(outfile, delimiter=';', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+def append_to_csv_file(data: list, head_row, outfile_name):
 
-        outwriter.writerow(["DATEINAME"] + HEAD_ROW)
-        for file_name, rows in data.items():
-            for row in rows:
-                outwriter.writerow([file_name] + row)
+    file_is_there = os.path.exists(outfile_name)
+
+    with open(outfile_name, 'a', newline='', encoding='utf-8') as outfile:
+        outwriter = csv.DictWriter(outfile, quoting=csv.QUOTE_MINIMAL, fieldnames=head_row)
+
+        if not file_is_there:
+            outwriter.writeheader()
+
+        for row in data:
+
+            newrow = row
+            for key, value in newrow.items():
+                # Anonymize the data of non-stadt-münster-Organisations
+                if key == "AnlagenbetreiberName":
+                    if not (re.match(r"(Stadt.*Münster)", value) or "Stadtbau" in value):
+                        newrow[key] = ""
+                        newrow["EinheitName"]=""
+                # Some columns contain the weird string "/Date(...)/" -> Convert it to a date
+                if isinstance(value, str):
+                    m = re.match(r"/Date\((\d+)\)/", value)
+                    if m:
+                        unixtimestamp = int(m.group(1))/1000
+                        newrow[key] = datetime.fromtimestamp(unixtimestamp).strftime('%Y-%m-%d')
+            # Remove Einheitname because anonymisation
+            outwriter.writerow(newrow)
 
 
-def save(URL, TYPE):
+def save(url_without_pagination, energy_type, collect_all_rows_to_this_csv_file):
     """ Parse all result pages and write json File """
     custom_fig = pyfiglet.Figlet(font=HEADLINE_FONT, width=120)
-    logging.info("\n%s", custom_fig.renderText(TYPE[0:13]))
+    logging.info("\n%s", custom_fig.renderText(energy_type[0:13]))
+
+    if collect_all_rows_to_this_csv_file:
+        if os.path.exists(collect_all_rows_to_this_csv_file):
+            os.remove(collect_all_rows_to_this_csv_file)
 
     exclude_ids = {}
     accumulated_results = None
     pagenr = 1
     while True:
         logging.info("# \\.")
-        logging.info("####>>> Processing %s Anlagen - Page %s <<<", TYPE, pagenr)
+        logging.info("####>>> Processing %s Anlagen - Page %s <<<", energy_type, pagenr)
         logging.info("# /°")
-        page_url = URL + '&page=' + str(pagenr)
-        response = collect_data_from_url(page_url, exclude_ids, accumulated_results, TYPE)
+        page_url = url_without_pagination + '&page=' + str(pagenr)
+        response = collect_data_from_url(page_url, exclude_ids, accumulated_results, energy_type, collect_all_rows_to_this_csv_file)
         if not response:
-            logging.info("EMPTY PAGE - %s is done.", TYPE)
+            logging.info("EMPTY PAGE - %s is done.", energy_type)
             break
         accumulated_results = response
         pagenr = pagenr + 1
-    write_json_file(accumulated_results, f"anlagen_{TYPE.lower().replace(' ', '_')}.json")
+    write_json_file(accumulated_results, f"anlagen_{energy_type.lower().replace(' ', '_')}.json")
     logging.info(pprint.pformat(accumulated_results))
 
 
-save(SOURCE_URL, "Wind")
-save(SOURCE_URL, "Solare Strahlungsenergie")
+save(SOURCE_URL, "Wind", COMPLETE_CSV_FILE_NAME)
+save(SOURCE_URL, "Solare Strahlungsenergie", False)
