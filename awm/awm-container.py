@@ -22,12 +22,12 @@ LOGGER.info("=====> START %s <=====", TODAY)
 ###        a) Choose desired container type
 ###        b) "Bitte den Stadtteil auswählen: 'alle Stadtteile'"
 ###        c) Click on any "Standort" (click the map pin icon on the right)
-###        d) A map with all positions will show. Check the network requests.
-###        e) Save response json to this subdirectory "data/"
+###        d) A map with all positions will show. Check the network tab for xhr request "AwmStart".
+###        e) Save response json to the subdirectory "data/" als files with ending ".json"
 ###        f) repeat 3 times (all container types: kleider, elektro, glas)
 ###
 ### STEP 2: Run this script
-###     JSON files will be converted to CSV, CSV-files will be written to "data/" dir
+###     in directory "../data/": "awm-$xyz.json" files will be parsed and written to ".csv" and ".geojson"
 ###
 
 
@@ -58,7 +58,7 @@ for config in files:
     with open(outfile, mode='w') as csv_file:
 
         writer = csv.writer(csv_file, dialect='excel')
-        writer.writerow(['Nr', 'Containertyp', 'Standort1', 'Standort2', 'Standort3', 'Latitude', 'Longitude'])
+        writer.writerow(['Containertyp', 'Standort1', 'Standort2', 'Standort3', 'Latitude', 'Longitude'])
 
         # for some reason items is not an array but a dictionary
         #    print(type(data['poiCategory1']['items']))
@@ -68,7 +68,6 @@ for config in files:
             if "inf" in item:
                 LOGGER.info(" %s / %s", counter, item)
                 writer.writerow([
-                    counter,
                     containertype,
                     item['inf'][0],
                     item['inf'][1],
