@@ -5,6 +5,16 @@
     {
         "inf": [
             "48151 M\u00fcnster - Aaseestadt",
+            "Lange Ossenbeck (Buskehre)",
+            ""
+        ],
+        "lat": "51.937237",
+        "lng": "7.597556",
+        "iwo": 1
+    },
+    {
+        "inf": [
+            "48151 M\u00fcnster - Aaseestadt",
             "Lange Ossenbeck\/Kleihorststra\u00dfe",
             ""
         ],
@@ -18,8 +28,7 @@
             ""
         ],
         "lat": "51.923733",
-        "lng": "7.529846",
-        "iwo": 1
+        "lng": "7.529846"
     },
     {
         "inf": [
@@ -317,15 +326,6 @@
         ],
         "lat": "51.925842",
         "lng": "7.576516"
-    },
-    {
-        "inf": [
-            "48163 M\u00fcnster - Mecklenbeck",
-            "Ossenkampstiege \/ Boeselagerstr.",
-            ""
-        ],
-        "lat": "51.936428",
-        "lng": "7.596465"
     },
     {
         "inf": [

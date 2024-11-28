@@ -6,6 +6,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.597556,
+          51.937237
+        ]
+      },
+      "properties": {
+        "Typ": "Elektrokleinger\u00e4te-Container",
+        "Stadtteil": "48151 M\u00fcnster - Aaseestadt",
+        "Standort": "Lange Ossenbeck (Buskehre)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.59968,
           51.938862
         ]
@@ -524,21 +539,6 @@
         "Typ": "Elektrokleinger\u00e4te-Container",
         "Stadtteil": "48163 M\u00fcnster - Mecklenbeck",
         "Standort": "Meyerbeerstra\u00dfe 46 (Parkstreifen)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.596465,
-          51.936428
-        ]
-      },
-      "properties": {
-        "Typ": "Elektrokleinger\u00e4te-Container",
-        "Stadtteil": "48163 M\u00fcnster - Mecklenbeck",
-        "Standort": "Ossenkampstiege / Boeselagerstr."
       }
     },
     {
