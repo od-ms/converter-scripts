@@ -1,0 +1,3740 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.606371,
+          51.941853
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Bonhoefferstra\u00dfe (Polizeischule gg\u00fc.)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.607582,
+          51.947723
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Delpstra\u00dfe/Goerdeler Stra\u00dfe (gegen\u00fcber Hochh\u00e4user)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.597556,
+          51.937237
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Lange Ossenbeck (Buskehre)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59968,
+          51.938862
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Lange Ossenbeck/Kleihorststra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.601887,
+          51.94228
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Von-Ossietzky-Str. gegen\u00fc. Tennisplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61213,
+          51.945587
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Von-Stauffenbergstr. gegen\u00fc. Haus Nr. 36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.526349,
+          51.920242
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Am K\u00e4mpken"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.529778,
+          51.923843
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Concordenstr. (Parkplatz vor dem Sportplatz)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.521031,
+          51.925007
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "D\u00fclmener Stra\u00dfe (gegen\u00fcber Feuerwehr)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.526518,
+          51.914619
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Langenkamp (Buswende)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.52643,
+          51.92342
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Osthofstra\u00dfe (Parkplatz Friedhof)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.604564,
+          51.88549
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Am Emmerbach (Parkplatz)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.605256,
+          51.883064
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Auf der Woort (vor Getr\u00e4nkemarkt Dursty, Parkstreifen)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.608515,
+          51.881355
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Davertstra\u00dfe (Feuerwehr/Friedhof)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.578858,
+          51.894478
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Kappenberger Damm (Wiedau-Schule)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.615717,
+          51.883289
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Pater-Kolbe-Stra\u00dfe/Am Dornbusch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.684429,
+          51.912727
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "wei\u00df/gr\u00fcn/braun",
+        "Standort": "Albersloher Weg/Zum Kaiserbusch gegen\u00fcber Haus Nr. 1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.699961,
+          51.923958
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "wei\u00df/gr\u00fcn/braun",
+        "Standort": "Alter Postweg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.690217,
+          51.915607
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "gr\u00fcn/braun, wei\u00df",
+        "Standort": "Am Sch\u00fctthook (Junker-J\u00f6rg-Platz)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.694539,
+          51.915855
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "wei\u00df/gr\u00fcn/braun",
+        "Standort": "Am Sch\u00fctthook (Parkplatz Boelestra\u00dfe)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.689929,
+          51.91206
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "wei\u00df/gr\u00fcn/braun",
+        "Standort": "Bonnenkamp/ Middelkamp (Wendehammer)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.707878,
+          51.917656
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "gr\u00fcn/braun, wei\u00df",
+        "Standort": "Brandhoveweg/Pepinghegeweg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.677308,
+          51.9221
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "gr\u00fcn/braun, wei\u00df",
+        "Standort": "Buschstra\u00dfe 6/Zum Erlenbusch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.691037,
+          51.914375
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "wei\u00df/gr\u00fcn/braun",
+        "Standort": "Eichendorffstra\u00dfe vor Haus Nr. 3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.681194,
+          51.919628
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "wei\u00df/gr\u00fcn/braun",
+        "Standort": "Homannstra\u00dfe/Zum Erlenbusch 100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.677483,
+          51.918465
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "",
+        "Standort": "Schlesienstra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.677505,
+          51.918427
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "wei\u00df/gr\u00fcn/braun",
+        "Standort": "Schlesienstra\u00dfe/Ostpreu\u00dfenstra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.692838,
+          51.914455
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "wei\u00df/gr\u00fcn/braun",
+        "Standort": "Theodor-Heuss-Stra\u00dfe 10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.684626,
+          51.914555
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "gr\u00fcn/braun, wei\u00df",
+        "Standort": "Vogelrohrsheide (vor Haus Nr. 138)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.625546,
+          51.931835
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Am Berg Fidel (Parkpl. Preu\u00dfen-Stadion)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.624035,
+          51.926998
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Am Berg Fidel (gg\u00fc. Haus Nr. 62)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.621697,
+          51.921417
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Elsa-Br\u00e4ndstr\u00f6m-Weg/Vennheideweg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.619977,
+          51.927155
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Hogenbergstr. vor Haus Nr. 21-27 Einkaufszentrum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61725,
+          51.926044
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Lechterstra\u00dfe 6 (B\u00fcrgersteig)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.622861,
+          51.926411
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Pankokstra\u00dfe (Haus Simeon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.620609,
+          51.925774
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Ter-Borch-Stra\u00dfe (Parkplatz)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.622635,
+          51.968212
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Am Kreuztor (REWE-Markt)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.637667,
+          51.956196
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Bremer Platz (gegen\u00fcber Bahnhofseingang)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.604761,
+          51.965752
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Einsteinstra\u00dfe/Hittorfstra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.631752,
+          51.950481
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Friedrich-Ebert-Stra\u00dfe/Annenstra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.620634,
+          51.951641
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Geiststra\u00dfe 10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.640486,
+          51.971039
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Goldstra\u00dfe/Piusallee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.612333,
+          51.971848
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Grevener Stra\u00dfe, H\u00f6he Nr. 61c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.643968,
+          51.953514
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Hansaring (REWE-Markt)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.622813,
+          51.953445
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Hermannstra\u00dfe/Norbertstra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.605673,
+          51.960754
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "H\u00fcfferstr. (auf Parkstr. vor Haus Nr. 54, M\u00f6serweg)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.622202,
+          51.965084
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Katthagen/Rosenplatz (Unterflur)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.613043,
+          51.949726
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Kolde-Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.631551,
+          51.964432
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Korduanenstra\u00dfe (H\u00f6rster Parkplatz)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.625776,
+          51.958977
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "K\u00f6nigsstr. (Parkplatz vor Haus Nr. 46, AOK)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.632208,
+          51.953434
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Leostra\u00dfe/Hafenstra\u00dfe (Busbahnhof)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.626627,
+          51.970196
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Maximilianstra\u00dfe/Zuhornstra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.619821,
+          51.958794
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "M\u00fchlenstra\u00dfe/Am Stadtgraben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.617672,
+          51.966702
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "M\u00fcnzstra\u00dfe/Kalkmarkt (gegen\u00fcber)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.623393,
+          51.971889
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Nordplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64533,
+          51.962105
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Oststr. (gg\u00fc. Fernmeldeamt, Durchgang)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.614333,
+          51.953228
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Scharnhorststra\u00dfe (Hoppendamm) Unterflur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.607161,
+          51.950066
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Scharnhorststra\u00dfe vor Haus Nr. 100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.617717,
+          51.963127
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Schlossplatz (gg\u00fc. Frauenstra\u00dfe)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.635615,
+          51.959908
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Servatiiplatz/Wolbecker Stra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.60658,
+          51.972324
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Steinfurter Str. 67-81 (Studentenw.)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.612375,
+          51.969162
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Steinfurter Stra\u00dfe 23-25 (REWE-Markt)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.618198,
+          51.969345
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Studtplatz/Grimmstra\u00dfe  Unterflur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.627707,
+          51.954987
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "S\u00fcdstra\u00dfe/Hafenstra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.620446,
+          51.960754
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Universit\u00e4tsstra\u00dfe/Bispinghof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.630901,
+          51.966888
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Wasserstra\u00dfe/Kanalstra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.60355,
+          51.968712
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Wilhelmstra\u00dfe/Orl\u00e8ans-Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.610001,
+          51.97438
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "York-Ring (Hauptfeuerwache)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.660605,
+          51.990982
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "An der Kleimannbr\u00fccke 25 (Kanal)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.662595,
+          51.995888
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "An der Kleinannbr\u00fccke/August-Horch-Stra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.649341,
+          51.987568
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "An der Meerwiese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.648975,
+          51.997517
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Dachsleite/Marienburgstra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.642728,
+          51.991726
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "G\u00f6rlitzer Stra\u00dfe (zw. Haus Nr. 34-58)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.646639,
+          51.993423
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Hamannplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.665422,
+          52.010876
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "wei\u00df/gr\u00fcn/braun",
+        "Standort": "Hessenbusch gg\u00fc. 184 (Wagenburg)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.633314,
+          51.984341
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Josef-K\u00f6nig-Str./Nevinghoff / Arbeitsamt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.640459,
+          51.999153
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Nerzweg gegen\u00fcber Haus Nr. 32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.650028,
+          51.993668
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Schneidem\u00fchler Str. /K\u00f6nigsberger Str."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.652406,
+          52.010937
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Zum Heidehof 80 (Recyclinghof Coerde)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.630926,
+          51.948067
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Augustastra\u00dfe/Friedrich-Ebert-Stra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.601066,
+          51.926701
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Buldernweg/Drensteinfurtweg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.613087,
+          51.93103
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "D\u00fcesbergweg (Maria-H\u00f6tte-Stift)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.620346,
+          51.939926
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Els\u00e4sser Stra\u00dfe/Metzer Stra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.630899,
+          51.943275
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "",
+        "Standort": "Friedrich-Ebert-Stra\u00dfe (E-Center, ehem. Toom-Markt)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.600092,
+          51.929947
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Geringhoffstra\u00dfe (HIT-Markt)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62808,
+          51.946091
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Herdingstra\u00dfe/Travelmannstra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.608469,
+          51.935253
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Kappenberger Damm gegen\u00fcber Haus Nr. 88"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.611925,
+          51.924641
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Kriegerweg 41 (Bahnunterf\u00fchrung)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.627559,
+          51.938881
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Scheibenstra\u00dfe (vor Haus Nr. 115)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.625407,
+          51.942413
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Scheibenstra\u00dfe / Friedrich-Ebert-Stra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.621973,
+          51.945499
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Sentmaringer Weg/Geiststr./Marktplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.625407,
+          51.94968
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "St.-Josef-Kirchplatz (Hammer Stra\u00dfe/ Dahlweg)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.603225,
+          51.92424
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Werneweg/Kappenberger Damm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.622934,
+          51.944141
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "",
+        "Standort": "W\u00f6rthstra\u00dfe 4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.675924,
+          52.028553
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "wei\u00df/gr\u00fcn/braun",
+        "Standort": "Westerheide (Schule)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.674493,
+          52.025928
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "gr\u00fcn/braun, wei\u00df",
+        "Standort": "Zur Eckernheide (Sportplatz)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.57483,
+          51.965122
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Arnheimweg (Parkplatz Sportgel\u00e4nde)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.572401,
+          51.968826
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Borghorstweg/Enschedeweg/Ahausweg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.574424,
+          51.975597
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Gescherweg (Haus Nr. 70-84)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.568089,
+          51.965359
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Gievenbecker Reihe (am Sportplatz)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.56421,
+          51.972759
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Heekweg 15 (Sparkasse)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.570235,
+          51.974056
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Hensenstra\u00dfe (vor Haus Nr. 190)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.58553,
+          51.976212
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Horstmarer Landweg (Haus Nr. 250-258)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.602499,
+          51.970104
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Horstmarer Landweg (Wendehammer) vor Uni Sportplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59637,
+          51.971432
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Horstmarer Landweg bei Haus Nr. 92"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.57172,
+          51.957581
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "RATIO Verbrauchermarkt / Roxeler Str. 416-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.570661,
+          51.960854
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Recyclinghof Gievenbeck"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.571204,
+          51.970848
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "R\u00fcschhausweg/Asbeckweg/Bentheimweg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.565579,
+          51.97332
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "R\u00fcschhausweg/Toppheideweg (Coop)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.560686,
+          51.973133
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Stadtlohnweg gegen\u00fc. Haus Nr. 1-17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.572505,
+          51.972908
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Twenteweg (Haus Nr. 1)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.581358,
+          51.966751
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Von-Esmarch-Str. (vor Haus Nr. 168)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.593898,
+          51.965172
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Von-Esmarch-Str./Schreiberstra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.562038,
+          51.968044
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Wickenkamp/Dieckmannstra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.669054,
+          51.926556
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "gr\u00fcn/braun, gr\u00fcn, wei\u00df, wei\u00df/gr\u00fcn/braun",
+        "Standort": "Albersloher Weg 450 (Einfahrt York-Karserne)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.687179,
+          51.928375
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "wei\u00df/gr\u00fcn/braun",
+        "Standort": "Angelmodder Weg (gg\u00fc. Haus Nr. 80) / Agathastr."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.654998,
+          51.930607
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "wei\u00df/gr\u00fcn/braun",
+        "Standort": "Biederlackweg gegen\u00fc. Haus Nr. 71"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.651419,
+          51.941086
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "gr\u00fcn/braun, wei\u00df",
+        "Standort": "Boelckeweg (am Bahndamm)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.666986,
+          51.931797
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "wei\u00df/gr\u00fcn/braun",
+        "Standort": "Erbdrostenweg/Anton-Knubel-Weg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.668984,
+          51.920677
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "wei\u00df/gr\u00fcn/braun",
+        "Standort": "Frankenweg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.65537,
+          51.933544
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "wei\u00df/gr\u00fcn/braun",
+        "Standort": "Fridtjof-Nansen-Weg 10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.672285,
+          51.929703
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "wei\u00df/gr\u00fcn/braun",
+        "Standort": "Gremmendorfer Weg 34 (n\u00e4he Bahn\u00fcbergang)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.681217,
+          51.932178
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "gr\u00fcn/braun, wei\u00df",
+        "Standort": "Gremmendorfer Weg/ B\u00f6ddingheideweg (ehem. Zwi-Schulmann-Weg)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.645896,
+          51.938759
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Loddenheide 2 / Egbert-Snoek-Str. Marktkauf (Parkplatz)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.641551,
+          51.93885
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Recyclinghof Eulerstra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.638512,
+          51.944805
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Am Hawerkamp 39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.71592,
+          52.002293
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "gr\u00fcn/braun, wei\u00df",
+        "Standort": "An den Eichen (Parkstreifen)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.705504,
+          51.989536
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "gr\u00fcn/braun, wei\u00df",
+        "Standort": "Heriburgstra\u00dfe (Parkplatz Hallenbad)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.704549,
+          51.981728
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "gr\u00fcn/braun, wei\u00df",
+        "Standort": "Hobbeltstra\u00dfe/Handorfer Stra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.697667,
+          51.987602
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "gr\u00fcn/braun, gr\u00fcn, wei\u00df",
+        "Standort": "Hugo-Pottebaum-Platz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.708974,
+          51.987438
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "gr\u00fcn/braun, gr\u00fcn, wei\u00df",
+        "Standort": "Kirschgarten/Hobbeltstr. (Sportplatz)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.701195,
+          51.986298
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "wei\u00df/gr\u00fcn/braun",
+        "Standort": "Kr\u00fcsbreede, Friedhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.716472,
+          51.999031
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "wei\u00df/gr\u00fcn/braun",
+        "Standort": "L\u00fctzowstra\u00dfe (Soldatenheim gegen\u00fc. Bushaltestelle)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.668847,
+          51.987469
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "wei\u00df/gr\u00fcn/braun",
+        "Standort": "Mariendorfer Str. (Haus Nr. 35)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.673992,
+          51.988544
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "wei\u00df/gr\u00fcn/braun",
+        "Standort": "Mariendorfer Str. / Im Sundern (Stra\u00dfenrand)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.713545,
+          51.989388
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "gr\u00fcn/braun, wei\u00df",
+        "Standort": "Recyclinghof Handorf Panzerstra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.681153,
+          51.997078
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "gr\u00fcn/braun, wei\u00df/gr\u00fcn, wei\u00df",
+        "Standort": "Sudm\u00fchlenstr./Havichhorststr."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.668835,
+          51.902493
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Adolf-Wentrup-Weg/Asternweg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.673036,
+          51.903996
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Am Roggenkamp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.634603,
+          51.900467
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Amelsb\u00fcrener Str./Langestra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.624178,
+          51.898232
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Amelsb\u00fcrener Str./Meesenstiege"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.648747,
+          51.91
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Beethovenstra\u00dfe gegen\u00fcber Haus Nr. 4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.619626,
+          51.906822
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Burgwall/Linckensstra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.666804,
+          51.901039
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Franz-Marc-Weg (Buswendeplatz)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.654262,
+          51.903767
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "",
+        "Standort": "Glasuritstra\u00dfe, Zufahrt zum Bahnhof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.623629,
+          51.901825
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Helene-Weigel-Weg (Parkplatz hinter E-Center)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.634952,
+          51.902592
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Hoffmann-von-Fallersleben-Weg/Kortumweg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.623936,
+          51.910946
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "H\u00fcnenburg/Linckensstr., (Tenniscenter)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.655836,
+          51.912704
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Im Hain (gg\u00fc. Haus Nr. 35)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.656748,
+          51.906296
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Kanalpromenade unter Br\u00fccke Osttor/ F\u00f6hrenweg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.654245,
+          51.903778
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Max-Winkelmann-Str. / Bergiusstra\u00dfe (alter Bahnhof)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.634893,
+          51.91391
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Merkureck/Hohe Geest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.642563,
+          51.905052
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Mor\u00e4nenstra\u00dfe/Kardinalstr. (Markt)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.66878,
+          51.90659
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Osttor (Parkplatz Stadion)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.644838,
+          51.895908
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Recyclinghof Hansestra\u00dfe/Glasuritstra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64105,
+          51.898979
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Westfalenstra\u00dfe/Zum Roten Berge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.659473,
+          51.903862
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Zum Hiltruper See (Ortsausgang, h\u00f6he Haus-Nr. 30)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.650055,
+          51.886429
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Zum Hiltruper See/Westfalenstra\u00dfe (Parkplatz Hohe Ward)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.592439,
+          52.000778
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "gr\u00fcn/braun, wei\u00df",
+        "Standort": "Br\u00fcningheide (Haus Nr. 111-121)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.595122,
+          52.000397
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "wei\u00df/gr\u00fcn/braun",
+        "Standort": "Br\u00fcningheide 123 (Meinertzstr. gg\u00fc.)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.599298,
+          52.001865
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "wei\u00df/gr\u00fcn/braun",
+        "Standort": "Diesterwegstr./Meinertzstra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.599377,
+          52.00087
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "wei\u00df/gr\u00fcn/braun",
+        "Standort": "Diesterwegstr./Schm\u00fcllingstr. (Parkstr.)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.611165,
+          51.983723
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Dreizehnerstra\u00dfe/Grevener Stra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.612909,
+          51.995136
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "gr\u00fcn/braun, wei\u00df",
+        "Standort": "Janningsweg/Grevener Stra\u00dfe (Stadtausw\u00e4rts)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.598622,
+          51.997406
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "gr\u00fcn/braun, wei\u00df",
+        "Standort": "Josef-Beckmann-Str./Br\u00fcningheide"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.597071,
+          51.997375
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "wei\u00df/gr\u00fcn/braun",
+        "Standort": "Josef-Beckmann-Str./Sprickmannstr."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.609817,
+          51.988323
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "gr\u00fcn, wei\u00df/braun, wei\u00df",
+        "Standort": "Kerstingskamp vor Nr. 24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59405,
+          51.99934
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "wei\u00df/gr\u00fcn/braun",
+        "Standort": "Killingstr. Haus Nr. 15 gegen\u00fcber"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.60796,
+          51.987228
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "wei\u00df/gr\u00fcn/braun",
+        "Standort": "Rektoratsweg/Im Moorhock 54-36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.594129,
+          51.998631
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "wei\u00df/gr\u00fcn/braun",
+        "Standort": "Sprickmannstr. (Haus Nr. 19 gegen\u00fcber)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.592207,
+          51.997715
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "gr\u00fcn/braun, wei\u00df",
+        "Standort": "Sprickmannstr. / Josef-Beckmann-Str. / Langeworth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.605184,
+          51.974457
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Steinfurter Str. 104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.604641,
+          52.00024
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "wei\u00df/gr\u00fcn/braun",
+        "Standort": "Von Humboldt-Stra\u00dfe (vor Recyclinghof)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.605937,
+          51.982868
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Von-Einem-Str./ Gasselstiege gegen\u00fcber Haus-Nr 182"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.603484,
+          51.997746
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "gr\u00fcn/braun, wei\u00df",
+        "Standort": "Von-Humboldt-Str. 11/Kristiansandstr."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.599206,
+          51.993469
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "gr\u00fcn/braun, gr\u00fcn, wei\u00df",
+        "Standort": "Westhoffstra\u00dfe (Parkplatz REWE Markt)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.653021,
+          51.958149
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Andreas-Hofer-Stra\u00dfe (OFD)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.655171,
+          51.953896
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "August-Schepers-Stra\u00dfe/vor der Kanalbr\u00fccke Leinenpfad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.649163,
+          51.970932
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Dieckstra\u00dfe/Mecklenburger Stra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.647442,
+          51.958385
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Hohenzollernring/Manfred-von-Richthofen-Str."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.666448,
+          51.955795
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Manfred-von-Richthofen-Str./Merschkamp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.658765,
+          51.959148
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Mauritz-Lindenweg (Hallenbad-Ost) Parkpl."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.676224,
+          51.958359
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Mondstra\u00dfe/Hans-Bredow-Weg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.675664,
+          51.949944
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Mondstra\u00dfe/Peter-Rosegger-Weg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.68407,
+          51.962414
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Pleisterm\u00fchlenweg (Kl\u00e4rwerk)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.684342,
+          51.96188
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Pleisterm\u00fchlenweg (Recyclinghof)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.653685,
+          51.972275
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "P\u00f6tterhoek/Cloppenburgstra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.656959,
+          51.971226
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Schiffahrter Damm 75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.648145,
+          51.952538
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Schillerstra\u00dfe /Ecke Ewaldistra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.649329,
+          51.963406
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Stiftsstra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.648202,
+          51.956608
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Von-der-Tinnen-Str./Sophienstr."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.657542,
+          51.967869
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Warendorfer Stra\u00dfe 189 (Parkplatz Rewe)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.669298,
+          51.951363
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Wolbecker Str. 296 (Parkpl.)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.669279,
+          51.95137
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "",
+        "Standort": "Wolbecker Str./ Clara-Ratzka-Weg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.690635,
+          51.946774
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Wolbecker Stra\u00dfe (Freibad Stapelskotten, Parkplatz Gastst\u00e4tte)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.663968,
+          51.962791
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Zum Guten Hirten (v.d. Kanalbr\u00fccke)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.579145,
+          51.930538
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Brockmannstra\u00dfe (hinter Kirche)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.574136,
+          51.930477
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Christop-Bernhard-Str/ Spielplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.589543,
+          51.935619
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Echelmeyerstra\u00dfe (Parkpl. Bildungsz.)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.576723,
+          51.925892
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Meyerbeerstra\u00dfe 71"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.596457,
+          51.936481
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Ossenkampstiege/Boeselagerstra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.554598,
+          51.930542
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "RH Mecklenbeck"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.575841,
+          51.920006
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Rockbusch/Kleibusch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.584455,
+          51.929585
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Sch\u00fcrbusch gegen\u00fcber Haus Nr. 19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.557883,
+          52.001541
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "wei\u00df/gr\u00fcn/braun, gr\u00fcn, wei\u00df",
+        "Standort": "Am Baumberger Hof/H\u00e4gerstra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.549464,
+          51.999985
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "wei\u00df/gr\u00fcn/braun",
+        "Standort": "Feldstiege (Parkpl. vor Sportzentrum)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.553368,
+          51.995483
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "wei\u00df/gr\u00fcn/braun",
+        "Standort": "Hermann-Hesse-Str./H\u00fclshoffstra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.558968,
+          51.998016
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "wei\u00df/gr\u00fcn/braun",
+        "Standort": "Kirmstr. gegen\u00fcber Haus Nr. 23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.543488,
+          51.993042
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "gr\u00fcn/braun, wei\u00df",
+        "Standort": "Recyclinghof Waltruper Weg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.561598,
+          52.022331
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "wei\u00df/gr\u00fcn/braun",
+        "Standort": "Schmitthausweg 4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.556325,
+          51.996719
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "gr\u00fcn/braun, wei\u00df",
+        "Standort": "Sebastianstra\u00dfe/ Plettendorfstr. (Ev. Kirche)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.547929,
+          51.994022
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "braun, gr\u00fcn, wei\u00df",
+        "Standort": "Waltruper Weg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.551159,
+          51.941013
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "",
+        "Standort": "Autobahnrastst\u00e4tte Ost"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.548377,
+          51.945625
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "",
+        "Standort": "Autobahnrastst\u00e4tte West"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.537469,
+          51.950661
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Dorffeldstra\u00dfe (gg\u00fc. Haus Nr. 32)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.530418,
+          51.951305
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Pienersallee (gegen\u00fc. Haus Nr. 26)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.535186,
+          51.947376
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Recyclinghof Roxel, Nottulner Landweg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.54164,
+          51.954731
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Schelmenstiege (Parkpl. vor der BVS)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.533664,
+          51.953308
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Schulte-Hermann-Str. (Zufahrt z. Tiefgarage)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.527064,
+          51.954082
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Tilbecker Stra\u00dfe (Parkpl. Hallenbad)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.526384,
+          51.94928
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Wenningweg (neben dem Kl\u00e4rwerk)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.588885,
+          51.968987
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Busso-Peus-Stra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.591884,
+          51.975273
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Rudolf-Harbig-Weg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.594686,
+          51.972748
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Rudolf-Harbig-Weg (Studentenw., 26-46)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.589834,
+          51.960724
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Schmeddingstr. (gegen\u00fcber Haus Nr. 50)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.596748,
+          51.950104
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Sentruper Str. (Parkplatz M\u00fchlenhof)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.601379,
+          51.955223
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Sentruper Str. (vor Sportzentrum)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.619248,
+          52.042213
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "gr\u00fcn/braun, gr\u00fcn, wei\u00df/braun, wei\u00df",
+        "Standort": "Bahnhof Sprakel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.615412,
+          52.041821
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "wei\u00df/gr\u00fcn/braun",
+        "Standort": "Dreilinden/Nienberger Stra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.619631,
+          52.032299
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "gr\u00fcn/braun, wei\u00df",
+        "Standort": "Schlusenweg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.636142,
+          51.976074
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Gartenstr. vor Haus Nr. 165-170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.645751,
+          51.982262
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Hoher Heckenweg 170/Sibeliusstra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64096,
+          51.971451
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "",
+        "Standort": "Holsteiner Stra\u00dfe/Piusallee (Wiewel-Markt)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.616317,
+          51.975925
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Jahnstra\u00dfe 26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.632902,
+          51.972527
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Kanalstra\u00dfe / Lublinring (Parkplatz) Unterflur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.613625,
+          51.980396
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Me\u00dfkamp/Kinderhauser Stra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.646607,
+          51.975903
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Stettiner Str. (gg\u00fc. Haus Nr. 68-82)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62163,
+          51.97736
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "bunt, wei\u00df",
+        "Standort": "Wienburgstra\u00dfe/Salzmannstra\u00dfe 1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.730451,
+          51.921364
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "gr\u00fcn/braun, wei\u00df",
+        "Standort": "Am Borggarten (neben Haus Nr. 3)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.728437,
+          51.912006
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "wei\u00df/gr\u00fcn/braun",
+        "Standort": "Am Steintor/Juffernkamp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.715109,
+          51.915874
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "gr\u00fcn, wei\u00df/braun, wei\u00df",
+        "Standort": "Brandhoveweg (Parkplatz Hallenbad)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.726744,
+          51.918667
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "gr\u00fcn/braun, wei\u00df",
+        "Standort": "Dirk-von-Merveldt-Str. Ev.-Kirche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.726744,
+          51.921391
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "gr\u00fcn/braun, wei\u00df",
+        "Standort": "Eschstra\u00dfe 6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.721637,
+          51.92297
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "wei\u00df/gr\u00fcn/braun",
+        "Standort": "Goldbrink (vor Haus Nr. 69)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.717853,
+          51.911495
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "gr\u00fcn/braun, wei\u00df",
+        "Standort": "Hiltruper Str. 55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.73444,
+          51.916927
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "gr\u00fcn, wei\u00df/braun, wei\u00df",
+        "Standort": "Hofstr. (neben Feuerwehrger\u00e4tehaus)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.724731,
+          51.925724
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "gr\u00fcn/braun, wei\u00df",
+        "Standort": "Middeler Stra\u00dfe (K&amp;K)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.721005,
+          51.918297
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "gr\u00fcn/braun, wei\u00df",
+        "Standort": "Recyclinghof Eschstra\u00dfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.720199,
+          51.905758
+        ]
+      },
+      "properties": {
+        "Typ": "Glascontainer",
+        "Sorten": "gr\u00fcn, wei\u00df/braun, wei\u00df",
+        "Standort": "Zumbuschstr./Buxtrup"
+      }
+    }
+  ]
+}
