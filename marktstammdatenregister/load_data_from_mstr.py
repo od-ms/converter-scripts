@@ -145,6 +145,12 @@ def collect_data_from_url(mstr_url, id_list, start_values, energietraeger_name, 
     for anlage in anlagen:
         if anlage["EnergietraegerName"] != energietraeger_name:
             continue
+        if anlage["BetriebsStatusName"] == 'In Planung':
+            logging.debug("Skip Anlage in Planung")
+            continue
+        if anlage["Ort"] != 'Münster':
+            logging.debug("Skip Anlage not in Münster")
+            continue
 
         # Skip anlagen that we already have
         anlagen_id = anlage['MaStRNummer']
