@@ -156,6 +156,8 @@ def get_external_data(filename, quelle, einheit):
     with open(filename) as user_file:
         parsed_json = json.load(user_file)
         for name, value in parsed_json["Summen"].items():
+            if (name == "AnzahlSolarModule") and ("wind" in filename):
+                continue;
             new_data.append([
                 "Münster, Gesamtstadt",
                 quelle,
@@ -163,7 +165,7 @@ def get_external_data(filename, quelle, einheit):
                 name,
                 str(datetime.now())[0:10],
                 value,
-                einheit
+                "Anzahl" if ("Anzahl" in name) else einheit
             ])
     return new_data
 
