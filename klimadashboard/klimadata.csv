@@ -1173,11 +1173,11 @@ co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima
 co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Verkehr - Kraftstoffmix Verkehr;2022;543934,07;t
 co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Verkehr - Strom;2022;17764,90;t
 co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Verkehr - Summe;2022;561698,98;t
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlAnlagen;2024-12-03;10924;kW
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlSolarModule;2024-12-03;528067;kW
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Bruttoleistung;2024-12-03;140136;kW
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Nettonennleistung;2024-12-03;126487;kW
-bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlAnlagen;2024-12-03;48;kW
-bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlSolarModule;2024-12-03;0;kW
-bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Bruttoleistung;2024-12-03;98551;kW
-bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Nettonennleistung;2024-12-03;98551;kW
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlAnlagen;2024-12-04;10647;kW
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlSolarModule;2024-12-04;512132;kW
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Bruttoleistung;2024-12-04;134492;kW
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Nettonennleistung;2024-12-04;121707;kW
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlAnlagen;2024-12-04;29;kW
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlSolarModule;2024-12-04;0;kW
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Bruttoleistung;2024-12-04;68451;kW
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Nettonennleistung;2024-12-04;68451;kW
