@@ -196,7 +196,7 @@ def append_to_csv_file(data: list, head_row, outfile_name):
             for key, value in newrow.items():
                 # Anonymize the data of non-stadt-münster-Organisations
                 if key == "AnlagenbetreiberName":
-                    if not (re.match(r"(Stadt.*Münster)", value) or "Stadtbau" in value):
+                    if not (re.match(r"(Stadt.*Münster)", value) or ("Stadtbau" in value) or ("AWM" in value)):
                         newrow[key] = ""
                         newrow["EinheitName"]=""
                 # Some columns contain the weird string "/Date(...)/" -> Convert it to a date
