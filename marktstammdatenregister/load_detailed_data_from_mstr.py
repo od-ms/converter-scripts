@@ -34,7 +34,7 @@ BASE_URL = 'https://www.marktstammdatenregister.de/MaStR/Einheit/EinheitJson/Get
 
 # https://www.marktstammdatenregister.de/MaStR/Einheit/EinheitJson/GetErweiterteOeffentlicheEinheitStromerzeugung?sort=&page=2&pageSize=10&group=&filter=Gemeinde~eq~%27M%C3%BCnster%27
 
-COMPLETE_CSV_FILE_NAME = 'alle-anlagen-muenster.csv'
+COMPLETE_CSV_FILE_NAME = 'alle-anlagen-muenster-details.csv'
 
 SOURCE_URL = (
     BASE_URL + 'sort=EinheitRegistrierungsdatum-desc'
@@ -188,7 +188,10 @@ def write_json_file(data, outfile_name):
 
 def append_to_csv_file(data: list, head_row, outfile_name):
 
+    unwanted_cols = ["NetzbetreiberMaskedNamen", "NetzbetreiberMaStRNummer", "Bundesland", "Landkreis", "SystemStatusName","Gemeinde","Gemeindeschluessel"]
     file_is_there = os.path.exists(outfile_name)
+    for val in unwanted_cols:
+        head_row.remove(val)
 
     with open(outfile_name, 'a', newline='', encoding='utf-8') as outfile:
         outwriter = csv.DictWriter(outfile, quoting=csv.QUOTE_MINIMAL, fieldnames=head_row)
@@ -199,9 +202,8 @@ def append_to_csv_file(data: list, head_row, outfile_name):
         for row in data:
 
             newrow = row
-             
-            newrow.pop("NetzbetreiberMaskedNamen", None)
-            newrow.pop("NetzbetreiberMaStRNummer", None)          	
+            for val in unwanted_cols:
+                newrow.pop(val, None)
 
             for key, value in newrow.items():
                 # Anonymize the data of non-stadt-münster-Organisations
