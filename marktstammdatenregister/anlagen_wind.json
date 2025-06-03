@@ -1,34 +1,41 @@
 {
   "Summen": {
-    "AnzahlAnlagen": 28,
+    "AnzahlAnlagen": 29,
     "AnzahlSolarModule": 0,
-    "Bruttoleistung": 68450,
-    "Nettonennleistung": 68450
+    "Bruttoleistung": 68451,
+    "Nettonennleistung": 68451,
+    "NutzbareSpeicherkapazitaet": 0,
+    "StadtverwaltungAnlagen": 4,
+    "StadtverwaltungBruttoleistung": 11740,
+    "StadtverwaltungNettonennleistung": 11740
   },
   "Werte": {
+    "AnlagenbetreiberPersonenArt": {
+      "517": 27,
+      "518": 2
+    },
     "BetriebsStatusName": {
-      "In Betrieb": 28
+      "In Betrieb": 29
     },
     "EnergietraegerName": {
-      "Wind": 28
+      "Wind": 29
     },
-    "IsAnonymisiert": {
-      "False": 28
-    },
-    "IsPilotwindanlage": {
-      "False": 15,
-      "None": 13
-    },
-    "PersonenArtId": {
-      "517": 27,
-      "518": 1
+    "LageEinheitBezeichnung": {
+      "Windkraft an Land": 29
     },
     "Plz": {
       "48157": 1,
-      "48159": 11,
+      "48159": 12,
       "48161": 7,
       "48163": 7,
       "48167": 2
+    },
+    "SpannungsebenenNamen": {
+      "Mittelspannung": 28,
+      "Niederspannung (= Hausanschluss/Haushaltsstrom)": 1
+    },
+    "StromspeichertechnologieBezeichnung": {
+      "None": 29
     }
   }
 }
