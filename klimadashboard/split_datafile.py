@@ -56,9 +56,7 @@ FIRST_ROW_IN = '"RAUM";"DATENQUELLE";"THEMENBEREICH";"MERKMAL";"ZEIT";"WERT";"WE
 FIRST_ROW_OUT = '"RAUM";"QUELLE_INSTITUTION";"THEMENBEREICH";"MERKMAL";"ZEIT";"WERT";"WERTEEINHEIT"'
 
 
-
-ENCODING = 'utf-8-sig' # utf8 mit bom
-
+ENCODING = 'utf-8-sig'  # utf8 mit bom
 
 
 logging.info("Reading %s", FILE)
@@ -140,7 +138,6 @@ def write_json_file(data, outfile_name):
         json.dump(data, outfile, ensure_ascii=True, indent=2, sort_keys=True)
 
 
-
 def write_csv_file_with_datsetname_in_first_column(data, HEAD_ROW, outfile_name):
     with open(outfile_name, 'w', newline='', encoding='utf-8') as outfile:
         outwriter = csv.writer(outfile, delimiter=';', quotechar='"', quoting=csv.QUOTE_MINIMAL)
@@ -157,7 +154,7 @@ def get_external_data(filename, quelle, einheit):
         parsed_json = json.load(user_file)
         for name, value in parsed_json["Summen"].items():
             if (name == "AnzahlSolarModule") and ("wind" in filename):
-                continue;
+                continue
             new_data.append([
                 "Münster, Gesamtstadt",
                 quelle,
@@ -168,7 +165,6 @@ def get_external_data(filename, quelle, einheit):
                 "Anzahl" if ("Anzahl" in name) else einheit
             ])
     return new_data
-
 
 
 DATA_SPLIT, FIRST_ROW = group_rows_by_dataset()

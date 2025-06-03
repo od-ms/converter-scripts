@@ -224,11 +224,13 @@ def append_to_csv_file(data: list, head_row, outfile_name):
                         newrow[key] = ""
                         newrow["EinheitName"] = ""
                 # Some columns contain the weird string "/Date(...)/" -> Convert it to a date
-                if isinstance(value, str):
+                elif isinstance(value, str):
                     m = re.match(r"/Date\((\d+)\)/", value)
                     if m:
                         unixtimestamp = int(m.group(1))/1000
                         newrow[key] = datetime.fromtimestamp(unixtimestamp).strftime('%Y-%m-%d')
+                    else:
+                        newrow[key] = value.replace("\n", " ").replace("\r", "").replace(",", " ")
 
             # Remove Einheitname because anonymisation
             outwriter.writerow(newrow)
