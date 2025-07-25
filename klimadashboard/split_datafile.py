@@ -22,6 +22,9 @@ DATASET_DESCRIPTIONS = {
     "awm-abfallaufkommen-pro-kopf": [1, "Abfallaufkommen pro Kopf in kg", r"^Abfallaufkommen\s"],
     "awm-e-mobilitaet":             [17, "E-Mobilität awm", r"^AWM\sFahrzeuge\s-"],
     "oekoprofit":                   [7, "Ökoprofit", r"^Projektträger\sMünster\s-"],
+    # Änderung 2025-07: pv-anlagen werden extern generiert und reingemerged
+    # (Aber wir laden trotzdem erst rein und überschreiben sie später)
+    # (Weil sonst gibt's sanity check fehlermeldungen, weil die sind ja erstmal noch in der inputdatei von 61 drin)
     "pv-anlagen":                   [15, "PV-Anlagen", r"^PV-Anlage\(n\):"],
     "verkehrsmittelwahl-zeitreihe": [4, "Zeitreihe Verkehrsmittelwahl", r"^Verkehrsmittelwahl", r"^Wege/Tag$"],
     "stadtradeln":                  [8, "Stadtradeln", r"^Stadtradeln"],
@@ -180,6 +183,20 @@ DATA_SPLIT['bestand-windanlagen'] = get_external_data(
     "Marktstammdatenregister",
     "kW"
 )
+
+
+# Merge pv_anlagen_stadt_muenster.csv into DATA_SPLIT
+def load_pv_anlagen_csv(filename):
+    rows = []
+    with open(filename, 'r', encoding='utf-8') as csvfile:
+        reader = csv.reader(csvfile, delimiter=';')
+        header = next(reader)
+        for row in reader:
+            rows.append(row)
+    return rows
+
+pv_anlagen_rows = load_pv_anlagen_csv('pv_anlagen_stadt_muenster.csv')
+DATA_SPLIT['pv-anlagen'] = pv_anlagen_rows
 
 write_json_file(DATA_SPLIT, "klimadata.json")
 write_csv_file_with_datsetname_in_first_column(DATA_SPLIT, FIRST_ROW, "klimadata.csv")
