@@ -4,3 +4,4 @@ config.py
 *.log
 *.zip
 archiv
+refill-stationen/cache/
