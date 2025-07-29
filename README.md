@@ -85,6 +85,8 @@ python3 load_data_from_mstr.py
 
 Vorher müssen die Marktstammdatenregister-Dateien aktualisiert werden (s.o.), da sie von diesem Skript als Input genutzt werden.
 
+Und vorher muss die csv-Datei mit den PV-Anlagen der Stadt Münster aktualisiert werden, siehe [klimadashboard/README.md]
+
 Die Datendatei wird 1x im Monat per Cronjob neu generiert und eingecheckt.
 Auf folgender Url werden die Metadaten der aktuellen Datei zurückgeliefert: https://opendata.stadt-muenster.de/api/3/action/resource_show?id=klimadashboard
 
