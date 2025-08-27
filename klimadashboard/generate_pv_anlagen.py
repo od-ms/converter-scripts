@@ -54,7 +54,7 @@ for jahr, wert in pro_jahr_leistung.items():
 anzahlsummen
 
 
-# In[40]:
+# In[ ]:
 
 
 import math
@@ -67,7 +67,7 @@ for jahr, leistung in leistungssummen.items():
     csv_content.append({
         "DATEINAME": "pv-anlagen",
         "RAUM": "Stadt Münster",
-        "QUELLE_INSTITUTION": "Stadtverwaltung Münster",
+        "QUELLE_INSTITUTION": "Marktstammdatenregister",
         "THEMENBEREICH": 15,
         "MERKMAL": "Leistung aller Anlagen (Summe)",
         "ZEIT": jahr,
@@ -77,7 +77,7 @@ for jahr, leistung in leistungssummen.items():
     csv_content.append({
         "DATEINAME": "pv-anlagen",
         "RAUM": "Stadt Münster",
-        "QUELLE_INSTITUTION": "Stadtverwaltung Münster",
+        "QUELLE_INSTITUTION": "Marktstammdatenregister",
         "THEMENBEREICH": 15,
         "MERKMAL": "Anzahl aller PV-Anlagen",
         "ZEIT": jahr,
@@ -93,7 +93,7 @@ for gefiltert_row in gefiltert.itertuples():
         csv_content.append({
             "DATEINAME": "pv-anlagen",
             "RAUM": f"Stadt Münster - PV Anlage {gefiltert_row.EinheitName} ({math.floor(gefiltert_row.AnzahlSolarModule)}), Inbetriebnahme: {gefiltert_row.InbetriebnahmeDatum}",
-            "QUELLE_INSTITUTION": "Stadt Münster - Amt für Immobilienmanagement",
+            "QUELLE_INSTITUTION": "Stadtverwaltung Münster",
             "THEMENBEREICH": 15,
             "MERKMAL": "Leistung ab Jahr",
             "ZEIT": jahr,
