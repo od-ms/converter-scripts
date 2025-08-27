@@ -158,6 +158,8 @@ def get_external_data(filename, quelle, einheit):
         for name, value in parsed_json["Summen"].items():
             if (name == "AnzahlSolarModule") and ("wind" in filename):
                 continue
+            if (name == "NutzbareSpeicherkapazitaet"):
+                continue
             new_data.append([
                 "Münster, Gesamtstadt",
                 quelle,
@@ -165,7 +167,7 @@ def get_external_data(filename, quelle, einheit):
                 name,
                 str(datetime.now())[0:10],
                 value,
-                "Anzahl" if ("Anzahl" in name) else einheit
+                "Anzahl" if ("Anlagen" in name) else einheit
             ])
     return new_data
 
@@ -196,8 +198,8 @@ def load_pv_anlagen_csv(filename):
     return rows
 
 # !!! Ende August 2025 die folgenden Zeilen wieder einkommentieren !!!
-# pv_anlagen_rows = load_pv_anlagen_csv('pv_anlagen_stadt_muenster.csv')
-# DATA_SPLIT['pv-anlagen'] = pv_anlagen_rows
+pv_anlagen_rows = load_pv_anlagen_csv('pv_anlagen_stadt_muenster.csv')
+DATA_SPLIT['pv-anlagen'] = pv_anlagen_rows
 
 write_json_file(DATA_SPLIT, "klimadata.json")
 write_csv_file_with_datsetname_in_first_column(DATA_SPLIT, FIRST_ROW, "klimadata.csv")

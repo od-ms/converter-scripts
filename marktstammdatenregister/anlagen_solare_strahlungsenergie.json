@@ -1,57 +1,54 @@
 {
   "Summen": {
-    "AnzahlAnlagen": 11018,
-    "AnzahlSolarModule": 528616,
-    "Bruttoleistung": 140430,
-    "Nettonennleistung": 126853,
+    "AnzahlAnlagen": 12594,
+    "AnzahlSolarModule": 568159,
+    "Bruttoleistung": 156760,
+    "Nettonennleistung": 141400,
     "NutzbareSpeicherkapazitaet": 0,
-    "StadtverwaltungAnlagen": 133,
-    "StadtverwaltungBruttoleistung": 7525,
-    "StadtverwaltungNettonennleistung": 6746
+    "StadtverwaltungAnlagen": 49,
+    "StadtverwaltungBruttoleistung": 1662,
+    "StadtverwaltungNettonennleistung": 1502
   },
   "Werte": {
     "AnlagenbetreiberPersonenArt": {
-      "517": 918,
-      "518": 10100
+      "517": 1018,
+      "518": 11576
+    },
+    "ArtDerSolaranlageBezeichnung": {
+      "Bauliche Anlagen (Hausdach, Geb\u00e4ude und Fassade)": 10152,
+      "Bauliche Anlagen (Sonstige)": 88,
+      "Freifl\u00e4che": 8,
+      "Steckerfertige Solaranlage (sog. Balkonkraftwerk)": 2346
     },
     "BetriebsStatusName": {
-      "In Betrieb": 11010,
-      "Vor\u00fcbergehend stillgelegt": 8
+      "In Betrieb": 12585,
+      "Vor\u00fcbergehend stillgelegt": 9
     },
     "EnergietraegerName": {
-      "Solare Strahlungsenergie": 11018
-    },
-    "LageEinheitBezeichnung": {
-      "Bauliche Anlagen (Hausdach, Geb\u00e4ude und Fassade)": 9246,
-      "Bauliche Anlagen (Sonstige)": 85,
-      "Freifl\u00e4che": 7,
-      "Steckerfertige Solaranlage (sog. Balkonkraftwerk)": 1680
+      "Solare Strahlungsenergie": 12594
     },
     "Plz": {
-      "48143": 39,
-      "48145": 218,
-      "48147": 552,
-      "48149": 440,
-      "48151": 445,
-      "48153": 361,
-      "48155": 796,
-      "48157": 1130,
-      "48159": 903,
-      "48161": 1655,
-      "48163": 1600,
-      "48165": 1317,
-      "48167": 1562
+      "48143": 48,
+      "48145": 266,
+      "48147": 637,
+      "48149": 495,
+      "48151": 514,
+      "48153": 417,
+      "48155": 946,
+      "48157": 1264,
+      "48159": 1053,
+      "48161": 1863,
+      "48163": 1788,
+      "48165": 1507,
+      "48167": 1796
     },
     "SpannungsebenenNamen": {
-      "Mittelspannung": 90,
-      "Mittelspannung; Mittelspannung": 1,
-      "Niederspannung (= Hausanschluss/Haushaltsstrom)": 10885,
-      "Niederspannung (= Hausanschluss/Haushaltsstrom); Niederspannung (= Hausanschluss/Haushaltsstrom)": 27,
-      "Niederspannung (= Hausanschluss/Haushaltsstrom); Niederspannung (= Hausanschluss/Haushaltsstrom); Niederspannung (= Hausanschluss/Haushaltsstrom)": 1,
-      "Umspannebene Mittelspannung/Niederspannung": 14
+      "Mittelspannung": 111,
+      "Niederspannung (= Hausanschluss/Haushaltsstrom)": 12472,
+      "Umspannebene Mittelspannung/Niederspannung": 11
     },
     "StromspeichertechnologieBezeichnung": {
-      "None": 11018
+      "None": 12594
     }
   }
 }

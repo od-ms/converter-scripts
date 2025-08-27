@@ -5,23 +5,24 @@
     "Bruttoleistung": 68451,
     "Nettonennleistung": 68451,
     "NutzbareSpeicherkapazitaet": 0,
-    "StadtverwaltungAnlagen": 4,
-    "StadtverwaltungBruttoleistung": 11740,
-    "StadtverwaltungNettonennleistung": 11740
+    "StadtverwaltungAnlagen": 0,
+    "StadtverwaltungBruttoleistung": 0,
+    "StadtverwaltungNettonennleistung": 0
   },
   "Werte": {
     "AnlagenbetreiberPersonenArt": {
       "517": 27,
       "518": 2
     },
+    "ArtDerSolaranlageBezeichnung": {
+      "None": 29
+    },
     "BetriebsStatusName": {
-      "In Betrieb": 29
+      "In Betrieb": 28,
+      "Vor\u00fcbergehend stillgelegt": 1
     },
     "EnergietraegerName": {
       "Wind": 29
-    },
-    "LageEinheitBezeichnung": {
-      "Windkraft an Land": 29
     },
     "Plz": {
       "48157": 1,

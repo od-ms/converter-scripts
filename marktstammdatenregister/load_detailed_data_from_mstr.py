@@ -128,7 +128,7 @@ def collect_data_from_url(mstr_url, id_list, start_values, energietraeger_name, 
         "EnergietraegerName": {},
         "AnlagenbetreiberPersonenArt": {},
         "SpannungsebenenNamen": {},
-        "LageEinheitBezeichnung": {},
+        "ArtDerSolaranlageBezeichnung": {},
         "StromspeichertechnologieBezeichnung": {}
     }
     wanted_sums = {
@@ -168,7 +168,7 @@ def collect_data_from_url(mstr_url, id_list, start_values, energietraeger_name, 
 
         # Count Stadt Münster Anlagen
         msCheck = anlage["AnlagenbetreiberName"]
-        if isinstance(msCheck, str) and re.match(r"(Stadt.*Münster)", msCheck):
+        if isinstance(msCheck, str) and re.match(r"(Stadt\s+Münster)", msCheck):
             wanted_sums["StadtverwaltungAnlagen"] = wanted_sums["StadtverwaltungAnlagen"] + 1
             wanted_sums["StadtverwaltungBruttoleistung"] = wanted_sums["StadtverwaltungBruttoleistung"] + anlage["Bruttoleistung"]
             wanted_sums["StadtverwaltungNettonennleistung"] = wanted_sums["StadtverwaltungNettonennleistung"] + anlage["Nettonennleistung"]

@@ -692,54 +692,28 @@ oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt
 oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - CO2;2022/2023;708,00;t pro Jahr
 oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Betriebskosten;2022/2023;469374,00; pro Jahr
 oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;einmalige Investitionskosten;2022/2023;1778428,00;
-pv-anlagen;Stadt Münster - PV Anlage Regenkläranlage Erbdrostenweg, Inbetriebnahme: 09.02.2007;Stadt Münster - Amt für Immobilienmanagement;15;Leistung ab Jahr;2007;4,94;kWp
-pv-anlagen;Stadt Münster - PV Anlage Pumpwerk Alter Postweg, Inbetriebnahme: 16.02.2011;Stadt Münster - Amt für Immobilienmanagement;15;Leistung ab Jahr;2011;7,82;kWp
-pv-anlagen;Stadt Münster - PV Anlage Regenkläranlage Erbdrostenweg, Inbetriebnahme: 09.02.2007;Stadt Münster - Amt für Immobilienmanagement;15;Stromproduktion;2017;2940,00;kWh
-pv-anlagen;Stadt Münster - PV Anlage Pumpwerk Alter Postweg, Inbetriebnahme: 16.02.2011;Stadt Münster - Amt für Immobilienmanagement;15;Stromproduktion;2017;6837,53;kWh
-pv-anlagen;Stadt Münster - PV Anlage Kita Burgwall (118) Inbetriebnahme: 10.12.2018;Stadt Münster - Amt für Immobilienmanagement;15;Leistung ab Jahr;2018;8,40;kWp
-pv-anlagen;Stadt Münster - PV Anlage Kita Legdenweg (501) Inbetriebnahme: 10.12.2018;Stadt Münster - Amt für Immobilienmanagement;15;Leistung ab Jahr;2018;8,40;kWp
-pv-anlagen;Stadt Münster - PV Anlage Kita Loddengrund (190) Inbetriebnahme: 10.12.2018;Stadt Münster - Amt für Immobilienmanagement;15;Leistung ab Jahr;2018;8,40;kWp
-pv-anlagen;Stadt Münster - PV Anlage Ludgerusschule Hiltrup (63) Inbetriebnahme: 11.12.2018;Stadt Münster - Amt für Immobilienmanagement;15;Leistung ab Jahr;2018;20,40;kWp
-pv-anlagen;Stadt Münster - PV Anlage Regenkläranlage Erbdrostenweg, Inbetriebnahme: 09.02.2007;Stadt Münster - Amt für Immobilienmanagement;15;Stromproduktion;2018;3489,00;kWh
-pv-anlagen;Stadt Münster - PV Anlage Pumpwerk Alter Postweg, Inbetriebnahme: 16.02.2011;Stadt Münster - Amt für Immobilienmanagement;15;Stromproduktion;2018;8060,49;kWh
-pv-anlagen;Stadt Münster;Stadt Münster - Amt für Immobilienmanagement;15;Leistung aller Anlagen (Summe);2018;50,40;kWp
-pv-anlagen;Stadt Münster;Stadt Münster - Amt für Immobilienmanagement;15;Anzahl aller PV-Anlagen;2018;5,00;Anzahl
-pv-anlagen;Stadt Münster - PV Anlage Kita Waldbach (1534) Inbetriebnahme: 17.06.2019;Stadt Münster - Amt für Immobilienmanagement;15;Leistung ab Jahr;2019;5,40;kWp
-pv-anlagen;Stadt Münster - PV Anlage Regenkläranlage Erbdrostenweg, Inbetriebnahme: 09.02.2007;Stadt Münster - Amt für Immobilienmanagement;15;Stromproduktion;2019;3041,00;kWh
-pv-anlagen;Stadt Münster - PV Anlage Pumpwerk Alter Postweg, Inbetriebnahme: 16.02.2011;Stadt Münster - Amt für Immobilienmanagement;15;Stromproduktion;2019;7453,00;kWh
-pv-anlagen;Stadt Münster - PV Anlage Hauptkläranlage, Inbetriebnahme: 09.11.2019;Stadt Münster - Amt für Immobilienmanagement;15;Leistung ab Jahr;2019;19,44;kWp
-pv-anlagen;Stadt Münster - PV Anlage Hauptkläranlage, Inbetriebnahme: 09.11.2019;Stadt Münster - Amt für Immobilienmanagement;15;Stromproduktion;2019;6572,00;kWh
-pv-anlagen;Stadt Münster;Stadt Münster - Amt für Immobilienmanagement;15;Leistung aller Anlagen (Summe);2019;56,10;kWp
-pv-anlagen;Stadt Münster;Stadt Münster - Amt für Immobilienmanagement;15;Anzahl aller PV-Anlagen;2019;6,00;Anzahl
-pv-anlagen;Stadt Münster - PV Anlage Albert-Schweitzer Schule (531) Inbetriebnahme: 03.12.2020;Stadt Münster - Amt für Immobilienmanagement;15;Leistung ab Jahr;2020;29,48;kWp
-pv-anlagen;Stadt Münster - PV Anlage Hans-Böckler-Berufskolleg (387) Inbetriebnahme: 12.02.2020;Stadt Münster - Amt für Immobilienmanagement;15;Leistung ab Jahr;2020;70,80;kWp
-pv-anlagen;Stadt Münster - PV Anlage Pascal Gymnasium (766) Inbetriebnahme: 03.12.2020;Stadt Münster - Amt für Immobilienmanagement;15;Leistung ab Jahr;2020;29,48;kWp
-pv-anlagen;Stadt Münster - PV Anlage Grundschule Wolbeck-Nord (1443) Inbetriebnahme: 30.01.2020;Stadt Münster - Amt für Immobilienmanagement;15;Leistung ab Jahr;2020;41,50;kWp
-pv-anlagen;Stadt Münster - PV Anlage Regenkläranlage Erbdrostenweg, Inbetriebnahme: 09.02.2007;Stadt Münster - Amt für Immobilienmanagement;15;Stromproduktion;2020;3178,00;kWh
-pv-anlagen;Stadt Münster - PV Anlage Pumpwerk Alter Postweg, Inbetriebnahme: 16.02.2011;Stadt Münster - Amt für Immobilienmanagement;15;Stromproduktion;2020;7642,00;kWh
-pv-anlagen;Stadt Münster - PV Anlage Hauptkläranlage, Inbetriebnahme: 09.11.2019;Stadt Münster - Amt für Immobilienmanagement;15;Stromproduktion;2020;21291,00;kWh
-pv-anlagen;Stadt Münster;Stadt Münster - Amt für Immobilienmanagement;15;Leistung aller Anlagen (Summe);2020;227,34;kWp
-pv-anlagen;Stadt Münster;Stadt Münster - Amt für Immobilienmanagement;15;Anzahl aller PV-Anlagen;2020;10,00;Anzahl
-pv-anlagen;Stadt Münster - PV Anlage Schillergymnasium (264) Inbetriebnahme: 02.02.2021;Stadt Münster - Amt für Immobilienmanagement;15;Leistung ab Jahr;2021;29,90;kWp
-pv-anlagen;Stadt Münster - PV Anlage Freiherr vom Stein Gymnasium (985) Inbetriebnahme: 23.11.2021;Stadt Münster - Amt für Immobilienmanagement;15;Leistung ab Jahr;2021;99,00;kWp
-pv-anlagen;Stadt Münster - PV Anlage Regenkläranlage Erbdrostenweg, Inbetriebnahme: 09.02.2007;Stadt Münster - Amt für Immobilienmanagement;15;Stromproduktion;2021;2993,00;kWh
-pv-anlagen;Stadt Münster - PV Anlage Pumpwerk Alter Postweg, Inbetriebnahme: 16.02.2011;Stadt Münster - Amt für Immobilienmanagement;15;Stromproduktion;2021;6940,75;kWh
-pv-anlagen;Stadt Münster - PV Anlage Hauptkläranlage, Inbetriebnahme: 09.11.2019;Stadt Münster - Amt für Immobilienmanagement;15;Stromproduktion;2021;17460,00;kWh
-pv-anlagen;Stadt Münster;Stadt Münster - Amt für Immobilienmanagement;15;Leistung aller Anlagen (Summe);2021;368,08;kWp
-pv-anlagen;Stadt Münster;Stadt Münster - Amt für Immobilienmanagement;15;Anzahl aller PV-Anlagen;2021;14,00;Anzahl
-pv-anlagen;Stadt Münster - PV Anlage Regenkläranlage Erbdrostenweg, Inbetriebnahme: 09.02.2007;Stadt Münster - Amt für Immobilienmanagement;15;Stromproduktion;2022;3224,10;kWh
-pv-anlagen;Stadt Münster - PV Anlage Pumpwerk Alter Postweg, Inbetriebnahme: 16.02.2011;Stadt Münster - Amt für Immobilienmanagement;15;Stromproduktion;2022;7771,76;kWh
-pv-anlagen;Stadt Münster - PV Anlage Hauptkläranlage, Inbetriebnahme: 09.11.2019;Stadt Münster - Amt für Immobilienmanagement;15;Stromproduktion;2022;26932,00;kWh
-pv-anlagen;Stadt Münster;Stadt Münster - Amt für Immobilienmanagement;15;Leistung aller Anlagen (Summe);2022;372,48;kWp
-pv-anlagen;Stadt Münster;Stadt Münster - Amt für Immobilienmanagement;15;Anzahl aller PV-Anlagen;2022;15,00;Anzahl
-pv-anlagen;Stadt Münster - PV Anlage Bürgerhaus Kinderhaus (417) Inbetriebnahme: 01.01.2023;Stadt Münster - Amt für Immobilienmanagement;15;Leistung ab Jahr;2023;5,00;kWp
-pv-anlagen;Stadt Münster - PV Anlage Bodelschwingschule (317) Inbetriebnahme: 04.01.2023;Stadt Münster - Amt für Immobilienmanagement;15;Leistung ab Jahr;2023;61,05;kWp
-pv-anlagen;Stadt Münster - PV Anlage SZ Kinderhaus (786) Inbetriebnahme: 21.02.2023;Stadt Münster - Amt für Immobilienmanagement;15;Leistung ab Jahr;2023;96,20;kWp
-pv-anlagen;Stadt Münster - PV Anlage Erna de Vries (708) Inbetriebnahme: 28.02.2023;Stadt Münster - Amt für Immobilienmanagement;15;Leistung ab Jahr;2023;57,80;kWp
-pv-anlagen;Stadt Münster;Stadt Münster - Amt für Immobilienmanagement;15;Leistung aller Anlagen (Summe);2023;573,93;kWp
-pv-anlagen;Stadt Münster;Stadt Münster - Amt für Immobilienmanagement;15;Anzahl aller PV-Anlagen;2023;18,00;Anzahl
-pv-anlagen;Stadt Münster;Stadt Münster - Amt für Immobilienmanagement;15;Leistung aller Anlagen (Summe);2024;949,91;kWp
-pv-anlagen;Stadt Münster;Stadt Münster - Amt für Immobilienmanagement;15;Anzahl aller PV-Anlagen;2024;26,00;Anzahl
+pv-anlagen;pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Summe);1997;5;kWp
+pv-anlagen;pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Anzahl aller PV-Anlagen;1997;1;Anzahl
+pv-anlagen;pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Summe);2007;9;kWp
+pv-anlagen;pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Anzahl aller PV-Anlagen;2007;2;Anzahl
+pv-anlagen;pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Summe);2011;16;kWp
+pv-anlagen;pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Anzahl aller PV-Anlagen;2011;3;Anzahl
+pv-anlagen;pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Summe);2018;60;kWp
+pv-anlagen;pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Anzahl aller PV-Anlagen;2018;7;Anzahl
+pv-anlagen;pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Summe);2019;89;kWp
+pv-anlagen;pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Anzahl aller PV-Anlagen;2019;10;Anzahl
+pv-anlagen;pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Summe);2020;238;kWp
+pv-anlagen;pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Anzahl aller PV-Anlagen;2020;14;Anzahl
+pv-anlagen;pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Summe);2021;378;kWp
+pv-anlagen;pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Anzahl aller PV-Anlagen;2021;18;Anzahl
+pv-anlagen;pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Summe);2022;482;kWp
+pv-anlagen;pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Anzahl aller PV-Anlagen;2022;21;Anzahl
+pv-anlagen;pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Summe);2023;994;kWp
+pv-anlagen;pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Anzahl aller PV-Anlagen;2023;36;Anzahl
+pv-anlagen;pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Summe);2024;1302;kWp
+pv-anlagen;pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Anzahl aller PV-Anlagen;2024;47;Anzahl
+pv-anlagen;pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Summe);2025;1402;kWp
+pv-anlagen;pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Anzahl aller PV-Anlagen;2025;48;Anzahl
 awm-abfallaufkommen-pro-kopf;Münster, Gesamtstadt;AWM - Abfallwirtschaftsbetriebe Münster;1;Abfallaufkommen - Gesamt;2011;459,00;kg pro Kopf
 awm-abfallaufkommen-pro-kopf;Münster, Gesamtstadt;AWM - Abfallwirtschaftsbetriebe Münster;1;Abfallaufkommen - Wertstoffe;2011;289,00;kg pro Kopf
 awm-abfallaufkommen-pro-kopf;Münster, Gesamtstadt;AWM - Abfallwirtschaftsbetriebe Münster;1;Abfallaufkommen - Restmüll;2011;170,00;kg pro Kopf
@@ -1173,10 +1147,16 @@ co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima
 co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Verkehr - Kraftstoffmix Verkehr;2022;543934,07;t
 co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Verkehr - Strom;2022;17764,90;t
 co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Verkehr - Summe;2022;561698,98;t
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlAnlagen;2025-07-03;11873;Anzahl
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlSolarModule;2025-07-03;551191;Anzahl
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Bruttoleistung;2025-07-03;149773;kW
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Nettonennleistung;2025-07-03;135382;kW
-bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlAnlagen;2025-07-03;29;Anzahl
-bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Bruttoleistung;2025-07-03;68451;kW
-bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Nettonennleistung;2025-07-03;68451;kW
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlAnlagen;2025-08-27;12594;Anzahl
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlSolarModule;2025-08-27;568159;kW
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Bruttoleistung;2025-08-27;156760;kW
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Nettonennleistung;2025-08-27;141400;kW
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungAnlagen;2025-08-27;49;Anzahl
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungBruttoleistung;2025-08-27;1662;kW
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungNettonennleistung;2025-08-27;1502;kW
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlAnlagen;2025-08-27;29;Anzahl
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Bruttoleistung;2025-08-27;68451;kW
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Nettonennleistung;2025-08-27;68451;kW
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungAnlagen;2025-08-27;0;Anzahl
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungBruttoleistung;2025-08-27;0;kW
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungNettonennleistung;2025-08-27;0;kW
