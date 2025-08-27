@@ -3,7 +3,7 @@
 
 # # Solaranlagen auf städtischen Gebäuden
 
-# In[26]:
+# In[2]:
 
 
 import pandas as pd
@@ -27,7 +27,7 @@ gefiltert.iloc[:5, :]
 # pv-anlagen;Stadt Münster;Stadt Münster - Amt für Immobilienmanagement;15;Leistung aller Anlagen (Summe);2019;56,10;kWp
 # ```
 
-# In[27]:
+# In[3]:
 
 
 # iteriere über alle anlagen
@@ -58,7 +58,18 @@ anzahlsummen
 
 
 import math
+import csv
 
+# Schreibe die CSV mit Semikolon als Trennzeichen
+def writefile(output_file, ccontent):
+    csv.register_dialect('semicolon', delimiter=';', quoting=csv.QUOTE_MINIMAL)
+    with open(output_file, mode='w', newline='', encoding='utf-8') as file:
+        writer = csv.DictWriter(file, dialect='semicolon', fieldnames=["DATEINAME", "RAUM", "QUELLE_INSTITUTION", "THEMENBEREICH", "MERKMAL", "ZEIT", "WERT", "WERTEEINHEIT"])
+        writer.writeheader()
+        for row in ccontent:
+            writer.writerow(row)
+
+# Erstelle die CSV-Inhalte (Summen aller Anlagen pro Jahr)
 csv_content = []
 for jahr, leistung in leistungssummen.items():
     anzahl = anzahlsummen[jahr]
@@ -84,7 +95,9 @@ for jahr, leistung in leistungssummen.items():
         "WERT": anzahl,
         "WERTEEINHEIT": "Anzahl"
     })
+writefile('pv_anlagen_stadt_muenster.csv', csv_content)
 
+# Erstelle die CSV-Inhalte (Details der einzelnen Anlagen)
 for gefiltert_row in gefiltert.itertuples():
     # Extract year only if InbetriebnahmeDatum is a string and has at least 4 characters
     inbetriebnahme = gefiltert_row.InbetriebnahmeDatum
@@ -101,20 +114,13 @@ for gefiltert_row in gefiltert.itertuples():
             "WERTEEINHEIT": "kWp"
         })
 
+writefile('pv_anlagen_stadt_muenster_details.csv', csv_content)
+
 csv_content
 
 
 # In[ ]:
 
 
-# script zum Schreiben der CSV-Datei
-import csv
-# Schreibe die CSV mit Semikolon als Trennzeichen
-csv.register_dialect('semicolon', delimiter=';', quoting=csv.QUOTE_MINIMAL)
-output_file = 'pv_anlagen_stadt_muenster.csv'
-with open(output_file, mode='w', newline='', encoding='utf-8') as file:
-    writer = csv.DictWriter(file, dialect='semicolon', fieldnames=["DATEINAME", "RAUM", "QUELLE_INSTITUTION", "THEMENBEREICH", "MERKMAL", "ZEIT", "WERT", "WERTEEINHEIT"])
-    writer.writeheader()
-    for row in csv_content:
-        writer.writerow(row)
+
 
