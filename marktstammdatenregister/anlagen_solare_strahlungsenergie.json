@@ -1,9 +1,9 @@
 {
   "Summen": {
-    "AnzahlAnlagen": 12594,
-    "AnzahlSolarModule": 568159,
-    "Bruttoleistung": 156760,
-    "Nettonennleistung": 141400,
+    "AnzahlAnlagen": 12617,
+    "AnzahlSolarModule": 568612,
+    "Bruttoleistung": 156948,
+    "Nettonennleistung": 141560,
     "NutzbareSpeicherkapazitaet": 0,
     "StadtverwaltungAnlagen": 49,
     "StadtverwaltungBruttoleistung": 1662,
@@ -11,44 +11,44 @@
   },
   "Werte": {
     "AnlagenbetreiberPersonenArt": {
-      "517": 1018,
-      "518": 11576
+      "517": 1022,
+      "518": 11595
     },
     "ArtDerSolaranlageBezeichnung": {
-      "Bauliche Anlagen (Hausdach, Geb\u00e4ude und Fassade)": 10152,
+      "Bauliche Anlagen (Hausdach, Geb\u00e4ude und Fassade)": 10166,
       "Bauliche Anlagen (Sonstige)": 88,
       "Freifl\u00e4che": 8,
-      "Steckerfertige Solaranlage (sog. Balkonkraftwerk)": 2346
+      "Steckerfertige Solaranlage (sog. Balkonkraftwerk)": 2355
     },
     "BetriebsStatusName": {
-      "In Betrieb": 12585,
+      "In Betrieb": 12608,
       "Vor\u00fcbergehend stillgelegt": 9
     },
     "EnergietraegerName": {
-      "Solare Strahlungsenergie": 12594
+      "Solare Strahlungsenergie": 12617
     },
     "Plz": {
       "48143": 48,
-      "48145": 266,
+      "48145": 267,
       "48147": 637,
       "48149": 495,
-      "48151": 514,
+      "48151": 517,
       "48153": 417,
-      "48155": 946,
-      "48157": 1264,
-      "48159": 1053,
-      "48161": 1863,
-      "48163": 1788,
-      "48165": 1507,
-      "48167": 1796
+      "48155": 947,
+      "48157": 1266,
+      "48159": 1055,
+      "48161": 1866,
+      "48163": 1791,
+      "48165": 1510,
+      "48167": 1801
     },
     "SpannungsebenenNamen": {
       "Mittelspannung": 111,
-      "Niederspannung (= Hausanschluss/Haushaltsstrom)": 12472,
+      "Niederspannung (= Hausanschluss/Haushaltsstrom)": 12495,
       "Umspannebene Mittelspannung/Niederspannung": 11
     },
     "StromspeichertechnologieBezeichnung": {
-      "None": 12594
+      "None": 12617
     }
   }
 }
