@@ -3,16 +3,19 @@
 
 # # Solaranlagen auf städtischen Gebäuden
 
-# In[2]:
+# In[ ]:
 
 
 import pandas as pd
+
+MASTR1 = "ABR979186451947" # Amt für Immobilienmanagement
+MASTR2 = "ABR990157438859" # Amt für Mobilität und Tiefbau
 
 # CSV-Datei laden
 df = pd.read_csv('../../solar-und-windkraft-muenster/alle-anlagen-muenster.csv')
 
 # Zeilen filtern, z.B. nur Zeilen mit Wert 'foo' in der ersten Spalte
-gefiltert = df[(df['AnlagenbetreiberMaStRNummer'] == 'ABR979186451947') | (df['AnlagenbetreiberMaStRNummer'] == 'ABR990157438859')]
+gefiltert = df[(df['AnlagenbetreiberMaStRNummer'] == MASTR1) | (df['AnlagenbetreiberMaStRNummer'] == MASTR2)]
 print(f"Anzahl Anlagen mit InbetriebnahmeDatum: {gefiltert["InbetriebnahmeDatum"].count()}")
 gefiltert = gefiltert.sort_values(by="InbetriebnahmeDatum", ascending=True)
 gefiltert.iloc[:5, :]
@@ -27,18 +30,18 @@ gefiltert.iloc[:5, :]
 # pv-anlagen;Stadt Münster;Stadt Münster - Amt für Immobilienmanagement;15;Leistung aller Anlagen (Summe);2019;56,10;kWp
 # ```
 
-# In[3]:
+# In[2]:
 
 
 # iteriere über alle anlagen
 pro_jahr_leistung = {}
 pro_jahr_anzahl = {}
 for index, row in gefiltert.iterrows():
-    print(f"Anlage: {row['AnlagenbetreiberMaStRNummer']}, Leistung: {row['Nettonennleistung']}, Inbetriebnahme: {row['InbetriebnahmeDatum']}")  # Beispielausgabe
+    print(f"Anlage: {row['AnlagenbetreiberMaStRNummer']}, Leistung: {row['Bruttoleistung']}, Inbetriebnahme: {row['InbetriebnahmeDatum']}")  # Beispielausgabe
     inbetriebnahme = row['InbetriebnahmeDatum']
     if isinstance(inbetriebnahme, str) and len(inbetriebnahme) >= 4:
         jahr = inbetriebnahme[:4]  # Extrahiere das Jahr aus dem Datum
-        pro_jahr_leistung[jahr] = pro_jahr_leistung.get(jahr, 0) + row['Nettonennleistung']
+        pro_jahr_leistung[jahr] = pro_jahr_leistung.get(jahr, 0) + row['Bruttoleistung']
         pro_jahr_anzahl[jahr] = pro_jahr_anzahl.get(jahr, 0) + 1
 
 leistungssummen = {}
@@ -54,7 +57,7 @@ for jahr, wert in pro_jahr_leistung.items():
 anzahlsummen
 
 
-# In[ ]:
+# In[3]:
 
 
 import math
