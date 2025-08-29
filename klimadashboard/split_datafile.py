@@ -194,7 +194,7 @@ def load_pv_anlagen_csv(filename):
         reader = csv.reader(csvfile, delimiter=';')
         header = next(reader)
         for row in reader:
-            rows.append(row)
+            rows.append(row[1:])
     return rows
 
 # !!! Ende August 2025 die folgenden Zeilen wieder einkommentieren !!!
