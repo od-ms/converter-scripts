@@ -36,6 +36,7 @@ DATASET_DESCRIPTIONS = {
     "teilnehmer-startberatung":     [16, "Teilnehmer (Unternehmen) Startberatung", r"^Teilnehmer"],
     "verbrauch-erzeugung-strom":    [13, "Verbrauch-Erzeugung Strom", r"^Stromerzeugung/-bereitstellung"],
     "stadtwerke-bus-fahrzeuge":     [3, "BUS-Fahrzeuge der Stadtwerke", r"^Fahrzeuge"],
+    "stadtwerke-bus-fahrgäste":     [5, "Fahrgastzahlen (ÖPNV) SWMS", r"^Fahrgastzahlen"],
     "wachstum":                     [19, "Wachstumskennzahlen", r"^Sozialversicherungspflichtige"]
     # Änderung 2024-03: Das ist jetzt zusammen mit "4" Zeitreihe Verkehrsmittelwahl:
     # "modal-split-v-leistung":       ["Modal Split V.leistung", r"^(Absolut|Absolut\sin\skm|Modal\sSplit\sV\.leistung.*)$"],
