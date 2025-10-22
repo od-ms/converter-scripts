@@ -133,7 +133,10 @@ def collect_data_from_url(mstr_url, id_list, start_values, energietraeger_name, 
     wanted_sums = {
         "Nettonennleistung": 0,
         "Bruttoleistung": 0,
-        "AnzahlSolarModule": 0
+        "AnzahlSolarModule": 0,
+        "StadtverwaltungAnlagen": 0,
+        "StadtverwaltungBruttoleistung": 0,
+        "StadtverwaltungNettonennleistung": 0      
     }
     if (start_values):
         wanted_collections = start_values["Werte"]
@@ -159,6 +162,13 @@ def collect_data_from_url(mstr_url, id_list, start_values, energietraeger_name, 
             continue
         id_list[anlagen_id] = 1
 
+        # Count Stadt Münster Anlagen
+        msCheck = anlage["AnlagenbetreiberName"]
+        if isinstance(msCheck, str) and re.match(r"(Stadt\s*Münster)", msCheck):
+            wanted_sums["StadtverwaltungAnlagen"] = wanted_sums["StadtverwaltungAnlagen"] + 1
+            wanted_sums["StadtverwaltungBruttoleistung"] = wanted_sums["StadtverwaltungBruttoleistung"] + anlage["Bruttoleistung"]
+            wanted_sums["StadtverwaltungNettonennleistung"] = wanted_sums["StadtverwaltungNettonennleistung"] + anlage["Nettonennleistung"]
+
         wanted_sums["AnzahlAnlagen"] = (wanted_sums["AnzahlAnlagen"] + 1) if ("AnzahlAnlagen" in wanted_sums) else 1
         for wert in wanted_collections.keys():
             if wert in anlage:
@@ -166,6 +176,9 @@ def collect_data_from_url(mstr_url, id_list, start_values, energietraeger_name, 
         for wert in wanted_sums.keys():
             if wert in anlage:
                 addSum(wanted_sums, wert, anlage[wert])
+
+    wanted_sums["StadtverwaltungBruttoleistung"] = round(wanted_sums["StadtverwaltungBruttoleistung"])
+    wanted_sums["StadtverwaltungNettonennleistung"] = round(wanted_sums["StadtverwaltungNettonennleistung"])
 
     logging.debug("Doppelte: %s", doppelt_count)
 
@@ -196,15 +209,18 @@ def append_to_csv_file(data: list, head_row, outfile_name):
             for key, value in newrow.items():
                 # Anonymize the data of non-stadt-münster-Organisations
                 if key == "AnlagenbetreiberName":
-                    if not (re.match(r"(Stadt.*Münster)", value) or ("Stadtbau" in value) or ("AWM" in value)):
+                    if not isinstance(value, str):
+                        logging.debug("anlagenbetreiber is not a string", row)
+                    elif not (re.match(r"(Stadt.*Münster)", value) or ("Amt" in value) or ("Stadtbau" in value) or ("AWM" in value)):
                         newrow[key] = ""
-                        newrow["EinheitName"]=""
+                        newrow["EinheitName"] = ""
                 # Some columns contain the weird string "/Date(...)/" -> Convert it to a date
                 if isinstance(value, str):
                     m = re.match(r"/Date\((\d+)\)/", value)
                     if m:
                         unixtimestamp = int(m.group(1))/1000
                         newrow[key] = datetime.fromtimestamp(unixtimestamp).strftime('%Y-%m-%d')
+
             # Remove Einheitname because anonymisation
             outwriter.writerow(newrow)
 

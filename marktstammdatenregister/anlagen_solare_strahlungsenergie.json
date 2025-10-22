@@ -1,43 +1,54 @@
 {
   "Summen": {
-    "AnzahlAnlagen": 10055,
-    "AnzahlSolarModule": 494208,
-    "Bruttoleistung": 128536,
-    "Nettonennleistung": 116533
+    "AnzahlAnlagen": 12943,
+    "AnzahlSolarModule": 576993,
+    "Bruttoleistung": 160516,
+    "Nettonennleistung": 144711,
+    "NutzbareSpeicherkapazitaet": 0,
+    "StadtverwaltungAnlagen": 51,
+    "StadtverwaltungBruttoleistung": 1742,
+    "StadtverwaltungNettonennleistung": 1572
   },
   "Werte": {
+    "AnlagenbetreiberPersonenArt": {
+      "517": 1046,
+      "518": 11897
+    },
+    "ArtDerSolaranlageBezeichnung": {
+      "Freifl\u00e4chensolaranlage": 9,
+      "Geb\u00e4udesolaranlage": 10466,
+      "Sonstige Solaranlage": 1,
+      "Steckerfertige Solaranlage (sog. Balkonkraftwerk)": 2467
+    },
     "BetriebsStatusName": {
-      "In Betrieb": 10050,
-      "Vor\u00fcbergehend stillgelegt": 5
+      "In Betrieb": 12935,
+      "Vor\u00fcbergehend stillgelegt": 8
     },
     "EnergietraegerName": {
-      "Solare Strahlungsenergie": 10055
-    },
-    "IsAnonymisiert": {
-      "False": 415,
-      "True": 9640
-    },
-    "IsPilotwindanlage": {
-      "None": 10055
-    },
-    "PersonenArtId": {
-      "517": 844,
-      "518": 9211
+      "Solare Strahlungsenergie": 12943
     },
     "Plz": {
-      "48143": 37,
-      "48145": 191,
-      "48147": 506,
-      "48149": 406,
-      "48151": 397,
-      "48153": 328,
-      "48155": 698,
-      "48157": 1033,
-      "48159": 829,
-      "48161": 1528,
-      "48163": 1477,
-      "48165": 1200,
-      "48167": 1425
+      "48143": 49,
+      "48145": 272,
+      "48147": 655,
+      "48149": 507,
+      "48151": 523,
+      "48153": 428,
+      "48155": 985,
+      "48157": 1296,
+      "48159": 1080,
+      "48161": 1904,
+      "48163": 1840,
+      "48165": 1553,
+      "48167": 1851
+    },
+    "SpannungsebenenNamen": {
+      "Mittelspannung": 114,
+      "Niederspannung (= Hausanschluss/Haushaltsstrom)": 12818,
+      "Umspannebene Mittelspannung/Niederspannung": 11
+    },
+    "StromspeichertechnologieBezeichnung": {
+      "None": 12943
     }
   }
 }

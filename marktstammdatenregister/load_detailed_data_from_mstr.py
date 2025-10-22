@@ -13,8 +13,7 @@ import csv
 import requests
 import pyfiglet
 
-from datetime import datetime, timezone
-
+from datetime import datetime
 
 
 # Basic logger configuration
@@ -51,7 +50,6 @@ SOURCE_URL = (
 # https://www.marktstammdatenregister.de/MaStR/Einheit/EinheitJson/GetVerkleinerteOeffentlicheEinheitStromerzeugung?sort=EinheitMeldeDatum-desc&page=1&pageSize=10&group=&filter=Betriebs-Status~eq~%2735%2C37%27~and~Energietr%C3%A4ger~eq~%272495%2C2497%27~and~Gemeindeschl%C3%BCssel~eq~%2705515000%27
 
 # SOURCE_URL = 'https://www.marktstammdatenregister.de/MaStR/Einheit/EinheitJson/GetVerkleinerteOeffentlicheEinheitStromerzeugung?sort=&page=1&pageSize=5896&group=&filter=Energietr%C3%A4ger~eq~%272495%27~and~Betriebs-Status~eq~%2735%2C37%27~and~Gemeindeschl%C3%BCssel~eq~%2705515000%27'
-
 
 
 def readUrlWithCache(url):
@@ -130,14 +128,17 @@ def collect_data_from_url(mstr_url, id_list, start_values, energietraeger_name, 
         "EnergietraegerName": {},
         "AnlagenbetreiberPersonenArt": {},
         "SpannungsebenenNamen": {},
-        "LageEinheitBezeichnung": {},
+        "ArtDerSolaranlageBezeichnung": {},
         "StromspeichertechnologieBezeichnung": {}
     }
     wanted_sums = {
         "Nettonennleistung": 0,
         "Bruttoleistung": 0,
         "AnzahlSolarModule": 0,
-        "NutzbareSpeicherkapazitaet": 0
+        "NutzbareSpeicherkapazitaet": 0,
+        "StadtverwaltungAnlagen": 0,
+        "StadtverwaltungBruttoleistung": 0,
+        "StadtverwaltungNettonennleistung": 0
     }
     if (start_values):
         wanted_collections = start_values["Werte"]
@@ -165,6 +166,13 @@ def collect_data_from_url(mstr_url, id_list, start_values, energietraeger_name, 
             continue
         id_list[anlagen_id] = 1
 
+        # Count Stadt Münster Anlagen
+        msCheck = anlage["AnlagenbetreiberName"]
+        if isinstance(msCheck, str) and re.match(r"(Stadt\s+Münster)", msCheck):
+            wanted_sums["StadtverwaltungAnlagen"] = wanted_sums["StadtverwaltungAnlagen"] + 1
+            wanted_sums["StadtverwaltungBruttoleistung"] = wanted_sums["StadtverwaltungBruttoleistung"] + anlage["Bruttoleistung"]
+            wanted_sums["StadtverwaltungNettonennleistung"] = wanted_sums["StadtverwaltungNettonennleistung"] + anlage["Nettonennleistung"]
+
         wanted_sums["AnzahlAnlagen"] = (wanted_sums["AnzahlAnlagen"] + 1) if ("AnzahlAnlagen" in wanted_sums) else 1
         for wert in wanted_collections.keys():
             if wert in anlage:
@@ -173,6 +181,8 @@ def collect_data_from_url(mstr_url, id_list, start_values, energietraeger_name, 
             if wert in anlage:
                 addSum(wanted_sums, wert, anlage[wert])
 
+    wanted_sums["StadtverwaltungBruttoleistung"] = round(wanted_sums["StadtverwaltungBruttoleistung"])
+    wanted_sums["StadtverwaltungNettonennleistung"] = round(wanted_sums["StadtverwaltungNettonennleistung"])
     logging.debug("Doppelte: %s", doppelt_count)
 
     if collect_all_rows_to_this_csv_file:
@@ -214,11 +224,13 @@ def append_to_csv_file(data: list, head_row, outfile_name):
                         newrow[key] = ""
                         newrow["EinheitName"] = ""
                 # Some columns contain the weird string "/Date(...)/" -> Convert it to a date
-                if isinstance(value, str):
+                elif isinstance(value, str):
                     m = re.match(r"/Date\((\d+)\)/", value)
                     if m:
                         unixtimestamp = int(m.group(1))/1000
                         newrow[key] = datetime.fromtimestamp(unixtimestamp).strftime('%Y-%m-%d')
+                    else:
+                        newrow[key] = value.replace("\n", " ").replace("\r", "").replace(",", " ")
 
             # Remove Einheitname because anonymisation
             outwriter.writerow(newrow)
