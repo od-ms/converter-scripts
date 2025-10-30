@@ -97,3 +97,10 @@ Schritte zum Ausführen:
 * Falls die Inputdatei nicht UTF8 ist: `iconv -f ISO-8859-1 -t UTF-8 05515000_csv_klimarelevante_daten-iso.csv > 05515000_csv_klimarelevante_daten.csv`
 * Skript starten `python3 split_datafile.py`
 * Aktuelle Datei im Repository einchecken `git add klimadata.csv;git commit ...;git push;`
+
+---------------
+
+## UV-Index
+
+Liegt in eigenem Repository `uv-index-muenster`
+
