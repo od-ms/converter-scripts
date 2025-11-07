@@ -1043,7 +1043,7 @@ stadtwerke-bus-fahrzeuge;Münster, Gesamtstadt;Stadtwerke Münster;3;Fahrzeuge A
 stadtwerke-bus-fahrzeuge;Münster, Gesamtstadt;Stadtwerke Münster;3;Fahrzeuge Gesamt;2025-12;210,00;Anzahl
 stadtwerke-bus-fahrzeuge;Münster, Gesamtstadt;Stadtwerke Münster;3;Fahrzeuge SWMS;2025-12;120,00;Anzahl
 stadtwerke-bus-fahrzeuge;Münster, Gesamtstadt;Stadtwerke Münster;3;Fahrzeuge Sub;2025-12;90,00;Anzahl
-stadtwerke-bus-fahrzeuge;Münster, Gesamtstadt;Stadtwerke Münster;3;Fahrzeuge Alternative Antriebe Elektro;2024-12;97,00;Anzahl
+stadtwerke-bus-fahrzeuge;Münster, Gesamtstadt;Stadtwerke Münster;3;Fahrzeuge Alternative Antriebe Elektro;2025-12;97,00;Anzahl
 stadtradeln;Münster, Gesamtstadt;Stadt Münster - Amt für Mobilität und Tiefbau;8;Stadtradeln Stadt Münster;2020;914414,00;km
 stadtradeln;Münster, Gesamtstadt;Stadt Münster - Amt für Mobilität und Tiefbau;8;Stadtradeln Stadt Münster;2021;1393451,00;km
 stadtradeln;Münster, Gesamtstadt;Stadt Münster - Amt für Mobilität und Tiefbau;8;Stadtradeln Stadt Münster;2022;1948616,00;km
@@ -1160,16 +1160,16 @@ stadtwerke-bus-fahrgäste;Münster, Gesamtstadt;Stadtwerke Münster;5;Fahrgastza
 stadtwerke-bus-fahrgäste;Münster, Gesamtstadt;Stadtwerke Münster;5;Fahrgastzahlen (ÖPNV) SWMS;2022;29,3;Mio. Fahrgäste
 stadtwerke-bus-fahrgäste;Münster, Gesamtstadt;Stadtwerke Münster;5;Fahrgastzahlen (ÖPNV) SWMS;2023;31,8;Mio. Fahrgäste
 stadtwerke-bus-fahrgäste;Münster, Gesamtstadt;Stadtwerke Münster;5;Fahrgastzahlen (ÖPNV) SWMS;2024;31,9;Mio. Fahrgäste
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlAnlagen;2025-11-03;12943;Anzahl
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlSolarModule;2025-11-03;576993;kW
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Bruttoleistung;2025-11-03;160516;kW
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Nettonennleistung;2025-11-03;144711;kW
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungAnlagen;2025-11-03;51;Anzahl
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungBruttoleistung;2025-11-03;1742;kW
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungNettonennleistung;2025-11-03;1572;kW
-bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlAnlagen;2025-11-03;28;Anzahl
-bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Bruttoleistung;2025-11-03;65221;kW
-bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Nettonennleistung;2025-11-03;65221;kW
-bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungAnlagen;2025-11-03;0;Anzahl
-bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungBruttoleistung;2025-11-03;0;kW
-bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungNettonennleistung;2025-11-03;0;kW
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlAnlagen;2025-11-07;12943;Anzahl
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlSolarModule;2025-11-07;576993;kW
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Bruttoleistung;2025-11-07;160516;kW
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Nettonennleistung;2025-11-07;144711;kW
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungAnlagen;2025-11-07;51;Anzahl
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungBruttoleistung;2025-11-07;1742;kW
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungNettonennleistung;2025-11-07;1572;kW
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlAnlagen;2025-11-07;28;Anzahl
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Bruttoleistung;2025-11-07;65221;kW
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Nettonennleistung;2025-11-07;65221;kW
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungAnlagen;2025-11-07;0;Anzahl
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungBruttoleistung;2025-11-07;0;kW
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungNettonennleistung;2025-11-07;0;kW
