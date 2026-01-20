@@ -84,29 +84,6 @@
 "Münster, Gesamtstadt";"Stadt Münster - Stabsstelle Klima";12;"Endenergieverbrauch nach Sektoren - Industrie";"2000";679,39;"GWh"
 "Münster, Gesamtstadt";"Stadt Münster - Stabsstelle Klima";12;"Endenergieverbrauch nach Sektoren - Verkehr";"2000";1997,75;"GWh"
 "Münster, Gesamtstadt";"Stadt Münster - Stabsstelle Klima";12;"Endenergieverbrauch nach Sektoren - Gesamt";"2000";6841,14;"GWh"
-"Münster, Gesamtstadt";"Stadt Münster - Stabsstelle Klima";13;"Stromerzeugung/-bereitstellung nach Energieträgern - GUD (Erdgas)";"2000";158800,00;"MWh"
-"Münster, Gesamtstadt";"Stadt Münster - Stabsstelle Klima";13;"Stromerzeugung/-bereitstellung nach Energieträgern - BHKW (Erdgas)";"2000";2820,00;"MWh"
-"Münster, Gesamtstadt";"Stadt Münster - Stabsstelle Klima";13;"Stromerzeugung/-bereitstellung nach Energieträgern - BHKW (Biomethan)";"2000";0,00;"MWh"
-"Münster, Gesamtstadt";"Stadt Münster - Stabsstelle Klima";13;"Stromerzeugung/-bereitstellung nach Energieträgern - Klär-Deponiegas";"2000";11850,00;"MWh"
-"Münster, Gesamtstadt";"Stadt Münster - Stabsstelle Klima";13;"Stromerzeugung/-bereitstellung nach Energieträgern - Biogas";"2000";0,00;"MWh"
-"Münster, Gesamtstadt";"Stadt Münster - Stabsstelle Klima";13;"Stromerzeugung/-bereitstellung nach Energieträgern - PV";"2000";480,00;"MWh"
-"Münster, Gesamtstadt";"Stadt Münster - Stabsstelle Klima";13;"Stromerzeugung/-bereitstellung nach Energieträgern - Windkraft";"2000";63,00;"MWh"
-"Münster, Gesamtstadt";"Stadt Münster - Stabsstelle Klima";13;"Stromerzeugung/-bereitstellung nach Energieträgern - Wasserkraft";"2000";240,00;"MWh"
-"Münster, Gesamtstadt";"Stadt Münster - Stabsstelle Klima";13;"Stromerzeugung/-bereitstellung nach Energieträgern - reg. Bezug (Bundesmix)";"2000";944995,00;"MWh"
-"Münster, Gesamtstadt";"Stadt Münster - Stabsstelle Klima";13;"Stromerzeugung/-bereitstellung nach Energieträgern - Stromverbrauch ges.";"2000";1119248,00;"MWh"
-"Münster, Gesamtstadt";"Stadt Münster - Stabsstelle Klima";13;"Stromerzeugung/-bereitstellung nach Energieträgern - Anteil EE (%)";"2000";1,12;"%"
-"Münster, Gesamtstadt";"Stadt Münster - Stabsstelle Klima";14;"Strom-Emissionen nach Energieträgern - GUD (Erdgas)";"2000";164469,79;"t"
-"Münster, Gesamtstadt";"Stadt Münster - Stabsstelle Klima";14;"Strom-Emissionen nach Energieträgern - BHKW (Erdgas)";"2000";813,43;"t"
-"Münster, Gesamtstadt";"Stadt Münster - Stabsstelle Klima";14;"Strom-Emissionen nach Energieträgern - BHKW (Biomethan)";"2000";0,00;"t"
-"Münster, Gesamtstadt";"Stadt Münster - Stabsstelle Klima";14;"Strom-Emissionen nach Energieträgern - Klär-Deponiegas";"2000";592,50;"t"
-"Münster, Gesamtstadt";"Stadt Münster - Stabsstelle Klima";14;"Strom-Emissionen nach Energieträgern - Biogas";"2000";0,00;"t"
-"Münster, Gesamtstadt";"Stadt Münster - Stabsstelle Klima";14;"Strom-Emissionen nach Energieträgern - PV";"2000";61,92;"t"
-"Münster, Gesamtstadt";"Stadt Münster - Stabsstelle Klima";14;"Strom-Emissionen nach Energieträgern (t) - Windkraft";"2000";1,19;"t"
-"Münster, Gesamtstadt";"Stadt Münster - Stabsstelle Klima";14;"Strom-Emissionen nach Energieträgern - Wasserkraft";"2000";0,72;"t"
-"Münster, Gesamtstadt";"Stadt Münster - Stabsstelle Klima";14;"Strom-Emissionen nach Energieträgern - reg. Bezug (Bundesmix)";"2000";670001,45;"t"
-"Münster, Gesamtstadt";"Stadt Münster - Stabsstelle Klima";14;"Strom-Emissionen nach Energieträgern - Emissionen ges.";"2000";835941,02;"t"
-"Münster, Gesamtstadt";"Stadt Münster - Stabsstelle Klima";14;"Strom-Emissionen nach Energieträgern - Anteil EE an Gesamtemissionen (%)";"2000";0,07;"t"
-"Münster, Gesamtstadt";"Stadt Münster - Stabsstelle Klima";13;"Stromerzeugung/-bereitstellung nach Energieträgern - HKW (Kohle)";"2000";158800,00;"MWh"
 "Münster, Gesamtstadt";"Statistik der Bundesagentur für Arbeit";19;"Sozialversicherungspflichtige Beschäftigte am Arbeitsort";"2000";126649,00;"Anzahl"
 "Münster, Gesamtstadt";"Volkswirtschaftliche Gesamtrechnungen der Länder";19;"Bruttoinlandsprodukt";"2000";12191361,00;"EUR"
 "Münster, Gesamtstadt";"Stadt Münster - Amt für Mobilität und Tiefbau";4;"Wege/Tag - Kfz";"2001";40,50;"%"
@@ -1186,3 +1163,47 @@
 "Münster, Gesamtstadt";"Stadtwerke Münster";3;"Fahrzeuge SWMS";"2025-12";120,00;"Anzahl"
 "Münster, Gesamtstadt";"Stadtwerke Münster";3;"Fahrzeuge Sub";"2025-12";90,00;"Anzahl"
 "Münster, Gesamtstadt";"Stadtwerke Münster";3;"Fahrzeuge Alternative Antriebe Elektro";"2025-12";97,00;"Anzahl"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
