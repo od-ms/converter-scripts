@@ -9,47 +9,39 @@ import os
 import re
 import time
 import csv
-import datetime
 import json
 import random
 import logging
 from datetime import datetime
-from pyfiglet import Figlet
+import pyfiglet
 import requests
 
 START_URL = 'https://www.netzplan-muenster.de'
 
 URLS = {
 
-    'haltestellen_barrierefrei': 'https://www.netzplan-muenster.de/api/wfs-layers/14/features?format=GeoJSON&locale=de-de&props=info,info2,foto,strasse,hausnr,Zusatz,plz,stadt,webseite,telefon,email,geometry,idint,f_type,centerx,centery,title,svg,svg_hover,extern_url,ttip_img&srs=crs:EPSG:3857',
+    'haltestellen_barrierefrei': 'https://www.netzplan-muenster.de/api/wfs-layers/14/features?format=GeoJSON&locale=de-de&props=info,info2,foto,strasse,hausnr,Zusatz,plz,stadt,webseite,telefon,email,geometry,idint,f_type,centerx,centery,title,svg,svg_hover,extern_url,ttip_img&srs=EPSG:4326',
 
-    'park_and_ride_stationen': 'https://www.netzplan-muenster.de/api/wfs-layers/60/features?format=GeoJSON&locale=de-de&props=info,info2,foto,strasse,hausnr,Zusatz,plz,stadt,webseite,telefon,email,geometry,idint,f_type,centerx,centery,title,svg,svg_hover,extern_url,ttip_img&srs=crs:EPSG:3857',
+    'park_and_ride_stationen': 'https://www.netzplan-muenster.de/api/wfs-layers/60/features?format=GeoJSON&locale=de-de&props=info,info2,foto,strasse,hausnr,Zusatz,plz,stadt,webseite,telefon,email,geometry,idint,f_type,centerx,centery,title,svg,svg_hover,extern_url,ttip_img&srs=EPSG:4326',
 
-    'ticketautomaten': 'https://www.netzplan-muenster.de/api/wfs-layers/24/features?format=GeoJSON&locale=de-de&props=info,info2,foto,strasse,hausnr,Zusatz,plz,stadt,webseite,telefon,email,geometry,idint,f_type,centerx,centery,title,svg,svg_hover,extern_url,ttip_img&srs=crs:EPSG:3857',
+    'ticketautomaten': 'https://www.netzplan-muenster.de/api/wfs-layers/24/features?format=GeoJSON&locale=de-de&props=info,info2,foto,strasse,hausnr,Zusatz,plz,stadt,webseite,telefon,email,geometry,idint,f_type,centerx,centery,title,svg,svg_hover,extern_url,ttip_img&srs=EPSG:4326',
 
-    'vorverkaufsstellen': 'https://www.netzplan-muenster.de/api/wfs-layers/26/features?format=GeoJSON&locale=de-de&props=info,info2,foto,strasse,hausnr,Zusatz,plz,stadt,webseite,telefon,email,geometry,idint,f_type,centerx,centery,title,svg,svg_hover,extern_url,ttip_img&srs=crs:EPSG:3857',
+    'vorverkaufsstellen': 'https://www.netzplan-muenster.de/api/wfs-layers/26/features?format=GeoJSON&locale=de-de&props=info,info2,foto,strasse,hausnr,Zusatz,plz,stadt,webseite,telefon,email,geometry,idint,f_type,centerx,centery,title,svg,svg_hover,extern_url,ttip_img&srs=EPSG:4326',
 
-    'bike_and_ride_stationen': 'https://www.netzplan-muenster.de/api/wfs-layers/13/features?format=GeoJSON&locale=de-de&props=info,info2,foto,strasse,hausnr,Zusatz,plz,stadt,webseite,telefon,email,geometry,idint,f_type,centerx,centery,title,svg,svg_hover,extern_url,ttip_img&srs=crs:EPSG:3857'
+    'bike_and_ride_stationen': 'https://www.netzplan-muenster.de/api/wfs-layers/13/features?format=GeoJSON&locale=de-de&props=info,info2,foto,strasse,hausnr,Zusatz,plz,stadt,webseite,telefon,email,geometry,idint,f_type,centerx,centery,title,svg,svg_hover,extern_url,ttip_img&srs=EPSG:4326'
 
 }
 
 # Basic logger configuration
 logging.basicConfig(level=logging.DEBUG, format='<%(asctime)s %(levelname)s> %(message)s')
-logging.addLevelName( logging.WARNING, "\033[1;31m%s\033[1;0m" % logging.getLevelName(logging.WARNING))
-logging.addLevelName( logging.ERROR, "\033[1;41m%s\033[1;0m" % logging.getLevelName(logging.ERROR))
+logging.addLevelName(logging.WARNING, "\033[1;31m%s\033[1;0m" % logging.getLevelName(logging.WARNING))
+logging.addLevelName(logging.ERROR, "\033[1;41m%s\033[1;0m" % logging.getLevelName(logging.ERROR))
 logging.info("=====> START %s <=====", datetime.now())
 
 # Nicer log files with random fonts
-FONTS = (
-    'puffy slant smslant speed standard thick basic bell c_ascii_ charact1 charact2 charact6 chunky clr6x8 colossal '
-    'contessa cosmic crawford demo_1__ drpepper fender graceful gothic'
-)
-# Pick a random font for fancier logging
-HEADLINE_FONT = random.choice(FONTS.split())
-logging.debug("(headline font = '%s')", HEADLINE_FONT)
-
-# Use cosmic font, it rocks
-HEADLINE_FONT = "cosmic"
+HEADLINE_FONT = random.choice(pyfiglet.FigletFont.getFonts())
+FONT2 = random.choice(pyfiglet.FigletFont.getFonts())
+logging.debug("(headline font = '%s', font2 = '%s')", HEADLINE_FONT, FONT2)
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0"
@@ -58,6 +50,7 @@ HEADERS = {
 SESSION = requests.Session()
 SESSION_IS_INITIALIZED = False
 CSRF_TOKEN = ""
+
 
 def readUrlWithCache(cachefile_name, url):
     global SESSION_IS_INITIALIZED
@@ -95,7 +88,6 @@ def readUrlWithCache(cachefile_name, url):
             logging.debug("--------- COOKIE ----------")
             print(SESSION.cookies.get_dict())
 
-
         logging.debug("# URL HTTP GET %s ", filename)
         HEADERS2 = {
             "Referer": "https://www.netzplan-muenster.de/",
@@ -122,10 +114,6 @@ def readUrlWithCache(cachefile_name, url):
     return jsn
 
 
-
-
-
-
 def main():
     """Hauptmethode, hier passieren die wichtigen Dinge"""
     for name, url in URLS.items():
@@ -138,9 +126,6 @@ def main():
         logging.debug("ANZAHL STATIONEN %s", len(stationen))
 
         write_csv_and_json_files(f'{name}.json', f'data/{name}')
-
-
-
 
 
 def write_csv_and_json_files(SOURCE_FILE, OUTPUT_FILENAME):
@@ -158,13 +143,13 @@ def write_csv_and_json_files(SOURCE_FILE, OUTPUT_FILENAME):
     for feature in data_input['features']:
 
         # Build JSON data
-        props =  feature["properties"]
+        props = feature["properties"]
         props_output = {
             "title": props['title'],
             'id': props['idint'],
         }
         if props['info']:
-             props_output['info'] = props['info']
+            props_output['info'] = props['info']
 
         json_output.append([
             feature["geometry"]["coordinates"],
@@ -196,11 +181,10 @@ def write_csv_and_json_files(SOURCE_FILE, OUTPUT_FILENAME):
     )
 
 
-
 def write_json_file(data, outfile_name):
     """ Create and write output format: GeoJSON """
 
-    big_debug_text("...GeoJSON...", "graceful")
+    big_debug_text("...GeoJSON...", FONT2)
 
     features = []
     for entry in data:
@@ -223,7 +207,7 @@ def write_json_file(data, outfile_name):
         "features": features
     }
 
-    logging.info( "Writing file '%s'", outfile_name)
+    logging.info("Writing file '%s'", outfile_name)
     with open(outfile_name, "w", encoding="utf-8") as outfile:
         json.dump(geojson, outfile, ensure_ascii=True, indent=2)
 
@@ -231,7 +215,7 @@ def write_json_file(data, outfile_name):
 def write_csv_file(csv_header, data, outfile_name):
     """ Create and write output format: CSV """
 
-    big_debug_text("...CSV...", "graceful")
+    big_debug_text("...CSV...", FONT2)
 
     with open(outfile_name, 'w', newline='', encoding='utf-8') as outfile:
         outwriter = csv.writer(outfile, delimiter=';', quotechar='"', quoting=csv.QUOTE_MINIMAL)
@@ -240,14 +224,14 @@ def write_csv_file(csv_header, data, outfile_name):
         for datarow in data:
             outwriter.writerow(datarow)
 
-    logging.info( "Number of entries: %s", len(data))
-    logging.info( "Wrote file '%s'", outfile_name)
+    logging.info("Number of entries: %s", len(data))
+    logging.info("Wrote file '%s'", outfile_name)
+
 
 def big_debug_text(text, font=HEADLINE_FONT):
     """ Write some fancy big text into log-output """
-    custom_fig = Figlet(font=font, width=120)
+    custom_fig = pyfiglet.Figlet(font=font, width=120)
     logging.info("\n\n%s", custom_fig.renderText(text))
-
 
 
 big_debug_text("START..")
