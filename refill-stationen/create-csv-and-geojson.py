@@ -13,7 +13,7 @@ import random
 import logging
 from datetime import datetime
 import requests
-from pyfiglet import Figlet
+import pyfiglet
 
 
 
@@ -24,12 +24,7 @@ logging.addLevelName(logging.ERROR, f"\033[1;41m{logging.getLevelName(logging.ER
 logging.info("=====> START %s <=====", datetime.now())
 
 # Nicer log files with random fonts
-FONTS = (
-    'puffy slant smslant speed standard thick basic bell c_ascii_ charact1 charact2 charact6 chunky clr6x8 colossal '
-    'contessa cosmic crawford demo_1__ drpepper fender graceful gothic'
-)
-# Pick a random font for fancier logging
-HEADLINE_FONT = random.choice(FONTS.split())
+HEADLINE_FONT = random.choice(pyfiglet.FigletFont.getFonts())
 logging.debug("(headline font = '%s')", HEADLINE_FONT)
 
 # Use cosmic font, it rocks
@@ -47,7 +42,7 @@ def read_url_with_cache(url):
     filename = f'cache/{format(re.sub("[^0-9a-zA-Z]+", "_", url.replace(BASE_URL, "")))[0:250]}'
 
     current_ts = time.time()
-    cache_max_age = 60 * 60 * 24 * 30 # days
+    cache_max_age = 60 * 60 * 24 * 30  # days
     generate_cache_file = True
     filecontent = "{}"
     if os.path.isfile(filename):
@@ -173,7 +168,7 @@ def write_csv_file(data, outfile_name):
 
 def big_debug_text(text):
     """ Write some fancy big text into log-output """
-    custom_fig = Figlet(font=HEADLINE_FONT, width=120)
+    custom_fig = pyfiglet.Figlet(font=HEADLINE_FONT, width=120)
     logging.info("\n\n%s", custom_fig.renderText(text))
 
 
