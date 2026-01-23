@@ -1,5 +1,5 @@
 ID;Title;Latitude;Longitude;Info
-759;Deermannstraße 56;51.884719;7.599906;"Parkplätze-Anzahl:
+759;P+R Amelsbüren Bahnhof;51.8847;7.59991;"Parkplätze-Anzahl:
 28
 
 Öffnungszeiten:
@@ -7,107 +7,97 @@ täglich – durchgehend
 
 Kosten:
 kostenlos"
-761;Sprakeler Straße 409;52.002997;7.615592;"Parkplätze-Anzahl:
+761;P+R Grevener Straße;52.003;7.61559;"Parkplätze-Anzahl:
 28
 
 Öffnungszeiten:
-täglich - durchgehend
+täglich – durchgehend
 
 Kosten:
 kostenlos"
-762;Albrecht-Thaer-Straße;51.984261;7.637071;"Parkplätze-Anzahl:
+762;P+R Haltepunkt Zentrum Nord;51.9843;7.63707;"Parkplätze-Anzahl:
 35
 
 Öffnungszeiten:
-täglich - durchgehend
+täglich – durchgehend
 
 Kosten:
 kostenlos"
-763;Parkhaus Bahnhofstraße;51.956355;7.635762;"Parkplätze-Anzahl:
+763;P+R Hauptbahnhof;51.9564;7.63576;"Parkplätze-Anzahl:
 339
 
 Behinderten-Parkplätze-Anzahl:
 10
 
+Anlage-Höhe:
+max. Höhe 2 m 
+
 Kosten:
 kostenpflichtig
 
-Anlage-Höhe:
-max. Höhe 2 m
-
-Parkhaus Bremer Platz
-
-Adresse
-Bremer Platz 44
-
-Parkplätze-Anzahl
-416
-
-Behinderten-Parkplätze-Anzahl:
-8
-
 Öffnungszeiten:
-täglich – d"
-764;Bergiusstraße 15;51.904714;7.654237;"Parkplätze-Anzahl:
+Mo. bis So. 6.00–24.00 Uhr"
+764;P+R Hiltrup Bahnhof;51.9047;7.65424;"Parkplätze-Anzahl:
 74
 
 Öffnungszeiten:
-täglich - durchgehend
+täglich – durchgehend
 
 Kosten:
 kostenlos"
-765;Kappenberger Damm 620 A;51.889977;7.576903;"Parkplätze-Anzahl:
+765;P+R Kappenberger Damm;51.89;7.5769;"Parkplätze-Anzahl:
 56
 
 Öffnungszeiten:
-täglich - durchgehend
+täglich – durchgehend
 
 Kosten:
 kostenlos"
-766;Hägerstraße 298;52.021976;7.562157;"Parkplätze-Anzahl:
+766;P+R Nienberge-Häger Bahnhof;52.022;7.56216;"Parkplätze-Anzahl:
 14
 
 Öffnungszeiten:
-täglich - durchgehend
+täglich – durchgehend
 
 Kosten:
 kostenlos"
-767;Hammer Straße 300;51.93215;7.62587;"Parkplätze-Anzahl:
+767;P+R Preußenstadion;51.9321;7.62587;"Parkplätze-Anzahl:
 270
 
 Öffnungszeiten:
-täglich - durchgehend
+täglich – durchgehend
 
 Kosten:
-kostenlos"
-768;Pienersallee 57;51.946119;7.527658;"Parkplätze-Anzahl:
+kostenlos
+(ausgenommen bei Fußballspielen und Flohmärkten)"
+768;P+R Roxel Bahnhof;51.9461;7.52766;"Parkplätze-Anzahl:
 33
 
 Behinderten-Parkplätze-Anzahl:
 1
 
 Öffnungszeiten:
-täglich - durchgehend
+täglich – durchgehend
 
 Kosten:
 kostenlos"
-769;Weseler Straße 351;51.93641;7.602481;"Parkplätze-Anzahl:
+769;P+R Weseler Straße;51.9364;7.60248;"Parkplätze-Anzahl:
 175
 
 Öffnungszeiten:
-täglich - durchgehend
+täglich – durchgehend
 
 Kosten:
 kostenlos"
-770;Wilkinghege 1;51.983693;7.588426;"Parkplätze-Anzahl:
+770;P+R Wilkinghege;51.9837;7.58843;"Parkplätze-Anzahl:
 50
 
 Öffnungszeiten:
-täglich - durchgehend
+täglich – durchgehend
 
 Kosten:
 kostenlos"
-771;Theodor-Scheiwe-Straße 1;51.944643;7.645491;"Parkplätze-Anzahl:
+771;P+R Nieberdingstraße;51.9446;7.64549;"Parkplätze-Anzahl:
 172
 
 Öffnungszeiten:
@@ -115,19 +105,49 @@ täglich - durchgehend
 
 Kosten:
 kostenlos"
-773;Langenkamp;51.915277;7.527229;"Parkplätze-Anzahl:
+773;P+R Albachten Bahnhof;51.9153;7.52723;"Parkplätze-Anzahl:
 21
 
 Öffnungszeiten:
-täglich -durchgehend geöffnet
+täglich – durchgehend geöffnet
 
 Kosten:
 kostenlos"
-774;Sprakeler Straße 5;52.041727;7.618385;"Parkplätze-Anzahl:
+774;P+R Sprakel Bahnhof;52.0417;7.61839;"Parkplätze-Anzahl:
 16
 
 Öffnungszeiten:
-täglich - durchgehend
+täglich – durchgehend
 
 Kosten:
 kostenlos"
+775;P+R Hauptbahnhof;51.957899;7.637888;"
+Parkplätze-Anzahl
+416
+
+Behinderten-Parkplätze-Anzahl:
+8
+
+Anlage-Höhe:
+max. Höhe 2,20 m im EG sonst 2 m
+
+Kosten:
+kostenpflichtig
+
+Öffnungszeiten:
+täglich - durchgehend"
+776;P+R Coesfelder Kreuz;51.965865;7.601047;"
+Parkplätze-Anzahl
+1000
+
+Behinderten-Parkplätze-Anzahl:
+45
+
+Anlage-Höhe:
+max. Höhe 2,20 m 
+
+Kosten:
+kostenpflichtig
+
+Öffnungszeiten:
+nur samstags 8.00–23.00 Uhr "

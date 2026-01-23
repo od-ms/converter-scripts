@@ -48,20 +48,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.631832,
-          51.961463
-        ]
-      },
-      "properties": {
-        "title": "CityShop / Salzstra\u00dfe",
-        "id": 103
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.657918,
           51.967383
         ]
@@ -405,6 +391,118 @@
       "properties": {
         "title": "Alte Heroldstra\u00dfe B",
         "id": 124
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.611767,
+          51.982617
+        ]
+      },
+      "properties": {
+        "title": "Dreizehnerstr.",
+        "id": 129
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.698552,
+          51.987196
+        ]
+      },
+      "properties": {
+        "title": "Handorf Mitte",
+        "id": 1130
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.536462,
+          51.954656
+        ]
+      },
+      "properties": {
+        "title": "Roxel Mitte",
+        "id": 1131
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.523722,
+          51.924915
+        ]
+      },
+      "properties": {
+        "title": "D\u00fclmener Str.",
+        "id": 1132
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.606158,
+          51.882951
+        ]
+      },
+      "properties": {
+        "title": "Davertstr.",
+        "id": 1133
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.622879,
+          51.97233
+        ]
+      },
+      "properties": {
+        "title": "Nordplatz",
+        "id": 1134
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.685302,
+          51.914381
+        ]
+      },
+      "properties": {
+        "title": "Am Sch\u00fctthook",
+        "id": 1135
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.548471,
+          51.993412
+        ]
+      },
+      "properties": {
+        "title": "Isolde-Kurz-Str. (Bussteig B)",
+        "id": 1136
       }
     }
   ]

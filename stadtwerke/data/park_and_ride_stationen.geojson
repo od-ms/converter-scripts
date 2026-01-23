@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.599906,
-          51.884719
+          7.59991,
+          51.8847
         ]
       },
       "properties": {
-        "title": "Deermannstra\u00dfe 56",
+        "title": "P+R Amelsb\u00fcren Bahnhof",
         "id": 759,
         "info": "Parkpl\u00e4tze-Anzahl:\n28\n\n\u00d6ffnungszeiten:\nt\u00e4glich \u2013 durchgehend\n\nKosten:\nkostenlos"
       }
@@ -21,14 +21,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.615592,
-          52.002997
+          7.61559,
+          52.003
         ]
       },
       "properties": {
-        "title": "Sprakeler Stra\u00dfe 409",
+        "title": "P+R Grevener Stra\u00dfe",
         "id": 761,
-        "info": "Parkpl\u00e4tze-Anzahl:\n28\n\n\u00d6ffnungszeiten:\nt\u00e4glich - durchgehend\n\nKosten:\nkostenlos"
+        "info": "Parkpl\u00e4tze-Anzahl:\n28\n\n\u00d6ffnungszeiten:\nt\u00e4glich \u2013 durchgehend\n\nKosten:\nkostenlos"
       }
     },
     {
@@ -36,14 +36,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.637071,
-          51.984261
+          7.63707,
+          51.9843
         ]
       },
       "properties": {
-        "title": "Albrecht-Thaer-Stra\u00dfe",
+        "title": "P+R Haltepunkt Zentrum Nord",
         "id": 762,
-        "info": "Parkpl\u00e4tze-Anzahl:\n35\n\n\u00d6ffnungszeiten:\nt\u00e4glich - durchgehend\n\nKosten:\nkostenlos"
+        "info": "Parkpl\u00e4tze-Anzahl:\n35\n\n\u00d6ffnungszeiten:\nt\u00e4glich \u2013 durchgehend\n\nKosten:\nkostenlos"
       }
     },
     {
@@ -51,14 +51,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.635762,
-          51.956355
+          7.63576,
+          51.9564
         ]
       },
       "properties": {
-        "title": "Parkhaus Bahnhofstra\u00dfe",
+        "title": "P+R Hauptbahnhof",
         "id": 763,
-        "info": "Parkpl\u00e4tze-Anzahl:\n339\n\nBehinderten-Parkpl\u00e4tze-Anzahl:\n10\n\nKosten:\nkostenpflichtig\n\nAnlage-H\u00f6he:\nmax. H\u00f6he 2 m\n\nParkhaus Bremer Platz\n\nAdresse\nBremer Platz 44\n\nParkpl\u00e4tze-Anzahl\n416\n\nBehinderten-Parkpl\u00e4tze-Anzahl:\n8\n\n\u00d6ffnungszeiten:\nt\u00e4glich \u2013 d"
+        "info": "Parkpl\u00e4tze-Anzahl:\n339\n\nBehinderten-Parkpl\u00e4tze-Anzahl:\n10\n\nAnlage-H\u00f6he:\nmax. H\u00f6he 2 m \n\nKosten:\nkostenpflichtig\n\n\u00d6ffnungszeiten:\nMo. bis So. 6.00\u201324.00 Uhr"
       }
     },
     {
@@ -66,14 +66,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.654237,
-          51.904714
+          7.65424,
+          51.9047
         ]
       },
       "properties": {
-        "title": "Bergiusstra\u00dfe 15",
+        "title": "P+R Hiltrup Bahnhof",
         "id": 764,
-        "info": "Parkpl\u00e4tze-Anzahl:\n74\n\n\u00d6ffnungszeiten:\nt\u00e4glich - durchgehend\n\nKosten:\nkostenlos"
+        "info": "Parkpl\u00e4tze-Anzahl:\n74\n\n\u00d6ffnungszeiten:\nt\u00e4glich \u2013 durchgehend\n\nKosten:\nkostenlos"
       }
     },
     {
@@ -81,14 +81,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.576903,
-          51.889977
+          7.5769,
+          51.89
         ]
       },
       "properties": {
-        "title": "Kappenberger Damm 620 A",
+        "title": "P+R Kappenberger Damm",
         "id": 765,
-        "info": "Parkpl\u00e4tze-Anzahl:\n56\n\n\u00d6ffnungszeiten:\nt\u00e4glich - durchgehend\n\nKosten:\nkostenlos"
+        "info": "Parkpl\u00e4tze-Anzahl:\n56\n\n\u00d6ffnungszeiten:\nt\u00e4glich \u2013 durchgehend\n\nKosten:\nkostenlos"
       }
     },
     {
@@ -96,14 +96,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.562157,
-          52.021976
+          7.56216,
+          52.022
         ]
       },
       "properties": {
-        "title": "H\u00e4gerstra\u00dfe 298",
+        "title": "P+R Nienberge-H\u00e4ger Bahnhof",
         "id": 766,
-        "info": "Parkpl\u00e4tze-Anzahl:\n14\n\n\u00d6ffnungszeiten:\nt\u00e4glich - durchgehend\n\nKosten:\nkostenlos"
+        "info": "Parkpl\u00e4tze-Anzahl:\n14\n\n\u00d6ffnungszeiten:\nt\u00e4glich \u2013 durchgehend\n\nKosten:\nkostenlos"
       }
     },
     {
@@ -112,13 +112,13 @@
         "type": "Point",
         "coordinates": [
           7.62587,
-          51.93215
+          51.9321
         ]
       },
       "properties": {
-        "title": "Hammer Stra\u00dfe 300",
+        "title": "P+R Preu\u00dfenstadion",
         "id": 767,
-        "info": "Parkpl\u00e4tze-Anzahl:\n270\n\n\u00d6ffnungszeiten:\nt\u00e4glich - durchgehend\n\nKosten:\nkostenlos"
+        "info": "Parkpl\u00e4tze-Anzahl:\n270\n\n\u00d6ffnungszeiten:\nt\u00e4glich \u2013 durchgehend\n\nKosten:\nkostenlos\n(ausgenommen bei Fu\u00dfballspielen und Flohm\u00e4rkten)"
       }
     },
     {
@@ -126,14 +126,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.527658,
-          51.946119
+          7.52766,
+          51.9461
         ]
       },
       "properties": {
-        "title": "Pienersallee 57",
+        "title": "P+R Roxel Bahnhof",
         "id": 768,
-        "info": "Parkpl\u00e4tze-Anzahl:\n33\n\nBehinderten-Parkpl\u00e4tze-Anzahl:\n1\n\n\u00d6ffnungszeiten:\nt\u00e4glich - durchgehend\n\nKosten:\nkostenlos"
+        "info": "Parkpl\u00e4tze-Anzahl:\n33\n\nBehinderten-Parkpl\u00e4tze-Anzahl:\n1\n\n\u00d6ffnungszeiten:\nt\u00e4glich \u2013 durchgehend\n\nKosten:\nkostenlos"
       }
     },
     {
@@ -141,14 +141,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.602481,
-          51.93641
+          7.60248,
+          51.9364
         ]
       },
       "properties": {
-        "title": "Weseler Stra\u00dfe 351",
+        "title": "P+R Weseler Stra\u00dfe",
         "id": 769,
-        "info": "Parkpl\u00e4tze-Anzahl:\n175\n\n\u00d6ffnungszeiten:\nt\u00e4glich - durchgehend\n\nKosten:\nkostenlos"
+        "info": "Parkpl\u00e4tze-Anzahl:\n175\n\n\u00d6ffnungszeiten:\nt\u00e4glich \u2013 durchgehend\n\nKosten:\nkostenlos"
       }
     },
     {
@@ -156,14 +156,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.588426,
-          51.983693
+          7.58843,
+          51.9837
         ]
       },
       "properties": {
-        "title": "Wilkinghege 1",
+        "title": "P+R Wilkinghege",
         "id": 770,
-        "info": "Parkpl\u00e4tze-Anzahl:\n50\n\n\u00d6ffnungszeiten:\nt\u00e4glich - durchgehend\n\nKosten:\nkostenlos"
+        "info": "Parkpl\u00e4tze-Anzahl:\n50\n\n\u00d6ffnungszeiten:\nt\u00e4glich \u2013 durchgehend\n\nKosten:\nkostenlos"
       }
     },
     {
@@ -171,12 +171,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.645491,
-          51.944643
+          7.64549,
+          51.9446
         ]
       },
       "properties": {
-        "title": "Theodor-Scheiwe-Stra\u00dfe 1",
+        "title": "P+R Nieberdingstra\u00dfe",
         "id": 771,
         "info": "Parkpl\u00e4tze-Anzahl:\n172\n\n\u00d6ffnungszeiten:\nt\u00e4glich - durchgehend\n\nKosten:\nkostenlos"
       }
@@ -186,14 +186,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.527229,
-          51.915277
+          7.52723,
+          51.9153
         ]
       },
       "properties": {
-        "title": "Langenkamp",
+        "title": "P+R Albachten Bahnhof",
         "id": 773,
-        "info": "Parkpl\u00e4tze-Anzahl:\n21\n\n\u00d6ffnungszeiten:\nt\u00e4glich -durchgehend ge\u00f6ffnet\n\nKosten:\nkostenlos"
+        "info": "Parkpl\u00e4tze-Anzahl:\n21\n\n\u00d6ffnungszeiten:\nt\u00e4glich \u2013 durchgehend ge\u00f6ffnet\n\nKosten:\nkostenlos"
       }
     },
     {
@@ -201,14 +201,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.618385,
-          52.041727
+          7.61839,
+          52.0417
         ]
       },
       "properties": {
-        "title": "Sprakeler Stra\u00dfe 5",
+        "title": "P+R Sprakel Bahnhof",
         "id": 774,
-        "info": "Parkpl\u00e4tze-Anzahl:\n16\n\n\u00d6ffnungszeiten:\nt\u00e4glich - durchgehend\n\nKosten:\nkostenlos"
+        "info": "Parkpl\u00e4tze-Anzahl:\n16\n\n\u00d6ffnungszeiten:\nt\u00e4glich \u2013 durchgehend\n\nKosten:\nkostenlos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.637888,
+          51.957899
+        ]
+      },
+      "properties": {
+        "title": "P+R Hauptbahnhof",
+        "id": 775,
+        "info": "\nParkpl\u00e4tze-Anzahl\n416\n\nBehinderten-Parkpl\u00e4tze-Anzahl:\n8\n\nAnlage-H\u00f6he:\nmax. H\u00f6he 2,20 m im EG sonst 2 m\n\nKosten:\nkostenpflichtig\n\n\u00d6ffnungszeiten:\nt\u00e4glich - durchgehend"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.601047,
+          51.965865
+        ]
+      },
+      "properties": {
+        "title": "P+R Coesfelder Kreuz",
+        "id": 776,
+        "info": "\nParkpl\u00e4tze-Anzahl\n1000\n\nBehinderten-Parkpl\u00e4tze-Anzahl:\n45\n\nAnlage-H\u00f6he:\nmax. H\u00f6he 2,20 m \n\nKosten:\nkostenpflichtig\n\n\u00d6ffnungszeiten:\nnur samstags 8.00\u201323.00 Uhr\u00a0"
       }
     }
   ]

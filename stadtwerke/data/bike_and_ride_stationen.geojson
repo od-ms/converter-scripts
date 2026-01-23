@@ -12,7 +12,8 @@
       },
       "properties": {
         "title": "Leezenbox Bahnhof Albachten",
-        "id": 1
+        "id": 1,
+        "info": "<a href=\"https://mobile.fahrradparken.eu/#/pages/parking-facilities/parking-facility-detail/186\" target=\"_blank\" rel=\"noopener\"Stellplatz buchen</a>"
       }
     },
     {
@@ -26,7 +27,8 @@
       },
       "properties": {
         "title": "Leezenbox Bahnhof Amelsb\u00fcren",
-        "id": 2
+        "id": 2,
+        "info": "<a href=\"https://mobile.fahrradparken.eu/#/pages/parking-facilities/parking-facility-detail/185\" target=\"_blank\" rel=\"noopener\"Stellplatz buchen</a>"
       }
     },
     {
@@ -48,13 +50,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.654258,
-          51.904674
+          7.654001,
+          51.904887
         ]
       },
       "properties": {
-        "title": "Leezenbox Bahnhof Hiltrup",
-        "id": 9
+        "title": "Leezenbox Bahnhof Hiltrup (Langzeit)",
+        "id": 9,
+        "info": "<a href=\"https://mobile.fahrradparken.eu/#/pages/parking-facilities/parking-facility-detail/190\" target=\"_blank\" rel=\"noopener\"Stellplatz buchen</a>"
       }
     },
     {
@@ -139,7 +142,8 @@
       },
       "properties": {
         "title": "Leezenbox Bahnhof Mecklenbeck",
-        "id": 20
+        "id": 20,
+        "info": "<a href=\"https://mobile.fahrradparken.eu/#/pages/parking-facilities/parking-facility-detail/184\" target=\"_blank\" rel=\"noopener\"Stellplatz buchen</a>"
       }
     },
     {
@@ -154,6 +158,21 @@
       "properties": {
         "title": "Radstation im Hansator",
         "id": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.653764,
+          51.905225
+        ]
+      },
+      "properties": {
+        "title": "Leezenbox Bahnhof Hiltrup (Kurzzeit)",
+        "id": 21,
+        "info": "<a href=\"https://mobile.fahrradparken.eu/#/pages/parking-facilities/parking-facility-detail/189\" target=\"_blank\" rel=\"noopener\"Stellplatz buchen</a>"
       }
     }
   ]
