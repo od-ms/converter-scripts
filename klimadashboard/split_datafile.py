@@ -37,7 +37,9 @@ DATASET_DESCRIPTIONS = {
     "verbrauch-erzeugung-strom":    [13, "Verbrauch-Erzeugung Strom", r"^Stromerzeugung/-bereitstellung"],
     "stadtwerke-bus-fahrzeuge":     [3, "BUS-Fahrzeuge der Stadtwerke", r"^Fahrzeuge"],
     "stadtwerke-bus-fahrgäste":     [5, "Fahrgastzahlen (ÖPNV) SWMS", r"^Fahrgastzahlen"],
-    "wachstum":                     [19, "Wachstumskennzahlen", r"^Sozialversicherungspflichtige"]
+    "wachstum":                     [19, "Wachstumskennzahlen", r"^Sozialversicherungspflichtige"],
+    "verbrauch-erzeugung-waerme":   [18, "Verbrauch-Erzeugung Strom", r"^Stromerzeugung/-bereitstellung"],
+    "emissionen-waerme":            [20, "Emissionen Strom", r"^Strom-Emissionen\snach\sEnergieträgern"]
     # Änderung 2024-03: Das ist jetzt zusammen mit "4" Zeitreihe Verkehrsmittelwahl:
     # "modal-split-v-leistung":       ["Modal Split V.leistung", r"^(Absolut|Absolut\sin\skm|Modal\sSplit\sV\.leistung.*)$"],
 }
