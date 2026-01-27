@@ -115,6 +115,16 @@ co2-emissionen-tonnen;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;9
 co2-emissionen-tonnen;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;9;CO2-Emissionen - Industrie;2022;156246,55;t
 co2-emissionen-tonnen;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;9;CO2-Emissionen - Private Haushalte;2022;486199,25;t
 co2-emissionen-tonnen;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;9;CO2-Emissionen - Verkehr;2022;561698,98;t
+co2-emissionen-tonnen;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;9;CO2-Emissionen - Gesamt;2023;1619203;t
+co2-emissionen-tonnen;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;9;CO2-Emissionen - Gewerbe + Sonstiges;2023;499466;t
+co2-emissionen-tonnen;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;9;CO2-Emissionen - Industrie;2023;144124;t
+co2-emissionen-tonnen;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;9;CO2-Emissionen - Private Haushalte;2023;430431;t
+co2-emissionen-tonnen;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;9;CO2-Emissionen - Verkehr;2023;546000;t
+co2-emissionen-tonnen;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;9;CO2-Emissionen - Gesamt;2024;1616801;t
+co2-emissionen-tonnen;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;9;CO2-Emissionen - Gewerbe + Sonstiges;2024;514051;t
+co2-emissionen-tonnen;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;9;CO2-Emissionen - Industrie;2024;146013;t
+co2-emissionen-tonnen;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;9;CO2-Emissionen - Private Haushalte;2024;418737;t
+co2-emissionen-tonnen;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;9;CO2-Emissionen - Verkehr;2024;538000;t
 co2-emissionen-anwendungen;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;10;CO2-Emissionen Anwendung - Wärme;1990;1120,97;kt
 co2-emissionen-anwendungen;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;10;CO2-Emissionen Anwendung - Wärme prozentuale Änderung zu 1990;1990;0,00;%
 co2-emissionen-anwendungen;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;10;CO2-Emissionen Anwendung - Strom;1990;836,48;kt
@@ -224,6 +234,22 @@ co2-emissionen-anwendungen;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Kl
 co2-emissionen-anwendungen;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;10;CO2-Emissionen Anwendung - Wärme;2022;658,40;kt
 co2-emissionen-anwendungen;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;10;CO2-Emissionen Anwendung - Wärme prozentuale Änderung zu 1990;2022;-41,26;%
 co2-emissionen-anwendungen;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;10;CO2-Emissionen Anwendung - Strom;2022;567,98;kt
+co2-emissionen-anwendungen;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;10;CO2-Emissionen Anwendung - Gesamt;2023;1619;kt
+co2-emissionen-anwendungen;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;10;CO2-Emissionen Anwendung - Gesamt prozentuale Änderung zu 1990;2023;-38,12;%
+co2-emissionen-anwendungen;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;10;CO2-Emissionen Anwendung - Strom;2023;482;kt
+co2-emissionen-anwendungen;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;10;CO2-Emissionen Anwendung - Strom prozentuale Änderung zu 1990;2023;-45,37;%
+co2-emissionen-anwendungen;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;10;CO2-Emissionen Anwendung - Verkehr;2023;546;kt
+co2-emissionen-anwendungen;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;10;CO2-Emissionen Anwendung - Verkehr prozentuale Änderung zu 1990;2023;-17,37;%
+co2-emissionen-anwendungen;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;10;CO2-Emissionen Anwendung - Wärme;2023;617,06;kt
+co2-emissionen-anwendungen;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;10;CO2-Emissionen Anwendung - Wärme prozentuale Änderung zu 1990;2023;-44,95;%
+co2-emissionen-anwendungen;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;10;CO2-Emissionen Anwendung - Gesamt;2024;1617;kt
+co2-emissionen-anwendungen;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;10;CO2-Emissionen Anwendung - Gesamt prozentuale Änderung zu 1990;2024;-38,25;%
+co2-emissionen-anwendungen;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;10;CO2-Emissionen Anwendung - Strom;2024;469;kt
+co2-emissionen-anwendungen;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;10;CO2-Emissionen Anwendung - Strom prozentuale Änderung zu 1990;2024;-46,87;%
+co2-emissionen-anwendungen;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;10;CO2-Emissionen Anwendung - Verkehr;2024;538;kt
+co2-emissionen-anwendungen;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;10;CO2-Emissionen Anwendung - Verkehr prozentuale Änderung zu 1990;2024;-18,58;%
+co2-emissionen-anwendungen;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;10;CO2-Emissionen Anwendung - Wärme;2024;634,34;kt
+co2-emissionen-anwendungen;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;10;CO2-Emissionen Anwendung - Wärme prozentuale Änderung zu 1990;2024;-43,41;%
 endenergie;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;12;Endenergieverbrauch nach Sektoren - Private Haushalte;1990;2076,32;GWh
 endenergie;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;12;Endenergieverbrauch nach Sektoren - Gewerbe + Sonstiges;1990;1920,83;GWh
 endenergie;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;12;Endenergieverbrauch nach Sektoren - Industrie;1990;652,17;GWh
@@ -294,6 +320,16 @@ endenergie;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;12;Endenergi
 endenergie;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;12;Endenergieverbrauch nach Sektoren - Industrie (Zielwert);2030;196,00;GWh
 endenergie;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;12;Endenergieverbrauch nach Sektoren - Private Haushalte (Zielwert);2030;623,00;GWh
 endenergie;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;12;Endenergieverbrauch nach Sektoren - Verkehr (Zielwert);2030;624,00;GWh
+endenergie;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;12;Endenergieverbrauch nach Sektoren - Gesamt;2023;5618,52;GWh
+endenergie;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;12;Endenergieverbrauch nach Sektoren - Gewerbe + Sonstiges;2023;1853,18;GWh
+endenergie;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;12;Endenergieverbrauch nach Sektoren - Industrie;2023;483,25;GWh
+endenergie;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;12;Endenergieverbrauch nach Sektoren - Private Haushalte;2023;1518,31;GWh
+endenergie;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;12;Endenergieverbrauch nach Sektoren - Verkehr;2023;1763,77;GWh
+endenergie;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;12;Endenergieverbrauch nach Sektoren - Gesamt;2024;5716,71;GWh
+endenergie;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;12;Endenergieverbrauch nach Sektoren - Gewerbe + Sonstiges;2024;1952,74;GWh
+endenergie;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;12;Endenergieverbrauch nach Sektoren - Industrie;2024;504,25;GWh
+endenergie;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;12;Endenergieverbrauch nach Sektoren - Private Haushalte;2024;1518,94;GWh
+endenergie;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;12;Endenergieverbrauch nach Sektoren - Verkehr;2024;1740,77;GWh
 wachstum;Münster, Gesamtstadt;Statistik der Bundesagentur für Arbeit;19;Sozialversicherungspflichtige Beschäftigte am Arbeitsort;1990;112391,00;Anzahl
 wachstum;Münster, Gesamtstadt;Statistik der Bundesagentur für Arbeit;19;Sozialversicherungspflichtige Beschäftigte am Arbeitsort;1991;115949,00;Anzahl
 wachstum;Münster, Gesamtstadt;Volkswirtschaftliche Gesamtrechnungen der Länder;19;Bruttoinlandsprodukt;1991;9209000,00;EUR
@@ -358,18 +394,97 @@ wachstum;Münster, Gesamtstadt;Volkswirtschaftliche Gesamtrechnungen der Länder
 wachstum;Münster, Gesamtstadt;Statistik der Bundesagentur für Arbeit;19;Sozialversicherungspflichtige Beschäftigte am Arbeitsort;2021;179671,00;Anzahl
 wachstum;Münster, Gesamtstadt;Volkswirtschaftliche Gesamtrechnungen der Länder;19;Bruttoinlandsprodukt;2021;18800000,00;EUR
 wachstum;Münster, Gesamtstadt;Statistik der Bundesagentur für Arbeit;19;Sozialversicherungspflichtige Beschäftigte am Arbeitsort;2022;184550,00;Anzahl
-verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - GUD (Erdgas);2000;158800,00;MWh
-verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - BHKW (Erdgas);2000;2820,00;MWh
-verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - BHKW (Biomethan);2000;0,00;MWh
-verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - Klär-Deponiegas;2000;11850,00;MWh
-verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - Biogas;2000;0,00;MWh
-verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - PV;2000;480,00;MWh
-verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - Windkraft;2000;63,00;MWh
-verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - Wasserkraft;2000;240,00;MWh
-verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - reg. Bezug (Bundesmix);2000;944995,00;MWh
-verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - Stromverbrauch ges.;2000;1119248,00;MWh
-verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - Anteil EE (%);2000;1,12;%
-verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - HKW (Kohle);2000;158800,00;MWh
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Betriebe;2001;14,00;Anzahl
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Abfälle;2001;877,00;t pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Energie;2001;1387000,00;kWh pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - Wasser;2001;2320,00;m³ pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - CO2;2001;694,00;t pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Betriebskosten;2001;489460,00; pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;einmalige Investitionskosten;2001;301918,00;
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Betriebe;2002/2003;10,00;Anzahl
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Abfälle;2002/2003;97,00;t pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Energie;2002/2003;615000,00;kWh pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - Wasser;2002/2003;68896,00;m³ pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - CO2;2002/2003;391,00;t pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Betriebskosten;2002/2003;250382,00; pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;einmalige Investitionskosten;2002/2003;632143,00;
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Betriebe;2003/2004;16,00;Anzahl
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Abfälle;2003/2004;130,00;t pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Energie;2003/2004;916000,00;kWh pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - Wasser;2003/2004;7457,00;m³ pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - CO2;2003/2004;454,00;t pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Betriebskosten;2003/2004;126533,00; pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;einmalige Investitionskosten;2003/2004;153547,00;
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Betriebe;2005/2006;9,00;Anzahl
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Abfälle;2005/2006;31,00;t pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Energie;2005/2006;3606648,00;kWh pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - Wasser;2005/2006;1683,00;m³ pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - CO2;2005/2006;1524,00;t pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Betriebskosten;2005/2006;304317,00; pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;einmalige Investitionskosten;2005/2006;851064,00;
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Betriebe;2007/2008;12,00;Anzahl
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Abfälle;2007/2008;82,00;t pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Energie;2007/2008;4832961,00;kWh pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - Wasser;2007/2008;33307,00;m³ pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - CO2;2007/2008;1371,00;t pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Betriebskosten;2007/2008;435125,00; pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;einmalige Investitionskosten;2007/2008;271718,00;
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Betriebe;2009/2010;11,00;Anzahl
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Abfälle;2009/2010;34,00;t pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Energie;2009/2010;6900000,00;kWh pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - Wasser;2009/2010;13061,00;m³ pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - CO2;2009/2010;9835,00;t pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Betriebskosten;2009/2010;1083881,00; pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;einmalige Investitionskosten;2009/2010;9728140,00;
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Betriebe;2011/2012;12,00;Anzahl
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Abfälle;2011/2012;244,00;t pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Energie;2011/2012;1678831,00;kWh pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - Wasser;2011/2012;25343,00;m³ pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - CO2;2011/2012;989,00;t pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Betriebskosten;2011/2012;578817,00; pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;einmalige Investitionskosten;2011/2012;2178448,00;
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Betriebe;2012/2014;10,00;Anzahl
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Abfälle;2012/2014;27,00;t pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Energie;2012/2014;2023457,00;kWh pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - Wasser;2012/2014;3332,00;m³ pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - CO2;2012/2014;773,00;t pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Betriebskosten;2012/2014;217369,00; pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;einmalige Investitionskosten;2012/2014;895889,00;
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Betriebe;2015/2016;9,00;Anzahl
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Abfälle;2015/2016;5,00;t pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Energie;2015/2016;1104579,00;kWh pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - Wasser;2015/2016;368,00;m³ pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - CO2;2015/2016;1318,00;t pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Betriebskosten;2015/2016;210723,00; pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;einmalige Investitionskosten;2015/2016;1148350,00;
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Betriebe;2016/2017;9,00;Anzahl
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Abfälle;2016/2017;13,00;t pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Energie;2016/2017;808326,00;kWh pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - Wasser;2016/2017;861,00;m³ pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - CO2;2016/2017;431,00;t pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Betriebskosten;2016/2017;295596,00; pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;einmalige Investitionskosten;2016/2017;1291378,00;
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Betriebe;2019/2020;6,00;Anzahl
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Abfälle;2019/2020;22,00;t pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Energie;2019/2020;1424172,00;kWh pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - Wasser;2019/2020;3050,00;m³ pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - CO2;2019/2020;540,00;t pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Betriebskosten;2019/2020;242422,00; pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;einmalige Investitionskosten;2019/2020;1452150,00;
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Betriebe;2021/2022;12,00;Anzahl
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Abfälle;2021/2022;191,10;t pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Energie;2021/2022;1155220,00;kWh pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - Wasser;2021/2022;3277,00;m³ pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - CO2;2021/2022;1138,00;t pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Betriebskosten;2021/2022;451991,00; pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;einmalige Investitionskosten;2021/2022;1363683,00;
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Betriebe;2022/2023;8,00;Anzahl
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Abfälle;2022/2023;314,00;t pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Energie;2022/2023;4075360,00;kWh pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - Wasser;2022/2023;9556,00;m³ pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - CO2;2022/2023;708,00;t pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Betriebskosten;2022/2023;469374,00; pro Jahr
+oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;einmalige Investitionskosten;2022/2023;1778428,00;
 verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - GUD (Erdgas);2005;174700,00;MWh
 verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - BHKW (Erdgas);2005;3546,61;MWh
 verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - BHKW (Biomethan);2005;0,00;MWh
@@ -480,17 +595,28 @@ verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Kli
 verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - reg. Bezug (Bundesmix);2022;788381,46;MWh
 verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - Stromverbrauch ges.;2022;1274304,46;MWh
 verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - Anteil EE (%);2022;17,12;%
-emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern - GUD (Erdgas);2000;164469,79;t
-emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern - BHKW (Erdgas);2000;813,43;t
-emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern - BHKW (Biomethan);2000;0,00;t
-emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern - Klär-Deponiegas;2000;592,50;t
-emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern - Biogas;2000;0,00;t
-emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern - PV;2000;61,92;t
-emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern (t) - Windkraft;2000;1,19;t
-emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern - Wasserkraft;2000;0,72;t
-emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern - reg. Bezug (Bundesmix);2000;670001,45;t
-emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern - Emissionen ges.;2000;835941,02;t
-emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern - Anteil EE an Gesamtemissionen (%);2000;0,07;t
+verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - Anteil EE (%);2023;21,89;%
+verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - BHKW (Biomethan);2023;0;MWh
+verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - BHKW (Erdgas);2023;16738,00;MWh
+verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - Biogas;2023;47661,00;MWh
+verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - GUD (Erdgas);2023;276765;MWh
+verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - Klär-Deponiegas;2023;12449,00;MWh
+verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - PV;2023;94256,54;MWh
+verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - reg. Bezug (Bundesmix);2023;601720,73;MWh
+verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - Stromverbrauch ges.;2023;1146079,73;MWh
+verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - Wasserkraft;2023;185,3;MWh
+verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - Windkraft;2023;96304,16;MWh
+verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - Anteil EE (%);2024;23,64;%
+verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - BHKW (Biomethan);2024;0;MWh
+verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - BHKW (Erdgas);2024;16738,00;MWh
+verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - Biogas;2024;47661,00;MWh
+verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - GUD (Erdgas);2024;285692;MWh
+verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - Klär-Deponiegas;2024;12636,44;MWh
+verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - PV;2024;120284;MWh
+verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - reg. Bezug (Bundesmix);2024;592699,49;MWh
+verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - Stromverbrauch ges.;2024;1172199,93;MWh
+verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - Wasserkraft;2024;185;MWh
+verbrauch-erzeugung-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;13;Stromerzeugung/-bereitstellung nach Energieträgern - Windkraft;2024;96304;MWh
 emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern - GUD (Erdgas);2005;180937,49;t
 emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern - BHKW (Erdgas);2005;979,24;t
 emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern - BHKW (Biomethan);2005;0,00;t
@@ -601,97 +727,28 @@ emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Str
 emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern - Anteil EE an Gesamtemissionen (%);2022;1,89;t
 emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern - Emissionen ges.;2022;555064,56;t
 emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern - reg. Bezug (Bundesmix);2022;395103,97;t
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Betriebe;2001;14,00;Anzahl
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Abfälle;2001;877,00;t pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Energie;2001;1387000,00;kWh pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - Wasser;2001;2320,00;m³ pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - CO2;2001;694,00;t pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Betriebskosten;2001;489460,00; pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;einmalige Investitionskosten;2001;301918,00;
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Betriebe;2002/2003;10,00;Anzahl
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Abfälle;2002/2003;97,00;t pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Energie;2002/2003;615000,00;kWh pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - Wasser;2002/2003;68896,00;m³ pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - CO2;2002/2003;391,00;t pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Betriebskosten;2002/2003;250382,00; pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;einmalige Investitionskosten;2002/2003;632143,00;
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Betriebe;2003/2004;16,00;Anzahl
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Abfälle;2003/2004;130,00;t pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Energie;2003/2004;916000,00;kWh pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - Wasser;2003/2004;7457,00;m³ pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - CO2;2003/2004;454,00;t pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Betriebskosten;2003/2004;126533,00; pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;einmalige Investitionskosten;2003/2004;153547,00;
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Betriebe;2005/2006;9,00;Anzahl
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Abfälle;2005/2006;31,00;t pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Energie;2005/2006;3606648,00;kWh pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - Wasser;2005/2006;1683,00;m³ pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - CO2;2005/2006;1524,00;t pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Betriebskosten;2005/2006;304317,00; pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;einmalige Investitionskosten;2005/2006;851064,00;
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Betriebe;2007/2008;12,00;Anzahl
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Abfälle;2007/2008;82,00;t pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Energie;2007/2008;4832961,00;kWh pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - Wasser;2007/2008;33307,00;m³ pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - CO2;2007/2008;1371,00;t pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Betriebskosten;2007/2008;435125,00; pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;einmalige Investitionskosten;2007/2008;271718,00;
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Betriebe;2009/2010;11,00;Anzahl
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Abfälle;2009/2010;34,00;t pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Energie;2009/2010;6900000,00;kWh pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - Wasser;2009/2010;13061,00;m³ pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - CO2;2009/2010;9835,00;t pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Betriebskosten;2009/2010;1083881,00; pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;einmalige Investitionskosten;2009/2010;9728140,00;
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Betriebe;2011/2012;12,00;Anzahl
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Abfälle;2011/2012;244,00;t pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Energie;2011/2012;1678831,00;kWh pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - Wasser;2011/2012;25343,00;m³ pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - CO2;2011/2012;989,00;t pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Betriebskosten;2011/2012;578817,00; pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;einmalige Investitionskosten;2011/2012;2178448,00;
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Betriebe;2012/2014;10,00;Anzahl
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Abfälle;2012/2014;27,00;t pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Energie;2012/2014;2023457,00;kWh pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - Wasser;2012/2014;3332,00;m³ pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - CO2;2012/2014;773,00;t pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Betriebskosten;2012/2014;217369,00; pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;einmalige Investitionskosten;2012/2014;895889,00;
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Betriebe;2015/2016;9,00;Anzahl
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Abfälle;2015/2016;5,00;t pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Energie;2015/2016;1104579,00;kWh pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - Wasser;2015/2016;368,00;m³ pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - CO2;2015/2016;1318,00;t pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Betriebskosten;2015/2016;210723,00; pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;einmalige Investitionskosten;2015/2016;1148350,00;
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Betriebe;2016/2017;9,00;Anzahl
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Abfälle;2016/2017;13,00;t pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Energie;2016/2017;808326,00;kWh pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - Wasser;2016/2017;861,00;m³ pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - CO2;2016/2017;431,00;t pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Betriebskosten;2016/2017;295596,00; pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;einmalige Investitionskosten;2016/2017;1291378,00;
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Betriebe;2019/2020;6,00;Anzahl
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Abfälle;2019/2020;22,00;t pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Energie;2019/2020;1424172,00;kWh pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - Wasser;2019/2020;3050,00;m³ pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - CO2;2019/2020;540,00;t pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Betriebskosten;2019/2020;242422,00; pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;einmalige Investitionskosten;2019/2020;1452150,00;
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Betriebe;2021/2022;12,00;Anzahl
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Abfälle;2021/2022;191,10;t pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Energie;2021/2022;1155220,00;kWh pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - Wasser;2021/2022;3277,00;m³ pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - CO2;2021/2022;1138,00;t pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Betriebskosten;2021/2022;451991,00; pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;einmalige Investitionskosten;2021/2022;1363683,00;
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Betriebe;2022/2023;8,00;Anzahl
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Abfälle;2022/2023;314,00;t pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Energie;2022/2023;4075360,00;kWh pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - Wasser;2022/2023;9556,00;m³ pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung - CO2;2022/2023;708,00;t pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;Einsparung Betriebskosten;2022/2023;469374,00; pro Jahr
-oekoprofit;Münster, Gesamtstadt;Stadt Münster - Amt für Grünflächen, Umwelt und Nachhaltigkeit;7;einmalige Investitionskosten;2022/2023;1778428,00;
+emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern - Anteil EE an Gesamtemissionen (%);2023;2,55;%
+emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern - BHKW (Biomethan);2023;0;t
+emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern - BHKW (Erdgas);2023;3740,11;t
+emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern - Biogas;2023;6195,93;t
+emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern - Emissionen ges.;2023;452504,58;t
+emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern - GUD (Erdgas);2023;164632,73;t
+emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern - Klär-Deponiegas;2023;622,45;t
+emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern - PV;2023;3770;t
+emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern - reg. Bezug (Bundesmix);2023;272579,50;t
+emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern - Wasserkraft;2023;0,56;t
+emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern (t) - Windkraft;2023;963,04;t
+emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern - Anteil EE an Gesamtemissionen (%);2024;2,86;%
+emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern - BHKW (Biomethan);2024;0;t
+emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern - BHKW (Erdgas);2024;3740,11;t
+emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern - Biogas;2024;6195,93;t
+emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern - Emissionen ges.;2024;441001,13;t
+emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern - GUD (Erdgas);2024;171575,62;t
+emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern - Klär-Deponiegas;2024;631,82;t
+emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern - PV;2024;4811;t
+emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern - reg. Bezug (Bundesmix);2024;253082,68;t
+emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern - Wasserkraft;2024;0,56;t
+emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern (t) - Windkraft;2024;963,04;t
 pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Summe);1997;5;kWp
 pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Anzahl aller PV-Anlagen;1997;1;Anzahl
 pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Summe);2007;9;kWp
@@ -712,8 +769,8 @@ pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Sum
 pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Anzahl aller PV-Anlagen;2023;36;Anzahl
 pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Summe);2024;1409;kWp
 pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Anzahl aller PV-Anlagen;2024;47;Anzahl
-pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Summe);2025;1661;kWp
-pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Anzahl aller PV-Anlagen;2025;49;Anzahl
+pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Summe);2025;1741;kWp
+pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Anzahl aller PV-Anlagen;2025;51;Anzahl
 awm-abfallaufkommen-pro-kopf;Münster, Gesamtstadt;AWM - Abfallwirtschaftsbetriebe Münster;1;Abfallaufkommen - Gesamt;2011;459,00;kg pro Kopf
 awm-abfallaufkommen-pro-kopf;Münster, Gesamtstadt;AWM - Abfallwirtschaftsbetriebe Münster;1;Abfallaufkommen - Wertstoffe;2011;289,00;kg pro Kopf
 awm-abfallaufkommen-pro-kopf;Münster, Gesamtstadt;AWM - Abfallwirtschaftsbetriebe Münster;1;Abfallaufkommen - Restmüll;2011;170,00;kg pro Kopf
@@ -760,6 +817,8 @@ teilnehmer-startberatung;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klim
 teilnehmer-startberatung;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;16;Teilnehmer Startberatung - Unternehmen;2020;12,00;Anzahl
 teilnehmer-startberatung;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;16;Teilnehmer Startberatung - Unternehmen;2021;13,00;Anzahl
 teilnehmer-startberatung;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;16;Teilnehmer Startberatung - Unternehmen;2022;9,00;Anzahl
+teilnehmer-startberatung;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;16;Teilnehmer Startberatung - Unternehmen;2023;8;Anzahl
+teilnehmer-startberatung;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;16;Teilnehmer Startberatung - Unternehmen;2024;8;Anzahl
 stadtwerke-bus-fahrzeuge;Münster, Gesamtstadt;Stadtwerke Münster;3;Fahrzeuge Gesamt;2018-04;232,00;Anzahl
 stadtwerke-bus-fahrzeuge;Münster, Gesamtstadt;Stadtwerke Münster;3;Fahrzeuge Alternative Antriebe Gesamt;2018-04;12,00;Anzahl
 stadtwerke-bus-fahrzeuge;Münster, Gesamtstadt;Stadtwerke Münster;3;Fahrzeuge Gesamt;2018-08;227,00;Anzahl
@@ -1155,21 +1214,259 @@ co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima
 co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Verkehr - Kraftstoffmix Verkehr;2022;543934,07;t
 co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Verkehr - Strom;2022;17764,90;t
 co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Verkehr - Summe;2022;561698,98;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - EE Wärme;2023;0,13;Anteil
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Erdgas;2023;23,78;Anteil
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Fernwärme;2023;5,71;Anteil
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Gewerbe + Sonstige - Anteil;2023;30,85;%
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Gewerbe + Sonstige - EE Wärme;2023;522;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Gewerbe + Sonstige - Erdgas;2023;112206;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Gewerbe + Sonstige - Fernwärme;2023;84677;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Gewerbe + Sonstige - Heizöl;2023;33835,64;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Gewerbe + Sonstige - Kraftstoffmix Verkehr;2023;0,00;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Gewerbe + Sonstige - Strom;2023;268226;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Gewerbe + Sonstige - Summe;2023;499466;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Heizöl;2023;7,93;Anteil
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Industrie - Anteil;2023;8,90;%
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Industrie - EE Wärme;2023;0,00;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Industrie - Erdgas;2023;78356;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Industrie - Fernwärme;2023;0,00;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Industrie - Heizöl;2023;1688;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Industrie - Kraftstoffmix Verkehr;2023;0,00;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Industrie - Strom;2023;64080;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Industrie - Summe;2023;144124;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Kraftstoffmix Verkehr;2023;32,71;Anteil
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Sektor Private Haushalte - Anteil;2023;26,58;%
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Sektor Private Haushalte - EE Wärme;2023;1584;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Sektor Private Haushalte - Erdgas;2023;194459;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Sektor Private Haushalte - Fernwärme;2023;7795;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Sektor Private Haushalte - Heizöl;2023;92889;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Sektor Private Haushalte - Kraftstoffmix Verkehr;2023;0,00;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Sektor Private Haushalte - Strom;2023;133705;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Sektor Private Haushalte - Summe;2023;430431;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Strom;2023;29,74;Anteil
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Summe;2023;100,00;Anteil
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Summe - Anteil;2023;100,00;%
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Summe - EE Wärme;2023;2105;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Summe - Erdgas;2023;385021;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Summe - Heizöl;2023;128412;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Summe - Kraftstoffmix Verkehr;2023;546000;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Summe - Strom;2023;481573;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Summe -Fernwärme;2023;92472;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Summe -Summe;2023;1619203;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Verkehr - Anteil;2023;33,67;%
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Verkehr - EE Wärme;2023;0,00;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Verkehr - Erdgas;2023;0,00;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Verkehr - Fernwärme;2023;0,00;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Verkehr - Heizöl;2023;0,00;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Verkehr - Kraftstoffmix Verkehr;2023;526890;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Verkehr - Strom;2023;19110;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Verkehr - Summe;2023;546000;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - EE Wärme;2024;0,54;Anteil
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Erdgas;2024;24,54;Anteil
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Fernwärme;2024;5,93;Anteil
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Gewerbe + Sonstige - Anteil;2024;31,79;%
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Gewerbe + Sonstige - EE Wärme;2024;551;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Gewerbe + Sonstige - Erdgas;2024;117886;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Gewerbe + Sonstige - Fernwärme;2024;86026;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Gewerbe + Sonstige - Heizöl;2024;33212;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Gewerbe + Sonstige - Kraftstoffmix Verkehr;2024;0,00;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Gewerbe + Sonstige - Strom;2024;276376;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Gewerbe + Sonstige - Summe;2024;514051;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Heizöl;2024;7,71;Anteil
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Industrie - Anteil;2024;9,03;%
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Industrie - EE Wärme;2024;0,00;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Industrie - Erdgas;2024;81746;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Industrie - Fernwärme;2024;0,00;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Industrie - Heizöl;2024;3006;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Industrie - Kraftstoffmix Verkehr;2024;0,00;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Industrie - Strom;2024;54755;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Industrie - Summe;2024;146013;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Kraftstoffmix Verkehr;2024;32,28;Anteil
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Sektor Private Haushalte - Anteil;2024;25,90;%
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Sektor Private Haushalte - EE Wärme;2024;1674;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Sektor Private Haushalte - Erdgas;2024;197111;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Sektor Private Haushalte - Fernwärme;2024;9770;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Sektor Private Haushalte - Heizöl;2024;88422;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Sektor Private Haushalte - Kraftstoffmix Verkehr;2024;0,00;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Sektor Private Haushalte - Strom;2024;121761;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Sektor Private Haushalte - Summe;2024;418737;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Strom;2024;29,01;Anteil
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Summe;2024;100,00;Anteil
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Summe - Anteil;2024;100,00;%
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Summe - EE Wärme;2024;8730;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Summe - Erdgas;2024;396743;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Summe - Heizöl;2024;124640;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Summe - Kraftstoffmix Verkehr;2024;538000;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Summe - Strom;2024;469032;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Summe -Fernwärme;2024;95796;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Summe -Summe;2024;1616801;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Verkehr - Anteil;2024;33,28;%
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Verkehr - EE Wärme;2024;0,00;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Verkehr - Erdgas;2024;0,00;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Verkehr - Fernwärme;2024;0,00;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Verkehr - Heizöl;2024;0,00;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Verkehr - Kraftstoffmix Verkehr;2024;518890;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Verkehr - Strom;2024;19110;t
+co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Verkehr - Summe;2024;538000;t
 stadtwerke-bus-fahrgäste;Münster, Gesamtstadt;Stadtwerke Münster;5;Fahrgastzahlen (ÖPNV) SWMS;2020;22,5;Mio. Fahrgäste
 stadtwerke-bus-fahrgäste;Münster, Gesamtstadt;Stadtwerke Münster;5;Fahrgastzahlen (ÖPNV) SWMS;2021;22,3;Mio. Fahrgäste
 stadtwerke-bus-fahrgäste;Münster, Gesamtstadt;Stadtwerke Münster;5;Fahrgastzahlen (ÖPNV) SWMS;2022;29,3;Mio. Fahrgäste
 stadtwerke-bus-fahrgäste;Münster, Gesamtstadt;Stadtwerke Münster;5;Fahrgastzahlen (ÖPNV) SWMS;2023;31,8;Mio. Fahrgäste
 stadtwerke-bus-fahrgäste;Münster, Gesamtstadt;Stadtwerke Münster;5;Fahrgastzahlen (ÖPNV) SWMS;2024;31,9;Mio. Fahrgäste
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlAnlagen;2026-01-03;12943;Anzahl
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlSolarModule;2026-01-03;576993;kW
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Bruttoleistung;2026-01-03;160516;kW
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Nettonennleistung;2026-01-03;144711;kW
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungAnlagen;2026-01-03;51;Anzahl
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungBruttoleistung;2026-01-03;1742;kW
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungNettonennleistung;2026-01-03;1572;kW
-bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlAnlagen;2026-01-03;28;Anzahl
-bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Bruttoleistung;2026-01-03;65221;kW
-bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Nettonennleistung;2026-01-03;65221;kW
-bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungAnlagen;2026-01-03;0;Anzahl
-bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungBruttoleistung;2026-01-03;0;kW
-bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungNettonennleistung;2026-01-03;0;kW
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Erdgas;2005;2006022;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Fernwärme;2005;756773;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Heizstrom;2005;56279;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Heizöl;2005;718634;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - EE Wärme;2005;25949;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Anteil EE (%);2005;0,0073;%
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Erdgas;2010;1805351;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Fernwärme;2010;715730;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Heizstrom;2010;43510;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Heizöl;2010;667769;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - EE Wärme;2010;30949;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Anteil EE (%);2010;0,0095;%
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Erdgas;2015;1797207;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Fernwärme;2015;676457;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Heizstrom;2015;33990;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Heizöl;2015;602730;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - EE Wärme;2015;35622;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Anteil EE (%);2015;0,0113;%
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Erdgas;2016;1865582;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Fernwärme;2016;702623;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Heizstrom;2016;33916;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Heizöl;2016;586164;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - EE Wärme;2016;36590;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Anteil EE (%);2016;0,0113;%
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Erdgas;2017;1884956;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Fernwärme;2017;753751;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Heizstrom;2017;33190;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Heizöl;2017;585742;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - EE Wärme;2017;39104;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Anteil EE (%);2017;0,0119;%
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Erdgas;2018;1929622;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Fernwärme;2018;738103;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Heizstrom;2018;32070;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Heizöl;2018;585982;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - EE Wärme;2018;41573;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Anteil EE (%);2018;0,0125;%
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Erdgas;2019;1861662;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Fernwärme;2019;720742;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Heizstrom;2019;29375;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Heizöl;2019;447674;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - EE Wärme;2019;42527;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Anteil EE (%);2019;0,0137;%
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Erdgas;2020;1888448;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Fernwärme;2020;741478;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Heizstrom;2020;29826;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Heizöl;2020;464892;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - EE Wärme;2020;47118;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Anteil EE (%);2020;0,0149;%
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Erdgas;2021;1857828;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Fernwärme;2021;735546;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Heizstrom;2021;27451;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Heizöl;2021;431275;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - EE Wärme;2021;42456;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Anteil EE (%);2021;0,0137;%
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Erdgas;2022;1669395;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Fernwärme;2022;740375;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Heizstrom;2022;26141;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Heizöl;2022;418104;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - EE Wärme;2022;53012;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Anteil EE (%);2022;0,0182;%
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Erdgas;2023;1558789;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Fernwärme;2023;659572;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Heizstrom;2023;22694;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Heizöl;2023;403810;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - EE Wärme;2023;63797;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Anteil EE (%);2023;0,0236;%
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Erdgas;2024;1606246;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Fernwärme;2024;696466;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Heizstrom;2024;22239;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Heizöl;2024;391951;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - EE Wärme;2024;86838;MWh
+verbrauch-erzeugung-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;18;Wärmeerzeugung/-bereitstellung nach Energieträgern - Anteil EE (%);2024;0,031;%
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Erdgas;2005;505518;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Fernwärme;2005;148703;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Heizstrom;2005;40709;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Heizöl;2005;230682;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - EE Wärme;2005;940;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Anteil EE;2005;0,001;%
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Erdgas;2010;454948;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Fernwärme;2010;88694;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Heizstrom;2010;25042;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Heizöl;2010;214354;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - EE Wärme;2010;1058;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Anteil EE;2010;0,0013;%
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Erdgas;2015;449302;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Fernwärme;2015;81620;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Heizstrom;2015;19027;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Heizöl;2015;193476;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - EE Wärme;2015;1176;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Anteil EE;2015;0,00158;%
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Erdgas;2016;466395;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Fernwärme;2016;81469;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Heizstrom;2016;18095;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Heizöl;2016;188159;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - EE Wärme;2016;1208;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Anteil EE;2016;0,0016;%
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Erdgas;2017;465584;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Fernwärme;2017;99124;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Heizstrom;2017;16344;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Heizöl;2017;186266;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - EE Wärme;2017;1291;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Anteil EE;2017;0,0017;%
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Erdgas;2018;476617;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Fernwärme;2018;97840;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Heizstrom;2018;15711;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Heizöl;2018;186342;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - EE Wärme;2018;1372;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Anteil EE;2018;0,0018;%
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Erdgas;2019;459831;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Fernwärme;2019;89788;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Heizstrom;2019;13932;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Heizöl;2019;142360;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - EE Wärme;2019;1403;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Anteil EE;2019;0,00198;%
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Erdgas;2020;458884;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Fernwärme;2020;97471;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Heizstrom;2020;12424;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Heizöl;2020;147836;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - EE Wärme;2020;1555;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Anteil EE;2020;0,0022;%
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Erdgas;2021;466447;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Fernwärme;2021;96610;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Heizstrom;2021;12009;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Heizöl;2021;137145;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - EE Wärme;2021;1401;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Anteil EE;2021;0,00196;%
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Erdgas;2022;412341;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Fernwärme;2022;99708;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Heizstrom;2022;11651;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Heizöl;2022;132957;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - EE Wärme;2022;1749;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Anteil EE;2022;0,00266;%
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Erdgas;2023;385021;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Fernwärme;2023;92472;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Heizstrom;2023;9049;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Heizöl;2023;128412;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - EE Wärme;2023;2105;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Anteil EE;2023;0,0034;%
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Erdgas;2024;396743;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Fernwärme;2024;95796;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Heizstrom;2024;8432;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Heizöl;2024;8432;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - EE Wärme;2024;2316;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Anteil EE;2024;0,0037;%
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlAnlagen;2026-01-27;13405;Anzahl
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlSolarModule;2026-01-27;591031;kW
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Bruttoleistung;2026-01-27;166087;kW
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Nettonennleistung;2026-01-27;149422;kW
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungAnlagen;2026-01-27;56;Anzahl
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungBruttoleistung;2026-01-27;1997;kW
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungNettonennleistung;2026-01-27;1787;kW
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlAnlagen;2026-01-27;28;Anzahl
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Bruttoleistung;2026-01-27;65221;kW
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Nettonennleistung;2026-01-27;65221;kW
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungAnlagen;2026-01-27;0;Anzahl
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungBruttoleistung;2026-01-27;0;kW
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungNettonennleistung;2026-01-27;0;kW

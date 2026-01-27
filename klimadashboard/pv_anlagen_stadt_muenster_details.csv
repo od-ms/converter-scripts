@@ -19,8 +19,8 @@ pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Sum
 pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Anzahl aller PV-Anlagen;2023;36;Anzahl
 pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Summe);2024;1409;kWp
 pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Anzahl aller PV-Anlagen;2024;47;Anzahl
-pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Summe);2025;1661;kWp
-pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Anzahl aller PV-Anlagen;2025;49;Anzahl
+pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Summe);2025;1741;kWp
+pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Anzahl aller PV-Anlagen;2025;51;Anzahl
 pv-anlagen;Stadt Münster - PV Anlage Stadt Münster_Bürgerzentrum Kinderhaus (56), Inbetriebnahme: 1997-09-08;Stadtverwaltung Münster;15;Leistung ab Jahr;1997;5.0;kWp
 pv-anlagen;Stadt Münster - PV Anlage Erbdrostenweg (26), Inbetriebnahme: 2007-02-09;Stadtverwaltung Münster;15;Leistung ab Jahr;2007;4.2;kWp
 pv-anlagen;Stadt Münster - PV Anlage Alter Postweg (36), Inbetriebnahme: 2011-02-16;Stadtverwaltung Münster;15;Leistung ab Jahr;2011;7.1;kWp
@@ -48,14 +48,14 @@ pv-anlagen;Stadt Münster - PV Anlage Stadt Münster_Kardinal-von-Galen Schule_H
 pv-anlagen;Stadt Münster - PV Anlage Stadt Münster_Pascal Gymnasium_3 Fach Sporthalle (294), Inbetriebnahme: 2023-08-30;Stadtverwaltung Münster;15;Leistung ab Jahr;2023;99.96;kWp
 pv-anlagen;Stadt Münster - PV Anlage Stadt Münster_Gesamtschule Mitte (154), Inbetriebnahme: 2023-10-19;Stadtverwaltung Münster;15;Leistung ab Jahr;2023;60.0;kWp
 pv-anlagen;Stadt Münster - PV Anlage Inkingrodde (8), Inbetriebnahme: 2023-11-27;Stadtverwaltung Münster;15;Leistung ab Jahr;2023;3.0;kWp
-pv-anlagen;Stadt Münster - PV Anlage Coermühle (32), Inbetriebnahme: 2023-11-30;Stadtverwaltung Münster;15;Leistung ab Jahr;2023;10.0;kWp
 pv-anlagen;Stadt Münster - PV Anlage Steinbrede (20), Inbetriebnahme: 2023-11-30;Stadtverwaltung Münster;15;Leistung ab Jahr;2023;7.0;kWp
 pv-anlagen;Stadt Münster - PV Anlage Zum Häpper (22), Inbetriebnahme: 2023-11-30;Stadtverwaltung Münster;15;Leistung ab Jahr;2023;8.14;kWp
+pv-anlagen;Stadt Münster - PV Anlage Coermühle (32), Inbetriebnahme: 2023-11-30;Stadtverwaltung Münster;15;Leistung ab Jahr;2023;10.0;kWp
 pv-anlagen;Stadt Münster - PV Anlage Malteserstraße (22), Inbetriebnahme: 2023-12-06;Stadtverwaltung Münster;15;Leistung ab Jahr;2023;8.14;kWp
-pv-anlagen;Stadt Münster - PV Anlage Eschstraße (44), Inbetriebnahme: 2023-12-08;Stadtverwaltung Münster;15;Leistung ab Jahr;2023;15.0;kWp
 pv-anlagen;Stadt Münster - PV Anlage Hessenbusch (20), Inbetriebnahme: 2023-12-08;Stadtverwaltung Münster;15;Leistung ab Jahr;2023;7.0;kWp
-pv-anlagen;Stadt Münster - PV Anlage Stadt Münster_Feuerwehrhaus Sprakel (18), Inbetriebnahme: 2023-12-12;Stadtverwaltung Münster;15;Leistung ab Jahr;2023;6.0;kWp
+pv-anlagen;Stadt Münster - PV Anlage Eschstraße (44), Inbetriebnahme: 2023-12-08;Stadtverwaltung Münster;15;Leistung ab Jahr;2023;15.0;kWp
 pv-anlagen;Stadt Münster - PV Anlage Stadt Münster_Feuerwache 2 (242), Inbetriebnahme: 2023-12-12;Stadtverwaltung Münster;15;Leistung ab Jahr;2023;75.0;kWp
+pv-anlagen;Stadt Münster - PV Anlage Stadt Münster_Feuerwehrhaus Sprakel (18), Inbetriebnahme: 2023-12-12;Stadtverwaltung Münster;15;Leistung ab Jahr;2023;6.0;kWp
 pv-anlagen;Stadt Münster - PV Anlage Hauptkläranlage ÜSS-Anlage (96), Inbetriebnahme: 2023-12-21;Stadtverwaltung Münster;15;Leistung ab Jahr;2023;35.0;kWp
 pv-anlagen;Stadt Münster - PV Anlage Stadt Münster_Primusschule (1) (54), Inbetriebnahme: 2024-02-09;Stadtverwaltung Münster;15;Leistung ab Jahr;2024;20.0;kWp
 pv-anlagen;Stadt Münster - PV Anlage Stadt Münster_Stadtbücherei (72), Inbetriebnahme: 2024-02-21;Stadtverwaltung Münster;15;Leistung ab Jahr;2024;29.75;kWp
@@ -69,4 +69,6 @@ pv-anlagen;Stadt Münster - PV Anlage Stadt Münster_Friedhof Angelmodde (2), In
 pv-anlagen;Stadt Münster - PV Anlage Stadt Münster_Schillergymnasium (28), Inbetriebnahme: 2024-12-12;Stadtverwaltung Münster;15;Leistung ab Jahr;2024;10.0;kWp
 pv-anlagen;Stadt Münster - PV Anlage Stadt Münster_Pleisterschule (64), Inbetriebnahme: 2024-12-12;Stadtverwaltung Münster;15;Leistung ab Jahr;2024;26.88;kWp
 pv-anlagen;Stadt Münster - PV Anlage Stadt Münster_Grundschule Sprakel_Zweifachsporthalle (240), Inbetriebnahme: 2025-02-20;Stadtverwaltung Münster;15;Leistung ab Jahr;2025;100.0;kWp
+pv-anlagen;Stadt Münster - PV Anlage Stadt Münster_Kita Oxford (68), Inbetriebnahme: 2025-06-26;Stadtverwaltung Münster;15;Leistung ab Jahr;2025;29.58;kWp
+pv-anlagen;Stadt Münster - PV Anlage Stadt Münster_Pötterhoekschule (117), Inbetriebnahme: 2025-07-29;Stadtverwaltung Münster;15;Leistung ab Jahr;2025;40.0;kWp
 pv-anlagen;Stadt Münster - PV Anlage Stadt Münster_Schulzentrum Hiltrup (304), Inbetriebnahme: 2025-08-14;Stadtverwaltung Münster;15;Leistung ab Jahr;2025;100.0;kWp
