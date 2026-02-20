@@ -1120,6 +1120,12 @@ awm-e-mobilitaet;Münster, Gesamtstadt;AWM - Abfallwirtschaftsbetriebe Münster;
 awm-e-mobilitaet;Münster, Gesamtstadt;AWM - Abfallwirtschaftsbetriebe Münster;17;AWM Fahrzeuge - Elektroantrieb;2023;35,00;Anzahl
 awm-e-mobilitaet;Münster, Gesamtstadt;AWM - Abfallwirtschaftsbetriebe Münster;17;AWM Fahrzeuge - Dieselantrieb;2023;214,00;Anzahl
 awm-e-mobilitaet;Münster, Gesamtstadt;AWM - Abfallwirtschaftsbetriebe Münster;17;AWM Fahrzeuge - Erdgasantrieb;2023;1,00;Anzahl
+awm-e-mobilitaet;Münster, Gesamtstadt;AWM - Abfallwirtschaftsbetriebe Münster;17;AWM Fahrzeuge - Elektroantrieb;2024;35;Anzahl
+awm-e-mobilitaet;Münster, Gesamtstadt;AWM - Abfallwirtschaftsbetriebe Münster;17;AWM Fahrzeuge - Dieselantrieb;2024;208;Anzahl
+awm-e-mobilitaet;Münster, Gesamtstadt;AWM - Abfallwirtschaftsbetriebe Münster;17;AWM Fahrzeuge - Erdgasantrieb;2024;1;Anzahl
+awm-e-mobilitaet;Münster, Gesamtstadt;AWM - Abfallwirtschaftsbetriebe Münster;17;AWM Fahrzeuge - Elektroantrieb;2025;41;Anzahl
+awm-e-mobilitaet;Münster, Gesamtstadt;AWM - Abfallwirtschaftsbetriebe Münster;17;AWM Fahrzeuge - Dieselantrieb;2025;210;Anzahl
+awm-e-mobilitaet;Münster, Gesamtstadt;AWM - Abfallwirtschaftsbetriebe Münster;17;AWM Fahrzeuge - Erdgasantrieb;2025;1;Anzahl
 co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Sektor Private Haushalte - Erdgas;2021;238981,29;t
 co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Sektor Private Haushalte - Fernwärme;2021;11415,40;t
 co2-emissionen-sektoren;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;11;CO2-Emissionen - Sektor Private Haushalte - Heizöl;2021;98807,49;t
@@ -1454,19 +1460,19 @@ emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;W�
 emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Erdgas;2024;396743;t
 emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Fernwärme;2024;95796;t
 emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Heizstrom;2024;8432;t
-emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Heizöl;2024;8432;t
+emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Heizöl;2024;124640;t
 emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - EE Wärme;2024;2316;t
 emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Anteil EE;2024;0,0037;%
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlAnlagen;2026-02-03;13405;Anzahl
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlSolarModule;2026-02-03;591031;kW
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Bruttoleistung;2026-02-03;166087;kW
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Nettonennleistung;2026-02-03;149422;kW
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungAnlagen;2026-02-03;56;Anzahl
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungBruttoleistung;2026-02-03;1997;kW
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungNettonennleistung;2026-02-03;1787;kW
-bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlAnlagen;2026-02-03;28;Anzahl
-bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Bruttoleistung;2026-02-03;65221;kW
-bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Nettonennleistung;2026-02-03;65221;kW
-bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungAnlagen;2026-02-03;0;Anzahl
-bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungBruttoleistung;2026-02-03;0;kW
-bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungNettonennleistung;2026-02-03;0;kW
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlAnlagen;2026-02-20;13527;Anzahl
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlSolarModule;2026-02-20;598495;kW
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Bruttoleistung;2026-02-20;264096;kW
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Nettonennleistung;2026-02-20;152896;kW
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungAnlagen;2026-02-20;57;Anzahl
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungBruttoleistung;2026-02-20;2085;kW
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungNettonennleistung;2026-02-20;1876;kW
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlAnlagen;2026-02-20;28;Anzahl
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Bruttoleistung;2026-02-20;65221;kW
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Nettonennleistung;2026-02-20;65221;kW
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungAnlagen;2026-02-20;0;Anzahl
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungBruttoleistung;2026-02-20;0;kW
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungNettonennleistung;2026-02-20;0;kW
