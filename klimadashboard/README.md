@@ -1,7 +1,13 @@
+# Aktualisierung der Klimadashboard-Datei: 
 
-# Anleitung zum Aktualisieren der PV-Anlagen-der-Stadt-Münster-Datei
+`./update-all.sh`
 
-Die wird vom Skript "split_datafile.py" benötigt
+
+## Anleitung zum Aktualisieren der PV-Anlagen-der-Stadt-Münster-Datei
+
+Die Datei `pv_anlagen_stadt_muenster.csv` wird vom Skript "split_datafile.py" benötigt, damit in der Klimadashboard-Datendatei aktuelle Solardaten auftauchen. 
+
+Wenn man das Jupyter Notebook aktualisiert hat, kann man die Update-Datei folgendermaßen neu generieren: 
 
 ```bash
 # Erzeuge die python Datei aus dem Juypter Notebook
