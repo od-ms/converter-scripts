@@ -1,0 +1,140 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.579295,
+          51.967541
+        ]
+      },
+      "properties": {
+        "title": "Gievenbeck \u2013 Wochenmarkt R\u00fcschhausweg",
+        "id": "SWM-003",
+        "info": "Gievenbeck - Wochenmarkt\nR\u00fcschhausweg\n\nJeden 3. Donnerstag im Monat \n14:00\u201318:00 Uhr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64401,
+          51.905454
+        ]
+      },
+      "properties": {
+        "title": "Hiltrup \u2013 Marktallee",
+        "id": "SWM-004",
+        "info": "Hiltrup - Marktallee\nEcke Mor\u00e4nenstra\u00dfe\n\nJeden 2. Freitag im Monat \n08:00\u201313:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.625411,
+          51.902912
+        ]
+      },
+      "properties": {
+        "title": "Hiltrup \u2013 Meesenstiege",
+        "id": "SWM-005",
+        "info": "Hiltrup - Meesenstiege\nan der Apotheke\n\nJeden 4. Freitag im Monat \n14:00\u201318:00 Uhr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.603105,
+          51.995743
+        ]
+      },
+      "properties": {
+        "title": "Kinderhaus \u2013 Wochenmarkt",
+        "id": "SWM-006",
+        "info": "Kinderhaus - Wochenmarkt\nIdenbrockplatz\n\nJeden 1. Donnerstag im Monat \t\n8:30\u201312:30 Uhr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.559489,
+          51.998537
+        ]
+      },
+      "properties": {
+        "title": "Nienberge \u2013 Wochenmarkt",
+        "id": "SWM-007",
+        "info": "Nienberge - Wochenmarkt\nSebastianstra\u00dfe, Ecke Kirmstra\u00dfe\n\nJedem 1. Freitag im Monat \t\n9:00\u201312:00 Uhr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.533525,
+          51.954012
+        ]
+      },
+      "properties": {
+        "title": "Roxel \u2013 Wochenmarkt",
+        "id": "SWM-008",
+        "info": "Roxel \u2013 Wochenmarkt\nPantaleonplatz\n\nJeden 3. Freitag im Monat \n13:30\u201317:30 Uhr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.697611,
+          51.98745
+        ]
+      },
+      "properties": {
+        "title": "Handorf \u2013 Wochenmarkt",
+        "id": "SWM-009",
+        "info": "Handorf \u2013 Wochenmarkt \nHugo-Pottebaum-Platz 1\n \nJeden 3. Dienstag im Monat \n13:30\u201318:00 Uhr \n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.726062,
+          51.915733
+        ]
+      },
+      "properties": {
+        "title": "Wolbeck \u2013 Wochenmarkt",
+        "id": "SWM-010",
+        "info": "Wolbeck\u2013 Wochenmarkt \nHiltruper Stra\u00dfe 1\n \nJeden 2. Mittwoch im Monat \n13:30\u201318:00 Uhr \n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.579656,
+          51.931272
+        ]
+      },
+      "properties": {
+        "title": "Mecklenbeck \u2013 Edeka",
+        "id": "SWM-011",
+        "info": "Mecklenbeck \u2013 Edeka\nDingb\u00e4ngerweg 69 \u2013 Kundenparkplatz\n\nJeden 2. Montag im Monat\n09:00\u201313:30 Uhr\n"
+      }
+    }
+  ]
+}
