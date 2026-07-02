@@ -26,10 +26,12 @@ URLS = {
 
     'ticketautomaten': 'https://www.netzplan-muenster.de/api/wfs-layers/24/features?format=GeoJSON&locale=de-de&props=info,info2,foto,strasse,hausnr,Zusatz,plz,stadt,webseite,telefon,email,geometry,idint,f_type,centerx,centery,title,svg,svg_hover,extern_url,ttip_img&srs=EPSG:4326',
 
-    'vorverkaufsstellen': 'https://www.netzplan-muenster.de/api/wfs-layers/26/features?format=GeoJSON&locale=de-de&props=info,info2,foto,strasse,hausnr,Zusatz,plz,stadt,webseite,telefon,email,geometry,idint,f_type,centerx,centery,title,svg,svg_hover,extern_url,ttip_img&srs=EPSG:4326',
+    'stadtwerke_servicemobil': 'https://www.netzplan-muenster.de/api/wfs-layers/116/features?format=GeoJSON&locale=de-de&props=info,info2,foto,strasse,hausnr,Zusatz,plz,stadt,webseite,telefon,email,geometry,idint,f_type,centerx,centery,title,svg,svg_hover,extern_url,ttip_img&srs=EPSG:4326', 
 
     'bike_and_ride_stationen': 'https://www.netzplan-muenster.de/api/wfs-layers/13/features?format=GeoJSON&locale=de-de&props=info,info2,foto,strasse,hausnr,Zusatz,plz,stadt,webseite,telefon,email,geometry,idint,f_type,centerx,centery,title,svg,svg_hover,extern_url,ttip_img&srs=EPSG:4326'
 
+# Deaktiviert, weil Vorverkaufsstellen gibt es nicht mehr:
+#     'vorverkaufsstellen': 'https://www.netzplan-muenster.de/api/wfs-layers/26/features?format=GeoJSON&locale=de-de&props=info,info2,foto,strasse,hausnr,Zusatz,plz,stadt,webseite,telefon,email,geometry,idint,f_type,centerx,centery,title,svg,svg_hover,extern_url,ttip_img&srs=EPSG:4326',
 }
 
 # Basic logger configuration
@@ -58,7 +60,7 @@ def readUrlWithCache(cachefile_name, url):
     filename = f'{cachefile_name}.json'
 
     currentTS = time.time()
-    cache_max_age = 60 * 60 * 24 * 30
+    cache_max_age = 60 * 60 * 23
     generate_cache_file = True
     filecontent = "{}"
     if os.path.isfile(filename):
