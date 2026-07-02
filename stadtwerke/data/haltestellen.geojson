@@ -3380,7 +3380,7 @@
       "type": "Feature",
       "properties": {
         "stop_id": "43480P",
-        "stop_name": "LVM- Preu\u00dfenstadion",
+        "stop_name": "LVM-Preu\u00dfenstadion",
         "location_type": "1"
       },
       "geometry": {
@@ -4100,14 +4100,14 @@
       "type": "Feature",
       "properties": {
         "stop_id": "44061P",
-        "stop_name": "Gr\u00fcner Grund",
+        "stop_name": "S\u00fcdbad",
         "location_type": "1"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.6141665,
-          51.941541
+          7.614102,
+          51.939712
         ]
       }
     },
@@ -5186,8 +5186,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.585440999999999,
-          51.976128
+          7.5855615,
+          51.9761125
         ]
       }
     },
@@ -5576,8 +5576,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.5702560000000005,
-          51.9593995
+          7.5702505,
+          51.9594005
         ]
       }
     },
@@ -5645,7 +5645,7 @@
       "type": "Feature",
       "properties": {
         "stop_id": "45860P",
-        "stop_name": "Zoo / LWL-Naturkundemuseum",
+        "stop_name": "Zoo / Naturkundemuseum",
         "location_type": "1"
       },
       "geometry": {
@@ -6581,8 +6581,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.575005,
-          51.960277500000004
+          7.573926,
+          51.961078
         ]
       }
     },
@@ -6671,7 +6671,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.6205940000000005,
+          7.6203105,
           52.0319455
         ]
       }
@@ -7295,7 +7295,7 @@
       "type": "Feature",
       "properties": {
         "stop_id": "47201P",
-        "stop_name": "Kurhaus",
+        "stop_name": "Hofstra\u00dfe",
         "location_type": "1"
       },
       "geometry": {
@@ -10309,21 +10309,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stop_id": "4190801",
-        "stop_name": "Paulinum",
-        "parent_station": "41908P"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.61911,
-          51.959282
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "stop_id": "4192302",
         "stop_name": "Picasso-Museum A",
         "parent_station": "41923P"
@@ -12844,6 +12829,21 @@
     {
       "type": "Feature",
       "properties": {
+        "stop_id": "4315101",
+        "stop_name": "Andreas-Hofer-Str.",
+        "parent_station": "43151P"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.652683,
+          51.958743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "stop_id": "4315102",
         "stop_name": "Andreas-Hofer-Str.",
         "parent_station": "43151P"
@@ -12853,6 +12853,21 @@
         "coordinates": [
           7.653603,
           51.958818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "4316101",
+        "stop_name": "Manfred-von-Richthofen-Str.",
+        "parent_station": "43161P"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.647906,
+          51.958908
         ]
       }
     },
@@ -13573,21 +13588,6 @@
         "coordinates": [
           7.636297,
           51.951888
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stop_id": "4342103",
-        "stop_name": "Hansaring C",
-        "parent_station": "43421P"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.638469,
-          51.952964
         ]
       }
     },
@@ -14419,66 +14419,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stop_id": "4381101",
-        "stop_name": "Robert-Bosch-Stra\u00dfe",
-        "parent_station": "43811P"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.633721,
-          51.935351
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stop_id": "4381102",
-        "stop_name": "Robert-Bosch-Stra\u00dfe",
-        "parent_station": "43811P"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.633301,
-          51.935127
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stop_id": "4382101",
-        "stop_name": "Umgehungsstra\u00dfe",
-        "parent_station": "43821P"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.635855,
-          51.937197
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stop_id": "4382102",
-        "stop_name": "Umgehungsstra\u00dfe",
-        "parent_station": "43821P"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.636039,
-          51.937079
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "stop_id": "4383101",
         "stop_name": "Westfalen AG",
         "parent_station": "43831P"
@@ -14503,21 +14443,6 @@
         "coordinates": [
           7.634725,
           51.946313
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stop_id": "4384101",
-        "stop_name": "Emdener Stra\u00dfe",
-        "parent_station": "43841P"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.64394,
-          51.953542
         ]
       }
     },
@@ -15110,7 +15035,7 @@
       "type": "Feature",
       "properties": {
         "stop_id": "4406101",
-        "stop_name": "Gr\u00fcner Grund",
+        "stop_name": "S\u00fcdbad",
         "parent_station": "44061P"
       },
       "geometry": {
@@ -15125,7 +15050,7 @@
       "type": "Feature",
       "properties": {
         "stop_id": "4406102",
-        "stop_name": "Gr\u00fcner Grund",
+        "stop_name": "S\u00fcdbad",
         "parent_station": "44061P"
       },
       "geometry": {
@@ -16489,6 +16414,21 @@
     {
       "type": "Feature",
       "properties": {
+        "stop_id": "4513102",
+        "stop_name": "Asbeckweg",
+        "parent_station": "45131P"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.569196,
+          51.97137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "stop_id": "4514101",
         "stop_name": "Haus Mariengrund A",
         "parent_station": "45141P"
@@ -16528,6 +16468,21 @@
         "coordinates": [
           7.573431,
           51.968871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "4515102",
+        "stop_name": "Ahausweg",
+        "parent_station": "45151P"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.57313,
+          51.968995
         ]
       }
     },
@@ -20915,7 +20870,7 @@
       "type": "Feature",
       "properties": {
         "stop_id": "4720102",
-        "stop_name": "Kurhaus",
+        "stop_name": "Hofstra\u00dfe",
         "parent_station": "47201P"
       },
       "geometry": {
@@ -23134,21 +23089,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stop_id": "4975101",
-        "stop_name": "Schlossplatz",
-        "parent_station": "49751P"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.617942,
-          51.964548
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "stop_id": "5433101",
         "stop_name": "Sperlichstr.",
         "parent_station": "54331P"
@@ -23704,36 +23644,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stop_id": "4315103",
-        "stop_name": "Ersatz Andreas-Hofer-Str.",
-        "parent_station": "43151P"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.653052,
-          51.958288
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stop_id": "4590103",
-        "stop_name": "Ersatzhaltestelle Twenteweg",
-        "parent_station": "45901P"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.569246,
-          51.973873
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "stop_id": "4712103",
         "stop_name": "Wolbecker Windm\u00fchle C",
         "parent_station": "47121P"
@@ -23758,6 +23668,66 @@
         "coordinates": [
           7.717553,
           51.915955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "4671201",
+        "stop_name": "Simonsplatz",
+        "parent_station": "46712P"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.573792,
+          51.961188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "4671202",
+        "stop_name": "Simonsplatz",
+        "parent_station": "46712P"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.57406,
+          51.960968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "4567003",
+        "stop_name": "Gartenbreie C",
+        "parent_station": "45670P"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.570882,
+          51.959784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "4677504",
+        "stop_name": "Abzweig Sprakel (Ersatz)",
+        "parent_station": "46775P"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.619616,
+          52.032014
         ]
       }
     }
