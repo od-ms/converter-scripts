@@ -9,22 +9,23 @@ from urllib.error import URLError
 from urllib.request import Request,urlopen
 import config as cfg
 
-token = cfg.eco_counter_token
+token = cfg.eco_apiv2_token
 outdir = '../radverkehr-zaehlstellen/'
 sitefile = outdir + 'site.json'
 infofile = outdir + 'SITE_INDEX.md'
-startYear = 2023 # angepasst auf die neuen Zählstellen, für die alten nehme man "2019"
+startYear = 2026 # angepasst auf die neuen Zählstellen, für die alten nehme man "2019"
+startMonth = 6
+force = 1
 
-
-api_url = cfg.eco_counter_api_url
+api_url = cfg.eco_apiv2_api_url
 wanted_ids = cfg.eco_counter_ids
 
 content = ""
 
 def read_api_url(endpoint):
-    """ read site data from eco counter api """
+    """ read data from eco counter api """
     req = Request(api_url + endpoint)
-    req.add_header("Authorization", "Bearer {}".format(token))
+    req.add_header("X-API-KEY", token)
     req.add_header("Accept", "application/json")
     try:
         response = urlopen(req).read().decode('utf-8')
@@ -35,6 +36,11 @@ def read_api_url(endpoint):
         print(e)
         exit()
     return response
+
+
+def get_mapped_status(status):
+    if status == "raw": return 0
+    return status
 
 
 def generate_filename(obj):
@@ -59,7 +65,7 @@ if 0 and os.path.exists(sitefile):
 else:
 
     # read api sites and write cache file
-    content = read_api_url('/site')
+    content = read_api_url('/sites?include=domain,counters,tags,images,flows,segments,attributes')
     with open(sitefile, 'w') as file:
         file.write(content)
 
@@ -94,13 +100,15 @@ with open(infofile, 'w') as ifile:
         site_id = site_json['id']
         if site_id in wanted_ids:
             clean_channel_name = get_clean_channel_name(site_json['name']);
-            channels.append([site_id, clean_channel_name])
+            # channels.append([site_id, clean_channel_name])
             ifile.write(" * [{0}]({0}) - {1}\n".format(site_json['id'], clean_channel_name))
-            if 'channels' in site_json:
-                for channel_json in site_json['channels']:
+            if 'flows' in site_json:
+                for channel_json in site_json['flows']:
                     channels.append([channel_json['id'], get_clean_channel_name(channel_json['name'])])
                     ifile.write("   * {0} - {1}\n".format(channel_json['id'], get_clean_channel_name(channel_json['name'])))
             sites.append({
+                "id": site_json['id'],
+                "clean_name": clean_channel_name,
                 "name": site_json['name'],
                 "directory": generate_filename(site_json),
                 "start": startYear if site_id != 100031300 else 2020, # date correction hack
@@ -115,12 +123,13 @@ with open(outdir + 'site_min.json', 'w') as file:
 # write all data files for all sites and channels into site subdirectories and create dirs if missing
 for site in sites:
     currentDate = '{0}-{1:02d}'.format(datetime.now().year,datetime.now().month)
+    currentExactDate = '{0}-{1:02d}-{2:02d}'.format(datetime.now().year,datetime.now().month,datetime.now().day)
     sitedir = outdir + site['directory']
     if not os.path.isdir(sitedir):
         os.mkdir(sitedir)
 
     year = int(site['start'])
-    month = 1
+    month = startMonth
     processingMonth = '{0}-{1:02d}'.format(year,month)
 
     dont_process_counter_if_latest_file_is_there = 0
@@ -133,39 +142,57 @@ for site in sites:
     while processingMonth < currentDate:
 
         processingMonth = '{0}-{1:02d}'.format(year,month)
-        startdate = '{0}-{1:02d}-01T00:00:00'.format(year,month)
+        startdate = '{0}-{1:02d}-01'.format(year,month)
         datafile = "{0}/{1}-{2:02d}.csv".format(sitedir,year,month)
 
         month+= 1
         if month>12:
             month=1
             year+=1
-        enddate = '{0}-{1:02d}-01T00:00:00'.format(year,month)
+        enddate = '{0}-{1:02d}-01'.format(year,month)
+        if enddate > currentExactDate:
+            enddate = currentExactDate
 
-        if (processingMonth == currentDate) or (not os.path.exists(datafile)):
+        if (processingMonth == currentDate) or force or (not os.path.exists(datafile)):
             print("======== Reading {} // {} ========".format(processingMonth, site['name']))
             site_data = {}
             site_channels = []
 
-            for channel in site['channels']:
-                channel_id = channel[0]
-                channel_name = channel[1]
+            site_url = '/history/traffic/aggregated?siteId={}&include=status&granularity=PT15M&startDate={}&endDate={}&startTime=00:00&endTime=00:00&gapFilling=false'.format(site['id'], startdate, enddate)
+            print(" > Site Data Url: {}".format(site_url))
+            site_row_json = read_api_url(site_url)
+            site_row_data = json.loads(site_row_json)
+            channel_id = site["id"]
+            site_channels.append({"id": site["id"], "name": site["clean_name"]})
+            for entry in site_row_data[0]["data"]:
+                date = entry['timestamp'] # e.g.'2026-06-01T00:00:00+02:00'
+                if not date in site_data:
+                    site_data[date] = {}
+                site_data[date][channel_id] = [int(float(entry['traffic']['counts'])), get_mapped_status(entry['traffic']['status'][0])]
+            
+            channel_url = '/history/traffic/raw?siteId={}&include=status&startDate={}&endDate={}&startTime=00:00&endTime=00:00&gapFilling=false'.format(site['id'], startdate, enddate)
+            print(" > Site Raw Channel Data Url: {}".format(channel_url))
+            channel_json = read_api_url(channel_url)
+            channel_data = json.loads(channel_json)
+
+            for channel in channel_data:
+                channel_id = channel['flowID']
+                channel_name = get_clean_channel_name(channel['flowName'])
                 print(" > Channel {} {}".format(channel_id, channel_name))
                 site_channels.append({"id": channel_id, "name": channel_name})
-                channel_url = '/data/site/{}?begin={}&end={}&step=15m&complete=false'.format(channel_id, startdate, enddate)
-                print(" > Url: {}".format(channel_url))
-                channel_json = read_api_url(channel_url)
-                channel_data = json.loads(channel_json)
-                if not channel_data:
+                if not channel["data"]:
                     print(" => Empty response")
                 #else:
                 #    time.sleep(1)
 
-                for entry in channel_data:
-                    date = entry['date']
+                for entry in channel["data"]:
+                    if entry["granularity"] != "PT15M":
+                        print(" =>> Skipping entry with granularity {}".format(entry["granularity"]))
+                        continue
+                    date = entry['timestamp']
                     if not date in site_data:
                         site_data[date] = {}
-                    site_data[date][channel_id] = [entry['counts'], entry['status']]
+                    site_data[date][channel_id] = [int(float(entry['counts'])), get_mapped_status(entry['status'][0])]
 
             if not site_data:
                 print(" =>> Empty Site! Skipping file.")
