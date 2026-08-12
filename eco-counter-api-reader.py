@@ -2,7 +2,7 @@
 import os
 import re
 import csv
-import sys
+import time
 import json
 from datetime import datetime
 from urllib.error import URLError
@@ -28,13 +28,24 @@ def read_api_url(endpoint):
     req.add_header("X-API-KEY", token)
     req.add_header("Accept", "application/json")
     try:
-        response = urlopen(req).read().decode('utf-8')
+        response_obj = urlopen(req)
+        response = response_obj.read().decode('utf-8')
     except URLError as e:
         print(e.reason)
         print(e.code)
         print(e.read())
         print(e)
         exit()
+
+    ratelimit_remaining = int(response_obj.headers.get("X-RateLimit-Remaining"))
+    sleep_time = 2
+    if ratelimit_remaining < 10:
+        sleep_time = 10
+    if ratelimit_remaining < 3:
+        sleep_time = 30
+    print("Sleep {} seconds because RateLimit-Remaining: {}".format(sleep_time, ratelimit_remaining))
+    time.sleep(sleep_time)
+
     return response
 
 
@@ -111,7 +122,7 @@ with open(infofile, 'w') as ifile:
                 "clean_name": clean_channel_name,
                 "name": site_json['name'],
                 "directory": generate_filename(site_json),
-                "start": startYear if site_id != 100031300 else 2020, # date correction hack
+                "start": startYear,
                 "channels": channels
             })
 
@@ -182,8 +193,6 @@ for site in sites:
                 site_channels.append({"id": channel_id, "name": channel_name})
                 if not channel["data"]:
                     print(" => Empty response")
-                #else:
-                #    time.sleep(1)
 
                 for entry in channel["data"]:
                     if entry["granularity"] != "PT15M":
