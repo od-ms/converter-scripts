@@ -190,19 +190,21 @@ DATA_SPLIT['bestand-windanlagen'] = get_external_data(
 )
 
 
-# Merge pv_anlagen_stadt_muenster.csv into DATA_SPLIT
-def load_pv_anlagen_csv(filename):
-    rows = []
+# Merge csv file into DATA_SPLIT
+def append_csv(filename):
     with open(filename, 'r', encoding='utf-8') as csvfile:
         reader = csv.reader(csvfile, delimiter=';')
         header = next(reader)
         for row in reader:
-            rows.append(row[1:])
-    return rows
+            rowname = row[0]
+            if rowname not in DATA_SPLIT:
+                DATA_SPLIT[rowname] = []
+            DATA_SPLIT[rowname].append(row[1:])
 
-# !!! Ende August 2025 die folgenden Zeilen wieder einkommentieren !!!
-pv_anlagen_rows = load_pv_anlagen_csv('pv_anlagen_stadt_muenster.csv')
-DATA_SPLIT['pv-anlagen'] = pv_anlagen_rows
+
+append_csv('pv_anlagen_stadt_muenster.csv')
+
+append_csv('klimadashboard/data/klimadashboard-baeume.csv')
 
 write_json_file(DATA_SPLIT, "klimadata.json")
 write_csv_file_with_datsetname_in_first_column(DATA_SPLIT, FIRST_ROW, "klimadata.csv")

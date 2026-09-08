@@ -5,3 +5,4 @@ config.py
 *.zip
 archiv
 refill-stationen/cache/
+**/.env
