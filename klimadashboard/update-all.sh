@@ -17,9 +17,8 @@ headline "Generate PV Anlagen files..."
 python3 generate_pv_anlagen.py
 
 headline "Generate Baumkataster data..."
-pushd ./klimadashboard/
+# jupyter nbconvert --to python klimadashboard-baeume.ipynb 
 python3 klimadashboard-baeume.py
-popd 
 
 headline "Generate Klimadashboard Datafile..."
 python3 ./split_datafile.py
