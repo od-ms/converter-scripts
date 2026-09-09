@@ -749,6 +749,54 @@ emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Str
 emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern - reg. Bezug (Bundesmix);2024;253082,68;t
 emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern - Wasserkraft;2024;0,56;t
 emissionen-strom;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;14;Strom-Emissionen nach Energieträgern (t) - Windkraft;2024;963,04;t
+pv-anlagen;Stadt Münster - PV Anlage Regenkläranlage Erbdrostenweg, Inbetriebnahme: 09.02.2007;Stadt Münster - Amt für Immobilienmanagement;15;Leistung ab Jahr;2007;4,94;kWp
+pv-anlagen;Stadt Münster - PV Anlage Pumpwerk Alter Postweg, Inbetriebnahme: 16.02.2011;Stadt Münster - Amt für Immobilienmanagement;15;Leistung ab Jahr;2011;7,82;kWp
+pv-anlagen;Stadt Münster - PV Anlage Regenkläranlage Erbdrostenweg, Inbetriebnahme: 09.02.2007;Stadt Münster - Amt für Immobilienmanagement;15;Stromproduktion;2017;2940,00;kWh
+pv-anlagen;Stadt Münster - PV Anlage Pumpwerk Alter Postweg, Inbetriebnahme: 16.02.2011;Stadt Münster - Amt für Immobilienmanagement;15;Stromproduktion;2017;6837,53;kWh
+pv-anlagen;Stadt Münster - PV Anlage Kita Burgwall (118) Inbetriebnahme: 10.12.2018;Stadt Münster - Amt für Immobilienmanagement;15;Leistung ab Jahr;2018;8,40;kWp
+pv-anlagen;Stadt Münster - PV Anlage Kita Legdenweg (501) Inbetriebnahme: 10.12.2018;Stadt Münster - Amt für Immobilienmanagement;15;Leistung ab Jahr;2018;8,40;kWp
+pv-anlagen;Stadt Münster - PV Anlage Kita Loddengrund (190) Inbetriebnahme: 10.12.2018;Stadt Münster - Amt für Immobilienmanagement;15;Leistung ab Jahr;2018;8,40;kWp
+pv-anlagen;Stadt Münster - PV Anlage Ludgerusschule Hiltrup (63) Inbetriebnahme: 11.12.2018;Stadt Münster - Amt für Immobilienmanagement;15;Leistung ab Jahr;2018;20,40;kWp
+pv-anlagen;Stadt Münster - PV Anlage Regenkläranlage Erbdrostenweg, Inbetriebnahme: 09.02.2007;Stadt Münster - Amt für Immobilienmanagement;15;Stromproduktion;2018;3489,00;kWh
+pv-anlagen;Stadt Münster - PV Anlage Pumpwerk Alter Postweg, Inbetriebnahme: 16.02.2011;Stadt Münster - Amt für Immobilienmanagement;15;Stromproduktion;2018;8060,49;kWh
+pv-anlagen;Stadt Münster;Stadt Münster - Amt für Immobilienmanagement;15;Leistung aller Anlagen (Summe);2018;50,40;kWp
+pv-anlagen;Stadt Münster;Stadt Münster - Amt für Immobilienmanagement;15;Anzahl aller PV-Anlagen;2018;5,00;Anzahl
+pv-anlagen;Stadt Münster - PV Anlage Kita Waldbach (1534) Inbetriebnahme: 17.06.2019;Stadt Münster - Amt für Immobilienmanagement;15;Leistung ab Jahr;2019;5,40;kWp
+pv-anlagen;Stadt Münster - PV Anlage Regenkläranlage Erbdrostenweg, Inbetriebnahme: 09.02.2007;Stadt Münster - Amt für Immobilienmanagement;15;Stromproduktion;2019;3041,00;kWh
+pv-anlagen;Stadt Münster - PV Anlage Pumpwerk Alter Postweg, Inbetriebnahme: 16.02.2011;Stadt Münster - Amt für Immobilienmanagement;15;Stromproduktion;2019;7453,00;kWh
+pv-anlagen;Stadt Münster - PV Anlage Hauptkläranlage, Inbetriebnahme: 09.11.2019;Stadt Münster - Amt für Immobilienmanagement;15;Leistung ab Jahr;2019;19,44;kWp
+pv-anlagen;Stadt Münster - PV Anlage Hauptkläranlage, Inbetriebnahme: 09.11.2019;Stadt Münster - Amt für Immobilienmanagement;15;Stromproduktion;2019;6572,00;kWh
+pv-anlagen;Stadt Münster;Stadt Münster - Amt für Immobilienmanagement;15;Leistung aller Anlagen (Summe);2019;56,10;kWp
+pv-anlagen;Stadt Münster;Stadt Münster - Amt für Immobilienmanagement;15;Anzahl aller PV-Anlagen;2019;6,00;Anzahl
+pv-anlagen;Stadt Münster - PV Anlage Albert-Schweitzer Schule (531) Inbetriebnahme: 03.12.2020;Stadt Münster - Amt für Immobilienmanagement;15;Leistung ab Jahr;2020;29,48;kWp
+pv-anlagen;Stadt Münster - PV Anlage Hans-Böckler-Berufskolleg (387) Inbetriebnahme: 12.02.2020;Stadt Münster - Amt für Immobilienmanagement;15;Leistung ab Jahr;2020;70,80;kWp
+pv-anlagen;Stadt Münster - PV Anlage Pascal Gymnasium (766) Inbetriebnahme: 03.12.2020;Stadt Münster - Amt für Immobilienmanagement;15;Leistung ab Jahr;2020;29,48;kWp
+pv-anlagen;Stadt Münster - PV Anlage Grundschule Wolbeck-Nord (1443) Inbetriebnahme: 30.01.2020;Stadt Münster - Amt für Immobilienmanagement;15;Leistung ab Jahr;2020;41,50;kWp
+pv-anlagen;Stadt Münster - PV Anlage Regenkläranlage Erbdrostenweg, Inbetriebnahme: 09.02.2007;Stadt Münster - Amt für Immobilienmanagement;15;Stromproduktion;2020;3178,00;kWh
+pv-anlagen;Stadt Münster - PV Anlage Pumpwerk Alter Postweg, Inbetriebnahme: 16.02.2011;Stadt Münster - Amt für Immobilienmanagement;15;Stromproduktion;2020;7642,00;kWh
+pv-anlagen;Stadt Münster - PV Anlage Hauptkläranlage, Inbetriebnahme: 09.11.2019;Stadt Münster - Amt für Immobilienmanagement;15;Stromproduktion;2020;21291,00;kWh
+pv-anlagen;Stadt Münster;Stadt Münster - Amt für Immobilienmanagement;15;Leistung aller Anlagen (Summe);2020;227,34;kWp
+pv-anlagen;Stadt Münster;Stadt Münster - Amt für Immobilienmanagement;15;Anzahl aller PV-Anlagen;2020;10,00;Anzahl
+pv-anlagen;Stadt Münster - PV Anlage Schillergymnasium (264) Inbetriebnahme: 02.02.2021;Stadt Münster - Amt für Immobilienmanagement;15;Leistung ab Jahr;2021;29,90;kWp
+pv-anlagen;Stadt Münster - PV Anlage Freiherr vom Stein Gymnasium (985) Inbetriebnahme: 23.11.2021;Stadt Münster - Amt für Immobilienmanagement;15;Leistung ab Jahr;2021;99,00;kWp
+pv-anlagen;Stadt Münster - PV Anlage Regenkläranlage Erbdrostenweg, Inbetriebnahme: 09.02.2007;Stadt Münster - Amt für Immobilienmanagement;15;Stromproduktion;2021;2993,00;kWh
+pv-anlagen;Stadt Münster - PV Anlage Pumpwerk Alter Postweg, Inbetriebnahme: 16.02.2011;Stadt Münster - Amt für Immobilienmanagement;15;Stromproduktion;2021;6940,75;kWh
+pv-anlagen;Stadt Münster - PV Anlage Hauptkläranlage, Inbetriebnahme: 09.11.2019;Stadt Münster - Amt für Immobilienmanagement;15;Stromproduktion;2021;17460,00;kWh
+pv-anlagen;Stadt Münster;Stadt Münster - Amt für Immobilienmanagement;15;Leistung aller Anlagen (Summe);2021;368,08;kWp
+pv-anlagen;Stadt Münster;Stadt Münster - Amt für Immobilienmanagement;15;Anzahl aller PV-Anlagen;2021;14,00;Anzahl
+pv-anlagen;Stadt Münster - PV Anlage Regenkläranlage Erbdrostenweg, Inbetriebnahme: 09.02.2007;Stadt Münster - Amt für Immobilienmanagement;15;Stromproduktion;2022;3224,10;kWh
+pv-anlagen;Stadt Münster - PV Anlage Pumpwerk Alter Postweg, Inbetriebnahme: 16.02.2011;Stadt Münster - Amt für Immobilienmanagement;15;Stromproduktion;2022;7771,76;kWh
+pv-anlagen;Stadt Münster - PV Anlage Hauptkläranlage, Inbetriebnahme: 09.11.2019;Stadt Münster - Amt für Immobilienmanagement;15;Stromproduktion;2022;26932,00;kWh
+pv-anlagen;Stadt Münster;Stadt Münster - Amt für Immobilienmanagement;15;Leistung aller Anlagen (Summe);2022;372,48;kWp
+pv-anlagen;Stadt Münster;Stadt Münster - Amt für Immobilienmanagement;15;Anzahl aller PV-Anlagen;2022;15,00;Anzahl
+pv-anlagen;Stadt Münster - PV Anlage Bürgerhaus Kinderhaus (417) Inbetriebnahme: 01.01.2023;Stadt Münster - Amt für Immobilienmanagement;15;Leistung ab Jahr;2023;5,00;kWp
+pv-anlagen;Stadt Münster - PV Anlage Bodelschwingschule (317) Inbetriebnahme: 04.01.2023;Stadt Münster - Amt für Immobilienmanagement;15;Leistung ab Jahr;2023;61,05;kWp
+pv-anlagen;Stadt Münster - PV Anlage SZ Kinderhaus (786) Inbetriebnahme: 21.02.2023;Stadt Münster - Amt für Immobilienmanagement;15;Leistung ab Jahr;2023;96,20;kWp
+pv-anlagen;Stadt Münster - PV Anlage Erna de Vries (708) Inbetriebnahme: 28.02.2023;Stadt Münster - Amt für Immobilienmanagement;15;Leistung ab Jahr;2023;57,80;kWp
+pv-anlagen;Stadt Münster;Stadt Münster - Amt für Immobilienmanagement;15;Leistung aller Anlagen (Summe);2023;573,93;kWp
+pv-anlagen;Stadt Münster;Stadt Münster - Amt für Immobilienmanagement;15;Anzahl aller PV-Anlagen;2023;18,00;Anzahl
+pv-anlagen;Stadt Münster;Stadt Münster - Amt für Immobilienmanagement;15;Leistung aller Anlagen (Summe);2024;949,91;kWp
+pv-anlagen;Stadt Münster;Stadt Münster - Amt für Immobilienmanagement;15;Anzahl aller PV-Anlagen;2024;26,00;Anzahl
 pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Summe);1997;5;kWp
 pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Anzahl aller PV-Anlagen;1997;1;Anzahl
 pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Summe);2007;9;kWp
@@ -757,20 +805,22 @@ pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Sum
 pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Anzahl aller PV-Anlagen;2011;3;Anzahl
 pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Summe);2018;62;kWp
 pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Anzahl aller PV-Anlagen;2018;7;Anzahl
-pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Summe);2019;93;kWp
-pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Anzahl aller PV-Anlagen;2019;10;Anzahl
-pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Summe);2020;264;kWp
-pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Anzahl aller PV-Anlagen;2020;14;Anzahl
-pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Summe);2021;405;kWp
-pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Anzahl aller PV-Anlagen;2021;18;Anzahl
-pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Summe);2022;524;kWp
-pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Anzahl aller PV-Anlagen;2022;21;Anzahl
-pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Summe);2023;1077;kWp
+pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Summe);2019;87;kWp
+pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Anzahl aller PV-Anlagen;2019;9;Anzahl
+pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Summe);2020;259;kWp
+pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Anzahl aller PV-Anlagen;2020;13;Anzahl
+pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Summe);2021;399;kWp
+pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Anzahl aller PV-Anlagen;2021;17;Anzahl
+pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Summe);2022;518;kWp
+pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Anzahl aller PV-Anlagen;2022;20;Anzahl
+pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Summe);2023;1091;kWp
 pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Anzahl aller PV-Anlagen;2023;36;Anzahl
-pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Summe);2024;1409;kWp
+pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Summe);2024;1423;kWp
 pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Anzahl aller PV-Anlagen;2024;47;Anzahl
-pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Summe);2025;1996;kWp
-pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Anzahl aller PV-Anlagen;2025;56;Anzahl
+pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Summe);2025;2360;kWp
+pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Anzahl aller PV-Anlagen;2025;61;Anzahl
+pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Leistung aller Anlagen (Summe);2026;3040;kWp
+pv-anlagen;Stadt Münster;Marktstammdatenregister;15;Anzahl aller PV-Anlagen;2026;67;Anzahl
 awm-abfallaufkommen-pro-kopf;Münster, Gesamtstadt;AWM - Abfallwirtschaftsbetriebe Münster;1;Abfallaufkommen - Gesamt;2011;459,00;kg pro Kopf
 awm-abfallaufkommen-pro-kopf;Münster, Gesamtstadt;AWM - Abfallwirtschaftsbetriebe Münster;1;Abfallaufkommen - Wertstoffe;2011;289,00;kg pro Kopf
 awm-abfallaufkommen-pro-kopf;Münster, Gesamtstadt;AWM - Abfallwirtschaftsbetriebe Münster;1;Abfallaufkommen - Restmüll;2011;170,00;kg pro Kopf
@@ -1464,16 +1514,107 @@ emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;W�
 emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Heizöl;2024;124640;t
 emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - EE Wärme;2024;2316;t
 emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Anteil EE;2024;0,0037;%
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlAnlagen;2026-09-03;14862;Anzahl
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlSolarModule;2026-09-03;632459;kW
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Bruttoleistung;2026-09-03;186626;kW
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Nettonennleistung;2026-09-03;167871;kW
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungAnlagen;2026-09-03;67;Anzahl
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungBruttoleistung;2026-09-03;3040;kW
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungNettonennleistung;2026-09-03;2728;kW
-bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlAnlagen;2026-09-03;28;Anzahl
-bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Bruttoleistung;2026-09-03;65221;kW
-bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Nettonennleistung;2026-09-03;65221;kW
-bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungAnlagen;2026-09-03;0;Anzahl
-bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungBruttoleistung;2026-09-03;0;kW
-bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungNettonennleistung;2026-09-03;0;kW
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlAnlagen;2026-09-09;14890;Anzahl
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlSolarModule;2026-09-09;632761;kW
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Bruttoleistung;2026-09-09;186767;kW
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Nettonennleistung;2026-09-09;167983;kW
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungAnlagen;2026-09-09;67;Anzahl
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungBruttoleistung;2026-09-09;3040;kW
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungNettonennleistung;2026-09-09;2728;kW
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlAnlagen;2026-09-09;28;Anzahl
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Bruttoleistung;2026-09-09;65221;kW
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Nettonennleistung;2026-09-09;65221;kW
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungAnlagen;2026-09-09;0;Anzahl
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungBruttoleistung;2026-09-09;0;kW
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungNettonennleistung;2026-09-09;0;kW
+b-kronenschirmflaeche,Münster,Grünflächenamt,671,Jung - Kronenschirmfläche,2020,373803.97,qm
+b-kronenschirmflaeche,Münster,Grünflächenamt,671,Mittel - Kronenschirmfläche,2020,4629277.36,qm
+b-kronenschirmflaeche,Münster,Grünflächenamt,671,Alt - Kronenschirmfläche,2020,1786058.26,qm
+b-kronenschirmflaeche,Münster,Grünflächenamt,671,Jung - Kronenschirmfläche,2021,333451.79,qm
+b-kronenschirmflaeche,Münster,Grünflächenamt,671,Mittel - Kronenschirmfläche,2021,4640620.87,qm
+b-kronenschirmflaeche,Münster,Grünflächenamt,671,Alt - Kronenschirmfläche,2021,1817156.88,qm
+b-kronenschirmflaeche,Münster,Grünflächenamt,671,Jung - Kronenschirmfläche,2022,299837.53,qm
+b-kronenschirmflaeche,Münster,Grünflächenamt,671,Mittel - Kronenschirmfläche,2022,4664233.86,qm
+b-kronenschirmflaeche,Münster,Grünflächenamt,671,Alt - Kronenschirmfläche,2022,1828921.36,qm
+b-kronenschirmflaeche,Münster,Grünflächenamt,671,Jung - Kronenschirmfläche,2023,260084.6,qm
+b-kronenschirmflaeche,Münster,Grünflächenamt,671,Mittel - Kronenschirmfläche,2023,4572076.81,qm
+b-kronenschirmflaeche,Münster,Grünflächenamt,671,Alt - Kronenschirmfläche,2023,1961092.88,qm
+b-kronenschirmflaeche,Münster,Grünflächenamt,671,Jung - Kronenschirmfläche,2024,204798.85,qm
+b-kronenschirmflaeche,Münster,Grünflächenamt,671,Mittel - Kronenschirmfläche,2024,4448313.77,qm
+b-kronenschirmflaeche,Münster,Grünflächenamt,671,Alt - Kronenschirmfläche,2024,2140530.44,qm
+b-kronenschirmflaeche,Münster,Grünflächenamt,671,Jung - Kronenschirmfläche,2025,170193.43,qm
+b-kronenschirmflaeche,Münster,Grünflächenamt,671,Mittel - Kronenschirmfläche,2025,4384199.36,qm
+b-kronenschirmflaeche,Münster,Grünflächenamt,671,Alt - Kronenschirmfläche,2025,2239526.73,qm
+b-kronenschirmflaeche,Münster,Grünflächenamt,671,Jung - Kronenschirmfläche,2026,140285.46,qm
+b-kronenschirmflaeche,Münster,Grünflächenamt,671,Mittel - Kronenschirmfläche,2026,4352023.17,qm
+b-kronenschirmflaeche,Münster,Grünflächenamt,671,Alt - Kronenschirmfläche,2026,2301772.68,qm
+b-co2-kg-pro-jahr,Münster,Grünflächenamt,672,Jung - CO2 Bindung,2020,267335.0,kg
+b-co2-kg-pro-jahr,Münster,Grünflächenamt,672,Mittel - CO2 Bindung,2020,2449280.0,kg
+b-co2-kg-pro-jahr,Münster,Grünflächenamt,672,Alt - CO2 Bindung,2020,612680.0,kg
+b-co2-kg-pro-jahr,Münster,Grünflächenamt,672,Jung - CO2 Bindung,2021,243540.0,kg
+b-co2-kg-pro-jahr,Münster,Grünflächenamt,672,Mittel - CO2 Bindung,2021,2471695.0,kg
+b-co2-kg-pro-jahr,Münster,Grünflächenamt,672,Alt - CO2 Bindung,2021,624040.0,kg
+b-co2-kg-pro-jahr,Münster,Grünflächenamt,672,Jung - CO2 Bindung,2022,228135.0,kg
+b-co2-kg-pro-jahr,Münster,Grünflächenamt,672,Mittel - CO2 Bindung,2022,2485610.0,kg
+b-co2-kg-pro-jahr,Münster,Grünflächenamt,672,Alt - CO2 Bindung,2022,627600.0,kg
+b-co2-kg-pro-jahr,Münster,Grünflächenamt,672,Jung - CO2 Bindung,2023,195795.0,kg
+b-co2-kg-pro-jahr,Münster,Grünflächenamt,672,Mittel - CO2 Bindung,2023,2441930.0,kg
+b-co2-kg-pro-jahr,Münster,Grünflächenamt,672,Alt - CO2 Bindung,2023,704280.0,kg
+b-co2-kg-pro-jahr,Münster,Grünflächenamt,672,Jung - CO2 Bindung,2024,126275.0,kg
+b-co2-kg-pro-jahr,Münster,Grünflächenamt,672,Mittel - CO2 Bindung,2024,2427950.0,kg
+b-co2-kg-pro-jahr,Münster,Grünflächenamt,672,Alt - CO2 Bindung,2024,789160.0,kg
+b-co2-kg-pro-jahr,Münster,Grünflächenamt,672,Jung - CO2 Bindung,2025,98305.0,kg
+b-co2-kg-pro-jahr,Münster,Grünflächenamt,672,Mittel - CO2 Bindung,2025,2413220.0,kg
+b-co2-kg-pro-jahr,Münster,Grünflächenamt,672,Alt - CO2 Bindung,2025,833240.0,kg
+b-co2-kg-pro-jahr,Münster,Grünflächenamt,672,Jung - CO2 Bindung,2026,76500.0,kg
+b-co2-kg-pro-jahr,Münster,Grünflächenamt,672,Mittel - CO2 Bindung,2026,2406925.0,kg
+b-co2-kg-pro-jahr,Münster,Grünflächenamt,672,Alt - CO2 Bindung,2026,861960.0,kg
+b-o2-l-fluessig-pro-jahr,Münster,Grünflächenamt,673,Jung - O2 Flüssig pro Jahr,2020,533244213.33,Liter
+b-o2-l-fluessig-pro-jahr,Münster,Grünflächenamt,673,Mittel - O2 Flüssig pro Jahr,2020,4885497173.33,Liter
+b-o2-l-fluessig-pro-jahr,Münster,Grünflächenamt,673,Alt - O2 Flüssig pro Jahr,2020,1222092373.33,Liter
+b-o2-l-fluessig-pro-jahr,Münster,Grünflächenamt,673,Jung - O2 Flüssig pro Jahr,2021,485781120.0,Liter
+b-o2-l-fluessig-pro-jahr,Münster,Grünflächenamt,673,Mittel - O2 Flüssig pro Jahr,2021,4930207626.67,Liter
+b-o2-l-fluessig-pro-jahr,Münster,Grünflächenamt,673,Alt - O2 Flüssig pro Jahr,2021,1244751786.67,Liter
+b-o2-l-fluessig-pro-jahr,Münster,Grünflächenamt,673,Jung - O2 Flüssig pro Jahr,2022,455053280.0,Liter
+b-o2-l-fluessig-pro-jahr,Münster,Grünflächenamt,673,Mittel - O2 Flüssig pro Jahr,2022,4957963413.33,Liter
+b-o2-l-fluessig-pro-jahr,Münster,Grünflächenamt,673,Alt - O2 Flüssig pro Jahr,2022,1251852800.0,Liter
+b-o2-l-fluessig-pro-jahr,Münster,Grünflächenamt,673,Jung - O2 Flüssig pro Jahr,2023,390545760.0,Liter
+b-o2-l-fluessig-pro-jahr,Münster,Grünflächenamt,673,Mittel - O2 Flüssig pro Jahr,2023,4870836373.33,Liter
+b-o2-l-fluessig-pro-jahr,Münster,Grünflächenamt,673,Alt - O2 Flüssig pro Jahr,2023,1404803840.0,Liter
+b-o2-l-fluessig-pro-jahr,Münster,Grünflächenamt,673,Jung - O2 Flüssig pro Jahr,2024,251876533.33,Liter
+b-o2-l-fluessig-pro-jahr,Münster,Grünflächenamt,673,Mittel - O2 Flüssig pro Jahr,2024,4842950933.33,Liter
+b-o2-l-fluessig-pro-jahr,Münster,Grünflächenamt,673,Alt - O2 Flüssig pro Jahr,2024,1574111146.67,Liter
+b-o2-l-fluessig-pro-jahr,Münster,Grünflächenamt,673,Jung - O2 Flüssig pro Jahr,2025,196085706.67,Liter
+b-o2-l-fluessig-pro-jahr,Münster,Grünflächenamt,673,Mittel - O2 Flüssig pro Jahr,2025,4813569493.33,Liter
+b-o2-l-fluessig-pro-jahr,Münster,Grünflächenamt,673,Alt - O2 Flüssig pro Jahr,2025,1662036053.33,Liter
+b-o2-l-fluessig-pro-jahr,Münster,Grünflächenamt,673,Jung - O2 Flüssig pro Jahr,2026,152592000.0,Liter
+b-o2-l-fluessig-pro-jahr,Münster,Grünflächenamt,673,Mittel - O2 Flüssig pro Jahr,2026,4801013066.67,Liter
+b-o2-l-fluessig-pro-jahr,Münster,Grünflächenamt,673,Alt - O2 Flüssig pro Jahr,2026,1719322880.0,Liter
+b-kuehlleistung-kw,Münster,Grünflächenamt,674,Jung - Kühlleistung,2020,56070.6,kW
+b-kuehlleistung-kw,Münster,Grünflächenamt,674,Mittel - Kühlleistung,2020,694391.6,kW
+b-kuehlleistung-kw,Münster,Grünflächenamt,674,Alt - Kühlleistung,2020,267908.74,kW
+b-kuehlleistung-kw,Münster,Grünflächenamt,674,Jung - Kühlleistung,2021,50017.77,kW
+b-kuehlleistung-kw,Münster,Grünflächenamt,674,Mittel - Kühlleistung,2021,696093.13,kW
+b-kuehlleistung-kw,Münster,Grünflächenamt,674,Alt - Kühlleistung,2021,272573.53,kW
+b-kuehlleistung-kw,Münster,Grünflächenamt,674,Jung - Kühlleistung,2022,44975.63,kW
+b-kuehlleistung-kw,Münster,Grünflächenamt,674,Mittel - Kühlleistung,2022,699635.08,kW
+b-kuehlleistung-kw,Münster,Grünflächenamt,674,Alt - Kühlleistung,2022,274338.2,kW
+b-kuehlleistung-kw,Münster,Grünflächenamt,674,Jung - Kühlleistung,2023,39012.69,kW
+b-kuehlleistung-kw,Münster,Grünflächenamt,674,Mittel - Kühlleistung,2023,685811.52,kW
+b-kuehlleistung-kw,Münster,Grünflächenamt,674,Alt - Kühlleistung,2023,294163.93,kW
+b-kuehlleistung-kw,Münster,Grünflächenamt,674,Jung - Kühlleistung,2024,30719.83,kW
+b-kuehlleistung-kw,Münster,Grünflächenamt,674,Mittel - Kühlleistung,2024,667247.07,kW
+b-kuehlleistung-kw,Münster,Grünflächenamt,674,Alt - Kühlleistung,2024,321079.57,kW
+b-kuehlleistung-kw,Münster,Grünflächenamt,674,Jung - Kühlleistung,2025,25529.01,kW
+b-kuehlleistung-kw,Münster,Grünflächenamt,674,Mittel - Kühlleistung,2025,657629.9,kW
+b-kuehlleistung-kw,Münster,Grünflächenamt,674,Alt - Kühlleistung,2025,335929.01,kW
+b-kuehlleistung-kw,Münster,Grünflächenamt,674,Jung - Kühlleistung,2026,21042.82,kW
+b-kuehlleistung-kw,Münster,Grünflächenamt,674,Mittel - Kühlleistung,2026,652803.48,kW
+b-kuehlleistung-kw,Münster,Grünflächenamt,674,Alt - Kühlleistung,2026,345265.9,kW
+b-pflanzungen,Münster,Grünflächenamt,676,Pflanzungen,2020,336.0,Anzahl
+b-pflanzungen,Münster,Grünflächenamt,676,Pflanzungen,2021,998.0,Anzahl
+b-pflanzungen,Münster,Grünflächenamt,676,Pflanzungen,2022,207.0,Anzahl
+b-pflanzungen,Münster,Grünflächenamt,676,Pflanzungen,2023,66.0,Anzahl
+b-pflanzungen,Münster,Grünflächenamt,676,Pflanzungen,2024,138.0,Anzahl
+b-pflanzungen,Münster,Grünflächenamt,676,Pflanzungen,2025,138.0,Anzahl
+b-pflanzungen,Münster,Grünflächenamt,676,Pflanzungen,2026,62.0,Anzahl
