@@ -1,5 +1,6 @@
 #!/bin/bash
 
+python3 load_data_from_mstr.py
 python3 load_detailed_data_from_mstr.py
 
 cat alle-anlagen-muenster-details.csv | grep -P "AnlagenbetreiberId|,Speicher," >stromspeicher-muenster.csv

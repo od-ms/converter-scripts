@@ -76,7 +76,7 @@ Die Daten werden vom **Marktstammdatenregister** "MaStR" der Bundesnetzagentur a
 Im Unterverzeichnis [`marktstammdatenregister/`](marktstammdatenregister) muss dazu das Folgende ausgeführt werden:
 
 ```bash
-python3 load_data_from_mstr.py
+./generate_and_copy_files.sh
 ```
 
 --------------
