@@ -33,9 +33,10 @@ CACHEDIR = 'cache/'
 BASE_URL = 'https://www.opengeodata.nrw.de/produkte/transport_verkehr/unfallatlas/'
 BASEFILE = 'Unfallorte{}_EPSG25832_CSV.zip'
 FILES = [
-    'Unfallorte2016_LinRef.txt', 'Unfallorte2017_LinRef.txt',  #'Unfallorte2021_EPSG25832_CSV.csv' ,
+    'Unfallorte_2016_LinRef.txt', 'Unfallorte2017_LinRef.txt',  #'Unfallorte2021_EPSG25832_CSV.csv' ,
     'Unfallorte2018_LinRef.txt', 'Unfallorte2019_LinRef.txt', 'Unfallorte2020_LinRef.csv',
-    'Unfallorte2021_LinRef.csv', 'Unfallorte2022_LinRef.csv', 'Unfallorte2023_LinRef.csv'
+    'Unfallorte_2021_LinRef.txt', 'Unfallorte2022_LinRef.csv', 'Unfallorte2023_LinRef.csv',
+    'Unfallorte2024_LinRef.csv'
 ]
 OUTPUT_FILE = 'unfaelle-muenster.csv'
 
@@ -94,17 +95,18 @@ def downloadFileToCache(url):
     if generateCacheFile:
         logging.debug("# URL HTTP GET %s ", filename)
         req = requests.get(url, timeout=120)
+        time.sleep(1)
         if req.status_code > 399:
             logging.warning('  - Request result: HTTP %s - %s', req.status_code, url)
+            return ""
 
         open(filename, 'wb').write(req.content)
-        time.sleep(1)
 
     return filename
 
 
 def download_and_unzip_data():
-    for year in range(2016, 2024):
+    for year in range(2016, 2026):
         big_debug_text(f"Load {year}")
 
         fileurl = BASE_URL + BASEFILE.format(year)
