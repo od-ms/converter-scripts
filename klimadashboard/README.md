@@ -17,3 +17,28 @@ jupyter nbconvert --to python generate_pv_anlagen.ipynb
 python3 generate_pv_anlagen.py
 
 ```
+## Infos zur Baumkachel
+
+Vorschau: https://klimadashboard.ms/share/climate-trees
+
+```bash 
+# Einheiten
+  Kronenschirmfläche
+  [Zahl] km²
+
+  Kühlleistung pro Jahr
+  [Zahl] kWh
+
+  Sauerstoffproduktion pro Jahr
+  [Zahl] L
+
+  CO2-Bindung pro Jahr
+  [Zahl] t
+
+# Alter der Bäume, erstes Intervall: 0-15 (nicht 1 bis 20)
+    1 mal jung
+    2 mal mittel (bis 60)
+    3 mal alt
+    [0, 15, 40, 60, 80, 100]
+```
+ 

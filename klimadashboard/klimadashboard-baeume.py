@@ -6,7 +6,7 @@
 # Aktuell: Sehr grobe Annäherung der Werte durch pauschale Faktoren!
 # 
 
-# In[ ]:
+# In[1]:
 
 
 # Fehlende Pakete installieren, ggf. einkommentieren und ausführen
@@ -18,7 +18,7 @@
 #!python -m pip install requests
 
 
-# In[ ]:
+# In[2]:
 
 
 import requests
@@ -26,12 +26,13 @@ import xml.etree.ElementTree as ET
 
 import geopandas as gpd
 import pandas as pd
+import numpy as np
+
 import matplotlib.pyplot as plt
 import os
 from dotenv import load_dotenv
-from pprint import pprint
 import json
-import os 
+
 
 # Place .env file in the same directory as this script and add the following lines:
 # WFS_URL=https://your-wfs-url
@@ -95,7 +96,7 @@ print("Spalten: ", gdf_orig.columns)
 
 # # Ausreisser entfernen
 
-# In[ ]:
+# In[3]:
 
 
 CHECK_FIELD = "kronendurchmesser"
@@ -116,6 +117,9 @@ gdf = gdf_orig.drop(ausreisser.index)
 # In[ ]:
 
 
+import pandas as pd
+import numpy as np
+
 def add_labels(plt, x, y):
     for i in range(len(x)):
         plt.text(i, y[i] // 2, y[i], ha='center')  # Placing text slightly above the bar
@@ -131,26 +135,42 @@ if max_age <= 100:
     bins = [0, 15, 40, 60, 80, 100]
 else:
     bins = [0, 15, 40, 60, 80, 100, max_age + 1]
+
+names = [
+  "Jungbaum 1-15 Jahre",
+  "Heranwachsend 16-40 Jahre",
+  "Reif 41-50 Jahre",
+  "Reif 61-80 Jahre",
+  "Altbaum 81-100 Jahre",
+  "Altbaum Über 100 Jahre"
+]
 age_categories = pd.cut(ages, bins=bins, right=False, include_lowest=True)
 age_counts = age_categories.value_counts().sort_index()
-print(age_counts)
+
+age_pd = pd.DataFrame(age_counts)
+print(age_pd.columns)
+
+age_pd.reset_index(inplace=True)
+age_pd.columns = ["Alter in Jahren", "Anzahl Bäume"]
+age_pd["Alter in Jahren"] = age_pd["Alter in Jahren"].apply(lambda x:  f">{int(x.left)}")
+age_pd["Altersklasse"] = names[:len(age_pd)]
+print(age_pd)
 
 fig, ax = plt.subplots(figsize=(5, 5))
 
-age_counts.plot(kind="barh", ax=ax, color="steelblue")
+# show column "Alter in Jahren" as y-axis and "Anzahl Bäume" as x-axis
+age_pd.plot(kind="barh", ax=ax, y="Anzahl Bäume", x="Altersklasse", 
+            color=["lightgreen", "lightgreen", "orange", "orange", "lightblue", "lightblue"])
 
-ax.set_ylabel("Alter in Jahren")
+ax.set_ylabel("Alter in Jahren") 
 ax.set_xlabel("Anzahl Bäume")
 ax.set_title("Alter der Bäume (20-Jahres-Kategorien) aus Pflanzjahr")
 
 
 # # Berechnung der Werte fürs Klimadashboard
 
-# In[ ]:
+# In[16]:
 
-
-import numpy as np
-import pandas as pd
 
 # Altersgruppendefinition fürs Klimadashboard
 def altersgruppe(alter):
@@ -176,16 +196,16 @@ pflanzungen = {}
 # =========================== Berechnungen ===========================
 
 # Kronenschirmfläche = Kreisfläche = π * r²
-gdf["kronenschirmflaeche"] = np.pi * (gdf["kronendurchmesser"] / 2) ** 2
+gdf["kronenschirmflaeche"] = np.pi * (gdf["kronendurchmesser"] / 2) ** 2 / 10000
 
 # CO2 Bindung in kg pro Jahr (Formel siehe Funktion co2_rate)
-gdf["co2_kg_pro_jahr"] = gdf["alter"].apply(co2_rate)
+gdf["co2_t_pro_jahr"] = gdf["alter"].apply(co2_rate) / 1000
 # 32/12 * kg CO2 -> kg O2
 # 748 -> Umrechnungsfaktor kg O2 in "Liter gasförmig, (1 bar, 15 °C)
-gdf["o2_l_fluessig_pro_jahr"] = gdf["co2_kg_pro_jahr"] * (32 / 12) * 748
+gdf["o2_l_gasfoermig_pro_jahr"] = gdf["co2_t_pro_jahr"] * (32 / 12) * 748 
 
 # Kühlleistung: 0.15 kW  pro m² Kronenschirmfläche
-gdf["kuehlleistung_kw"] = gdf["kronenschirmflaeche"] * 0.15
+gdf["kuehlleistung_kw"] = gdf["kronenschirmflaeche"] * 0.15 * 10000
 
 def berechne_jahr(df, jahr):
     temp = df.copy()
@@ -219,8 +239,8 @@ def berechne_jahr(df, jahr):
     temp_df = pd.DataFrame()
     temp_df["jahr"] = jahr
     temp_df = addFieldsToDataFrame(temp_df, "kronenschirmflaeche")
-    temp_df = addFieldsToDataFrame(temp_df, "co2_kg_pro_jahr")
-    temp_df = addFieldsToDataFrame(temp_df, "o2_l_fluessig_pro_jahr")
+    temp_df = addFieldsToDataFrame(temp_df, "co2_t_pro_jahr")
+    temp_df = addFieldsToDataFrame(temp_df, "o2_l_gasfoermig_pro_jahr")
     temp_df = addFieldsToDataFrame(temp_df, "kuehlleistung_kw")
     # TODO - Anzahl der Fällungen => hier gibt es noch eine Datenlieferung von 67
     # TODO: Pflanzungen pro Jahr => Alle Bäume mit Alter 0; #TODO diese Daten müssen noch richtig in die Tabelle pro Jahr (unabhängig von der Altersgruppe)
@@ -254,7 +274,7 @@ slider_df
 
 # # Plotten der Werte 
 
-# In[ ]:
+# In[17]:
 
 
 def plot_stacked_bar(df, MYVAL):
@@ -278,12 +298,14 @@ def plot_stacked_bar(df, MYVAL):
 
 
 plot_stacked_bar(slider_df, "kronenschirmflaeche")
-plot_stacked_bar(slider_df, "co2_kg_pro_jahr")
-plot_stacked_bar(slider_df, "o2_l_fluessig_pro_jahr")
+plot_stacked_bar(slider_df, "co2_t_pro_jahr")
+plot_stacked_bar(slider_df, "o2_l_gasfoermig_pro_jahr")
 plot_stacked_bar(slider_df, "kuehlleistung_kw")
 
 
 
+
+# # Output Datei erstellen
 
 # In[ ]:
 
@@ -292,41 +314,55 @@ plot_stacked_bar(slider_df, "kuehlleistung_kw")
 # verkehrsmittelwahl-zeitreihe;Münster, Gesamtstadt;Stadt Münster - Amt für Mobilität und Tiefbau;4;Wege/Tag - Kfz;1982;39,20;%
 # verkehrsmittelwahl-zeitreihe;Münster, Gesamtstadt;Stadt Münster - Amt für Mobilität und Tiefbau;4;Wege/Tag - ÖV;1982;6,60;%
 
-output_df = pd.DataFrame(columns=["DATEINAME", "RAUM", "QUELLE_INSTITUTION", "THEMENBEREICH", "MERKMAL", "ZEIT", "WERT", "WERTEEINHEIT"])
+output_df = []
 
 fields = {
-    "kronenschirmflaeche": ["Kronenschirmfläche", "qm"],
-    "co2_kg_pro_jahr": ["CO2 Bindung", "kg"],
-    "o2_l_fluessig_pro_jahr": ["O2 Flüssig pro Jahr", "Liter"],
-    "kuehlleistung_kw": ["Kühlleistung", "kW"]
+    "kronenschirmflaeche": ["Kronenschirmfläche", "ha"],
+    "co2_t_pro_jahr": ["CO2 Bindung", "t"],
+    "o2_l_gasfoermig_pro_jahr": ["O2 Gasförmig pro Jahr", "Liter"],
+    "kuehlleistung_kw": ["Kühlleistung", "kWh"]
 }
 
 themenbereich = 670
 for field in fields:
     themenbereich= themenbereich + 1
     for index, row in slider_df.iterrows():
-        output_df = output_df._append({
+        output_df.append({
             "DATEINAME": f"b-{field.replace('_','-')}",
             "RAUM": "Münster",
             "QUELLE_INSTITUTION": "Grünflächenamt",
             "THEMENBEREICH": themenbereich,
             "MERKMAL": f"{row['gruppe']} - {fields[field][0]}",
             "ZEIT": row['jahr'],
-            "WERT": row[field],
+            "WERT": int(row[field]),
             "WERTEEINHEIT": fields[field][1]
-        }, ignore_index=True)
+        })
 
 for pfl in pflanzungen:
-    output_df = output_df._append({
+    output_df.append({
         "DATEINAME": "b-pflanzungen",
         "RAUM": "Münster",
         "QUELLE_INSTITUTION": "Grünflächenamt",
-        "THEMENBEREICH": 676,
+        "THEMENBEREICH": themenbereich + 1,
         "MERKMAL": "Pflanzungen",
         "ZEIT": pfl,
-        "WERT": pflanzungen[pfl],
+        "WERT": int(pflanzungen[pfl]),
         "WERTEEINHEIT": "Anzahl"
-    }, ignore_index=True)
+    })
 
-output_df.to_csv("data/klimadashboard-baeume.csv", index=False)
+for index, row in age_pd.iterrows():
+    output_df.append({
+        "DATEINAME": "b-alter",
+        "RAUM": "Münster",
+        "QUELLE_INSTITUTION": "Grünflächenamt",
+        "THEMENBEREICH": themenbereich + 2,
+        "MERKMAL": row["Altersklasse"],
+        "ZEIT": CURRENT_YEAR,
+        "WERT": int(row["Anzahl Bäume"]),
+        "WERTEEINHEIT": "Anzahl"
+    })
+
+output_dfdf = pd.DataFrame(output_df)
+
+output_dfdf.to_csv("data/klimadashboard-baeume.csv", index=False)
 

@@ -222,7 +222,7 @@ def append_to_csv_file(data: list, head_row, outfile_name):
                         logging.debug("anlagenbetreiber is not a string", row)
                     elif not (re.match(r"(Stadt.*Münster)", value) or ("Amt" in value) or ("Stadtbau" in value) or ("AWM" in value)):
                         newrow[key] = ""
-                        newrow["EinheitName"] = ""
+                        # newrow["EinheitName"] = ""
                 # Some columns contain the weird string "/Date(...)/" -> Convert it to a date
                 elif isinstance(value, str):
                     m = re.match(r"/Date\((\d+)\)/", value)
