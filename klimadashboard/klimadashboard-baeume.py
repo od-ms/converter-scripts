@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Baumdaten fürs Klimadashboard
+# Baumdaten fürs Klimadashboard
 # 
-# Aktuell: Sehr grobe Annäherung der Werte durch pauschale Faktoren!
+# Sehr grobe Annäherung der Werte durch pauschale Faktoren!
 # 
 
 # In[1]:
@@ -137,12 +137,12 @@ else:
     bins = [0, 15, 40, 60, 80, 100, max_age + 1]
 
 names = [
-  "Jungbaum 1-15 Jahre",
+  "Jungbaum 0-15 Jahre",
   "Heranwachsend 16-40 Jahre",
-  "Reif 41-50 Jahre",
-  "Reif 61-80 Jahre",
+  "Heranwachsend 41-60 Jahre",
+  "Altbaum 61-80 Jahre",
   "Altbaum 81-100 Jahre",
-  "Altbaum Über 100 Jahre"
+  "Altbaum über 100 Jahre"
 ]
 age_categories = pd.cut(ages, bins=bins, right=False, include_lowest=True)
 age_counts = age_categories.value_counts().sort_index()
@@ -160,7 +160,7 @@ fig, ax = plt.subplots(figsize=(5, 5))
 
 # show column "Alter in Jahren" as y-axis and "Anzahl Bäume" as x-axis
 age_pd.plot(kind="barh", ax=ax, y="Anzahl Bäume", x="Altersklasse", 
-            color=["lightgreen", "lightgreen", "orange", "orange", "lightblue", "lightblue"])
+            color=["lightgreen", "orange", "orange", "lightblue", "lightblue", "lightblue"])
 
 ax.set_ylabel("Alter in Jahren") 
 ax.set_xlabel("Anzahl Bäume")
@@ -200,12 +200,17 @@ gdf["kronenschirmflaeche"] = np.pi * (gdf["kronendurchmesser"] / 2) ** 2 / 10000
 
 # CO2 Bindung in kg pro Jahr (Formel siehe Funktion co2_rate)
 gdf["co2_t_pro_jahr"] = gdf["alter"].apply(co2_rate) / 1000
+
+# Sauerstoffproduktion
 # 32/12 * kg CO2 -> kg O2
 # 748 -> Umrechnungsfaktor kg O2 in "Liter gasförmig, (1 bar, 15 °C)
-gdf["o2_l_gasfoermig_pro_jahr"] = gdf["co2_t_pro_jahr"] * (32 / 12) * 748 
+# mal 1000 weil wir das in Tonnen haben, aber für die Formel kg brauchen
+gdf["o2_l_gasfoermig_pro_jahr"] = gdf["co2_t_pro_jahr"] * 1000 * (32 / 12) * 748 
 
-# Kühlleistung: 0.15 kW  pro m² Kronenschirmfläche
-gdf["kuehlleistung_kw"] = gdf["kronenschirmflaeche"] * 0.15 * 10000
+# Kühlleistung: 0.15 kW pro m² Kronenschirmfläche
+# mal 10000 weil kronenschirmfläche in hektar 
+# mal 365*24 für Anzahl Stunden pro Jahr, um von kW auf kWh zu kommen
+gdf["kuehlleistung_kwh"] = gdf["kronenschirmflaeche"] * 0.15 * 10000 * 365 * 24
 
 def berechne_jahr(df, jahr):
     temp = df.copy()
@@ -241,9 +246,8 @@ def berechne_jahr(df, jahr):
     temp_df = addFieldsToDataFrame(temp_df, "kronenschirmflaeche")
     temp_df = addFieldsToDataFrame(temp_df, "co2_t_pro_jahr")
     temp_df = addFieldsToDataFrame(temp_df, "o2_l_gasfoermig_pro_jahr")
-    temp_df = addFieldsToDataFrame(temp_df, "kuehlleistung_kw")
+    temp_df = addFieldsToDataFrame(temp_df, "kuehlleistung_kwh")
     # TODO - Anzahl der Fällungen => hier gibt es noch eine Datenlieferung von 67
-    # TODO: Pflanzungen pro Jahr => Alle Bäume mit Alter 0; #TODO diese Daten müssen noch richtig in die Tabelle pro Jahr (unabhängig von der Altersgruppe)
     pflanzungen[jahr] = (gdf["pflanzjahr"] == jahr).sum()
     print("Anzahl Pflanzungen im Jahr ", jahr, ": ",pflanzungen[jahr])
     return temp_df
@@ -297,10 +301,10 @@ def plot_stacked_bar(df, MYVAL):
     plt.tight_layout()
 
 
-plot_stacked_bar(slider_df, "kronenschirmflaeche")
+plot_stacked_bar(slider_df, "kronenschirmflaeche_ha")
 plot_stacked_bar(slider_df, "co2_t_pro_jahr")
 plot_stacked_bar(slider_df, "o2_l_gasfoermig_pro_jahr")
-plot_stacked_bar(slider_df, "kuehlleistung_kw")
+plot_stacked_bar(slider_df, "kuehlleistung_kwh")
 
 
 
@@ -320,7 +324,7 @@ fields = {
     "kronenschirmflaeche": ["Kronenschirmfläche", "ha"],
     "co2_t_pro_jahr": ["CO2 Bindung", "t"],
     "o2_l_gasfoermig_pro_jahr": ["O2 Gasförmig pro Jahr", "Liter"],
-    "kuehlleistung_kw": ["Kühlleistung", "kWh"]
+    "kuehlleistung_kwh": ["Kühlleistung", "kWh"]
 }
 
 themenbereich = 670
