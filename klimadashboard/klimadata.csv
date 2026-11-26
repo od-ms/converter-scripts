@@ -1514,113 +1514,113 @@ emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;W�
 emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Heizöl;2024;124640;t
 emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - EE Wärme;2024;2316;t
 emissionen-waerme;Münster, Gesamtstadt;Stadt Münster - Stabsstelle Klima;20;Wärme-Emissionen nach Energieträgern - Anteil EE;2024;0,0037;%
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlAnlagen;2026-11-18;15429;Anzahl
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlSolarModule;2026-11-18;645795;kW
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Bruttoleistung;2026-11-18;192507;kW
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Nettonennleistung;2026-11-18;172978;kW
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungAnlagen;2026-11-18;68;Anzahl
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungBruttoleistung;2026-11-18;3084;kW
-bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungNettonennleistung;2026-11-18;2772;kW
-bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlAnlagen;2026-11-18;28;Anzahl
-bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Bruttoleistung;2026-11-18;65221;kW
-bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Nettonennleistung;2026-11-18;65221;kW
-bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungAnlagen;2026-11-18;0;Anzahl
-bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungBruttoleistung;2026-11-18;0;kW
-bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungNettonennleistung;2026-11-18;0;kW
-b-kronenschirmflaeche,Münster,Grünflächenamt,671,Jung - Kronenschirmfläche,2020,37,ha
-b-kronenschirmflaeche,Münster,Grünflächenamt,671,Mittel - Kronenschirmfläche,2020,462,ha
-b-kronenschirmflaeche,Münster,Grünflächenamt,671,Alt - Kronenschirmfläche,2020,178,ha
-b-kronenschirmflaeche,Münster,Grünflächenamt,671,Jung - Kronenschirmfläche,2021,33,ha
-b-kronenschirmflaeche,Münster,Grünflächenamt,671,Mittel - Kronenschirmfläche,2021,464,ha
-b-kronenschirmflaeche,Münster,Grünflächenamt,671,Alt - Kronenschirmfläche,2021,181,ha
-b-kronenschirmflaeche,Münster,Grünflächenamt,671,Jung - Kronenschirmfläche,2022,29,ha
-b-kronenschirmflaeche,Münster,Grünflächenamt,671,Mittel - Kronenschirmfläche,2022,466,ha
-b-kronenschirmflaeche,Münster,Grünflächenamt,671,Alt - Kronenschirmfläche,2022,182,ha
-b-kronenschirmflaeche,Münster,Grünflächenamt,671,Jung - Kronenschirmfläche,2023,26,ha
-b-kronenschirmflaeche,Münster,Grünflächenamt,671,Mittel - Kronenschirmfläche,2023,457,ha
-b-kronenschirmflaeche,Münster,Grünflächenamt,671,Alt - Kronenschirmfläche,2023,196,ha
-b-kronenschirmflaeche,Münster,Grünflächenamt,671,Jung - Kronenschirmfläche,2024,20,ha
-b-kronenschirmflaeche,Münster,Grünflächenamt,671,Mittel - Kronenschirmfläche,2024,444,ha
-b-kronenschirmflaeche,Münster,Grünflächenamt,671,Alt - Kronenschirmfläche,2024,214,ha
-b-kronenschirmflaeche,Münster,Grünflächenamt,671,Jung - Kronenschirmfläche,2025,17,ha
-b-kronenschirmflaeche,Münster,Grünflächenamt,671,Mittel - Kronenschirmfläche,2025,438,ha
-b-kronenschirmflaeche,Münster,Grünflächenamt,671,Alt - Kronenschirmfläche,2025,223,ha
-b-kronenschirmflaeche,Münster,Grünflächenamt,671,Jung - Kronenschirmfläche,2026,14,ha
-b-kronenschirmflaeche,Münster,Grünflächenamt,671,Mittel - Kronenschirmfläche,2026,435,ha
-b-kronenschirmflaeche,Münster,Grünflächenamt,671,Alt - Kronenschirmfläche,2026,230,ha
-b-co2-t-pro-jahr,Münster,Grünflächenamt,672,Jung - CO2 Bindung,2020,267,t
-b-co2-t-pro-jahr,Münster,Grünflächenamt,672,Mittel - CO2 Bindung,2020,2449,t
-b-co2-t-pro-jahr,Münster,Grünflächenamt,672,Alt - CO2 Bindung,2020,612,t
-b-co2-t-pro-jahr,Münster,Grünflächenamt,672,Jung - CO2 Bindung,2021,243,t
-b-co2-t-pro-jahr,Münster,Grünflächenamt,672,Mittel - CO2 Bindung,2021,2471,t
-b-co2-t-pro-jahr,Münster,Grünflächenamt,672,Alt - CO2 Bindung,2021,624,t
-b-co2-t-pro-jahr,Münster,Grünflächenamt,672,Jung - CO2 Bindung,2022,228,t
-b-co2-t-pro-jahr,Münster,Grünflächenamt,672,Mittel - CO2 Bindung,2022,2485,t
-b-co2-t-pro-jahr,Münster,Grünflächenamt,672,Alt - CO2 Bindung,2022,627,t
-b-co2-t-pro-jahr,Münster,Grünflächenamt,672,Jung - CO2 Bindung,2023,195,t
-b-co2-t-pro-jahr,Münster,Grünflächenamt,672,Mittel - CO2 Bindung,2023,2441,t
-b-co2-t-pro-jahr,Münster,Grünflächenamt,672,Alt - CO2 Bindung,2023,704,t
-b-co2-t-pro-jahr,Münster,Grünflächenamt,672,Jung - CO2 Bindung,2024,126,t
-b-co2-t-pro-jahr,Münster,Grünflächenamt,672,Mittel - CO2 Bindung,2024,2427,t
-b-co2-t-pro-jahr,Münster,Grünflächenamt,672,Alt - CO2 Bindung,2024,789,t
-b-co2-t-pro-jahr,Münster,Grünflächenamt,672,Jung - CO2 Bindung,2025,98,t
-b-co2-t-pro-jahr,Münster,Grünflächenamt,672,Mittel - CO2 Bindung,2025,2413,t
-b-co2-t-pro-jahr,Münster,Grünflächenamt,672,Alt - CO2 Bindung,2025,833,t
-b-co2-t-pro-jahr,Münster,Grünflächenamt,672,Jung - CO2 Bindung,2026,76,t
-b-co2-t-pro-jahr,Münster,Grünflächenamt,672,Mittel - CO2 Bindung,2026,2406,t
-b-co2-t-pro-jahr,Münster,Grünflächenamt,672,Alt - CO2 Bindung,2026,861,t
-b-o2-l-gasfoermig-pro-jahr,Münster,Grünflächenamt,673,Jung - O2 Gasförmig pro Jahr,2020,533244,Liter
-b-o2-l-gasfoermig-pro-jahr,Münster,Grünflächenamt,673,Mittel - O2 Gasförmig pro Jahr,2020,4885497,Liter
-b-o2-l-gasfoermig-pro-jahr,Münster,Grünflächenamt,673,Alt - O2 Gasförmig pro Jahr,2020,1222092,Liter
-b-o2-l-gasfoermig-pro-jahr,Münster,Grünflächenamt,673,Jung - O2 Gasförmig pro Jahr,2021,485781,Liter
-b-o2-l-gasfoermig-pro-jahr,Münster,Grünflächenamt,673,Mittel - O2 Gasförmig pro Jahr,2021,4930207,Liter
-b-o2-l-gasfoermig-pro-jahr,Münster,Grünflächenamt,673,Alt - O2 Gasförmig pro Jahr,2021,1244751,Liter
-b-o2-l-gasfoermig-pro-jahr,Münster,Grünflächenamt,673,Jung - O2 Gasförmig pro Jahr,2022,455053,Liter
-b-o2-l-gasfoermig-pro-jahr,Münster,Grünflächenamt,673,Mittel - O2 Gasförmig pro Jahr,2022,4957963,Liter
-b-o2-l-gasfoermig-pro-jahr,Münster,Grünflächenamt,673,Alt - O2 Gasförmig pro Jahr,2022,1251852,Liter
-b-o2-l-gasfoermig-pro-jahr,Münster,Grünflächenamt,673,Jung - O2 Gasförmig pro Jahr,2023,390545,Liter
-b-o2-l-gasfoermig-pro-jahr,Münster,Grünflächenamt,673,Mittel - O2 Gasförmig pro Jahr,2023,4870836,Liter
-b-o2-l-gasfoermig-pro-jahr,Münster,Grünflächenamt,673,Alt - O2 Gasförmig pro Jahr,2023,1404803,Liter
-b-o2-l-gasfoermig-pro-jahr,Münster,Grünflächenamt,673,Jung - O2 Gasförmig pro Jahr,2024,251876,Liter
-b-o2-l-gasfoermig-pro-jahr,Münster,Grünflächenamt,673,Mittel - O2 Gasförmig pro Jahr,2024,4842950,Liter
-b-o2-l-gasfoermig-pro-jahr,Münster,Grünflächenamt,673,Alt - O2 Gasförmig pro Jahr,2024,1574111,Liter
-b-o2-l-gasfoermig-pro-jahr,Münster,Grünflächenamt,673,Jung - O2 Gasförmig pro Jahr,2025,196085,Liter
-b-o2-l-gasfoermig-pro-jahr,Münster,Grünflächenamt,673,Mittel - O2 Gasförmig pro Jahr,2025,4813569,Liter
-b-o2-l-gasfoermig-pro-jahr,Münster,Grünflächenamt,673,Alt - O2 Gasförmig pro Jahr,2025,1662036,Liter
-b-o2-l-gasfoermig-pro-jahr,Münster,Grünflächenamt,673,Jung - O2 Gasförmig pro Jahr,2026,152592,Liter
-b-o2-l-gasfoermig-pro-jahr,Münster,Grünflächenamt,673,Mittel - O2 Gasförmig pro Jahr,2026,4801013,Liter
-b-o2-l-gasfoermig-pro-jahr,Münster,Grünflächenamt,673,Alt - O2 Gasförmig pro Jahr,2026,1719322,Liter
-b-kuehlleistung-kw,Münster,Grünflächenamt,674,Jung - Kühlleistung,2020,56070,kWh
-b-kuehlleistung-kw,Münster,Grünflächenamt,674,Mittel - Kühlleistung,2020,694391,kWh
-b-kuehlleistung-kw,Münster,Grünflächenamt,674,Alt - Kühlleistung,2020,267908,kWh
-b-kuehlleistung-kw,Münster,Grünflächenamt,674,Jung - Kühlleistung,2021,50017,kWh
-b-kuehlleistung-kw,Münster,Grünflächenamt,674,Mittel - Kühlleistung,2021,696093,kWh
-b-kuehlleistung-kw,Münster,Grünflächenamt,674,Alt - Kühlleistung,2021,272573,kWh
-b-kuehlleistung-kw,Münster,Grünflächenamt,674,Jung - Kühlleistung,2022,44975,kWh
-b-kuehlleistung-kw,Münster,Grünflächenamt,674,Mittel - Kühlleistung,2022,699635,kWh
-b-kuehlleistung-kw,Münster,Grünflächenamt,674,Alt - Kühlleistung,2022,274338,kWh
-b-kuehlleistung-kw,Münster,Grünflächenamt,674,Jung - Kühlleistung,2023,39012,kWh
-b-kuehlleistung-kw,Münster,Grünflächenamt,674,Mittel - Kühlleistung,2023,685811,kWh
-b-kuehlleistung-kw,Münster,Grünflächenamt,674,Alt - Kühlleistung,2023,294163,kWh
-b-kuehlleistung-kw,Münster,Grünflächenamt,674,Jung - Kühlleistung,2024,30719,kWh
-b-kuehlleistung-kw,Münster,Grünflächenamt,674,Mittel - Kühlleistung,2024,667247,kWh
-b-kuehlleistung-kw,Münster,Grünflächenamt,674,Alt - Kühlleistung,2024,321079,kWh
-b-kuehlleistung-kw,Münster,Grünflächenamt,674,Jung - Kühlleistung,2025,25529,kWh
-b-kuehlleistung-kw,Münster,Grünflächenamt,674,Mittel - Kühlleistung,2025,657629,kWh
-b-kuehlleistung-kw,Münster,Grünflächenamt,674,Alt - Kühlleistung,2025,335929,kWh
-b-kuehlleistung-kw,Münster,Grünflächenamt,674,Jung - Kühlleistung,2026,21042,kWh
-b-kuehlleistung-kw,Münster,Grünflächenamt,674,Mittel - Kühlleistung,2026,652803,kWh
-b-kuehlleistung-kw,Münster,Grünflächenamt,674,Alt - Kühlleistung,2026,345265,kWh
-b-pflanzungen,Münster,Grünflächenamt,675,Pflanzungen,2020,336,Anzahl
-b-pflanzungen,Münster,Grünflächenamt,675,Pflanzungen,2021,998,Anzahl
-b-pflanzungen,Münster,Grünflächenamt,675,Pflanzungen,2022,207,Anzahl
-b-pflanzungen,Münster,Grünflächenamt,675,Pflanzungen,2023,66,Anzahl
-b-pflanzungen,Münster,Grünflächenamt,675,Pflanzungen,2024,138,Anzahl
-b-pflanzungen,Münster,Grünflächenamt,675,Pflanzungen,2025,138,Anzahl
-b-pflanzungen,Münster,Grünflächenamt,675,Pflanzungen,2026,62,Anzahl
-b-alter,Münster,Grünflächenamt,676,Jungbaum 1-15 Jahre,2026,7153,Anzahl
-b-alter,Münster,Grünflächenamt,676,Heranwachsend 16-40 Jahre,2026,61052,Anzahl
-b-alter,Münster,Grünflächenamt,676,Reif 41-50 Jahre,2026,35581,Anzahl
-b-alter,Münster,Grünflächenamt,676,Reif 61-80 Jahre,2026,12308,Anzahl
-b-alter,Münster,Grünflächenamt,676,Altbaum 81-100 Jahre,2026,5476,Anzahl
-b-alter,Münster,Grünflächenamt,676,Altbaum Über 100 Jahre,2026,3814,Anzahl
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlAnlagen;2026-11-26;15429;Anzahl
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlSolarModule;2026-11-26;645795;kW
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Bruttoleistung;2026-11-26;192507;kW
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Nettonennleistung;2026-11-26;172978;kW
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungAnlagen;2026-11-26;68;Anzahl
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungBruttoleistung;2026-11-26;3084;kW
+bestand-pv-anlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungNettonennleistung;2026-11-26;2772;kW
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;AnzahlAnlagen;2026-11-26;28;Anzahl
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Bruttoleistung;2026-11-26;65221;kW
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;Nettonennleistung;2026-11-26;65221;kW
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungAnlagen;2026-11-26;0;Anzahl
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungBruttoleistung;2026-11-26;0;kW
+bestand-windanlagen;Münster, Gesamtstadt;Marktstammdatenregister;23;StadtverwaltungNettonennleistung;2026-11-26;0;kW
+b-kronenschirmflaeche;Münster;Grünflächenamt;671;Jung - Kronenschirmfläche;2020;37;ha
+b-kronenschirmflaeche;Münster;Grünflächenamt;671;Mittel - Kronenschirmfläche;2020;462;ha
+b-kronenschirmflaeche;Münster;Grünflächenamt;671;Alt - Kronenschirmfläche;2020;178;ha
+b-kronenschirmflaeche;Münster;Grünflächenamt;671;Jung - Kronenschirmfläche;2021;33;ha
+b-kronenschirmflaeche;Münster;Grünflächenamt;671;Mittel - Kronenschirmfläche;2021;464;ha
+b-kronenschirmflaeche;Münster;Grünflächenamt;671;Alt - Kronenschirmfläche;2021;181;ha
+b-kronenschirmflaeche;Münster;Grünflächenamt;671;Jung - Kronenschirmfläche;2022;29;ha
+b-kronenschirmflaeche;Münster;Grünflächenamt;671;Mittel - Kronenschirmfläche;2022;466;ha
+b-kronenschirmflaeche;Münster;Grünflächenamt;671;Alt - Kronenschirmfläche;2022;182;ha
+b-kronenschirmflaeche;Münster;Grünflächenamt;671;Jung - Kronenschirmfläche;2023;26;ha
+b-kronenschirmflaeche;Münster;Grünflächenamt;671;Mittel - Kronenschirmfläche;2023;457;ha
+b-kronenschirmflaeche;Münster;Grünflächenamt;671;Alt - Kronenschirmfläche;2023;196;ha
+b-kronenschirmflaeche;Münster;Grünflächenamt;671;Jung - Kronenschirmfläche;2024;20;ha
+b-kronenschirmflaeche;Münster;Grünflächenamt;671;Mittel - Kronenschirmfläche;2024;444;ha
+b-kronenschirmflaeche;Münster;Grünflächenamt;671;Alt - Kronenschirmfläche;2024;214;ha
+b-kronenschirmflaeche;Münster;Grünflächenamt;671;Jung - Kronenschirmfläche;2025;17;ha
+b-kronenschirmflaeche;Münster;Grünflächenamt;671;Mittel - Kronenschirmfläche;2025;438;ha
+b-kronenschirmflaeche;Münster;Grünflächenamt;671;Alt - Kronenschirmfläche;2025;223;ha
+b-kronenschirmflaeche;Münster;Grünflächenamt;671;Jung - Kronenschirmfläche;2026;14;ha
+b-kronenschirmflaeche;Münster;Grünflächenamt;671;Mittel - Kronenschirmfläche;2026;435;ha
+b-kronenschirmflaeche;Münster;Grünflächenamt;671;Alt - Kronenschirmfläche;2026;230;ha
+b-co2-t-pro-jahr;Münster;Grünflächenamt;672;Jung - CO2 Bindung;2020;267;t
+b-co2-t-pro-jahr;Münster;Grünflächenamt;672;Mittel - CO2 Bindung;2020;2449;t
+b-co2-t-pro-jahr;Münster;Grünflächenamt;672;Alt - CO2 Bindung;2020;612;t
+b-co2-t-pro-jahr;Münster;Grünflächenamt;672;Jung - CO2 Bindung;2021;243;t
+b-co2-t-pro-jahr;Münster;Grünflächenamt;672;Mittel - CO2 Bindung;2021;2471;t
+b-co2-t-pro-jahr;Münster;Grünflächenamt;672;Alt - CO2 Bindung;2021;624;t
+b-co2-t-pro-jahr;Münster;Grünflächenamt;672;Jung - CO2 Bindung;2022;228;t
+b-co2-t-pro-jahr;Münster;Grünflächenamt;672;Mittel - CO2 Bindung;2022;2485;t
+b-co2-t-pro-jahr;Münster;Grünflächenamt;672;Alt - CO2 Bindung;2022;627;t
+b-co2-t-pro-jahr;Münster;Grünflächenamt;672;Jung - CO2 Bindung;2023;195;t
+b-co2-t-pro-jahr;Münster;Grünflächenamt;672;Mittel - CO2 Bindung;2023;2441;t
+b-co2-t-pro-jahr;Münster;Grünflächenamt;672;Alt - CO2 Bindung;2023;704;t
+b-co2-t-pro-jahr;Münster;Grünflächenamt;672;Jung - CO2 Bindung;2024;126;t
+b-co2-t-pro-jahr;Münster;Grünflächenamt;672;Mittel - CO2 Bindung;2024;2427;t
+b-co2-t-pro-jahr;Münster;Grünflächenamt;672;Alt - CO2 Bindung;2024;789;t
+b-co2-t-pro-jahr;Münster;Grünflächenamt;672;Jung - CO2 Bindung;2025;98;t
+b-co2-t-pro-jahr;Münster;Grünflächenamt;672;Mittel - CO2 Bindung;2025;2413;t
+b-co2-t-pro-jahr;Münster;Grünflächenamt;672;Alt - CO2 Bindung;2025;833;t
+b-co2-t-pro-jahr;Münster;Grünflächenamt;672;Jung - CO2 Bindung;2026;76;t
+b-co2-t-pro-jahr;Münster;Grünflächenamt;672;Mittel - CO2 Bindung;2026;2406;t
+b-co2-t-pro-jahr;Münster;Grünflächenamt;672;Alt - CO2 Bindung;2026;861;t
+b-o2-l-gasfoermig-pro-jahr;Münster;Grünflächenamt;673;Jung - O2 Gasförmig pro Jahr;2020;533244213;Liter
+b-o2-l-gasfoermig-pro-jahr;Münster;Grünflächenamt;673;Mittel - O2 Gasförmig pro Jahr;2020;4885497173;Liter
+b-o2-l-gasfoermig-pro-jahr;Münster;Grünflächenamt;673;Alt - O2 Gasförmig pro Jahr;2020;1222092373;Liter
+b-o2-l-gasfoermig-pro-jahr;Münster;Grünflächenamt;673;Jung - O2 Gasförmig pro Jahr;2021;485781120;Liter
+b-o2-l-gasfoermig-pro-jahr;Münster;Grünflächenamt;673;Mittel - O2 Gasförmig pro Jahr;2021;4930207626;Liter
+b-o2-l-gasfoermig-pro-jahr;Münster;Grünflächenamt;673;Alt - O2 Gasförmig pro Jahr;2021;1244751786;Liter
+b-o2-l-gasfoermig-pro-jahr;Münster;Grünflächenamt;673;Jung - O2 Gasförmig pro Jahr;2022;455053280;Liter
+b-o2-l-gasfoermig-pro-jahr;Münster;Grünflächenamt;673;Mittel - O2 Gasförmig pro Jahr;2022;4957963413;Liter
+b-o2-l-gasfoermig-pro-jahr;Münster;Grünflächenamt;673;Alt - O2 Gasförmig pro Jahr;2022;1251852800;Liter
+b-o2-l-gasfoermig-pro-jahr;Münster;Grünflächenamt;673;Jung - O2 Gasförmig pro Jahr;2023;390545760;Liter
+b-o2-l-gasfoermig-pro-jahr;Münster;Grünflächenamt;673;Mittel - O2 Gasförmig pro Jahr;2023;4870836373;Liter
+b-o2-l-gasfoermig-pro-jahr;Münster;Grünflächenamt;673;Alt - O2 Gasförmig pro Jahr;2023;1404803840;Liter
+b-o2-l-gasfoermig-pro-jahr;Münster;Grünflächenamt;673;Jung - O2 Gasförmig pro Jahr;2024;251876533;Liter
+b-o2-l-gasfoermig-pro-jahr;Münster;Grünflächenamt;673;Mittel - O2 Gasförmig pro Jahr;2024;4842950933;Liter
+b-o2-l-gasfoermig-pro-jahr;Münster;Grünflächenamt;673;Alt - O2 Gasförmig pro Jahr;2024;1574111146;Liter
+b-o2-l-gasfoermig-pro-jahr;Münster;Grünflächenamt;673;Jung - O2 Gasförmig pro Jahr;2025;196085706;Liter
+b-o2-l-gasfoermig-pro-jahr;Münster;Grünflächenamt;673;Mittel - O2 Gasförmig pro Jahr;2025;4813569493;Liter
+b-o2-l-gasfoermig-pro-jahr;Münster;Grünflächenamt;673;Alt - O2 Gasförmig pro Jahr;2025;1662036053;Liter
+b-o2-l-gasfoermig-pro-jahr;Münster;Grünflächenamt;673;Jung - O2 Gasförmig pro Jahr;2026;152592000;Liter
+b-o2-l-gasfoermig-pro-jahr;Münster;Grünflächenamt;673;Mittel - O2 Gasförmig pro Jahr;2026;4801013066;Liter
+b-o2-l-gasfoermig-pro-jahr;Münster;Grünflächenamt;673;Alt - O2 Gasförmig pro Jahr;2026;1719322880;Liter
+b-kuehlleistung-kwh;Münster;Grünflächenamt;674;Jung - Kühlleistung;2020;491178420;kWh
+b-kuehlleistung-kwh;Münster;Grünflächenamt;674;Mittel - Kühlleistung;2020;6082870452;kWh
+b-kuehlleistung-kwh;Münster;Grünflächenamt;674;Alt - Kühlleistung;2020;2346880547;kWh
+b-kuehlleistung-kwh;Münster;Grünflächenamt;674;Jung - Kühlleistung;2021;438155646;kWh
+b-kuehlleistung-kwh;Münster;Grünflächenamt;674;Mittel - Kühlleistung;2021;6097775819;kWh
+b-kuehlleistung-kwh;Münster;Grünflächenamt;674;Alt - Kühlleistung;2021;2387744141;kWh
+b-kuehlleistung-kwh;Münster;Grünflächenamt;674;Jung - Kühlleistung;2022;393986514;kWh
+b-kuehlleistung-kwh;Münster;Grünflächenamt;674;Mittel - Kühlleistung;2022;6128803295;kWh
+b-kuehlleistung-kwh;Münster;Grünflächenamt;674;Alt - Kühlleistung;2022;2403202667;kWh
+b-kuehlleistung-kwh;Münster;Grünflächenamt;674;Jung - Kühlleistung;2023;341751166;kWh
+b-kuehlleistung-kwh;Münster;Grünflächenamt;674;Mittel - Kühlleistung;2023;6007708932;kWh
+b-kuehlleistung-kwh;Münster;Grünflächenamt;674;Alt - Kühlleistung;2023;2576876038;kWh
+b-kuehlleistung-kwh;Münster;Grünflächenamt;674;Jung - Kühlleistung;2024;269105694;kWh
+b-kuehlleistung-kwh;Münster;Grünflächenamt;674;Mittel - Kühlleistung;2024;5845084294;kWh
+b-kuehlleistung-kwh;Münster;Grünflächenamt;674;Alt - Kühlleistung;2024;2812656995;kWh
+b-kuehlleistung-kwh;Münster;Grünflächenamt;674;Jung - Kühlleistung;2025;223634161;kWh
+b-kuehlleistung-kwh;Münster;Grünflächenamt;674;Mittel - Kühlleistung;2025;5760837961;kWh
+b-kuehlleistung-kwh;Münster;Grünflächenamt;674;Alt - Kühlleistung;2025;2942738129;kWh
+b-kuehlleistung-kwh;Münster;Grünflächenamt;674;Jung - Kühlleistung;2026;184335099;kWh
+b-kuehlleistung-kwh;Münster;Grünflächenamt;674;Mittel - Kühlleistung;2026;5718558445;kWh
+b-kuehlleistung-kwh;Münster;Grünflächenamt;674;Alt - Kühlleistung;2026;3024529302;kWh
+b-pflanzungen;Münster;Grünflächenamt;675;Pflanzungen;2020;336;Anzahl
+b-pflanzungen;Münster;Grünflächenamt;675;Pflanzungen;2021;998;Anzahl
+b-pflanzungen;Münster;Grünflächenamt;675;Pflanzungen;2022;207;Anzahl
+b-pflanzungen;Münster;Grünflächenamt;675;Pflanzungen;2023;66;Anzahl
+b-pflanzungen;Münster;Grünflächenamt;675;Pflanzungen;2024;138;Anzahl
+b-pflanzungen;Münster;Grünflächenamt;675;Pflanzungen;2025;138;Anzahl
+b-pflanzungen;Münster;Grünflächenamt;675;Pflanzungen;2026;62;Anzahl
+b-alter;Münster;Grünflächenamt;676;Jungbaum 0-15 Jahre;2026;7153;Anzahl
+b-alter;Münster;Grünflächenamt;676;Heranwachsend 16-40 Jahre;2026;61052;Anzahl
+b-alter;Münster;Grünflächenamt;676;Heranwachsend 41-60 Jahre;2026;35581;Anzahl
+b-alter;Münster;Grünflächenamt;676;Altbaum 61-80 Jahre;2026;12308;Anzahl
+b-alter;Münster;Grünflächenamt;676;Altbaum 81-100 Jahre;2026;5476;Anzahl
+b-alter;Münster;Grünflächenamt;676;Altbaum über 100 Jahre;2026;3814;Anzahl

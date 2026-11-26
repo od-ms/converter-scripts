@@ -1,12 +1,11 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# Baumdaten fürs Klimadashboard
+# # Baumdaten fürs Klimadashboard
 # 
 # Sehr grobe Annäherung der Werte durch pauschale Faktoren!
-# 
 
-# In[1]:
+# In[ ]:
 
 
 # Fehlende Pakete installieren, ggf. einkommentieren und ausführen
@@ -18,7 +17,7 @@
 #!python -m pip install requests
 
 
-# In[2]:
+# In[ ]:
 
 
 import requests
@@ -96,7 +95,7 @@ print("Spalten: ", gdf_orig.columns)
 
 # # Ausreisser entfernen
 
-# In[3]:
+# In[ ]:
 
 
 CHECK_FIELD = "kronendurchmesser"
@@ -162,6 +161,8 @@ fig, ax = plt.subplots(figsize=(5, 5))
 age_pd.plot(kind="barh", ax=ax, y="Anzahl Bäume", x="Altersklasse", 
             color=["lightgreen", "orange", "orange", "lightblue", "lightblue", "lightblue"])
 
+
+
 ax.set_ylabel("Alter in Jahren") 
 ax.set_xlabel("Anzahl Bäume")
 ax.set_title("Alter der Bäume (20-Jahres-Kategorien) aus Pflanzjahr")
@@ -169,7 +170,7 @@ ax.set_title("Alter der Bäume (20-Jahres-Kategorien) aus Pflanzjahr")
 
 # # Berechnung der Werte fürs Klimadashboard
 
-# In[16]:
+# In[ ]:
 
 
 # Altersgruppendefinition fürs Klimadashboard
@@ -248,6 +249,7 @@ def berechne_jahr(df, jahr):
     temp_df = addFieldsToDataFrame(temp_df, "o2_l_gasfoermig_pro_jahr")
     temp_df = addFieldsToDataFrame(temp_df, "kuehlleistung_kwh")
     # TODO - Anzahl der Fällungen => hier gibt es noch eine Datenlieferung von 67
+    # TODO: Pflanzungen pro Jahr => Alle Bäume mit Alter 0; #TODO diese Daten müssen noch richtig in die Tabelle pro Jahr (unabhängig von der Altersgruppe)
     pflanzungen[jahr] = (gdf["pflanzjahr"] == jahr).sum()
     print("Anzahl Pflanzungen im Jahr ", jahr, ": ",pflanzungen[jahr])
     return temp_df
@@ -278,7 +280,7 @@ slider_df
 
 # # Plotten der Werte 
 
-# In[17]:
+# In[ ]:
 
 
 def plot_stacked_bar(df, MYVAL):
@@ -301,7 +303,7 @@ def plot_stacked_bar(df, MYVAL):
     plt.tight_layout()
 
 
-plot_stacked_bar(slider_df, "kronenschirmflaeche_ha")
+plot_stacked_bar(slider_df, "kronenschirmflaeche")
 plot_stacked_bar(slider_df, "co2_t_pro_jahr")
 plot_stacked_bar(slider_df, "o2_l_gasfoermig_pro_jahr")
 plot_stacked_bar(slider_df, "kuehlleistung_kwh")
@@ -368,5 +370,5 @@ for index, row in age_pd.iterrows():
 
 output_dfdf = pd.DataFrame(output_df)
 
-output_dfdf.to_csv("data/klimadashboard-baeume.csv", index=False)
+output_dfdf.to_csv("data/klimadashboard-baeume.csv", index=False, sep=";")
 
