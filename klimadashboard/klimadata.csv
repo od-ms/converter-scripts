@@ -1618,9 +1618,52 @@ b-pflanzungen;Münster;Grünflächenamt;675;Pflanzungen;2023;66;Anzahl
 b-pflanzungen;Münster;Grünflächenamt;675;Pflanzungen;2024;138;Anzahl
 b-pflanzungen;Münster;Grünflächenamt;675;Pflanzungen;2025;138;Anzahl
 b-pflanzungen;Münster;Grünflächenamt;675;Pflanzungen;2026;62;Anzahl
-b-alter;Münster;Grünflächenamt;676;Jungbaum 0-15 Jahre;2026;7153;Anzahl
-b-alter;Münster;Grünflächenamt;676;Heranwachsend 16-40 Jahre;2026;61052;Anzahl
-b-alter;Münster;Grünflächenamt;676;Heranwachsend 41-60 Jahre;2026;35581;Anzahl
-b-alter;Münster;Grünflächenamt;676;Altbaum 61-80 Jahre;2026;12308;Anzahl
-b-alter;Münster;Grünflächenamt;676;Altbaum 81-100 Jahre;2026;5476;Anzahl
-b-alter;Münster;Grünflächenamt;676;Altbaum über 100 Jahre;2026;3814;Anzahl
+b-alter;Münster;Grünflächenamt;676;Jungbaum 0-15 Jahre;2020;14318;Anzahl
+b-alter;Münster;Grünflächenamt;676;Heranwachsend 16-40 Jahre;2020;67698;Anzahl
+b-alter;Münster;Grünflächenamt;676;Heranwachsend 41-60 Jahre;2020;26534;Anzahl
+b-alter;Münster;Grünflächenamt;676;Altbaum 61-80 Jahre;2020;9120;Anzahl
+b-alter;Münster;Grünflächenamt;676;Altbaum 81-100 Jahre;2020;3869;Anzahl
+b-alter;Münster;Grünflächenamt;676;Altbaum über 100 Jahre;2020;2236;Anzahl
+b-alter;Münster;Grünflächenamt;676;Jungbaum 0-15 Jahre;2021;13965;Anzahl
+b-alter;Münster;Grünflächenamt;676;Heranwachsend 16-40 Jahre;2021;67911;Anzahl
+b-alter;Münster;Grünflächenamt;676;Heranwachsend 41-60 Jahre;2021;27388;Anzahl
+b-alter;Münster;Grünflächenamt;676;Altbaum 61-80 Jahre;2021;9275;Anzahl
+b-alter;Münster;Grünflächenamt;676;Altbaum 81-100 Jahre;2021;3992;Anzahl
+b-alter;Münster;Grünflächenamt;676;Altbaum über 100 Jahre;2021;2242;Anzahl
+b-alter;Münster;Grünflächenamt;676;Jungbaum 0-15 Jahre;2022;13473;Anzahl
+b-alter;Münster;Grünflächenamt;676;Heranwachsend 16-40 Jahre;2022;68304;Anzahl
+b-alter;Münster;Grünflächenamt;676;Heranwachsend 41-60 Jahre;2022;27605;Anzahl
+b-alter;Münster;Grünflächenamt;676;Altbaum 61-80 Jahre;2022;9340;Anzahl
+b-alter;Münster;Grünflächenamt;676;Altbaum 81-100 Jahre;2022;4007;Anzahl
+b-alter;Münster;Grünflächenamt;676;Altbaum über 100 Jahre;2022;2251;Anzahl
+b-alter;Münster;Grünflächenamt;676;Jungbaum 0-15 Jahre;2023;12219;Anzahl
+b-alter;Münster;Grünflächenamt;676;Heranwachsend 16-40 Jahre;2023;65986;Anzahl
+b-alter;Münster;Grünflächenamt;676;Heranwachsend 41-60 Jahre;2023;29326;Anzahl
+b-alter;Münster;Grünflächenamt;676;Altbaum 61-80 Jahre;2023;10417;Anzahl
+b-alter;Münster;Grünflächenamt;676;Altbaum 81-100 Jahre;2023;4394;Anzahl
+b-alter;Münster;Grünflächenamt;676;Altbaum über 100 Jahre;2023;2704;Anzahl
+b-alter;Münster;Grünflächenamt;676;Jungbaum 0-15 Jahre;2024;9521;Anzahl
+b-alter;Münster;Grünflächenamt;676;Heranwachsend 16-40 Jahre;2024;63889;Anzahl
+b-alter;Münster;Grünflächenamt;676;Heranwachsend 41-60 Jahre;2024;32137;Anzahl
+b-alter;Münster;Grünflächenamt;676;Altbaum 61-80 Jahre;2024;11354;Anzahl
+b-alter;Münster;Grünflächenamt;676;Altbaum 81-100 Jahre;2024;4982;Anzahl
+b-alter;Münster;Grünflächenamt;676;Altbaum über 100 Jahre;2024;3301;Anzahl
+b-alter;Münster;Grünflächenamt;676;Jungbaum 0-15 Jahre;2025;8485;Anzahl
+b-alter;Münster;Grünflächenamt;676;Heranwachsend 16-40 Jahre;2025;62299;Anzahl
+b-alter;Münster;Grünflächenamt;676;Heranwachsend 41-60 Jahre;2025;33799;Anzahl
+b-alter;Münster;Grünflächenamt;676;Altbaum 61-80 Jahre;2025;11992;Anzahl
+b-alter;Münster;Grünflächenamt;676;Altbaum 81-100 Jahre;2025;5237;Anzahl
+b-alter;Münster;Grünflächenamt;676;Altbaum über 100 Jahre;2025;3510;Anzahl
+b-alter;Münster;Grünflächenamt;676;Jungbaum 0-15 Jahre;2026;7650;Anzahl
+b-alter;Münster;Grünflächenamt;676;Heranwachsend 16-40 Jahre;2026;61152;Anzahl
+b-alter;Münster;Grünflächenamt;676;Heranwachsend 41-60 Jahre;2026;35125;Anzahl
+b-alter;Münster;Grünflächenamt;676;Altbaum 61-80 Jahre;2026;12245;Anzahl
+b-alter;Münster;Grünflächenamt;676;Altbaum 81-100 Jahre;2026;5486;Anzahl
+b-alter;Münster;Grünflächenamt;676;Altbaum über 100 Jahre;2026;3726;Anzahl
+b-anzahl-baeume;Münster;Grünflächenamt;677;Gesamtanzahl Bäume;2020;123775;Anzahl
+b-anzahl-baeume;Münster;Grünflächenamt;677;Gesamtanzahl Bäume;2021;124773;Anzahl
+b-anzahl-baeume;Münster;Grünflächenamt;677;Gesamtanzahl Bäume;2022;124980;Anzahl
+b-anzahl-baeume;Münster;Grünflächenamt;677;Gesamtanzahl Bäume;2023;125046;Anzahl
+b-anzahl-baeume;Münster;Grünflächenamt;677;Gesamtanzahl Bäume;2024;125184;Anzahl
+b-anzahl-baeume;Münster;Grünflächenamt;677;Gesamtanzahl Bäume;2025;125322;Anzahl
+b-anzahl-baeume;Münster;Grünflächenamt;677;Gesamtanzahl Bäume;2026;125384;Anzahl

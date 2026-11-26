@@ -116,56 +116,15 @@ gdf = gdf_orig.drop(ausreisser.index)
 # In[ ]:
 
 
-import pandas as pd
-import numpy as np
-
-def add_labels(plt, x, y):
-    for i in range(len(x)):
-        plt.text(i, y[i] // 2, y[i], ha='center')  # Placing text slightly above the bar
-        
-current_year = pd.Timestamp.now().year
-
-birth_year = pd.to_numeric(gdf["pflanzjahr"], errors="coerce")
-birth_year = birth_year[birth_year.between(1800, current_year)]
-
-ages = current_year - birth_year
-max_age = int(ages.max())
-if max_age <= 100:
-    bins = [0, 15, 40, 60, 80, 100]
-else:
-    bins = [0, 15, 40, 60, 80, 100, max_age + 1]
-
-names = [
-  "Jungbaum 0-15 Jahre",
-  "Heranwachsend 16-40 Jahre",
-  "Heranwachsend 41-60 Jahre",
-  "Altbaum 61-80 Jahre",
-  "Altbaum 81-100 Jahre",
-  "Altbaum über 100 Jahre"
+ALTERSGRENZEN = [0, 15, 40, 60, 80, 100, np.inf]
+ALTERSKLASSEN = [
+    "Jungbaum 0-15 Jahre",
+    "Heranwachsend 16-40 Jahre",
+    "Heranwachsend 41-60 Jahre",
+    "Altbaum 61-80 Jahre",
+    "Altbaum 81-100 Jahre",
+    "Altbaum über 100 Jahre",
 ]
-age_categories = pd.cut(ages, bins=bins, right=False, include_lowest=True)
-age_counts = age_categories.value_counts().sort_index()
-
-age_pd = pd.DataFrame(age_counts)
-print(age_pd.columns)
-
-age_pd.reset_index(inplace=True)
-age_pd.columns = ["Alter in Jahren", "Anzahl Bäume"]
-age_pd["Alter in Jahren"] = age_pd["Alter in Jahren"].apply(lambda x:  f">{int(x.left)}")
-age_pd["Altersklasse"] = names[:len(age_pd)]
-print(age_pd)
-
-fig, ax = plt.subplots(figsize=(5, 5))
-
-# show column "Alter in Jahren" as y-axis and "Anzahl Bäume" as x-axis
-age_pd.plot(kind="barh", ax=ax, y="Anzahl Bäume", x="Altersklasse", 
-            color=["lightgreen", "orange", "orange", "lightblue", "lightblue", "lightblue"])
-
-
-
-ax.set_ylabel("Alter in Jahren") 
-ax.set_xlabel("Anzahl Bäume")
-ax.set_title("Alter der Bäume (20-Jahres-Kategorien) aus Pflanzjahr")
 
 
 # # Berechnung der Werte fürs Klimadashboard
@@ -191,6 +150,7 @@ def co2_rate(alter):
     else:
         return 40
 
+gdf["pflanzjahr"] = pd.to_numeric(gdf["pflanzjahr"], errors="coerce")
 gdf["alter"] = CURRENT_YEAR - gdf["pflanzjahr"]
 pflanzungen = {}
 
@@ -222,6 +182,13 @@ def berechne_jahr(df, jahr):
     # Bäume, die damals noch nicht gepflanzt waren, ausblenden
     temp = temp[temp["alter"] >= 0]
 
+    # Nur plausible Pflanzjahre für Altersklassen und Gesamtzahl berücksichtigen.
+    alter_mit_pflanzjahr = temp.loc[temp["pflanzjahr"] >= 1800, "alter"]
+    altersverteilung = pd.cut(
+        alter_mit_pflanzjahr, bins=ALTERSGRENZEN, labels=ALTERSKLASSEN,
+        include_lowest=True,
+    ).value_counts(sort=False)
+
     # Altersgruppen erstellen
     temp["gruppe"] = temp["alter"].apply(altersgruppe)
 
@@ -250,19 +217,20 @@ def berechne_jahr(df, jahr):
     temp_df = addFieldsToDataFrame(temp_df, "kuehlleistung_kwh")
     # TODO - Anzahl der Fällungen => hier gibt es noch eine Datenlieferung von 67
     # TODO: Pflanzungen pro Jahr => Alle Bäume mit Alter 0; #TODO diese Daten müssen noch richtig in die Tabelle pro Jahr (unabhängig von der Altersgruppe)
-    pflanzungen[jahr] = (gdf["pflanzjahr"] == jahr).sum()
-    print("Anzahl Pflanzungen im Jahr ", jahr, ": ",pflanzungen[jahr])
-    return temp_df
+    pflanzungen[jahr] = (temp["alter"] == 0).sum()
+    print(f"Anzahl Pflanzungen im Jahr {jahr}: {pflanzungen[jahr]}")
+    return temp_df, altersverteilung
 
 startjahr = 2020
 endjahr = CURRENT_YEAR
 
 alle = []
+altersverteilungen = {}
 
 for jahr in range(startjahr, endjahr + 1):
-    t = berechne_jahr(gdf, jahr)
-    t["jahr"] = jahr
-    alle.append(t)
+    jahreswerte, altersverteilungen[jahr] = berechne_jahr(gdf, jahr)
+    jahreswerte["jahr"] = jahr
+    alle.append(jahreswerte)
 
 # Dataframe erstellen
 slider_df = pd.concat(alle, ignore_index=True)
@@ -282,6 +250,16 @@ slider_df
 
 # In[ ]:
 
+
+altersverteilungen[CURRENT_YEAR].plot(
+    kind="barh",
+    figsize=(5, 5),
+    color=["lightgreen", "orange", "orange", "lightblue", "lightblue", "lightblue"],
+    xlabel="Anzahl Bäume",
+    ylabel="Altersklasse",
+    title=f"Alter der Bäume im Jahr {CURRENT_YEAR}",
+)
+plt.tight_layout()
 
 def plot_stacked_bar(df, MYVAL):
     pivot_plot = df.pivot(index="jahr", columns="gruppe", values=MYVAL)
@@ -356,16 +334,29 @@ for pfl in pflanzungen:
         "WERTEEINHEIT": "Anzahl"
     })
 
-for index, row in age_pd.iterrows():
+for jahr, altersverteilung in altersverteilungen.items():
+    for altersklasse, anzahl in altersverteilung.items():
+        output_df.append({
+            "DATEINAME": "b-alter",
+            "RAUM": "Münster",
+            "QUELLE_INSTITUTION": "Grünflächenamt",
+            "THEMENBEREICH": themenbereich + 2,
+            "MERKMAL": altersklasse,
+            "ZEIT": jahr,
+            "WERT": int(anzahl),
+            "WERTEEINHEIT": "Anzahl",
+        })
+
+for jahr, altersverteilung in altersverteilungen.items():
     output_df.append({
-        "DATEINAME": "b-alter",
+        "DATEINAME": "b-anzahl-baeume",
         "RAUM": "Münster",
         "QUELLE_INSTITUTION": "Grünflächenamt",
-        "THEMENBEREICH": themenbereich + 2,
-        "MERKMAL": row["Altersklasse"],
-        "ZEIT": CURRENT_YEAR,
-        "WERT": int(row["Anzahl Bäume"]),
-        "WERTEEINHEIT": "Anzahl"
+        "THEMENBEREICH": themenbereich + 3,
+        "MERKMAL": "Gesamtanzahl Bäume",
+        "ZEIT": jahr,
+        "WERT": int(altersverteilung.sum()),
+        "WERTEEINHEIT": "Anzahl",
     })
 
 output_dfdf = pd.DataFrame(output_df)
