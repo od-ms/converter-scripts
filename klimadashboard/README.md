@@ -24,7 +24,7 @@ Vorschau: https://klimadashboard.ms/share/climate-trees
 ```bash 
 # Einheiten
   Kronenschirmfläche
-  [Zahl] km²
+  [Zahl] ha
 
   Kühlleistung pro Jahr
   [Zahl] kWh
@@ -36,9 +36,9 @@ Vorschau: https://klimadashboard.ms/share/climate-trees
   [Zahl] t
 
 # Alter der Bäume, erstes Intervall: 0-15 (nicht 1 bis 20)
-    1 mal jung
-    2 mal mittel (bis 60)
-    3 mal alt
-    [0, 15, 40, 60, 80, 100]
+    1 mal jung (0-15)
+    2 mal mittel (16 bis 40, 41 bis 60)
+    3 mal alt (61 bis 80, 81 bis 100, älter als 100)
+    [0, 15, 40, 60, 80, 100)
 ```
  
